@@ -1,0 +1,20 @@
+{
+  "id": "graph",
+  "topics": [
+    "data_structures"
+  ],
+  "translations": {
+    "en": {
+      "term": "Graph",
+      "definition": "A data structure made up of nodes (vertices) connected by edges; can be used to model networks and relationships."
+    },
+    "pl": {
+      "term": "Graf",
+      "definition": "Struktura danych złożona z węzłów (wierzchołków) połączonych krawędziami; może być używana do modelowania sieci i relacji."
+    },
+    "cy": {
+      "term": "Graff",
+      "definition": "Strwythur data wedi'i wneud o nodau (fertigau) wedi'u cysylltu gan ymylon; gellir ei ddefnyddio i fodelu rhwydweithiau a pherthnasoedd."
+    }
+  }
+}

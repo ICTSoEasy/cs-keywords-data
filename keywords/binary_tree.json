@@ -1,0 +1,20 @@
+{
+  "id": "binary_tree",
+  "topics": [
+    "data_structures"
+  ],
+  "translations": {
+    "en": {
+      "term": "Binary Tree",
+      "definition": "A tree where each node has at most two children, referred to as the left and right child."
+    },
+    "pl": {
+      "term": "Drzewo binarne",
+      "definition": "Drzewo, w którym każdy węzeł ma co najwyżej dwoje dzieci, zwanych lewym i prawym dzieckiem."
+    },
+    "cy": {
+      "term": "Coeden Ddeuaidd",
+      "definition": "Coeden lle mae gan bob nod o leiaf ddau blentyn, a elwir yn blentyn chwith a phlentyn de."
+    }
+  }
+}

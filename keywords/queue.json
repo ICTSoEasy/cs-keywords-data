@@ -1,0 +1,20 @@
+{
+  "id": "queue",
+  "topics": [
+    "data_structures"
+  ],
+  "translations": {
+    "en": {
+      "term": "Queue",
+      "definition": "A data structure where items are added at one end and removed from the other, following a first-in, first-out (FIFO) order."
+    },
+    "pl": {
+      "term": "Kolejka",
+      "definition": "Struktura danych, w której elementy są dodawane na jednym końcu i usuwane z drugiego, zgodnie z kolejnością pierwszy na wejściu, pierwszy na wyjściu (FIFO)."
+    },
+    "cy": {
+      "term": "Ciw",
+      "definition": "Strwythur data lle ychwanegir eitemau ar un pen a'u tynnu o'r llall, yn dilyn trefn cyntaf i mewn, cyntaf allan (FIFO)."
+    }
+  }
+}

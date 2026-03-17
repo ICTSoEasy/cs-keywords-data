@@ -1,0 +1,21 @@
+{
+  "id": "pointer",
+  "topics": [
+    "data_structures",
+    "programming"
+  ],
+  "translations": {
+    "en": {
+      "term": "Pointer",
+      "definition": "A variable that stores the memory address of another variable or data structure."
+    },
+    "pl": {
+      "term": "Wskaźnik",
+      "definition": "Zmienna przechowująca adres pamięci innej zmiennej lub struktury danych."
+    },
+    "cy": {
+      "term": "Pwyntydd",
+      "definition": "Newidyn sy'n storio cyfeiriad cof newidyn neu strwythur data arall."
+    }
+  }
+}

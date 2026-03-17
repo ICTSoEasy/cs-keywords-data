@@ -1,0 +1,20 @@
+{
+  "id": "linked_list",
+  "topics": [
+    "data_structures"
+  ],
+  "translations": {
+    "en": {
+      "term": "Linked List",
+      "definition": "A data structure made up of nodes, where each node stores a value and a pointer to the next node in the sequence."
+    },
+    "pl": {
+      "term": "Lista powiązana",
+      "definition": "Struktura danych złożona z węzłów, gdzie każdy węzeł przechowuje wartość i wskaźnik do następnego węzła w sekwencji."
+    },
+    "cy": {
+      "term": "Rhestr Gysylltiedig",
+      "definition": "Strwythur data wedi'i wneud o nodau, lle mae pob nod yn storio gwerth a phwyntydd i'r nod nesaf yn y dilyniant."
+    }
+  }
+}

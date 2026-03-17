@@ -1,0 +1,20 @@
+{
+  "id": "hash_table",
+  "topics": [
+    "data_structures"
+  ],
+  "translations": {
+    "en": {
+      "term": "Hash Table",
+      "definition": "A data structure that stores key-value pairs, using a hash function to quickly find where each value is stored."
+    },
+    "pl": {
+      "term": "Tablica mieszająca",
+      "definition": "Struktura danych przechowująca pary klucz-wartość, używająca funkcji skrótu do szybkiego znajdowania miejsca przechowywania każdej wartości."
+    },
+    "cy": {
+      "term": "Tabl Hash",
+      "definition": "Strwythur data sy'n storio parau allwedd-gwerth, gan ddefnyddio ffwythiant hash i ddod o hyd yn gyflym i ble mae pob gwerth wedi'i storio."
+    }
+  }
+}
