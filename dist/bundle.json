@@ -259,6 +259,26 @@
       }
     },
     {
+      "id": "application",
+      "topics": [
+        "software"
+      ],
+      "translations": {
+        "en": {
+          "term": "Application",
+          "definition": "A program designed to help users perform a specific task, such as a word processor or web browser."
+        },
+        "pl": {
+          "term": "Aplikacja",
+          "definition": "Program zaprojektowany, aby pomóc użytkownikom wykonać określone zadanie, np. edytor tekstu lub przeglądarka internetowa."
+        },
+        "cy": {
+          "term": "Cymhwysiad",
+          "definition": "Rhaglen wedi'i chynllunio i helpu defnyddwyr i gyflawni tasg benodol, fel prosesydd geiriau neu borwr gwe."
+        }
+      }
+    },
+    {
       "id": "array",
       "translations": {
         "en": {
@@ -419,6 +439,26 @@
       }
     },
     {
+      "id": "cache",
+      "topics": [
+        "hardware"
+      ],
+      "translations": {
+        "en": {
+          "term": "Cache",
+          "definition": "A small, very fast type of memory located close to the CPU to speed up processing."
+        },
+        "pl": {
+          "term": "Pamięć podręczna",
+          "definition": "Mały, bardzo szybki rodzaj pamięci umieszczony blisko procesora, przyspieszający przetwarzanie."
+        },
+        "cy": {
+          "term": "Storfa Gyflym",
+          "definition": "Math bach, cyflym iawn o gof wedi'i leoli yn agos at y CPU i gyflymu prosesu."
+        }
+      }
+    },
+    {
       "id": "casting",
       "topics": [
         "programming"
@@ -435,6 +475,46 @@
         "cy": {
           "term": "Castio",
           "definition": "Trosi gwerth o un math data i un arall, er enghraifft troi llinyn yn gyfanrif."
+        }
+      }
+    },
+    {
+      "id": "clock_speed",
+      "topics": [
+        "hardware"
+      ],
+      "translations": {
+        "en": {
+          "term": "Clock Speed",
+          "definition": "The number of instruction cycles a CPU can perform per second, measured in GHz."
+        },
+        "pl": {
+          "term": "Częstotliwość taktowania",
+          "definition": "Liczba cykli instrukcji, które procesor może wykonać na sekundę, mierzona w GHz."
+        },
+        "cy": {
+          "term": "Cyflymder Cloc",
+          "definition": "Nifer y cylchoedd cyfarwyddiadau y gall CPU eu perfformio yr eiliad, wedi'i fesur mewn GHz."
+        }
+      }
+    },
+    {
+      "id": "compiler",
+      "topics": [
+        "software"
+      ],
+      "translations": {
+        "en": {
+          "term": "Compiler",
+          "definition": "A program that translates an entire high-level language program into machine code before it runs."
+        },
+        "pl": {
+          "term": "Kompilator",
+          "definition": "Program tłumaczący cały program napisany w języku wysokiego poziomu na kod maszynowy przed jego uruchomieniem."
+        },
+        "cy": {
+          "term": "Casglwr",
+          "definition": "Rhaglen sy'n cyfieithu rhaglen iaith lefel uchel gyfan i god peiriant cyn iddi redeg."
         }
       }
     },
@@ -496,6 +576,26 @@
         "cy": {
           "term": "Cysonyn",
           "definition": "Gwerth a enwir sy'n cael ei osod unwaith ac na all newid tra bo'r rhaglen yn rhedeg."
+        }
+      }
+    },
+    {
+      "id": "cpu",
+      "topics": [
+        "hardware"
+      ],
+      "translations": {
+        "en": {
+          "term": "CPU",
+          "definition": "The Central Processing Unit; the main chip that carries out instructions in a computer."
+        },
+        "pl": {
+          "term": "Procesor (CPU)",
+          "definition": "Centralna jednostka przetwarzająca; główny chip wykonujący instrukcje w komputerze."
+        },
+        "cy": {
+          "term": "CPU",
+          "definition": "Yr Uned Brosesu Ganolog; y prif sglodyn sy'n cyflawni cyfarwyddiadau mewn cyfrifiadur."
         }
       }
     },
@@ -622,6 +722,26 @@
       ]
     },
     {
+      "id": "fetch_decode_execute",
+      "topics": [
+        "hardware"
+      ],
+      "translations": {
+        "en": {
+          "term": "Fetch-Decode-Execute Cycle",
+          "definition": "The process a CPU repeats continuously: fetching an instruction from memory, decoding it, then executing it."
+        },
+        "pl": {
+          "term": "Cykl pobierz-dekoduj-wykonaj",
+          "definition": "Proces, który procesor powtarza ciągle: pobieranie instrukcji z pamięci, dekodowanie jej, a następnie wykonanie."
+        },
+        "cy": {
+          "term": "Cylch Nôl-Dadgodio-Gweithredu",
+          "definition": "Y broses y mae CPU yn ei hailadrodd yn barhaus: nôl cyfarwyddiad o'r cof, ei ddadgodio, yna ei weithredu."
+        }
+      }
+    },
+    {
       "id": "firewall",
       "translations": {
         "en": {
@@ -682,6 +802,26 @@
       }
     },
     {
+      "id": "gpu",
+      "topics": [
+        "hardware"
+      ],
+      "translations": {
+        "en": {
+          "term": "GPU",
+          "definition": "The Graphics Processing Unit; a chip designed to handle images, video and 3D graphics."
+        },
+        "pl": {
+          "term": "GPU",
+          "definition": "Procesor graficzny; chip zaprojektowany do obsługi obrazów, wideo i grafiki 3D."
+        },
+        "cy": {
+          "term": "GPU",
+          "definition": "Yr Uned Brosesu Graffeg; sglodyn wedi'i gynllunio i drin delweddau, fideo a graffeg 3D."
+        }
+      }
+    },
+    {
       "id": "hexadecimal",
       "topics": [
         "data_representation"
@@ -702,6 +842,27 @@
       }
     },
     {
+      "id": "high_level_language",
+      "topics": [
+        "software",
+        "programming"
+      ],
+      "translations": {
+        "en": {
+          "term": "High-Level Language",
+          "definition": "A programming language that uses human-readable syntax and is independent of the hardware it runs on."
+        },
+        "pl": {
+          "term": "Język wysokiego poziomu",
+          "definition": "Język programowania używający składni czytelnej dla człowieka, niezależny od sprzętu, na którym działa."
+        },
+        "cy": {
+          "term": "Iaith Lefel Uchel",
+          "definition": "Iaith raglennu sy'n defnyddio cystrawen ddarllenadwy i bobl ac sy'n annibynnol ar y caledwedd y mae'n rhedeg arno."
+        }
+      }
+    },
+    {
       "id": "input",
       "topics": [
         "programming"
@@ -718,6 +879,46 @@
         "cy": {
           "term": "Mewnbwn",
           "definition": "Data a gofnodir i mewn i raglen gan ddefnyddiwr neu system arall."
+        }
+      }
+    },
+    {
+      "id": "input_device",
+      "topics": [
+        "hardware"
+      ],
+      "translations": {
+        "en": {
+          "term": "Input Device",
+          "definition": "Hardware used to send data into a computer, such as a keyboard or mouse."
+        },
+        "pl": {
+          "term": "Urządzenie wejściowe",
+          "definition": "Sprzęt służący do wprowadzania danych do komputera, np. klawiatura lub mysz."
+        },
+        "cy": {
+          "term": "Dyfais Fewnbwn",
+          "definition": "Caledwedd a ddefnyddir i anfon data i mewn i gyfrifiadur, fel bysellfwrdd neu lygoden."
+        }
+      }
+    },
+    {
+      "id": "interpreter",
+      "topics": [
+        "software"
+      ],
+      "translations": {
+        "en": {
+          "term": "Interpreter",
+          "definition": "A program that translates and runs a high-level language program one line at a time."
+        },
+        "pl": {
+          "term": "Interpreter",
+          "definition": "Program, który tłumaczy i uruchamia program w języku wysokiego poziomu linijka po linijce."
+        },
+        "cy": {
+          "term": "Dehonglydd",
+          "definition": "Rhaglen sy'n cyfieithu ac yn rhedeg rhaglen iaith lefel uchel un llinell ar y tro."
         }
       }
     },
@@ -842,6 +1043,48 @@
       }
     },
     {
+      "id": "low_level_language",
+      "topics": [
+        "software",
+        "programming"
+      ],
+      "translations": {
+        "en": {
+          "term": "Low-Level Language",
+          "definition": "A programming language that is closely tied to a specific processor's instruction set, such as assembly language."
+        },
+        "pl": {
+          "term": "Język niskiego poziomu",
+          "definition": "Język programowania ściśle powiązany z zestawem instrukcji konkretnego procesora, np. język asemblera."
+        },
+        "cy": {
+          "term": "Iaith Lefel Isel",
+          "definition": "Iaith raglennu sydd wedi'i chysylltu'n agos â set gyfarwyddiadau prosesydd penodol, fel iaith gynulliad."
+        }
+      }
+    },
+    {
+      "id": "machine_code",
+      "topics": [
+        "software",
+        "hardware"
+      ],
+      "translations": {
+        "en": {
+          "term": "Machine Code",
+          "definition": "Instructions written in binary that a CPU can directly understand and execute."
+        },
+        "pl": {
+          "term": "Kod maszynowy",
+          "definition": "Instrukcje zapisane binarnie, które procesor może bezpośrednio zrozumieć i wykonać."
+        },
+        "cy": {
+          "term": "Cod Peiriant",
+          "definition": "Cyfarwyddiadau wedi'u hysgrifennu mewn deuaidd y gall CPU eu deall a'u gweithredu yn uniongyrchol."
+        }
+      }
+    },
+    {
       "id": "malware",
       "translations": {
         "en": {
@@ -860,6 +1103,67 @@
       "topics": [
         "security"
       ]
+    },
+    {
+      "id": "motherboard",
+      "topics": [
+        "hardware"
+      ],
+      "translations": {
+        "en": {
+          "term": "Motherboard",
+          "definition": "The main circuit board that connects all the components of a computer together."
+        },
+        "pl": {
+          "term": "Płyta główna",
+          "definition": "Główna płyta obwodów drukowanych, która łączy wszystkie komponenty komputera."
+        },
+        "cy": {
+          "term": "Prif Fwrdd",
+          "definition": "Y brif fwrdd cylched sy'n cysylltu holl gydrannau cyfrifiadur â'i gilydd."
+        }
+      }
+    },
+    {
+      "id": "open_source",
+      "topics": [
+        "software",
+        "ethics"
+      ],
+      "translations": {
+        "en": {
+          "term": "Open Source",
+          "definition": "Software whose source code is freely available for anyone to view, use, modify and share."
+        },
+        "pl": {
+          "term": "Oprogramowanie open source",
+          "definition": "Oprogramowanie, którego kod źródłowy jest dostępny dla każdego do przeglądania, używania, modyfikowania i udostępniania."
+        },
+        "cy": {
+          "term": "Cod Agored",
+          "definition": "Meddalwedd y mae ei god ffynhonnell ar gael yn rhydd i unrhyw un ei weld, ei ddefnyddio, ei addasu a'i rannu."
+        }
+      }
+    },
+    {
+      "id": "operating_system",
+      "topics": [
+        "software"
+      ],
+      "translations": {
+        "en": {
+          "term": "Operating System",
+          "definition": "Software that manages a computer's hardware and provides services for other programs to run."
+        },
+        "pl": {
+          "term": "System operacyjny",
+          "definition": "Oprogramowanie zarządzające sprzętem komputera i zapewniające usługi umożliwiające działanie innych programów."
+        },
+        "cy": {
+          "term": "System Weithredu",
+          "definition": "Meddalwedd sy'n rheoli caledwedd cyfrifiadur ac yn darparu gwasanaethau i raglenni eraill redeg."
+        }
+      }
     },
     {
       "id": "operator",
@@ -898,6 +1202,26 @@
         "cy": {
           "term": "Allbwn",
           "definition": "Gwybodaeth a gynhyrchir gan raglen, fel testun a arddangosir ar y sgrin."
+        }
+      }
+    },
+    {
+      "id": "output_device",
+      "topics": [
+        "hardware"
+      ],
+      "translations": {
+        "en": {
+          "term": "Output Device",
+          "definition": "Hardware used to receive data from a computer, such as a monitor or printer."
+        },
+        "pl": {
+          "term": "Urządzenie wyjściowe",
+          "definition": "Sprzęt służący do odbierania danych z komputera, np. monitor lub drukarka."
+        },
+        "cy": {
+          "term": "Dyfais Allbwn",
+          "definition": "Caledwedd a ddefnyddir i dderbyn data o gyfrifiadur, fel monitor neu argraffydd."
         }
       }
     },
@@ -1022,6 +1346,27 @@
       ]
     },
     {
+      "id": "proprietary",
+      "topics": [
+        "software",
+        "ethics"
+      ],
+      "translations": {
+        "en": {
+          "term": "Proprietary Software",
+          "definition": "Software that is owned by a company; users cannot view or modify the source code and must agree to a licence."
+        },
+        "pl": {
+          "term": "Oprogramowanie własnościowe",
+          "definition": "Oprogramowanie będące własnością firmy; użytkownicy nie mogą przeglądać ani modyfikować kodu źródłowego i muszą zaakceptować licencję."
+        },
+        "cy": {
+          "term": "Meddalwedd Perchnogol",
+          "definition": "Meddalwedd sydd dan berchnogaeth cwmni; ni all defnyddwyr weld na newid y cod ffynhonnell a rhaid cytuno i drwydded."
+        }
+      }
+    },
+    {
       "id": "protocol",
       "translations": {
         "en": {
@@ -1060,6 +1405,26 @@
       "topics": [
         "data"
       ]
+    },
+    {
+      "id": "ram",
+      "topics": [
+        "hardware"
+      ],
+      "translations": {
+        "en": {
+          "term": "RAM",
+          "definition": "Random Access Memory; temporary storage that holds data the CPU is currently using."
+        },
+        "pl": {
+          "term": "RAM",
+          "definition": "Pamięć o swobodnym dostępie; tymczasowy magazyn danych aktualnie używanych przez procesor."
+        },
+        "cy": {
+          "term": "RAM",
+          "definition": "Cof Mynediad ar Hap; storfa dros dro sy'n dal data y mae'r CPU yn ei ddefnyddio ar hyn o bryd."
+        }
+      }
     },
     {
       "id": "record",
@@ -1118,6 +1483,26 @@
         "cy": {
           "term": "Gwerth Dychwelyd",
           "definition": "Y data mae ffwythiant yn ei anfon yn ôl ar ôl iddo orffen rhedeg."
+        }
+      }
+    },
+    {
+      "id": "rom",
+      "topics": [
+        "hardware"
+      ],
+      "translations": {
+        "en": {
+          "term": "ROM",
+          "definition": "Read-Only Memory; permanent storage containing instructions the computer needs to start up."
+        },
+        "pl": {
+          "term": "ROM",
+          "definition": "Pamięć tylko do odczytu; trwały magazyn zawierający instrukcje potrzebne komputerowi do uruchomienia."
+        },
+        "cy": {
+          "term": "ROM",
+          "definition": "Cof Darllen yn Unig; storfa barhaol sy'n cynnwys cyfarwyddiadau sydd eu hangen ar y cyfrifiadur i gychwyn."
         }
       }
     },
@@ -1182,6 +1567,26 @@
       ]
     },
     {
+      "id": "storage",
+      "topics": [
+        "hardware"
+      ],
+      "translations": {
+        "en": {
+          "term": "Storage",
+          "definition": "Devices used to permanently save data, such as hard drives, SSDs or USB drives."
+        },
+        "pl": {
+          "term": "Pamięć masowa",
+          "definition": "Urządzenia służące do trwałego zapisywania danych, np. dyski twarde, dyski SSD lub pendrive'y."
+        },
+        "cy": {
+          "term": "Storfa",
+          "definition": "Dyfeisiau a ddefnyddir i gadw data yn barhaol, fel gyriannau caled, SSDau neu yrwyr USB."
+        }
+      }
+    },
+    {
       "id": "string",
       "translations": {
         "en": {
@@ -1242,6 +1647,26 @@
       }
     },
     {
+      "id": "utility",
+      "topics": [
+        "software"
+      ],
+      "translations": {
+        "en": {
+          "term": "Utility Software",
+          "definition": "Software that helps maintain, manage or protect a computer system, such as antivirus or disk cleanup tools."
+        },
+        "pl": {
+          "term": "Oprogramowanie narzędziowe",
+          "definition": "Oprogramowanie pomagające utrzymać, zarządzać lub chronić system komputerowy, np. programy antywirusowe lub do czyszczenia dysku."
+        },
+        "cy": {
+          "term": "Meddalwedd Cyfleustod",
+          "definition": "Meddalwedd sy'n helpu cynnal, rheoli neu amddiffyn system gyfrifiadurol, fel offer gwrth-feirws neu lanhau disg."
+        }
+      }
+    },
+    {
       "id": "variable",
       "translations": {
         "en": {
@@ -1260,6 +1685,26 @@
       "topics": [
         "programming"
       ]
+    },
+    {
+      "id": "von_neumann",
+      "topics": [
+        "hardware"
+      ],
+      "translations": {
+        "en": {
+          "term": "Von Neumann Architecture",
+          "definition": "A computer design model where the CPU, memory and input/output share a single data pathway called the bus."
+        },
+        "pl": {
+          "term": "Architektura von Neumanna",
+          "definition": "Model budowy komputera, w którym procesor, pamięć i wejście/wyjście współdzielą jedną ścieżkę danych zwaną magistralą."
+        },
+        "cy": {
+          "term": "Pensaernïaeth Von Neumann",
+          "definition": "Model dylunio cyfrifiadur lle mae'r CPU, y cof a mewnbwn/allbwn yn rhannu un llwybr data o'r enw'r bws."
+        }
+      }
     }
   ]
 }
