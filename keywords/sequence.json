@@ -1,6 +1,5 @@
 {
   "id": "sequence",
-  "topic": "algorithms",
   "translations": {
     "en": {
       "term": "Sequence",
@@ -14,5 +13,8 @@
       "term": "Dilyniant",
       "definition": "Cyfarwyddiadau sy'n cael eu cyflawni un ar ôl y llall, mewn trefn."
     }
-  }
+  },
+  "topics": [
+    "algorithms"
+  ]
 }

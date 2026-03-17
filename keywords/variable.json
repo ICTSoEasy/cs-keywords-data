@@ -1,6 +1,5 @@
 {
   "id": "variable",
-  "topic": "programming",
   "translations": {
     "en": {
       "term": "Variable",
@@ -14,5 +13,8 @@
       "term": "Newidyn",
       "definition": "Lle o'r enw mewn cof cyfrifiadur lle mae gwerth yn cael ei storio. Gall y gwerth newid tra mae'r rhaglen yn rhedeg."
     }
-  }
+  },
+  "topics": [
+    "programming"
+  ]
 }

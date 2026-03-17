@@ -1,6 +1,5 @@
 {
   "id": "query",
-  "topic": "data",
   "translations": {
     "en": {
       "term": "Query",
@@ -14,5 +13,8 @@
       "term": "Ymholiad",
       "definition": "Cwestiwn neu gais a anfonir at gronfa ddata i ddod o hyd i, ychwanegu, diweddaru neu ddileu data penodol."
     }
-  }
+  },
+  "topics": [
+    "data"
+  ]
 }

@@ -1,0 +1,20 @@
+{
+  "id": "logical_reasoning",
+  "topics": [
+    "computational_thinking"
+  ],
+  "translations": {
+    "en": {
+      "term": "Logical Reasoning",
+      "definition": "Using clear, step-by-step thinking to work through a problem and reach a conclusion."
+    },
+    "pl": {
+      "term": "Rozumowanie logiczne",
+      "definition": "Używanie jasnego, krok po kroku myślenia do rozwiązywania problemu i wyciągania wniosków."
+    },
+    "cy": {
+      "term": "Rhesymu Rhesymegol",
+      "definition": "Defnyddio meddwl clir, cam-wrth-gam i weithio drwy broblem a chyrraedd casgliad."
+    }
+  }
+}

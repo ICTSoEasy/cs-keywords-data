@@ -1,6 +1,5 @@
 {
   "id": "table",
-  "topic": "data",
   "translations": {
     "en": {
       "term": "Table",
@@ -14,5 +13,8 @@
       "term": "Tabl",
       "definition": "Mewn cronfa ddata, mae data wedi'i drefnu mewn rhesi a cholofnau — gelwir y strwythur hwn yn dabl."
     }
-  }
+  },
+  "topics": [
+    "data"
+  ]
 }

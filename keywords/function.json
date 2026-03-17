@@ -1,6 +1,5 @@
 {
   "id": "function",
-  "topic": "programming",
   "translations": {
     "en": {
       "term": "Function",
@@ -14,5 +13,8 @@
       "term": "Ffwythiant",
       "definition": "Bloc o god y gellir ei ailddefnyddio sy'n gwneud swydd benodol. Gallwch ei alw wrth ei enw pryd bynnag y bydd ei angen."
     }
-  }
+  },
+  "topics": [
+    "programming"
+  ]
 }

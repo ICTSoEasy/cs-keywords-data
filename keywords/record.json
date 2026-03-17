@@ -1,6 +1,5 @@
 {
   "id": "record",
-  "topic": "data",
   "translations": {
     "en": {
       "term": "Record",
@@ -14,5 +13,8 @@
       "term": "Cofnod",
       "definition": "Un rhes mewn tabl cronfa ddata, sy'n cynrychioli un eitem (e.e. un myfyriwr, un cynnyrch)."
     }
-  }
+  },
+  "topics": [
+    "data"
+  ]
 }

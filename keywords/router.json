@@ -1,6 +1,5 @@
 {
   "id": "router",
-  "topic": "networking",
   "translations": {
     "en": {
       "term": "Router",
@@ -14,5 +13,8 @@
       "term": "Llwybrydd",
       "definition": "Dyfais sy'n cyfeirio traffig y rhyngrwyd rhwng rhwydweithiau, yn anfon data i'r lle cywir."
     }
-  }
+  },
+  "topics": [
+    "networking"
+  ]
 }

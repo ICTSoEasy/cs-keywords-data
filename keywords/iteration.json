@@ -1,6 +1,5 @@
 {
   "id": "iteration",
-  "topic": "algorithms",
   "translations": {
     "en": {
       "term": "Iteration",
@@ -14,5 +13,8 @@
       "term": "Ailadrodd",
       "definition": "Ailadrodd set o gyfarwyddiadau nifer o weithiau neu nes i amod gael ei fodloni. Gelwir hefyd yn ddolen."
     }
-  }
+  },
+  "topics": [
+    "algorithms"
+  ]
 }

@@ -1,0 +1,21 @@
+{
+  "id": "debugging",
+  "topics": [
+    "computational_thinking",
+    "programming"
+  ],
+  "translations": {
+    "en": {
+      "term": "Debugging",
+      "definition": "The process of finding and fixing errors in an algorithm or program."
+    },
+    "pl": {
+      "term": "Debugowanie",
+      "definition": "Proces znajdowania i naprawiania błędów w algorytmie lub programie."
+    },
+    "cy": {
+      "term": "Dadfygio",
+      "definition": "Y broses o ddod o hyd i wallau mewn algorithm neu raglen a'u cywiro."
+    }
+  }
+}

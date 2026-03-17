@@ -1,6 +1,5 @@
 {
   "id": "boolean",
-  "topic": "programming",
   "translations": {
     "en": {
       "term": "Boolean",
@@ -14,5 +13,8 @@
       "term": "Boole",
       "definition": "Gwerth a all fod naill ai'n wir neu'n ffug yn unig. Fe'i defnyddir i wneud penderfyniadau mewn rhaglenni."
     }
-  }
+  },
+  "topics": [
+    "programming"
+  ]
 }

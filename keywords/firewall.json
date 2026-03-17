@@ -1,6 +1,5 @@
 {
   "id": "firewall",
-  "topic": "security",
   "translations": {
     "en": {
       "term": "Firewall",
@@ -14,5 +13,8 @@
       "term": "Mur Gwarchod",
       "definition": "System sy'n monitro ac yn rheoli traffig rhwydwaith i rwystro mynediad heb awdurdod i gyfrifiadur neu rwydwaith."
     }
-  }
+  },
+  "topics": [
+    "security"
+  ]
 }

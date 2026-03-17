@@ -1,0 +1,20 @@
+{
+  "id": "abstraction",
+  "topics": [
+    "computational_thinking"
+  ],
+  "translations": {
+    "en": {
+      "term": "Abstraction",
+      "definition": "Removing unnecessary detail to focus on what is important when solving a problem."
+    },
+    "pl": {
+      "term": "Abstrakcja",
+      "definition": "Usuwanie zbędnych szczegółów, aby skupić się na tym, co ważne przy rozwiązywaniu problemu."
+    },
+    "cy": {
+      "term": "Haniaethu",
+      "definition": "Tynnu manylion diangen er mwyn canolbwyntio ar yr hyn sy'n bwysig wrth ddatrys problem."
+    }
+  }
+}

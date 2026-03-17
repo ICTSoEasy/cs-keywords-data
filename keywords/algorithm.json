@@ -1,6 +1,5 @@
 {
   "id": "algorithm",
-  "topic": "algorithms",
   "translations": {
     "en": {
       "term": "Algorithm",
@@ -14,5 +13,8 @@
       "term": "Algorithm",
       "definition": "Set o gyfarwyddiadau cam-wrth-gam sy'n cael eu defnyddio i ddatrys problem neu gwblhau tasg."
     }
-  }
+  },
+  "topics": [
+    "algorithms"
+  ]
 }

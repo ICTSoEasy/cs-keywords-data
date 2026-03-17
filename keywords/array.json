@@ -1,6 +1,5 @@
 {
   "id": "array",
-  "topic": "programming",
   "translations": {
     "en": {
       "term": "Array",
@@ -14,5 +13,8 @@
       "term": "Arae",
       "definition": "Rhestr o werthoedd wedi'u storio gyda'i gilydd o dan un enw, y cyrchir atynt drwy eu rhif safle (mynegai)."
     }
-  }
+  },
+  "topics": [
+    "programming"
+  ]
 }

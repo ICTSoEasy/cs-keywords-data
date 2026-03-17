@@ -1,6 +1,5 @@
 {
   "id": "ip-address",
-  "topic": "networking",
   "translations": {
     "en": {
       "term": "IP Address",
@@ -14,5 +13,8 @@
       "term": "Cyfeiriad IP",
       "definition": "Rhif unigryw sy'n adnabod dyfais ar rwydwaith — fel cyfeiriad tŷ, ond i gyfrifiaduron."
     }
-  }
+  },
+  "topics": [
+    "networking"
+  ]
 }

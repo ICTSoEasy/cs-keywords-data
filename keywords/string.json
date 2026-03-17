@@ -1,6 +1,5 @@
 {
   "id": "string",
-  "topic": "programming",
   "translations": {
     "en": {
       "term": "String",
@@ -14,5 +13,8 @@
       "term": "Llinyn",
       "definition": "Darn o destun wedi'i storio mewn rhaglen, er enghraifft \"Helo, Byd!\"."
     }
-  }
+  },
+  "topics": [
+    "programming"
+  ]
 }

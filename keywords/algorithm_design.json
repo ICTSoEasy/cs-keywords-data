@@ -1,0 +1,20 @@
+{
+  "id": "algorithm_design",
+  "topics": [
+    "computational_thinking"
+  ],
+  "translations": {
+    "en": {
+      "term": "Algorithm Design",
+      "definition": "Planning the step-by-step solution to a problem before writing any code."
+    },
+    "pl": {
+      "term": "Projektowanie algorytmów",
+      "definition": "Planowanie rozwiązania krok po kroku przed napisaniem kodu."
+    },
+    "cy": {
+      "term": "Dylunio Algorithm",
+      "definition": "Cynllunio'r ateb cam-wrth-gam i broblem cyn ysgrifennu unrhyw god."
+    }
+  }
+}

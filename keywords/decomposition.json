@@ -1,6 +1,5 @@
 {
   "id": "decomposition",
-  "topic": "algorithms",
   "translations": {
     "en": {
       "term": "Decomposition",
@@ -14,5 +13,9 @@
       "term": "Dadelfennu",
       "definition": "Torri problem fawr yn rhannau llai, mwy hylaw."
     }
-  }
+  },
+  "topics": [
+    "algorithms",
+    "computational_thinking"
+  ]
 }

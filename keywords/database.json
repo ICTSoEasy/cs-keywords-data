@@ -1,6 +1,5 @@
 {
   "id": "database",
-  "topic": "data",
   "translations": {
     "en": {
       "term": "Database",
@@ -14,5 +13,8 @@
       "term": "Cronfa Ddata",
       "definition": "Casgliad trefnus o ddata wedi'i storio fel y gellir ei chwilio, ei gyrchu a'i reoli'n hawdd."
     }
-  }
+  },
+  "topics": [
+    "data"
+  ]
 }

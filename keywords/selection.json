@@ -1,6 +1,5 @@
 {
   "id": "selection",
-  "topic": "algorithms",
   "translations": {
     "en": {
       "term": "Selection",
@@ -14,5 +13,8 @@
       "term": "Dewisiad",
       "definition": "Penderfyniad mewn rhaglen — mae'r cyfrifiadur yn gwirio amod ac yn dewis beth i'w wneud nesaf (e.e. if/else)."
     }
-  }
+  },
+  "topics": [
+    "algorithms"
+  ]
 }

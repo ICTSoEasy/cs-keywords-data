@@ -1,0 +1,20 @@
+{
+  "id": "generalisation",
+  "topics": [
+    "computational_thinking"
+  ],
+  "translations": {
+    "en": {
+      "term": "Generalisation",
+      "definition": "Using patterns found in one problem to create solutions that work for similar problems."
+    },
+    "pl": {
+      "term": "Uogólnianie",
+      "definition": "Wykorzystywanie wzorców znalezionych w jednym problemie do tworzenia rozwiązań działających dla podobnych problemów."
+    },
+    "cy": {
+      "term": "Cyffredinoli",
+      "definition": "Defnyddio patrymau a ganfuwyd mewn un broblem i greu atebion sy'n gweithio ar gyfer problemau tebyg."
+    }
+  }
+}

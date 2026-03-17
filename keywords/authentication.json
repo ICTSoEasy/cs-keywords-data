@@ -1,6 +1,5 @@
 {
   "id": "authentication",
-  "topic": "security",
   "translations": {
     "en": {
       "term": "Authentication",
@@ -14,5 +13,8 @@
       "term": "Dilysu",
       "definition": "Y broses o wirio bod rhywun yn bwy maent yn honni ei fod — er enghraifft, drwy ddefnyddio cyfrinair neu olion bysedd."
     }
-  }
+  },
+  "topics": [
+    "security"
+  ]
 }

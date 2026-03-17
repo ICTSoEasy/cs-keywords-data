@@ -1,0 +1,20 @@
+{
+  "id": "pattern_recognition",
+  "topics": [
+    "computational_thinking"
+  ],
+  "translations": {
+    "en": {
+      "term": "Pattern Recognition",
+      "definition": "Identifying similarities or repeated features within problems to help solve them more efficiently."
+    },
+    "pl": {
+      "term": "Rozpoznawanie wzorców",
+      "definition": "Identyfikowanie podobieństw lub powtarzających się cech w problemach, aby rozwiązywać je sprawniej."
+    },
+    "cy": {
+      "term": "Adnabod Patrymau",
+      "definition": "Nodi tebygrwydd neu nodweddion sy'n ailadrodd mewn problemau er mwyn eu datrys yn fwy effeithlon."
+    }
+  }
+}

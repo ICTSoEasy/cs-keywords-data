@@ -1,6 +1,5 @@
 {
   "id": "phishing",
-  "topic": "security",
   "translations": {
     "en": {
       "term": "Phishing",
@@ -14,5 +13,8 @@
       "term": "Genweirio",
       "definition": "Tric lle mae ymosodwyr yn cymryd arnynt eu bod yn rhywun dibynadwy (e.e. banc) i ddwyn eich gwybodaeth bersonol."
     }
-  }
+  },
+  "topics": [
+    "security"
+  ]
 }

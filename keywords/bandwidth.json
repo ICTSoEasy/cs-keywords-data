@@ -1,6 +1,5 @@
 {
   "id": "bandwidth",
-  "topic": "networking",
   "translations": {
     "en": {
       "term": "Bandwidth",
@@ -14,5 +13,8 @@
       "term": "Lled Band",
       "definition": "Y maint mwyaf o ddata a all deithio drwy gysylltiad rhwydwaith ar yr un pryd. Fel arfer fe'i mesurir mewn Mbps."
     }
-  }
+  },
+  "topics": [
+    "networking"
+  ]
 }

@@ -1,6 +1,5 @@
 {
   "id": "packet",
-  "topic": "networking",
   "translations": {
     "en": {
       "term": "Packet",
@@ -14,5 +13,8 @@
       "term": "Pecyn",
       "definition": "Darn bach o ddata a anfonir ar draws rhwydwaith. Mae ffeiliau mawr yn cael eu rhannu'n awtomatig yn lawer o becynnau."
     }
-  }
+  },
+  "topics": [
+    "networking"
+  ]
 }

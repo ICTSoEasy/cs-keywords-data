@@ -1,6 +1,5 @@
 {
   "id": "encryption",
-  "topic": "security",
   "translations": {
     "en": {
       "term": "Encryption",
@@ -14,5 +13,8 @@
       "term": "Amgryptio",
       "definition": "Y broses o gymysgu data fel mai dim ond rhywun â'r allwedd gywir all ei ddarllen."
     }
-  }
+  },
+  "topics": [
+    "security"
+  ]
 }
