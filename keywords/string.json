@@ -1,0 +1,18 @@
+{
+  "id": "string",
+  "topic": "programming",
+  "translations": {
+    "en": {
+      "term": "String",
+      "definition": "A piece of text stored in a program, for example \"Hello, World!\"."
+    },
+    "pl": {
+      "term": "Ciąg znaków",
+      "definition": "Fragment tekstu przechowywany w programie, na przykład \"Witaj, świecie!\"."
+    },
+    "cy": {
+      "term": "Llinyn",
+      "definition": "Darn o destun wedi'i storio mewn rhaglen, er enghraifft \"Helo, Byd!\"."
+    }
+  }
+}

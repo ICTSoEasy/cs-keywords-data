@@ -1,0 +1,18 @@
+{
+  "id": "iteration",
+  "topic": "algorithms",
+  "translations": {
+    "en": {
+      "term": "Iteration",
+      "definition": "Repeating a set of instructions a number of times or until a condition is met. Also called a loop."
+    },
+    "pl": {
+      "term": "Iteracja",
+      "definition": "Powtarzanie zestawu instrukcji określoną liczbę razy lub do momentu spełnienia warunku. Zwana też pętlą."
+    },
+    "cy": {
+      "term": "Ailadrodd",
+      "definition": "Ailadrodd set o gyfarwyddiadau nifer o weithiau neu nes i amod gael ei fodloni. Gelwir hefyd yn ddolen."
+    }
+  }
+}

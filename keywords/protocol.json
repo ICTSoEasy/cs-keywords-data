@@ -1,0 +1,18 @@
+{
+  "id": "protocol",
+  "topic": "networking",
+  "translations": {
+    "en": {
+      "term": "Protocol",
+      "definition": "A set of agreed rules that controls how data is sent and received over a network."
+    },
+    "pl": {
+      "term": "Protokół",
+      "definition": "Zestaw ustalonych zasad kontrolujących sposób wysyłania i odbierania danych w sieci."
+    },
+    "cy": {
+      "term": "Protocol",
+      "definition": "Set o reolau y cytunwyd arnynt sy'n rheoli sut mae data yn cael ei anfon a'i dderbyn dros rwydwaith."
+    }
+  }
+}

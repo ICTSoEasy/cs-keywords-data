@@ -1,0 +1,18 @@
+{
+  "id": "boolean",
+  "topic": "programming",
+  "translations": {
+    "en": {
+      "term": "Boolean",
+      "definition": "A value that can only be true or false. Used to make decisions in programs."
+    },
+    "pl": {
+      "term": "Wartość logiczna",
+      "definition": "Wartość, która może być tylko prawdą lub fałszem. Używana do podejmowania decyzji w programach."
+    },
+    "cy": {
+      "term": "Boole",
+      "definition": "Gwerth a all fod naill ai'n wir neu'n ffug yn unig. Fe'i defnyddir i wneud penderfyniadau mewn rhaglenni."
+    }
+  }
+}

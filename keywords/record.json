@@ -1,0 +1,18 @@
+{
+  "id": "record",
+  "topic": "data",
+  "translations": {
+    "en": {
+      "term": "Record",
+      "definition": "A single row in a database table, representing one item or entry (e.g. one student, one product)."
+    },
+    "pl": {
+      "term": "Rekord",
+      "definition": "Pojedynczy wiersz w tabeli bazy danych, reprezentujący jeden element (np. jednego ucznia, jeden produkt)."
+    },
+    "cy": {
+      "term": "Cofnod",
+      "definition": "Un rhes mewn tabl cronfa ddata, sy'n cynrychioli un eitem (e.e. un myfyriwr, un cynnyrch)."
+    }
+  }
+}

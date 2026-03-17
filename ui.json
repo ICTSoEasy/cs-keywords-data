@@ -1,0 +1,42 @@
+{
+  "languages": [
+    { "code": "en", "label": "English" },
+    { "code": "pl", "label": "Polski" },
+    { "code": "cy", "label": "Cymraeg" }
+  ],
+  "strings": {
+    "en": {
+      "site_title": "CS Keywords",
+      "site_subtitle": "Computer Science vocabulary for everyone",
+      "search_placeholder": "Search keywords…",
+      "all_topics": "All Topics",
+      "no_results": "No keywords found. Try a different search or topic.",
+      "no_translation": "Translation not yet available",
+      "second_language": "Second language",
+      "footer_text": "Data is community-contributed.",
+      "footer_contribute": "Suggest changes on GitHub"
+    },
+    "pl": {
+      "site_title": "Słownik Informatyczny",
+      "site_subtitle": "Słownictwo informatyczne dla każdego",
+      "search_placeholder": "Szukaj słów kluczowych…",
+      "all_topics": "Wszystkie tematy",
+      "no_results": "Nie znaleziono słów kluczowych. Spróbuj innego wyszukiwania lub tematu.",
+      "no_translation": "Tłumaczenie jeszcze niedostępne",
+      "second_language": "Drugi język",
+      "footer_text": "Dane tworzone przez społeczność.",
+      "footer_contribute": "Zaproponuj zmiany na GitHub"
+    },
+    "cy": {
+      "site_title": "Geiriau Allweddol Cyfrifiadureg",
+      "site_subtitle": "Geirfa Cyfrifiadureg i bawb",
+      "search_placeholder": "Chwilio am eiriau allweddol…",
+      "all_topics": "Pob Pwnc",
+      "no_results": "Dim geiriau allweddol wedi'u canfod. Rhowch gynnig ar chwiliad neu bwnc gwahanol.",
+      "no_translation": "Cyfieithiad heb ei ychwanegu eto",
+      "second_language": "Ail iaith",
+      "footer_text": "Data a gyfranwyd gan y gymuned.",
+      "footer_contribute": "Awgrymu newidiadau ar GitHub"
+    }
+  }
+}

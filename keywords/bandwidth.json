@@ -1,0 +1,18 @@
+{
+  "id": "bandwidth",
+  "topic": "networking",
+  "translations": {
+    "en": {
+      "term": "Bandwidth",
+      "definition": "The maximum amount of data that can travel through a network connection at one time. Usually measured in Mbps."
+    },
+    "pl": {
+      "term": "Przepustowość",
+      "definition": "Maksymalna ilość danych, która może przejść przez połączenie sieciowe w jednym czasie. Zwykle mierzona w Mb/s."
+    },
+    "cy": {
+      "term": "Lled Band",
+      "definition": "Y maint mwyaf o ddata a all deithio drwy gysylltiad rhwydwaith ar yr un pryd. Fel arfer fe'i mesurir mewn Mbps."
+    }
+  }
+}

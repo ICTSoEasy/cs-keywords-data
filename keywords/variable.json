@@ -1,0 +1,18 @@
+{
+  "id": "variable",
+  "topic": "programming",
+  "translations": {
+    "en": {
+      "term": "Variable",
+      "definition": "A named place in a computer's memory where a value is stored. The value can change while the program runs."
+    },
+    "pl": {
+      "term": "Zmienna",
+      "definition": "Nazwane miejsce w pamięci komputera, w którym przechowywana jest wartość. Wartość może się zmieniać podczas działania programu."
+    },
+    "cy": {
+      "term": "Newidyn",
+      "definition": "Lle o'r enw mewn cof cyfrifiadur lle mae gwerth yn cael ei storio. Gall y gwerth newid tra mae'r rhaglen yn rhedeg."
+    }
+  }
+}

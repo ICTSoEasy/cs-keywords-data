@@ -1,0 +1,18 @@
+{
+  "id": "phishing",
+  "topic": "security",
+  "translations": {
+    "en": {
+      "term": "Phishing",
+      "definition": "A trick where attackers pretend to be someone trustworthy (e.g. a bank) to steal your personal information."
+    },
+    "pl": {
+      "term": "Phishing",
+      "definition": "Oszustwo, w którym atakujący podszywają się pod zaufaną osobę lub firmę (np. bank), aby wykraść dane osobowe."
+    },
+    "cy": {
+      "term": "Genweirio",
+      "definition": "Tric lle mae ymosodwyr yn cymryd arnynt eu bod yn rhywun dibynadwy (e.e. banc) i ddwyn eich gwybodaeth bersonol."
+    }
+  }
+}

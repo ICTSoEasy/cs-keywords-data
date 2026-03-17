@@ -1,0 +1,18 @@
+{
+  "id": "table",
+  "topic": "data",
+  "translations": {
+    "en": {
+      "term": "Table",
+      "definition": "In a database, data is organised into rows and columns — this structure is called a table."
+    },
+    "pl": {
+      "term": "Tabela",
+      "definition": "W bazie danych dane są zorganizowane w wiersze i kolumny — ta struktura nazywa się tabelą."
+    },
+    "cy": {
+      "term": "Tabl",
+      "definition": "Mewn cronfa ddata, mae data wedi'i drefnu mewn rhesi a cholofnau — gelwir y strwythur hwn yn dabl."
+    }
+  }
+}

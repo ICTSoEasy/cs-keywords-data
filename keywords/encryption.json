@@ -1,0 +1,18 @@
+{
+  "id": "encryption",
+  "topic": "security",
+  "translations": {
+    "en": {
+      "term": "Encryption",
+      "definition": "The process of scrambling data so that only someone with the correct key can read it."
+    },
+    "pl": {
+      "term": "Szyfrowanie",
+      "definition": "Proces kodowania danych tak, aby tylko osoba z właściwym kluczem mogła je odczytać."
+    },
+    "cy": {
+      "term": "Amgryptio",
+      "definition": "Y broses o gymysgu data fel mai dim ond rhywun â'r allwedd gywir all ei ddarllen."
+    }
+  }
+}

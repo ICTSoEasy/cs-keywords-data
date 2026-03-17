@@ -1,0 +1,18 @@
+{
+  "id": "primary-key",
+  "topic": "data",
+  "translations": {
+    "en": {
+      "term": "Primary Key",
+      "definition": "A unique value used to identify each record in a database table. No two records can have the same primary key."
+    },
+    "pl": {
+      "term": "Klucz główny",
+      "definition": "Unikalna wartość używana do identyfikacji każdego rekordu w tabeli. Żadne dwa rekordy nie mogą mieć tego samego klucza głównego."
+    },
+    "cy": {
+      "term": "Allwedd Gynradd",
+      "definition": "Gwerth unigryw sy'n cael ei ddefnyddio i adnabod pob cofnod mewn tabl. Ni all unrhyw ddau gofnod rannu'r un allwedd gynradd."
+    }
+  }
+}

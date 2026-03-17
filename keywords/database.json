@@ -1,0 +1,18 @@
+{
+  "id": "database",
+  "topic": "data",
+  "translations": {
+    "en": {
+      "term": "Database",
+      "definition": "An organised collection of data stored so it can be easily searched, accessed, and managed."
+    },
+    "pl": {
+      "term": "Baza danych",
+      "definition": "Zorganizowany zbiór danych przechowywanych tak, aby można je było łatwo przeszukiwać i zarządzać nimi."
+    },
+    "cy": {
+      "term": "Cronfa Ddata",
+      "definition": "Casgliad trefnus o ddata wedi'i storio fel y gellir ei chwilio, ei gyrchu a'i reoli'n hawdd."
+    }
+  }
+}

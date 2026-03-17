@@ -1,0 +1,18 @@
+{
+  "id": "authentication",
+  "topic": "security",
+  "translations": {
+    "en": {
+      "term": "Authentication",
+      "definition": "The process of checking that someone is who they claim to be — for example, by using a password or fingerprint."
+    },
+    "pl": {
+      "term": "Uwierzytelnianie",
+      "definition": "Proces sprawdzania, czy ktoś jest tym, za kogo się podaje — na przykład za pomocą hasła lub odcisku palca."
+    },
+    "cy": {
+      "term": "Dilysu",
+      "definition": "Y broses o wirio bod rhywun yn bwy maent yn honni ei fod — er enghraifft, drwy ddefnyddio cyfrinair neu olion bysedd."
+    }
+  }
+}

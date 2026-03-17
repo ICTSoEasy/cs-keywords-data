@@ -1,0 +1,18 @@
+{
+  "id": "ip-address",
+  "topic": "networking",
+  "translations": {
+    "en": {
+      "term": "IP Address",
+      "definition": "A unique number that identifies a device on a network — like a home address, but for computers."
+    },
+    "pl": {
+      "term": "Adres IP",
+      "definition": "Unikalny numer identyfikujący urządzenie w sieci — jak adres domowy, ale dla komputerów."
+    },
+    "cy": {
+      "term": "Cyfeiriad IP",
+      "definition": "Rhif unigryw sy'n adnabod dyfais ar rwydwaith — fel cyfeiriad tŷ, ond i gyfrifiaduron."
+    }
+  }
+}

@@ -1,0 +1,18 @@
+{
+  "id": "selection",
+  "topic": "algorithms",
+  "translations": {
+    "en": {
+      "term": "Selection",
+      "definition": "A decision in a program — the computer checks a condition and chooses what to do next (e.g. if/else)."
+    },
+    "pl": {
+      "term": "Selekcja",
+      "definition": "Decyzja w programie — komputer sprawdza warunek i wybiera, co zrobić dalej (np. if/else)."
+    },
+    "cy": {
+      "term": "Dewisiad",
+      "definition": "Penderfyniad mewn rhaglen — mae'r cyfrifiadur yn gwirio amod ac yn dewis beth i'w wneud nesaf (e.e. if/else)."
+    }
+  }
+}

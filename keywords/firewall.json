@@ -1,0 +1,18 @@
+{
+  "id": "firewall",
+  "topic": "security",
+  "translations": {
+    "en": {
+      "term": "Firewall",
+      "definition": "A system that monitors and controls network traffic to block unauthorised access to a computer or network."
+    },
+    "pl": {
+      "term": "Zapora sieciowa",
+      "definition": "System monitorujący i kontrolujący ruch sieciowy, blokujący nieautoryzowany dostęp do komputera lub sieci."
+    },
+    "cy": {
+      "term": "Mur Gwarchod",
+      "definition": "System sy'n monitro ac yn rheoli traffig rhwydwaith i rwystro mynediad heb awdurdod i gyfrifiadur neu rwydwaith."
+    }
+  }
+}

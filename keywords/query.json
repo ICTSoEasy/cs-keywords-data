@@ -1,0 +1,18 @@
+{
+  "id": "query",
+  "topic": "data",
+  "translations": {
+    "en": {
+      "term": "Query",
+      "definition": "A question or request sent to a database to find, add, update, or delete specific data."
+    },
+    "pl": {
+      "term": "Zapytanie",
+      "definition": "Pytanie lub żądanie wysłane do bazy danych w celu znalezienia, dodania, zaktualizowania lub usunięcia danych."
+    },
+    "cy": {
+      "term": "Ymholiad",
+      "definition": "Cwestiwn neu gais a anfonir at gronfa ddata i ddod o hyd i, ychwanegu, diweddaru neu ddileu data penodol."
+    }
+  }
+}

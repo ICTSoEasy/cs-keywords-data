@@ -1,0 +1,18 @@
+{
+  "id": "packet",
+  "topic": "networking",
+  "translations": {
+    "en": {
+      "term": "Packet",
+      "definition": "A small chunk of data sent across a network. Large files are automatically split into many packets."
+    },
+    "pl": {
+      "term": "Pakiet",
+      "definition": "Mały fragment danych wysyłany przez sieć. Duże pliki są automatycznie dzielone na wiele pakietów."
+    },
+    "cy": {
+      "term": "Pecyn",
+      "definition": "Darn bach o ddata a anfonir ar draws rhwydwaith. Mae ffeiliau mawr yn cael eu rhannu'n awtomatig yn lawer o becynnau."
+    }
+  }
+}

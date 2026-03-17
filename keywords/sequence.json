@@ -1,0 +1,18 @@
+{
+  "id": "sequence",
+  "topic": "algorithms",
+  "translations": {
+    "en": {
+      "term": "Sequence",
+      "definition": "Instructions that are carried out one after another, in order."
+    },
+    "pl": {
+      "term": "Sekwencja",
+      "definition": "Instrukcje wykonywane jedna po drugiej, w ustalonej kolejności."
+    },
+    "cy": {
+      "term": "Dilyniant",
+      "definition": "Cyfarwyddiadau sy'n cael eu cyflawni un ar ôl y llall, mewn trefn."
+    }
+  }
+}

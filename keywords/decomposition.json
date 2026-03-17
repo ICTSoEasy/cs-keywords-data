@@ -1,0 +1,18 @@
+{
+  "id": "decomposition",
+  "topic": "algorithms",
+  "translations": {
+    "en": {
+      "term": "Decomposition",
+      "definition": "Breaking a big problem down into smaller, more manageable parts."
+    },
+    "pl": {
+      "term": "Dekompozycja",
+      "definition": "Dzielenie dużego problemu na mniejsze, łatwiejsze do rozwiązania części."
+    },
+    "cy": {
+      "term": "Dadelfennu",
+      "definition": "Torri problem fawr yn rhannau llai, mwy hylaw."
+    }
+  }
+}

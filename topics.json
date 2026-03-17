@@ -1,0 +1,47 @@
+[
+  {
+    "id": "algorithms",
+    "icon": "⚙️",
+    "labels": {
+      "en": "Algorithms",
+      "pl": "Algorytmy",
+      "cy": "Algorithmau"
+    }
+  },
+  {
+    "id": "programming",
+    "icon": "💻",
+    "labels": {
+      "en": "Programming",
+      "pl": "Programowanie",
+      "cy": "Rhaglennu"
+    }
+  },
+  {
+    "id": "networking",
+    "icon": "🌐",
+    "labels": {
+      "en": "Networking",
+      "pl": "Sieci",
+      "cy": "Rhwydweithio"
+    }
+  },
+  {
+    "id": "data",
+    "icon": "🗄️",
+    "labels": {
+      "en": "Data & Databases",
+      "pl": "Dane i bazy danych",
+      "cy": "Data a Chronfeydd Data"
+    }
+  },
+  {
+    "id": "security",
+    "icon": "🔒",
+    "labels": {
+      "en": "Security",
+      "pl": "Bezpieczeństwo",
+      "cy": "Diogelwch"
+    }
+  }
+]

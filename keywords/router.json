@@ -1,0 +1,18 @@
+{
+  "id": "router",
+  "topic": "networking",
+  "translations": {
+    "en": {
+      "term": "Router",
+      "definition": "A device that directs internet traffic between networks, sending data to the right place."
+    },
+    "pl": {
+      "term": "Router",
+      "definition": "Urządzenie kierujące ruchem internetowym między sieciami, wysyłające dane we właściwe miejsca."
+    },
+    "cy": {
+      "term": "Llwybrydd",
+      "definition": "Dyfais sy'n cyfeirio traffig y rhyngrwyd rhwng rhwydweithiau, yn anfon data i'r lle cywir."
+    }
+  }
+}

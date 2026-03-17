@@ -1,0 +1,18 @@
+{
+  "id": "function",
+  "topic": "programming",
+  "translations": {
+    "en": {
+      "term": "Function",
+      "definition": "A reusable block of code that does a specific job. You can call it by name whenever you need it."
+    },
+    "pl": {
+      "term": "Funkcja",
+      "definition": "Blok kodu wielokrotnego użytku, który wykonuje określone zadanie. Można go wywołać z dowolnego miejsca w programie."
+    },
+    "cy": {
+      "term": "Ffwythiant",
+      "definition": "Bloc o god y gellir ei ailddefnyddio sy'n gwneud swydd benodol. Gallwch ei alw wrth ei enw pryd bynnag y bydd ei angen."
+    }
+  }
+}

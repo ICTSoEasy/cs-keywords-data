@@ -1,0 +1,18 @@
+{
+  "id": "array",
+  "topic": "programming",
+  "translations": {
+    "en": {
+      "term": "Array",
+      "definition": "A list of values stored together under one name, accessed by their position number (index)."
+    },
+    "pl": {
+      "term": "Tablica",
+      "definition": "Lista wartości przechowywanych razem pod jedną nazwą, dostępnych przez numer pozycji (indeks)."
+    },
+    "cy": {
+      "term": "Arae",
+      "definition": "Rhestr o werthoedd wedi'u storio gyda'i gilydd o dan un enw, y cyrchir atynt drwy eu rhif safle (mynegai)."
+    }
+  }
+}
