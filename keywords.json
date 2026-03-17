@@ -1,0 +1,238 @@
+{
+  "meta": {
+    "version": "1.0",
+    "languages": [
+      { "code": "en", "label": "English" },
+      { "code": "pl", "label": "Polski" }
+    ]
+  },
+  "ui": {
+    "en": {
+      "site_title": "CS Keywords",
+      "site_subtitle": "Computer Science vocabulary for everyone",
+      "search_placeholder": "Search keywords…",
+      "all_topics": "All Topics",
+      "no_results": "No keywords found. Try a different search or topic.",
+      "footer_text": "Data is community-contributed.",
+      "footer_contribute": "Suggest changes on GitHub"
+    },
+    "pl": {
+      "site_title": "Słownik Informatyczny",
+      "site_subtitle": "Słownictwo informatyczne dla każdego",
+      "search_placeholder": "Szukaj słów kluczowych…",
+      "all_topics": "Wszystkie tematy",
+      "no_results": "Nie znaleziono słów kluczowych. Spróbuj innego wyszukiwania lub tematu.",
+      "footer_text": "Dane tworzone przez społeczność.",
+      "footer_contribute": "Zaproponuj zmiany na GitHub"
+    }
+  },
+  "topics": [
+    { "id": "algorithms", "icon": "⚙️", "labels": { "en": "Algorithms",       "pl": "Algorytmy"              } },
+    { "id": "programming", "icon": "💻", "labels": { "en": "Programming",      "pl": "Programowanie"          } },
+    { "id": "networking",  "icon": "🌐", "labels": { "en": "Networking",       "pl": "Sieci"                  } },
+    { "id": "data",        "icon": "🗄️", "labels": { "en": "Data & Databases", "pl": "Dane i bazy danych"     } },
+    { "id": "security",    "icon": "🔒", "labels": { "en": "Security",         "pl": "Bezpieczeństwo"         } }
+  ],
+  "keywords": [
+    {
+      "id": "algorithm",
+      "topic": "algorithms",
+      "translations": {
+        "en": { "term": "Algorithm",     "definition": "A set of step-by-step instructions used to solve a problem or complete a task." },
+        "pl": { "term": "Algorytm",      "definition": "Zestaw kroków używanych do rozwiązania problemu lub wykonania zadania." }
+      }
+    },
+    {
+      "id": "sequence",
+      "topic": "algorithms",
+      "translations": {
+        "en": { "term": "Sequence",      "definition": "Instructions that are carried out one after another, in order." },
+        "pl": { "term": "Sekwencja",     "definition": "Instrukcje wykonywane jedna po drugiej, w ustalonej kolejności." }
+      }
+    },
+    {
+      "id": "selection",
+      "topic": "algorithms",
+      "translations": {
+        "en": { "term": "Selection",     "definition": "A decision in a program — the computer checks a condition and chooses what to do next (e.g. if/else)." },
+        "pl": { "term": "Selekcja",      "definition": "Decyzja w programie — komputer sprawdza warunek i wybiera, co zrobić dalej (np. if/else)." }
+      }
+    },
+    {
+      "id": "iteration",
+      "topic": "algorithms",
+      "translations": {
+        "en": { "term": "Iteration",     "definition": "Repeating a set of instructions a number of times or until a condition is met. Also called a loop." },
+        "pl": { "term": "Iteracja",      "definition": "Powtarzanie zestawu instrukcji określoną liczbę razy lub do momentu spełnienia warunku. Zwana też pętlą." }
+      }
+    },
+    {
+      "id": "decomposition",
+      "topic": "algorithms",
+      "translations": {
+        "en": { "term": "Decomposition", "definition": "Breaking a big problem down into smaller, more manageable parts." },
+        "pl": { "term": "Dekompozycja",  "definition": "Dzielenie dużego problemu na mniejsze, łatwiejsze do rozwiązania części." }
+      }
+    },
+    {
+      "id": "variable",
+      "topic": "programming",
+      "translations": {
+        "en": { "term": "Variable",      "definition": "A named place in a computer's memory where a value is stored. The value can change while the program runs." },
+        "pl": { "term": "Zmienna",       "definition": "Nazwane miejsce w pamięci komputera, w którym przechowywana jest wartość. Wartość może się zmieniać podczas działania programu." }
+      }
+    },
+    {
+      "id": "function",
+      "topic": "programming",
+      "translations": {
+        "en": { "term": "Function",      "definition": "A reusable block of code that does a specific job. You can call it by name whenever you need it." },
+        "pl": { "term": "Funkcja",       "definition": "Blok kodu wielokrotnego użytku, który wykonuje określone zadanie. Można go wywołać z dowolnego miejsca w programie." }
+      }
+    },
+    {
+      "id": "string",
+      "topic": "programming",
+      "translations": {
+        "en": { "term": "String",        "definition": "A piece of text stored in a program, for example \"Hello, World!\"." },
+        "pl": { "term": "Ciąg znaków",   "definition": "Fragment tekstu przechowywany w programie, na przykład \"Witaj, świecie!\"." }
+      }
+    },
+    {
+      "id": "boolean",
+      "topic": "programming",
+      "translations": {
+        "en": { "term": "Boolean",       "definition": "A value that can only be true or false. Used to make decisions in programs." },
+        "pl": { "term": "Wartość logiczna", "definition": "Wartość, która może być tylko prawdą lub fałszem. Używana do podejmowania decyzji w programach." }
+      }
+    },
+    {
+      "id": "array",
+      "topic": "programming",
+      "translations": {
+        "en": { "term": "Array",         "definition": "A list of values stored together under one name, accessed by their position number (index)." },
+        "pl": { "term": "Tablica",       "definition": "Lista wartości przechowywanych razem pod jedną nazwą, dostępnych przez numer pozycji (indeks)." }
+      }
+    },
+    {
+      "id": "ip-address",
+      "topic": "networking",
+      "translations": {
+        "en": { "term": "IP Address",    "definition": "A unique number that identifies a device on a network — like a home address, but for computers." },
+        "pl": { "term": "Adres IP",      "definition": "Unikalny numer identyfikujący urządzenie w sieci — jak adres domowy, ale dla komputerów." }
+      }
+    },
+    {
+      "id": "router",
+      "topic": "networking",
+      "translations": {
+        "en": { "term": "Router",        "definition": "A device that directs internet traffic between networks, sending data to the right place." },
+        "pl": { "term": "Router",        "definition": "Urządzenie kierujące ruchem internetowym między sieciami, wysyłające dane we właściwe miejsca." }
+      }
+    },
+    {
+      "id": "protocol",
+      "topic": "networking",
+      "translations": {
+        "en": { "term": "Protocol",      "definition": "A set of agreed rules that controls how data is sent and received over a network." },
+        "pl": { "term": "Protokół",      "definition": "Zestaw ustalonych zasad kontrolujących sposób wysyłania i odbierania danych w sieci." }
+      }
+    },
+    {
+      "id": "packet",
+      "topic": "networking",
+      "translations": {
+        "en": { "term": "Packet",        "definition": "A small chunk of data sent across a network. Large files are automatically split into many packets." },
+        "pl": { "term": "Pakiet",        "definition": "Mały fragment danych wysyłany przez sieć. Duże pliki są automatycznie dzielone na wiele pakietów." }
+      }
+    },
+    {
+      "id": "bandwidth",
+      "topic": "networking",
+      "translations": {
+        "en": { "term": "Bandwidth",     "definition": "The maximum amount of data that can travel through a network connection at one time. Usually measured in Mbps." },
+        "pl": { "term": "Przepustowość", "definition": "Maksymalna ilość danych, która może przejść przez połączenie sieciowe w jednym czasie. Zwykle mierzona w Mb/s." }
+      }
+    },
+    {
+      "id": "database",
+      "topic": "data",
+      "translations": {
+        "en": { "term": "Database",      "definition": "An organised collection of data stored so it can be easily searched, accessed, and managed." },
+        "pl": { "term": "Baza danych",   "definition": "Zorganizowany zbiór danych przechowywanych tak, aby można je było łatwo przeszukiwać i zarządzać nimi." }
+      }
+    },
+    {
+      "id": "table",
+      "topic": "data",
+      "translations": {
+        "en": { "term": "Table",         "definition": "In a database, data is organised into rows and columns — this structure is called a table." },
+        "pl": { "term": "Tabela",        "definition": "W bazie danych dane są zorganizowane w wiersze i kolumny — ta struktura nazywa się tabelą." }
+      }
+    },
+    {
+      "id": "query",
+      "topic": "data",
+      "translations": {
+        "en": { "term": "Query",         "definition": "A question or request sent to a database to find, add, update, or delete specific data." },
+        "pl": { "term": "Zapytanie",     "definition": "Pytanie lub żądanie wysłane do bazy danych w celu znalezienia, dodania, zaktualizowania lub usunięcia danych." }
+      }
+    },
+    {
+      "id": "primary-key",
+      "topic": "data",
+      "translations": {
+        "en": { "term": "Primary Key",   "definition": "A unique value used to identify each record in a database table. No two records can have the same primary key." },
+        "pl": { "term": "Klucz główny",  "definition": "Unikalna wartość używana do identyfikacji każdego rekordu w tabeli. Żadne dwa rekordy nie mogą mieć tego samego klucza głównego." }
+      }
+    },
+    {
+      "id": "record",
+      "topic": "data",
+      "translations": {
+        "en": { "term": "Record",        "definition": "A single row in a database table, representing one item or entry (e.g. one student, one product)." },
+        "pl": { "term": "Rekord",        "definition": "Pojedynczy wiersz w tabeli bazy danych, reprezentujący jeden element (np. jednego ucznia, jeden produkt)." }
+      }
+    },
+    {
+      "id": "encryption",
+      "topic": "security",
+      "translations": {
+        "en": { "term": "Encryption",    "definition": "The process of scrambling data so that only someone with the correct key can read it." },
+        "pl": { "term": "Szyfrowanie",   "definition": "Proces kodowania danych tak, aby tylko osoba z właściwym kluczem mogła je odczytać." }
+      }
+    },
+    {
+      "id": "firewall",
+      "topic": "security",
+      "translations": {
+        "en": { "term": "Firewall",      "definition": "A system that monitors and controls network traffic to block unauthorised access to a computer or network." },
+        "pl": { "term": "Zapora sieciowa", "definition": "System monitorujący i kontrolujący ruch sieciowy, blokujący nieautoryzowany dostęp do komputera lub sieci." }
+      }
+    },
+    {
+      "id": "phishing",
+      "topic": "security",
+      "translations": {
+        "en": { "term": "Phishing",      "definition": "A trick where attackers pretend to be someone trustworthy (e.g. a bank) to steal your personal information." },
+        "pl": { "term": "Phishing",      "definition": "Oszustwo, w którym atakujący podszywają się pod zaufaną osobę lub firmę (np. bank), aby wykraść dane osobowe." }
+      }
+    },
+    {
+      "id": "malware",
+      "topic": "security",
+      "translations": {
+        "en": { "term": "Malware",       "definition": "Software designed to harm a computer, steal data, or gain unauthorised access. Includes viruses, ransomware, and spyware." },
+        "pl": { "term": "Złośliwe oprogramowanie", "definition": "Oprogramowanie zaprojektowane w celu uszkodzenia komputera, kradzieży danych lub uzyskania nieautoryzowanego dostępu. Obejmuje wirusy, ransomware i spyware." }
+      }
+    },
+    {
+      "id": "authentication",
+      "topic": "security",
+      "translations": {
+        "en": { "term": "Authentication", "definition": "The process of checking that someone is who they claim to be — for example, by using a password or fingerprint." },
+        "pl": { "term": "Uwierzytelnianie", "definition": "Proces sprawdzania, czy ktoś jest tym, za kogo się podaje — na przykład za pomocą hasła lub odcisku palca." }
+      }
+    }
+  ]
+}
