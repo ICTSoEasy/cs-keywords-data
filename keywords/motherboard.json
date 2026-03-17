@@ -1,0 +1,20 @@
+{
+  "id": "motherboard",
+  "topics": [
+    "hardware"
+  ],
+  "translations": {
+    "en": {
+      "term": "Motherboard",
+      "definition": "The main circuit board that connects all the components of a computer together."
+    },
+    "pl": {
+      "term": "Płyta główna",
+      "definition": "Główna płyta obwodów drukowanych, która łączy wszystkie komponenty komputera."
+    },
+    "cy": {
+      "term": "Prif Fwrdd",
+      "definition": "Y brif fwrdd cylched sy'n cysylltu holl gydrannau cyfrifiadur â'i gilydd."
+    }
+  }
+}

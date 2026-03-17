@@ -1,0 +1,20 @@
+{
+  "id": "input_device",
+  "topics": [
+    "hardware"
+  ],
+  "translations": {
+    "en": {
+      "term": "Input Device",
+      "definition": "Hardware used to send data into a computer, such as a keyboard or mouse."
+    },
+    "pl": {
+      "term": "Urządzenie wejściowe",
+      "definition": "Sprzęt służący do wprowadzania danych do komputera, np. klawiatura lub mysz."
+    },
+    "cy": {
+      "term": "Dyfais Fewnbwn",
+      "definition": "Caledwedd a ddefnyddir i anfon data i mewn i gyfrifiadur, fel bysellfwrdd neu lygoden."
+    }
+  }
+}

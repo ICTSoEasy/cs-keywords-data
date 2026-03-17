@@ -1,0 +1,20 @@
+{
+  "id": "fetch_decode_execute",
+  "topics": [
+    "hardware"
+  ],
+  "translations": {
+    "en": {
+      "term": "Fetch-Decode-Execute Cycle",
+      "definition": "The process a CPU repeats continuously: fetching an instruction from memory, decoding it, then executing it."
+    },
+    "pl": {
+      "term": "Cykl pobierz-dekoduj-wykonaj",
+      "definition": "Proces, który procesor powtarza ciągle: pobieranie instrukcji z pamięci, dekodowanie jej, a następnie wykonanie."
+    },
+    "cy": {
+      "term": "Cylch Nôl-Dadgodio-Gweithredu",
+      "definition": "Y broses y mae CPU yn ei hailadrodd yn barhaus: nôl cyfarwyddiad o'r cof, ei ddadgodio, yna ei weithredu."
+    }
+  }
+}

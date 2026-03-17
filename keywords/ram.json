@@ -1,0 +1,20 @@
+{
+  "id": "ram",
+  "topics": [
+    "hardware"
+  ],
+  "translations": {
+    "en": {
+      "term": "RAM",
+      "definition": "Random Access Memory; temporary storage that holds data the CPU is currently using."
+    },
+    "pl": {
+      "term": "RAM",
+      "definition": "Pamięć o swobodnym dostępie; tymczasowy magazyn danych aktualnie używanych przez procesor."
+    },
+    "cy": {
+      "term": "RAM",
+      "definition": "Cof Mynediad ar Hap; storfa dros dro sy'n dal data y mae'r CPU yn ei ddefnyddio ar hyn o bryd."
+    }
+  }
+}

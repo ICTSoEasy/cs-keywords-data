@@ -1,0 +1,20 @@
+{
+  "id": "cache",
+  "topics": [
+    "hardware"
+  ],
+  "translations": {
+    "en": {
+      "term": "Cache",
+      "definition": "A small, very fast type of memory located close to the CPU to speed up processing."
+    },
+    "pl": {
+      "term": "Pamięć podręczna",
+      "definition": "Mały, bardzo szybki rodzaj pamięci umieszczony blisko procesora, przyspieszający przetwarzanie."
+    },
+    "cy": {
+      "term": "Storfa Gyflym",
+      "definition": "Math bach, cyflym iawn o gof wedi'i leoli yn agos at y CPU i gyflymu prosesu."
+    }
+  }
+}

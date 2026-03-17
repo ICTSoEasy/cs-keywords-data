@@ -1,0 +1,20 @@
+{
+  "id": "storage",
+  "topics": [
+    "hardware"
+  ],
+  "translations": {
+    "en": {
+      "term": "Storage",
+      "definition": "Devices used to permanently save data, such as hard drives, SSDs or USB drives."
+    },
+    "pl": {
+      "term": "Pamięć masowa",
+      "definition": "Urządzenia służące do trwałego zapisywania danych, np. dyski twarde, dyski SSD lub pendrive'y."
+    },
+    "cy": {
+      "term": "Storfa",
+      "definition": "Dyfeisiau a ddefnyddir i gadw data yn barhaol, fel gyriannau caled, SSDau neu yrwyr USB."
+    }
+  }
+}

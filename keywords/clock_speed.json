@@ -1,0 +1,20 @@
+{
+  "id": "clock_speed",
+  "topics": [
+    "hardware"
+  ],
+  "translations": {
+    "en": {
+      "term": "Clock Speed",
+      "definition": "The number of instruction cycles a CPU can perform per second, measured in GHz."
+    },
+    "pl": {
+      "term": "Częstotliwość taktowania",
+      "definition": "Liczba cykli instrukcji, które procesor może wykonać na sekundę, mierzona w GHz."
+    },
+    "cy": {
+      "term": "Cyflymder Cloc",
+      "definition": "Nifer y cylchoedd cyfarwyddiadau y gall CPU eu perfformio yr eiliad, wedi'i fesur mewn GHz."
+    }
+  }
+}

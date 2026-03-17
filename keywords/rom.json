@@ -1,0 +1,20 @@
+{
+  "id": "rom",
+  "topics": [
+    "hardware"
+  ],
+  "translations": {
+    "en": {
+      "term": "ROM",
+      "definition": "Read-Only Memory; permanent storage containing instructions the computer needs to start up."
+    },
+    "pl": {
+      "term": "ROM",
+      "definition": "Pamięć tylko do odczytu; trwały magazyn zawierający instrukcje potrzebne komputerowi do uruchomienia."
+    },
+    "cy": {
+      "term": "ROM",
+      "definition": "Cof Darllen yn Unig; storfa barhaol sy'n cynnwys cyfarwyddiadau sydd eu hangen ar y cyfrifiadur i gychwyn."
+    }
+  }
+}

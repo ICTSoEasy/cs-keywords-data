@@ -1,0 +1,20 @@
+{
+  "id": "von_neumann",
+  "topics": [
+    "hardware"
+  ],
+  "translations": {
+    "en": {
+      "term": "Von Neumann Architecture",
+      "definition": "A computer design model where the CPU, memory and input/output share a single data pathway called the bus."
+    },
+    "pl": {
+      "term": "Architektura von Neumanna",
+      "definition": "Model budowy komputera, w którym procesor, pamięć i wejście/wyjście współdzielą jedną ścieżkę danych zwaną magistralą."
+    },
+    "cy": {
+      "term": "Pensaernïaeth Von Neumann",
+      "definition": "Model dylunio cyfrifiadur lle mae'r CPU, y cof a mewnbwn/allbwn yn rhannu un llwybr data o'r enw'r bws."
+    }
+  }
+}

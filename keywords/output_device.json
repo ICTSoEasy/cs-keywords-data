@@ -1,0 +1,20 @@
+{
+  "id": "output_device",
+  "topics": [
+    "hardware"
+  ],
+  "translations": {
+    "en": {
+      "term": "Output Device",
+      "definition": "Hardware used to receive data from a computer, such as a monitor or printer."
+    },
+    "pl": {
+      "term": "Urządzenie wyjściowe",
+      "definition": "Sprzęt służący do odbierania danych z komputera, np. monitor lub drukarka."
+    },
+    "cy": {
+      "term": "Dyfais Allbwn",
+      "definition": "Caledwedd a ddefnyddir i dderbyn data o gyfrifiadur, fel monitor neu argraffydd."
+    }
+  }
+}

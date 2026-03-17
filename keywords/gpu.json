@@ -1,0 +1,20 @@
+{
+  "id": "gpu",
+  "topics": [
+    "hardware"
+  ],
+  "translations": {
+    "en": {
+      "term": "GPU",
+      "definition": "The Graphics Processing Unit; a chip designed to handle images, video and 3D graphics."
+    },
+    "pl": {
+      "term": "GPU",
+      "definition": "Procesor graficzny; chip zaprojektowany do obsługi obrazów, wideo i grafiki 3D."
+    },
+    "cy": {
+      "term": "GPU",
+      "definition": "Yr Uned Brosesu Graffeg; sglodyn wedi'i gynllunio i drin delweddau, fideo a graffeg 3D."
+    }
+  }
+}
