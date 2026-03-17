@@ -71,6 +71,42 @@
       }
     },
     {
+      "id": "computational_thinking",
+      "icon": "🧠",
+      "labels": {
+        "en": "Computational Thinking",
+        "pl": "Myślenie komputacyjne",
+        "cy": "Meddwl Cyfrifiadurol"
+      }
+    },
+    {
+      "id": "data_representation",
+      "icon": "🔢",
+      "labels": {
+        "en": "Data Representation",
+        "pl": "Reprezentacja danych",
+        "cy": "Cynrychiolaeth Data"
+      }
+    },
+    {
+      "id": "hardware",
+      "icon": "🖥️",
+      "labels": {
+        "en": "Hardware & Computer Systems",
+        "pl": "Sprzęt i systemy komputerowe",
+        "cy": "Caledwedd a Systemau Cyfrifiadurol"
+      }
+    },
+    {
+      "id": "software",
+      "icon": "📦",
+      "labels": {
+        "en": "Software",
+        "pl": "Oprogramowanie",
+        "cy": "Meddalwedd"
+      }
+    },
+    {
       "id": "networking",
       "icon": "🌐",
       "labels": {
@@ -92,9 +128,72 @@
       "id": "security",
       "icon": "🔒",
       "labels": {
-        "en": "Security",
-        "pl": "Bezpieczeństwo",
-        "cy": "Diogelwch"
+        "en": "Security & Cybersecurity",
+        "pl": "Bezpieczeństwo i cyberbezpieczeństwo",
+        "cy": "Diogelwch a Seiberddiogelwch"
+      }
+    },
+    {
+      "id": "logic",
+      "icon": "⊻",
+      "labels": {
+        "en": "Boolean Logic",
+        "pl": "Logika Boole'a",
+        "cy": "Rhesymeg Boole"
+      }
+    },
+    {
+      "id": "software_development",
+      "icon": "🛠️",
+      "labels": {
+        "en": "Software Development",
+        "pl": "Tworzenie oprogramowania",
+        "cy": "Datblygu Meddalwedd"
+      }
+    },
+    {
+      "id": "data_structures",
+      "icon": "🌳",
+      "labels": {
+        "en": "Data Structures",
+        "pl": "Struktury danych",
+        "cy": "Strwythurau Data"
+      }
+    },
+    {
+      "id": "theory",
+      "icon": "📐",
+      "labels": {
+        "en": "Theory of Computation",
+        "pl": "Teoria obliczeń",
+        "cy": "Theori Cyfrifiadaeth"
+      }
+    },
+    {
+      "id": "ethics",
+      "icon": "⚖️",
+      "labels": {
+        "en": "Ethical & Legal Issues",
+        "pl": "Kwestie etyczne i prawne",
+        "cy": "Materion Moesegol a Chyfreithiol"
+      }
+    },
+    {
+      "id": "ai",
+      "icon": "🤖",
+      "labels": {
+        "en": "Artificial Intelligence",
+        "pl": "Sztuczna inteligencja",
+        "cy": "Deallusrwydd Artiffisial"
+      }
+    },
+    {
+      "id": "robotics",
+      "icon": "🦾",
+      "labels": {
+        "en": "Robotics & Physical Computing",
+        "pl": "Robotyka i obliczenia fizyczne",
+        "cy": "Roboteg a Chyfrifiadeg Ffisegol"
       }
     }
   ],
