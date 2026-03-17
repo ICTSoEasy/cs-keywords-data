@@ -199,8 +199,27 @@
   ],
   "keywords": [
     {
+      "id": "abstraction",
+      "topics": [
+        "computational_thinking"
+      ],
+      "translations": {
+        "en": {
+          "term": "Abstraction",
+          "definition": "Removing unnecessary detail to focus on what is important when solving a problem."
+        },
+        "pl": {
+          "term": "Abstrakcja",
+          "definition": "Usuwanie zbędnych szczegółów, aby skupić się na tym, co ważne przy rozwiązywaniu problemu."
+        },
+        "cy": {
+          "term": "Haniaethu",
+          "definition": "Tynnu manylion diangen er mwyn canolbwyntio ar yr hyn sy'n bwysig wrth ddatrys problem."
+        }
+      }
+    },
+    {
       "id": "algorithm",
-      "topic": "algorithms",
       "translations": {
         "en": {
           "term": "Algorithm",
@@ -214,11 +233,33 @@
           "term": "Algorithm",
           "definition": "Set o gyfarwyddiadau cam-wrth-gam sy'n cael eu defnyddio i ddatrys problem neu gwblhau tasg."
         }
+      },
+      "topics": [
+        "algorithms"
+      ]
+    },
+    {
+      "id": "algorithm_design",
+      "topics": [
+        "computational_thinking"
+      ],
+      "translations": {
+        "en": {
+          "term": "Algorithm Design",
+          "definition": "Planning the step-by-step solution to a problem before writing any code."
+        },
+        "pl": {
+          "term": "Projektowanie algorytmów",
+          "definition": "Planowanie rozwiązania krok po kroku przed napisaniem kodu."
+        },
+        "cy": {
+          "term": "Dylunio Algorithm",
+          "definition": "Cynllunio'r ateb cam-wrth-gam i broblem cyn ysgrifennu unrhyw god."
+        }
       }
     },
     {
       "id": "array",
-      "topic": "programming",
       "translations": {
         "en": {
           "term": "Array",
@@ -232,11 +273,13 @@
           "term": "Arae",
           "definition": "Rhestr o werthoedd wedi'u storio gyda'i gilydd o dan un enw, y cyrchir atynt drwy eu rhif safle (mynegai)."
         }
-      }
+      },
+      "topics": [
+        "programming"
+      ]
     },
     {
       "id": "authentication",
-      "topic": "security",
       "translations": {
         "en": {
           "term": "Authentication",
@@ -250,11 +293,13 @@
           "term": "Dilysu",
           "definition": "Y broses o wirio bod rhywun yn bwy maent yn honni ei fod — er enghraifft, drwy ddefnyddio cyfrinair neu olion bysedd."
         }
-      }
+      },
+      "topics": [
+        "security"
+      ]
     },
     {
       "id": "bandwidth",
-      "topic": "networking",
       "translations": {
         "en": {
           "term": "Bandwidth",
@@ -268,11 +313,13 @@
           "term": "Lled Band",
           "definition": "Y maint mwyaf o ddata a all deithio drwy gysylltiad rhwydwaith ar yr un pryd. Fel arfer fe'i mesurir mewn Mbps."
         }
-      }
+      },
+      "topics": [
+        "networking"
+      ]
     },
     {
       "id": "boolean",
-      "topic": "programming",
       "translations": {
         "en": {
           "term": "Boolean",
@@ -286,11 +333,13 @@
           "term": "Boole",
           "definition": "Gwerth a all fod naill ai'n wir neu'n ffug yn unig. Fe'i defnyddir i wneud penderfyniadau mewn rhaglenni."
         }
-      }
+      },
+      "topics": [
+        "programming"
+      ]
     },
     {
       "id": "database",
-      "topic": "data",
       "translations": {
         "en": {
           "term": "Database",
@@ -304,11 +353,34 @@
           "term": "Cronfa Ddata",
           "definition": "Casgliad trefnus o ddata wedi'i storio fel y gellir ei chwilio, ei gyrchu a'i reoli'n hawdd."
         }
+      },
+      "topics": [
+        "data"
+      ]
+    },
+    {
+      "id": "debugging",
+      "topics": [
+        "computational_thinking",
+        "programming"
+      ],
+      "translations": {
+        "en": {
+          "term": "Debugging",
+          "definition": "The process of finding and fixing errors in an algorithm or program."
+        },
+        "pl": {
+          "term": "Debugowanie",
+          "definition": "Proces znajdowania i naprawiania błędów w algorytmie lub programie."
+        },
+        "cy": {
+          "term": "Dadfygio",
+          "definition": "Y broses o ddod o hyd i wallau mewn algorithm neu raglen a'u cywiro."
+        }
       }
     },
     {
       "id": "decomposition",
-      "topic": "algorithms",
       "translations": {
         "en": {
           "term": "Decomposition",
@@ -322,11 +394,14 @@
           "term": "Dadelfennu",
           "definition": "Torri problem fawr yn rhannau llai, mwy hylaw."
         }
-      }
+      },
+      "topics": [
+        "algorithms",
+        "computational_thinking"
+      ]
     },
     {
       "id": "encryption",
-      "topic": "security",
       "translations": {
         "en": {
           "term": "Encryption",
@@ -340,11 +415,13 @@
           "term": "Amgryptio",
           "definition": "Y broses o gymysgu data fel mai dim ond rhywun â'r allwedd gywir all ei ddarllen."
         }
-      }
+      },
+      "topics": [
+        "security"
+      ]
     },
     {
       "id": "firewall",
-      "topic": "security",
       "translations": {
         "en": {
           "term": "Firewall",
@@ -358,11 +435,13 @@
           "term": "Mur Gwarchod",
           "definition": "System sy'n monitro ac yn rheoli traffig rhwydwaith i rwystro mynediad heb awdurdod i gyfrifiadur neu rwydwaith."
         }
-      }
+      },
+      "topics": [
+        "security"
+      ]
     },
     {
       "id": "function",
-      "topic": "programming",
       "translations": {
         "en": {
           "term": "Function",
@@ -376,11 +455,33 @@
           "term": "Ffwythiant",
           "definition": "Bloc o god y gellir ei ailddefnyddio sy'n gwneud swydd benodol. Gallwch ei alw wrth ei enw pryd bynnag y bydd ei angen."
         }
+      },
+      "topics": [
+        "programming"
+      ]
+    },
+    {
+      "id": "generalisation",
+      "topics": [
+        "computational_thinking"
+      ],
+      "translations": {
+        "en": {
+          "term": "Generalisation",
+          "definition": "Using patterns found in one problem to create solutions that work for similar problems."
+        },
+        "pl": {
+          "term": "Uogólnianie",
+          "definition": "Wykorzystywanie wzorców znalezionych w jednym problemie do tworzenia rozwiązań działających dla podobnych problemów."
+        },
+        "cy": {
+          "term": "Cyffredinoli",
+          "definition": "Defnyddio patrymau a ganfuwyd mewn un broblem i greu atebion sy'n gweithio ar gyfer problemau tebyg."
+        }
       }
     },
     {
       "id": "ip-address",
-      "topic": "networking",
       "translations": {
         "en": {
           "term": "IP Address",
@@ -394,11 +495,13 @@
           "term": "Cyfeiriad IP",
           "definition": "Rhif unigryw sy'n adnabod dyfais ar rwydwaith — fel cyfeiriad tŷ, ond i gyfrifiaduron."
         }
-      }
+      },
+      "topics": [
+        "networking"
+      ]
     },
     {
       "id": "iteration",
-      "topic": "algorithms",
       "translations": {
         "en": {
           "term": "Iteration",
@@ -412,11 +515,33 @@
           "term": "Ailadrodd",
           "definition": "Ailadrodd set o gyfarwyddiadau nifer o weithiau neu nes i amod gael ei fodloni. Gelwir hefyd yn ddolen."
         }
+      },
+      "topics": [
+        "algorithms"
+      ]
+    },
+    {
+      "id": "logical_reasoning",
+      "topics": [
+        "computational_thinking"
+      ],
+      "translations": {
+        "en": {
+          "term": "Logical Reasoning",
+          "definition": "Using clear, step-by-step thinking to work through a problem and reach a conclusion."
+        },
+        "pl": {
+          "term": "Rozumowanie logiczne",
+          "definition": "Używanie jasnego, krok po kroku myślenia do rozwiązywania problemu i wyciągania wniosków."
+        },
+        "cy": {
+          "term": "Rhesymu Rhesymegol",
+          "definition": "Defnyddio meddwl clir, cam-wrth-gam i weithio drwy broblem a chyrraedd casgliad."
+        }
       }
     },
     {
       "id": "malware",
-      "topic": "security",
       "translations": {
         "en": {
           "term": "Malware",
@@ -430,11 +555,13 @@
           "term": "Meddalwedd Faleisus",
           "definition": "Meddalwedd wedi'i gynllunio i niweidio cyfrifiadur, dwyn data neu gael mynediad heb awdurdod. Mae'n cynnwys firysau, ransomware a spyware."
         }
-      }
+      },
+      "topics": [
+        "security"
+      ]
     },
     {
       "id": "packet",
-      "topic": "networking",
       "translations": {
         "en": {
           "term": "Packet",
@@ -448,11 +575,33 @@
           "term": "Pecyn",
           "definition": "Darn bach o ddata a anfonir ar draws rhwydwaith. Mae ffeiliau mawr yn cael eu rhannu'n awtomatig yn lawer o becynnau."
         }
+      },
+      "topics": [
+        "networking"
+      ]
+    },
+    {
+      "id": "pattern_recognition",
+      "topics": [
+        "computational_thinking"
+      ],
+      "translations": {
+        "en": {
+          "term": "Pattern Recognition",
+          "definition": "Identifying similarities or repeated features within problems to help solve them more efficiently."
+        },
+        "pl": {
+          "term": "Rozpoznawanie wzorców",
+          "definition": "Identyfikowanie podobieństw lub powtarzających się cech w problemach, aby rozwiązywać je sprawniej."
+        },
+        "cy": {
+          "term": "Adnabod Patrymau",
+          "definition": "Nodi tebygrwydd neu nodweddion sy'n ailadrodd mewn problemau er mwyn eu datrys yn fwy effeithlon."
+        }
       }
     },
     {
       "id": "phishing",
-      "topic": "security",
       "translations": {
         "en": {
           "term": "Phishing",
@@ -466,11 +615,13 @@
           "term": "Genweirio",
           "definition": "Tric lle mae ymosodwyr yn cymryd arnynt eu bod yn rhywun dibynadwy (e.e. banc) i ddwyn eich gwybodaeth bersonol."
         }
-      }
+      },
+      "topics": [
+        "security"
+      ]
     },
     {
       "id": "primary-key",
-      "topic": "data",
       "translations": {
         "en": {
           "term": "Primary Key",
@@ -484,11 +635,13 @@
           "term": "Allwedd Gynradd",
           "definition": "Gwerth unigryw sy'n cael ei ddefnyddio i adnabod pob cofnod mewn tabl. Ni all unrhyw ddau gofnod rannu'r un allwedd gynradd."
         }
-      }
+      },
+      "topics": [
+        "data"
+      ]
     },
     {
       "id": "protocol",
-      "topic": "networking",
       "translations": {
         "en": {
           "term": "Protocol",
@@ -502,11 +655,13 @@
           "term": "Protocol",
           "definition": "Set o reolau y cytunwyd arnynt sy'n rheoli sut mae data yn cael ei anfon a'i dderbyn dros rwydwaith."
         }
-      }
+      },
+      "topics": [
+        "networking"
+      ]
     },
     {
       "id": "query",
-      "topic": "data",
       "translations": {
         "en": {
           "term": "Query",
@@ -520,11 +675,13 @@
           "term": "Ymholiad",
           "definition": "Cwestiwn neu gais a anfonir at gronfa ddata i ddod o hyd i, ychwanegu, diweddaru neu ddileu data penodol."
         }
-      }
+      },
+      "topics": [
+        "data"
+      ]
     },
     {
       "id": "record",
-      "topic": "data",
       "translations": {
         "en": {
           "term": "Record",
@@ -538,11 +695,13 @@
           "term": "Cofnod",
           "definition": "Un rhes mewn tabl cronfa ddata, sy'n cynrychioli un eitem (e.e. un myfyriwr, un cynnyrch)."
         }
-      }
+      },
+      "topics": [
+        "data"
+      ]
     },
     {
       "id": "router",
-      "topic": "networking",
       "translations": {
         "en": {
           "term": "Router",
@@ -556,11 +715,13 @@
           "term": "Llwybrydd",
           "definition": "Dyfais sy'n cyfeirio traffig y rhyngrwyd rhwng rhwydweithiau, yn anfon data i'r lle cywir."
         }
-      }
+      },
+      "topics": [
+        "networking"
+      ]
     },
     {
       "id": "selection",
-      "topic": "algorithms",
       "translations": {
         "en": {
           "term": "Selection",
@@ -574,11 +735,13 @@
           "term": "Dewisiad",
           "definition": "Penderfyniad mewn rhaglen — mae'r cyfrifiadur yn gwirio amod ac yn dewis beth i'w wneud nesaf (e.e. if/else)."
         }
-      }
+      },
+      "topics": [
+        "algorithms"
+      ]
     },
     {
       "id": "sequence",
-      "topic": "algorithms",
       "translations": {
         "en": {
           "term": "Sequence",
@@ -592,11 +755,13 @@
           "term": "Dilyniant",
           "definition": "Cyfarwyddiadau sy'n cael eu cyflawni un ar ôl y llall, mewn trefn."
         }
-      }
+      },
+      "topics": [
+        "algorithms"
+      ]
     },
     {
       "id": "string",
-      "topic": "programming",
       "translations": {
         "en": {
           "term": "String",
@@ -610,11 +775,13 @@
           "term": "Llinyn",
           "definition": "Darn o destun wedi'i storio mewn rhaglen, er enghraifft \"Helo, Byd!\"."
         }
-      }
+      },
+      "topics": [
+        "programming"
+      ]
     },
     {
       "id": "table",
-      "topic": "data",
       "translations": {
         "en": {
           "term": "Table",
@@ -628,11 +795,13 @@
           "term": "Tabl",
           "definition": "Mewn cronfa ddata, mae data wedi'i drefnu mewn rhesi a cholofnau — gelwir y strwythur hwn yn dabl."
         }
-      }
+      },
+      "topics": [
+        "data"
+      ]
     },
     {
       "id": "variable",
-      "topic": "programming",
       "translations": {
         "en": {
           "term": "Variable",
@@ -646,7 +815,10 @@
           "term": "Newidyn",
           "definition": "Lle o'r enw mewn cof cyfrifiadur lle mae gwerth yn cael ei storio. Gall y gwerth newid tra mae'r rhaglen yn rhedeg."
         }
-      }
+      },
+      "topics": [
+        "programming"
+      ]
     }
   ]
 }
