@@ -1,0 +1,20 @@
+{
+  "id": "hexadecimal",
+  "topics": [
+    "data_representation"
+  ],
+  "translations": {
+    "en": {
+      "term": "Hexadecimal",
+      "definition": "A base-16 number system using digits 0–9 and letters A–F, often used to represent binary values more concisely."
+    },
+    "pl": {
+      "term": "Szesnastkowy",
+      "definition": "System liczbowy o podstawie 16, używający cyfr 0–9 i liter A–F, często stosowany do zwięzłego zapisu wartości binarnych."
+    },
+    "cy": {
+      "term": "Hecsadegol",
+      "definition": "System rhifau bas-16 sy'n defnyddio digidau 0–9 a llythrennau A–F, a ddefnyddir yn aml i gynrychioli gwerthoedd deuaidd yn fwy cryno."
+    }
+  }
+}

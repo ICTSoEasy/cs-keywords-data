@@ -1,0 +1,20 @@
+{
+  "id": "resolution",
+  "topics": [
+    "data_representation"
+  ],
+  "translations": {
+    "en": {
+      "term": "Resolution",
+      "definition": "The number of pixels in an image; a higher resolution means more detail but a larger file size."
+    },
+    "pl": {
+      "term": "Rozdzielczość",
+      "definition": "Liczba pikseli w obrazie; wyższa rozdzielczość oznacza więcej szczegółów, ale większy rozmiar pliku."
+    },
+    "cy": {
+      "term": "Cydraniad",
+      "definition": "Nifer y picselau mewn delwedd; mae cydraniad uwch yn golygu mwy o fanylion ond maint ffeil mwy."
+    }
+  }
+}

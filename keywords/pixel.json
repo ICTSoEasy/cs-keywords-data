@@ -1,0 +1,20 @@
+{
+  "id": "pixel",
+  "topics": [
+    "data_representation"
+  ],
+  "translations": {
+    "en": {
+      "term": "Pixel",
+      "definition": "The smallest element of a digital image, represented by colour values."
+    },
+    "pl": {
+      "term": "Piksel",
+      "definition": "Najmniejszy element obrazu cyfrowego, reprezentowany przez wartości kolorów."
+    },
+    "cy": {
+      "term": "Picsel",
+      "definition": "Elfen leiaf delwedd ddigidol, a gynrychiolir gan werthoedd lliw."
+    }
+  }
+}

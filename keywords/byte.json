@@ -1,0 +1,20 @@
+{
+  "id": "byte",
+  "topics": [
+    "data_representation"
+  ],
+  "translations": {
+    "en": {
+      "term": "Byte",
+      "definition": "A group of 8 bits, used to represent a single character or small value."
+    },
+    "pl": {
+      "term": "Bajt",
+      "definition": "Grupa 8 bitów, używana do reprezentowania pojedynczego znaku lub małej wartości."
+    },
+    "cy": {
+      "term": "Beit",
+      "definition": "Grŵp o 8 did, a ddefnyddir i gynrychioli un nod neu werth bach."
+    }
+  }
+}

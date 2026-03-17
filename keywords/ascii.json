@@ -1,0 +1,20 @@
+{
+  "id": "ascii",
+  "topics": [
+    "data_representation"
+  ],
+  "translations": {
+    "en": {
+      "term": "ASCII",
+      "definition": "A standard that assigns a unique number to each character so computers can store and share text."
+    },
+    "pl": {
+      "term": "ASCII",
+      "definition": "Standard przypisujący unikalny numer każdemu znakowi, dzięki czemu komputery mogą przechowywać i udostępniać tekst."
+    },
+    "cy": {
+      "term": "ASCII",
+      "definition": "Safon sy'n neilltuo rhif unigryw i bob nod fel y gall cyfrifiaduron storio a rhannu testun."
+    }
+  }
+}

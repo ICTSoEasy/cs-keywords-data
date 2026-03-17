@@ -1,0 +1,20 @@
+{
+  "id": "compression",
+  "topics": [
+    "data_representation"
+  ],
+  "translations": {
+    "en": {
+      "term": "Compression",
+      "definition": "Reducing the size of a file by encoding data more efficiently."
+    },
+    "pl": {
+      "term": "Kompresja",
+      "definition": "Zmniejszanie rozmiaru pliku poprzez bardziej efektywne kodowanie danych."
+    },
+    "cy": {
+      "term": "Cywasgiad",
+      "definition": "Lleihau maint ffeil drwy amgodio data yn fwy effeithlon."
+    }
+  }
+}

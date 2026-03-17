@@ -1,0 +1,20 @@
+{
+  "id": "denary",
+  "topics": [
+    "data_representation"
+  ],
+  "translations": {
+    "en": {
+      "term": "Denary",
+      "definition": "The standard number system using digits 0–9, also called decimal or base-10."
+    },
+    "pl": {
+      "term": "Dziesiętny",
+      "definition": "Standardowy system liczbowy używający cyfr 0–9, zwany też systemem dziesiętnym."
+    },
+    "cy": {
+      "term": "Degol",
+      "definition": "Y system rhifau safonol sy'n defnyddio digidau 0–9, a elwir hefyd yn ddegol neu fas-10."
+    }
+  }
+}

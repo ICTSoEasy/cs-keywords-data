@@ -1,0 +1,20 @@
+{
+  "id": "unicode",
+  "topics": [
+    "data_representation"
+  ],
+  "translations": {
+    "en": {
+      "term": "Unicode",
+      "definition": "A character encoding standard that supports characters from all the world's languages, extending beyond ASCII."
+    },
+    "pl": {
+      "term": "Unicode",
+      "definition": "Standard kodowania znaków obsługujący znaki ze wszystkich języków świata, rozszerzający ASCII."
+    },
+    "cy": {
+      "term": "Unicode",
+      "definition": "Safon amgodio nodau sy'n cefnogi nodau o holl ieithoedd y byd, gan ymestyn y tu hwnt i ASCII."
+    }
+  }
+}

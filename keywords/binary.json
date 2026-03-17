@@ -1,0 +1,20 @@
+{
+  "id": "binary",
+  "topics": [
+    "data_representation"
+  ],
+  "translations": {
+    "en": {
+      "term": "Binary",
+      "definition": "A number system that uses only 0 and 1 to represent all values."
+    },
+    "pl": {
+      "term": "Binarny",
+      "definition": "System liczbowy używający tylko 0 i 1 do reprezentowania wszystkich wartości."
+    },
+    "cy": {
+      "term": "Deuaidd",
+      "definition": "System rhifau sy'n defnyddio 0 ac 1 yn unig i gynrychioli pob gwerth."
+    }
+  }
+}

@@ -1,0 +1,20 @@
+{
+  "id": "lossless",
+  "topics": [
+    "data_representation"
+  ],
+  "translations": {
+    "en": {
+      "term": "Lossless Compression",
+      "definition": "A compression method that reduces file size without losing any data, so the original can be fully restored."
+    },
+    "pl": {
+      "term": "Kompresja bezstratna",
+      "definition": "Metoda kompresji zmniejszająca rozmiar pliku bez utraty danych, dzięki czemu oryginał można w pełni odtworzyć."
+    },
+    "cy": {
+      "term": "Cywasgiad Di-golled",
+      "definition": "Dull cywasgiad sy'n lleihau maint y ffeil heb golli unrhyw ddata, fel y gellir adfer y gwreiddiol yn llawn."
+    }
+  }
+}

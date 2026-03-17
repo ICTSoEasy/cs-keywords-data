@@ -1,0 +1,20 @@
+{
+  "id": "lossy",
+  "topics": [
+    "data_representation"
+  ],
+  "translations": {
+    "en": {
+      "term": "Lossy Compression",
+      "definition": "A compression method that permanently removes some data to reduce file size, resulting in lower quality."
+    },
+    "pl": {
+      "term": "Kompresja stratna",
+      "definition": "Metoda kompresji, która trwale usuwa część danych w celu zmniejszenia rozmiaru pliku, co skutkuje niższą jakością."
+    },
+    "cy": {
+      "term": "Cywasgiad Colledus",
+      "definition": "Dull cywasgiad sy'n tynnu rhywfaint o ddata yn barhaol i leihau maint y ffeil, gan arwain at ansawdd is."
+    }
+  }
+}
