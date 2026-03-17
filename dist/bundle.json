@@ -339,6 +339,87 @@
       ]
     },
     {
+      "id": "casting",
+      "topics": [
+        "programming"
+      ],
+      "translations": {
+        "en": {
+          "term": "Casting",
+          "definition": "Converting a value from one data type to another, for example turning a string into an integer."
+        },
+        "pl": {
+          "term": "Rzutowanie",
+          "definition": "Konwersja wartości z jednego typu danych na inny, na przykład zamiana ciągu znaków na liczbę całkowitą."
+        },
+        "cy": {
+          "term": "Castio",
+          "definition": "Trosi gwerth o un math data i un arall, er enghraifft troi llinyn yn gyfanrif."
+        }
+      }
+    },
+    {
+      "id": "condition",
+      "topics": [
+        "programming",
+        "computational_thinking"
+      ],
+      "translations": {
+        "en": {
+          "term": "Condition",
+          "definition": "An expression that evaluates to true or false, used to make decisions in a program."
+        },
+        "pl": {
+          "term": "Warunek",
+          "definition": "Wyrażenie, które przyjmuje wartość prawda lub fałsz, używane do podejmowania decyzji w programie."
+        },
+        "cy": {
+          "term": "Amod",
+          "definition": "Mynegiad sy'n gwerthuso i wir neu gau, a ddefnyddir i wneud penderfyniadau mewn rhaglen."
+        }
+      }
+    },
+    {
+      "id": "constant",
+      "topics": [
+        "programming"
+      ],
+      "translations": {
+        "en": {
+          "term": "Constant",
+          "definition": "A named value that is set once and cannot change while the program runs."
+        },
+        "pl": {
+          "term": "Stała",
+          "definition": "Nazwana wartość, która jest ustawiana raz i nie może się zmienić podczas działania programu."
+        },
+        "cy": {
+          "term": "Cysonyn",
+          "definition": "Gwerth a enwir sy'n cael ei osod unwaith ac na all newid tra bo'r rhaglen yn rhedeg."
+        }
+      }
+    },
+    {
+      "id": "data_type",
+      "topics": [
+        "programming"
+      ],
+      "translations": {
+        "en": {
+          "term": "Data Type",
+          "definition": "A classification that tells the computer what kind of value a variable holds, such as integer, string or boolean."
+        },
+        "pl": {
+          "term": "Typ danych",
+          "definition": "Klasyfikacja mówiąca komputerowi, jaki rodzaj wartości przechowuje zmienna, np. liczba całkowita, ciąg znaków lub wartość logiczna."
+        },
+        "cy": {
+          "term": "Math Data",
+          "definition": "Dosbarthiad sy'n dweud wrth y cyfrifiadur pa fath o werth mae newidyn yn ei ddal, fel cyfanrif, llinyn neu boolean."
+        }
+      }
+    },
+    {
       "id": "database",
       "translations": {
         "en": {
@@ -481,6 +562,26 @@
       }
     },
     {
+      "id": "input",
+      "topics": [
+        "programming"
+      ],
+      "translations": {
+        "en": {
+          "term": "Input",
+          "definition": "Data entered into a program by a user or another system."
+        },
+        "pl": {
+          "term": "Wejście",
+          "definition": "Dane wprowadzane do programu przez użytkownika lub inny system."
+        },
+        "cy": {
+          "term": "Mewnbwn",
+          "definition": "Data a gofnodir i mewn i raglen gan ddefnyddiwr neu system arall."
+        }
+      }
+    },
+    {
       "id": "ip-address",
       "translations": {
         "en": {
@@ -541,6 +642,26 @@
       }
     },
     {
+      "id": "loop",
+      "topics": [
+        "programming"
+      ],
+      "translations": {
+        "en": {
+          "term": "Loop",
+          "definition": "A block of code that repeats until a condition is met or a set number of times."
+        },
+        "pl": {
+          "term": "Pętla",
+          "definition": "Blok kodu, który powtarza się, dopóki warunek nie zostanie spełniony lub określoną liczbę razy."
+        },
+        "cy": {
+          "term": "Dolen",
+          "definition": "Bloc o god sy'n ailadrodd nes bod amod yn cael ei fodloni neu nifer penodol o weithiau."
+        }
+      }
+    },
+    {
       "id": "malware",
       "translations": {
         "en": {
@@ -561,6 +682,46 @@
       ]
     },
     {
+      "id": "operator",
+      "topics": [
+        "programming"
+      ],
+      "translations": {
+        "en": {
+          "term": "Operator",
+          "definition": "A symbol that performs an operation on values, such as + for addition or == for comparison."
+        },
+        "pl": {
+          "term": "Operator",
+          "definition": "Symbol wykonujący operację na wartościach, np. + dla dodawania lub == dla porównania."
+        },
+        "cy": {
+          "term": "Gweithredydd",
+          "definition": "Symbol sy'n perfformio gweithrediad ar werthoedd, fel + ar gyfer adio neu == ar gyfer cymharu."
+        }
+      }
+    },
+    {
+      "id": "output",
+      "topics": [
+        "programming"
+      ],
+      "translations": {
+        "en": {
+          "term": "Output",
+          "definition": "Information produced by a program, such as text displayed on screen."
+        },
+        "pl": {
+          "term": "Wyjście",
+          "definition": "Informacje produkowane przez program, np. tekst wyświetlany na ekranie."
+        },
+        "cy": {
+          "term": "Allbwn",
+          "definition": "Gwybodaeth a gynhyrchir gan raglen, fel testun a arddangosir ar y sgrin."
+        }
+      }
+    },
+    {
       "id": "packet",
       "translations": {
         "en": {
@@ -579,6 +740,26 @@
       "topics": [
         "networking"
       ]
+    },
+    {
+      "id": "parameter",
+      "topics": [
+        "programming"
+      ],
+      "translations": {
+        "en": {
+          "term": "Parameter",
+          "definition": "A variable passed into a function to give it data to work with."
+        },
+        "pl": {
+          "term": "Parametr",
+          "definition": "Zmienna przekazywana do funkcji, aby dostarczyć jej dane do pracy."
+        },
+        "cy": {
+          "term": "Paramedr",
+          "definition": "Newidyn a basir i mewn i ffwythiant i roi data iddo weithio ag ef."
+        }
+      }
     },
     {
       "id": "pattern_recognition",
@@ -699,6 +880,26 @@
       "topics": [
         "data"
       ]
+    },
+    {
+      "id": "return_value",
+      "topics": [
+        "programming"
+      ],
+      "translations": {
+        "en": {
+          "term": "Return Value",
+          "definition": "The data a function sends back after it has finished running."
+        },
+        "pl": {
+          "term": "Wartość zwracana",
+          "definition": "Dane, które funkcja odsyła po zakończeniu działania."
+        },
+        "cy": {
+          "term": "Gwerth Dychwelyd",
+          "definition": "Y data mae ffwythiant yn ei anfon yn ôl ar ôl iddo orffen rhedeg."
+        }
+      }
     },
     {
       "id": "router",
