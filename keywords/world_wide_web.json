@@ -1,0 +1,20 @@
+{
+  "id": "world_wide_web",
+  "topics": [
+    "networking"
+  ],
+  "translations": {
+    "en": {
+      "term": "World Wide Web",
+      "definition": "A system of web pages and resources accessed via the internet using a browser; often confused with the internet itself."
+    },
+    "pl": {
+      "term": "World Wide Web",
+      "definition": "System stron internetowych i zasobów dostępnych przez internet za pomocą przeglądarki; często mylony z samym internetem."
+    },
+    "cy": {
+      "term": "Y We Fyd Eang",
+      "definition": "System o dudalennau gwe ac adnoddau y cyrchir atynt drwy'r rhyngrwyd gan ddefnyddio porwr; yn aml yn cael ei gymysgu â'r rhyngrwyd ei hun."
+    }
+  }
+}

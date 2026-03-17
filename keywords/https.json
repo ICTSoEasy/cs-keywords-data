@@ -1,0 +1,21 @@
+{
+  "id": "https",
+  "topics": [
+    "networking",
+    "security"
+  ],
+  "translations": {
+    "en": {
+      "term": "HTTPS",
+      "definition": "A secure version of HTTP that encrypts data sent between a browser and a website to protect it from interception."
+    },
+    "pl": {
+      "term": "HTTPS",
+      "definition": "Bezpieczna wersja HTTP szyfrująca dane przesyłane między przeglądarką a stroną internetową, chroniąca je przed przechwyceniem."
+    },
+    "cy": {
+      "term": "HTTPS",
+      "definition": "Fersiwn diogel o HTTP sy'n amgryptio data a anfonir rhwng porwr a gwefan i'w amddiffyn rhag ei ryng-gipio."
+    }
+  }
+}

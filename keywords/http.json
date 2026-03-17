@@ -1,0 +1,20 @@
+{
+  "id": "http",
+  "topics": [
+    "networking"
+  ],
+  "translations": {
+    "en": {
+      "term": "HTTP",
+      "definition": "HyperText Transfer Protocol; the set of rules for transferring web pages over the internet."
+    },
+    "pl": {
+      "term": "HTTP",
+      "definition": "Protokół przesyłania hipertekstu; zestaw reguł przesyłania stron internetowych przez internet."
+    },
+    "cy": {
+      "term": "HTTP",
+      "definition": "Protocol Trosglwyddo HyperDestun; y set o reolau ar gyfer trosglwyddo tudalennau gwe dros y rhyngrwyd."
+    }
+  }
+}

@@ -1,0 +1,20 @@
+{
+  "id": "dns",
+  "topics": [
+    "networking"
+  ],
+  "translations": {
+    "en": {
+      "term": "DNS",
+      "definition": "Domain Name System; translates human-readable website addresses into IP addresses computers can use."
+    },
+    "pl": {
+      "term": "DNS",
+      "definition": "System nazw domenowych; tłumaczy czytelne dla człowieka adresy stron internetowych na adresy IP używane przez komputery."
+    },
+    "cy": {
+      "term": "DNS",
+      "definition": "System Enwau Parth; yn cyfieithu cyfeiriadau gwefannau darllenadwy i bobl yn gyfeiriadau IP y gall cyfrifiaduron eu defnyddio."
+    }
+  }
+}

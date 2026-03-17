@@ -1,0 +1,20 @@
+{
+  "id": "packet_switching",
+  "topics": [
+    "networking"
+  ],
+  "translations": {
+    "en": {
+      "term": "Packet Switching",
+      "definition": "A method of sending data by breaking it into small packets that travel independently across a network and are reassembled at the destination."
+    },
+    "pl": {
+      "term": "Przełączanie pakietów",
+      "definition": "Metoda przesyłania danych polegająca na podzieleniu ich na małe pakiety, które niezależnie przemierzają sieć i są składane w miejscu docelowym."
+    },
+    "cy": {
+      "term": "Newid Pecynnau",
+      "definition": "Dull o anfon data drwy ei dorri'n becynnau bach sy'n teithio'n annibynnol ar draws rhwydwaith ac yn cael eu hailgydosod yn y cyrchfan."
+    }
+  }
+}

@@ -1,0 +1,20 @@
+{
+  "id": "network",
+  "topics": [
+    "networking"
+  ],
+  "translations": {
+    "en": {
+      "term": "Network",
+      "definition": "Two or more computers connected together to share data and resources."
+    },
+    "pl": {
+      "term": "Sieć",
+      "definition": "Dwa lub więcej komputerów połączonych ze sobą w celu współdzielenia danych i zasobów."
+    },
+    "cy": {
+      "term": "Rhwydwaith",
+      "definition": "Dau neu fwy o gyfrifiaduron wedi'u cysylltu â'i gilydd i rannu data ac adnoddau."
+    }
+  }
+}

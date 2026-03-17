@@ -1,0 +1,20 @@
+{
+  "id": "lan",
+  "topics": [
+    "networking"
+  ],
+  "translations": {
+    "en": {
+      "term": "LAN",
+      "definition": "A Local Area Network; connects devices within a small area such as a school building or office."
+    },
+    "pl": {
+      "term": "LAN",
+      "definition": "Sieć lokalna; łączy urządzenia w małym obszarze, np. w budynku szkolnym lub biurze."
+    },
+    "cy": {
+      "term": "LAN",
+      "definition": "Rhwydwaith Ardal Leol; yn cysylltu dyfeisiau o fewn ardal fach fel adeilad ysgol neu swyddfa."
+    }
+  }
+}

@@ -1,0 +1,20 @@
+{
+  "id": "internet",
+  "topics": [
+    "networking"
+  ],
+  "translations": {
+    "en": {
+      "term": "Internet",
+      "definition": "A global system of interconnected computer networks that allows data to be shared worldwide."
+    },
+    "pl": {
+      "term": "Internet",
+      "definition": "Globalny system połączonych sieci komputerowych umożliwiający wymianę danych na całym świecie."
+    },
+    "cy": {
+      "term": "Rhyngrwyd",
+      "definition": "System fyd-eang o rwydweithiau cyfrifiadurol cysylltiedig sy'n caniatáu rhannu data ledled y byd."
+    }
+  }
+}

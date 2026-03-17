@@ -1,0 +1,20 @@
+{
+  "id": "topology",
+  "topics": [
+    "networking"
+  ],
+  "translations": {
+    "en": {
+      "term": "Network Topology",
+      "definition": "The way devices in a network are physically or logically arranged and connected to each other."
+    },
+    "pl": {
+      "term": "Topologia sieci",
+      "definition": "Sposób fizycznego lub logicznego rozmieszczenia i połączenia urządzeń w sieci."
+    },
+    "cy": {
+      "term": "Topoleg Rhwydwaith",
+      "definition": "Y ffordd y mae dyfeisiau mewn rhwydwaith wedi'u trefnu a'u cysylltu â'i gilydd yn gorfforol neu yn rhesymegol."
+    }
+  }
+}

@@ -1,0 +1,20 @@
+{
+  "id": "wan",
+  "topics": [
+    "networking"
+  ],
+  "translations": {
+    "en": {
+      "term": "WAN",
+      "definition": "A Wide Area Network; connects devices across large geographical areas, such as the internet."
+    },
+    "pl": {
+      "term": "WAN",
+      "definition": "Sieć rozległa; łączy urządzenia na dużych obszarach geograficznych, np. internet."
+    },
+    "cy": {
+      "term": "WAN",
+      "definition": "Rhwydwaith Ardal Eang; yn cysylltu dyfeisiau ar draws ardaloedd daearyddol mawr, fel y rhyngrwyd."
+    }
+  }
+}
