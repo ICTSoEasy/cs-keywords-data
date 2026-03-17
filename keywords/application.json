@@ -1,0 +1,20 @@
+{
+  "id": "application",
+  "topics": [
+    "software"
+  ],
+  "translations": {
+    "en": {
+      "term": "Application",
+      "definition": "A program designed to help users perform a specific task, such as a word processor or web browser."
+    },
+    "pl": {
+      "term": "Aplikacja",
+      "definition": "Program zaprojektowany, aby pomóc użytkownikom wykonać określone zadanie, np. edytor tekstu lub przeglądarka internetowa."
+    },
+    "cy": {
+      "term": "Cymhwysiad",
+      "definition": "Rhaglen wedi'i chynllunio i helpu defnyddwyr i gyflawni tasg benodol, fel prosesydd geiriau neu borwr gwe."
+    }
+  }
+}

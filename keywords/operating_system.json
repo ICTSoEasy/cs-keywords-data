@@ -1,0 +1,20 @@
+{
+  "id": "operating_system",
+  "topics": [
+    "software"
+  ],
+  "translations": {
+    "en": {
+      "term": "Operating System",
+      "definition": "Software that manages a computer's hardware and provides services for other programs to run."
+    },
+    "pl": {
+      "term": "System operacyjny",
+      "definition": "Oprogramowanie zarządzające sprzętem komputera i zapewniające usługi umożliwiające działanie innych programów."
+    },
+    "cy": {
+      "term": "System Weithredu",
+      "definition": "Meddalwedd sy'n rheoli caledwedd cyfrifiadur ac yn darparu gwasanaethau i raglenni eraill redeg."
+    }
+  }
+}

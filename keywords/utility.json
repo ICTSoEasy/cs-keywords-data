@@ -1,0 +1,20 @@
+{
+  "id": "utility",
+  "topics": [
+    "software"
+  ],
+  "translations": {
+    "en": {
+      "term": "Utility Software",
+      "definition": "Software that helps maintain, manage or protect a computer system, such as antivirus or disk cleanup tools."
+    },
+    "pl": {
+      "term": "Oprogramowanie narzędziowe",
+      "definition": "Oprogramowanie pomagające utrzymać, zarządzać lub chronić system komputerowy, np. programy antywirusowe lub do czyszczenia dysku."
+    },
+    "cy": {
+      "term": "Meddalwedd Cyfleustod",
+      "definition": "Meddalwedd sy'n helpu cynnal, rheoli neu amddiffyn system gyfrifiadurol, fel offer gwrth-feirws neu lanhau disg."
+    }
+  }
+}

@@ -1,0 +1,21 @@
+{
+  "id": "high_level_language",
+  "topics": [
+    "software",
+    "programming"
+  ],
+  "translations": {
+    "en": {
+      "term": "High-Level Language",
+      "definition": "A programming language that uses human-readable syntax and is independent of the hardware it runs on."
+    },
+    "pl": {
+      "term": "Język wysokiego poziomu",
+      "definition": "Język programowania używający składni czytelnej dla człowieka, niezależny od sprzętu, na którym działa."
+    },
+    "cy": {
+      "term": "Iaith Lefel Uchel",
+      "definition": "Iaith raglennu sy'n defnyddio cystrawen ddarllenadwy i bobl ac sy'n annibynnol ar y caledwedd y mae'n rhedeg arno."
+    }
+  }
+}

@@ -1,0 +1,20 @@
+{
+  "id": "compiler",
+  "topics": [
+    "software"
+  ],
+  "translations": {
+    "en": {
+      "term": "Compiler",
+      "definition": "A program that translates an entire high-level language program into machine code before it runs."
+    },
+    "pl": {
+      "term": "Kompilator",
+      "definition": "Program tłumaczący cały program napisany w języku wysokiego poziomu na kod maszynowy przed jego uruchomieniem."
+    },
+    "cy": {
+      "term": "Casglwr",
+      "definition": "Rhaglen sy'n cyfieithu rhaglen iaith lefel uchel gyfan i god peiriant cyn iddi redeg."
+    }
+  }
+}

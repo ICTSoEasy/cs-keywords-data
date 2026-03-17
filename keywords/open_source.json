@@ -1,0 +1,21 @@
+{
+  "id": "open_source",
+  "topics": [
+    "software",
+    "ethics"
+  ],
+  "translations": {
+    "en": {
+      "term": "Open Source",
+      "definition": "Software whose source code is freely available for anyone to view, use, modify and share."
+    },
+    "pl": {
+      "term": "Oprogramowanie open source",
+      "definition": "Oprogramowanie, którego kod źródłowy jest dostępny dla każdego do przeglądania, używania, modyfikowania i udostępniania."
+    },
+    "cy": {
+      "term": "Cod Agored",
+      "definition": "Meddalwedd y mae ei god ffynhonnell ar gael yn rhydd i unrhyw un ei weld, ei ddefnyddio, ei addasu a'i rannu."
+    }
+  }
+}

@@ -1,0 +1,21 @@
+{
+  "id": "low_level_language",
+  "topics": [
+    "software",
+    "programming"
+  ],
+  "translations": {
+    "en": {
+      "term": "Low-Level Language",
+      "definition": "A programming language that is closely tied to a specific processor's instruction set, such as assembly language."
+    },
+    "pl": {
+      "term": "Język niskiego poziomu",
+      "definition": "Język programowania ściśle powiązany z zestawem instrukcji konkretnego procesora, np. język asemblera."
+    },
+    "cy": {
+      "term": "Iaith Lefel Isel",
+      "definition": "Iaith raglennu sydd wedi'i chysylltu'n agos â set gyfarwyddiadau prosesydd penodol, fel iaith gynulliad."
+    }
+  }
+}

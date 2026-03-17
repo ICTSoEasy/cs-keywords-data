@@ -1,0 +1,21 @@
+{
+  "id": "proprietary",
+  "topics": [
+    "software",
+    "ethics"
+  ],
+  "translations": {
+    "en": {
+      "term": "Proprietary Software",
+      "definition": "Software that is owned by a company; users cannot view or modify the source code and must agree to a licence."
+    },
+    "pl": {
+      "term": "Oprogramowanie własnościowe",
+      "definition": "Oprogramowanie będące własnością firmy; użytkownicy nie mogą przeglądać ani modyfikować kodu źródłowego i muszą zaakceptować licencję."
+    },
+    "cy": {
+      "term": "Meddalwedd Perchnogol",
+      "definition": "Meddalwedd sydd dan berchnogaeth cwmni; ni all defnyddwyr weld na newid y cod ffynhonnell a rhaid cytuno i drwydded."
+    }
+  }
+}

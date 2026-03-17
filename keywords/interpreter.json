@@ -1,0 +1,20 @@
+{
+  "id": "interpreter",
+  "topics": [
+    "software"
+  ],
+  "translations": {
+    "en": {
+      "term": "Interpreter",
+      "definition": "A program that translates and runs a high-level language program one line at a time."
+    },
+    "pl": {
+      "term": "Interpreter",
+      "definition": "Program, który tłumaczy i uruchamia program w języku wysokiego poziomu linijka po linijce."
+    },
+    "cy": {
+      "term": "Dehonglydd",
+      "definition": "Rhaglen sy'n cyfieithu ac yn rhedeg rhaglen iaith lefel uchel un llinell ar y tro."
+    }
+  }
+}

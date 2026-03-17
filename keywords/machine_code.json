@@ -1,0 +1,21 @@
+{
+  "id": "machine_code",
+  "topics": [
+    "software",
+    "hardware"
+  ],
+  "translations": {
+    "en": {
+      "term": "Machine Code",
+      "definition": "Instructions written in binary that a CPU can directly understand and execute."
+    },
+    "pl": {
+      "term": "Kod maszynowy",
+      "definition": "Instrukcje zapisane binarnie, które procesor może bezpośrednio zrozumieć i wykonać."
+    },
+    "cy": {
+      "term": "Cod Peiriant",
+      "definition": "Cyfarwyddiadau wedi'u hysgrifennu mewn deuaidd y gall CPU eu deall a'u gweithredu yn uniongyrchol."
+    }
+  }
+}
