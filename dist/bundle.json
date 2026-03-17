@@ -219,6 +219,47 @@
       }
     },
     {
+      "id": "agile",
+      "topics": [
+        "software_development"
+      ],
+      "translations": {
+        "en": {
+          "term": "Agile",
+          "definition": "A flexible software development approach that works in short cycles, regularly reviewing and improving the product."
+        },
+        "pl": {
+          "term": "Agile",
+          "definition": "Elastyczne podejście do tworzenia oprogramowania, które działa w krótkich cyklach, regularnie przeglądając i ulepszając produkt."
+        },
+        "cy": {
+          "term": "Agile",
+          "definition": "Dull datblygu meddalwedd hyblyg sy'n gweithio mewn cylchoedd byr, gan adolygu a gwella'r cynnyrch yn rheolaidd."
+        }
+      }
+    },
+    {
+      "id": "ai_ethics",
+      "topics": [
+        "ethics",
+        "ai"
+      ],
+      "translations": {
+        "en": {
+          "term": "AI Ethics",
+          "definition": "The study of moral questions raised by artificial intelligence, such as bias, fairness, accountability and the impact on jobs."
+        },
+        "pl": {
+          "term": "Etyka AI",
+          "definition": "Badanie kwestii moralnych związanych ze sztuczną inteligencją, takich jak stronniczość, sprawiedliwość, odpowiedzialność i wpływ na zatrudnienie."
+        },
+        "cy": {
+          "term": "Moeseg AI",
+          "definition": "Astudiaeth o gwestiynau moesol a godir gan ddeallusrwydd artiffisial, fel tuedd, tegwch, atebolrwydd ac effaith ar swyddi."
+        }
+      }
+    },
+    {
       "id": "algorithm",
       "translations": {
         "en": {
@@ -395,6 +436,26 @@
         "cy": {
           "term": "Deuaidd",
           "definition": "System rhifau sy'n defnyddio 0 ac 1 yn unig i gynrychioli pob gwerth."
+        }
+      }
+    },
+    {
+      "id": "binary_tree",
+      "topics": [
+        "data_structures"
+      ],
+      "translations": {
+        "en": {
+          "term": "Binary Tree",
+          "definition": "A tree where each node has at most two children, referred to as the left and right child."
+        },
+        "pl": {
+          "term": "Drzewo binarne",
+          "definition": "Drzewo, w którym każdy węzeł ma co najwyżej dwoje dzieci, zwanych lewym i prawym dzieckiem."
+        },
+        "cy": {
+          "term": "Coeden Ddeuaidd",
+          "definition": "Coeden lle mae gan bob nod o leiaf ddau blentyn, a elwir yn blentyn chwith a phlentyn de."
         }
       }
     },
@@ -601,6 +662,26 @@
       }
     },
     {
+      "id": "copyright",
+      "topics": [
+        "ethics"
+      ],
+      "translations": {
+        "en": {
+          "term": "Copyright",
+          "definition": "A legal right that protects creative work such as software, music or text from being copied without permission."
+        },
+        "pl": {
+          "term": "Prawa autorskie",
+          "definition": "Prawo chroniące twórczość, taką jak oprogramowanie, muzyka czy tekst, przed kopiowaniem bez zezwolenia."
+        },
+        "cy": {
+          "term": "Hawlfraint",
+          "definition": "Hawl gyfreithiol sy'n amddiffyn gwaith creadigol fel meddalwedd, cerddoriaeth neu destun rhag cael ei gopïo heb ganiatâd."
+        }
+      }
+    },
+    {
       "id": "cpu",
       "topics": [
         "hardware"
@@ -617,6 +698,27 @@
         "cy": {
           "term": "CPU",
           "definition": "Yr Uned Brosesu Ganolog; y prif sglodyn sy'n cyflawni cyfarwyddiadau mewn cyfrifiadur."
+        }
+      }
+    },
+    {
+      "id": "data_protection",
+      "topics": [
+        "ethics",
+        "security"
+      ],
+      "translations": {
+        "en": {
+          "term": "Data Protection",
+          "definition": "Laws and practices that control how personal data is collected, stored and used to protect people's privacy."
+        },
+        "pl": {
+          "term": "Ochrona danych",
+          "definition": "Przepisy i praktyki kontrolujące sposób zbierania, przechowywania i wykorzystywania danych osobowych w celu ochrony prywatności."
+        },
+        "cy": {
+          "term": "Diogelu Data",
+          "definition": "Deddfau ac arferion sy'n rheoli sut y caiff data personol ei gasglu, ei storio a'i ddefnyddio i amddiffyn preifatrwydd pobl."
         }
       }
     },
@@ -723,6 +825,26 @@
       }
     },
     {
+      "id": "digital_divide",
+      "topics": [
+        "ethics"
+      ],
+      "translations": {
+        "en": {
+          "term": "Digital Divide",
+          "definition": "The gap between people who have access to technology and the internet and those who do not."
+        },
+        "pl": {
+          "term": "Wykluczenie cyfrowe",
+          "definition": "Przepaść między ludźmi mającymi dostęp do technologii i internetu a tymi, którzy go nie mają."
+        },
+        "cy": {
+          "term": "Y Rhaniad Digidol",
+          "definition": "Y bwlch rhwng pobl sydd â mynediad at dechnoleg a'r rhyngrwyd a'r rhai nad oes ganddynt."
+        }
+      }
+    },
+    {
       "id": "dns",
       "topics": [
         "networking"
@@ -761,6 +883,26 @@
       "topics": [
         "security"
       ]
+    },
+    {
+      "id": "environmental_impact",
+      "topics": [
+        "ethics"
+      ],
+      "translations": {
+        "en": {
+          "term": "Environmental Impact",
+          "definition": "The effect that manufacturing, using and disposing of technology has on the environment, including energy use and e-waste."
+        },
+        "pl": {
+          "term": "Wpływ na środowisko",
+          "definition": "Wpływ produkcji, użytkowania i utylizacji technologii na środowisko, w tym zużycie energii i e-odpady."
+        },
+        "cy": {
+          "term": "Effaith Amgylcheddol",
+          "definition": "Yr effaith y mae cynhyrchu, defnyddio a chael gwared ar dechnoleg yn ei chael ar yr amgylchedd, gan gynnwys defnydd ynni a gwastraff e."
+        }
+      }
     },
     {
       "id": "fetch_decode_execute",
@@ -823,6 +965,26 @@
       ]
     },
     {
+      "id": "gdpr",
+      "topics": [
+        "ethics"
+      ],
+      "translations": {
+        "en": {
+          "term": "GDPR",
+          "definition": "General Data Protection Regulation; a UK and EU law that gives people rights over their personal data and requires organisations to handle it responsibly."
+        },
+        "pl": {
+          "term": "RODO",
+          "definition": "Ogólne rozporządzenie o ochronie danych; prawo UE i Wielkiej Brytanii przyznające ludziom prawa do ich danych osobowych i wymagające od organizacji odpowiedzialnego postępowania z nimi."
+        },
+        "cy": {
+          "term": "GDPR",
+          "definition": "Rheoliad Diogelu Data Cyffredinol; deddf y DU a'r UE sy'n rhoi hawliau i bobl dros eu data personol ac yn ei gwneud yn ofynnol i sefydliadau ei drin yn gyfrifol."
+        }
+      }
+    },
+    {
       "id": "generalisation",
       "topics": [
         "computational_thinking"
@@ -859,6 +1021,46 @@
         "cy": {
           "term": "GPU",
           "definition": "Yr Uned Brosesu Graffeg; sglodyn wedi'i gynllunio i drin delweddau, fideo a graffeg 3D."
+        }
+      }
+    },
+    {
+      "id": "graph",
+      "topics": [
+        "data_structures"
+      ],
+      "translations": {
+        "en": {
+          "term": "Graph",
+          "definition": "A data structure made up of nodes (vertices) connected by edges; can be used to model networks and relationships."
+        },
+        "pl": {
+          "term": "Graf",
+          "definition": "Struktura danych złożona z węzłów (wierzchołków) połączonych krawędziami; może być używana do modelowania sieci i relacji."
+        },
+        "cy": {
+          "term": "Graff",
+          "definition": "Strwythur data wedi'i wneud o nodau (fertigau) wedi'u cysylltu gan ymylon; gellir ei ddefnyddio i fodelu rhwydweithiau a pherthnasoedd."
+        }
+      }
+    },
+    {
+      "id": "hash_table",
+      "topics": [
+        "data_structures"
+      ],
+      "translations": {
+        "en": {
+          "term": "Hash Table",
+          "definition": "A data structure that stores key-value pairs, using a hash function to quickly find where each value is stored."
+        },
+        "pl": {
+          "term": "Tablica mieszająca",
+          "definition": "Struktura danych przechowująca pary klucz-wartość, używająca funkcji skrótu do szybkiego znajdowania miejsca przechowywania każdej wartości."
+        },
+        "cy": {
+          "term": "Tabl Hash",
+          "definition": "Strwythur data sy'n storio parau allwedd-gwerth, gan ddefnyddio ffwythiant hash i ddod o hyd yn gyflym i ble mae pob gwerth wedi'i storio."
         }
       }
     },
@@ -1085,6 +1287,47 @@
       }
     },
     {
+      "id": "linked_list",
+      "topics": [
+        "data_structures"
+      ],
+      "translations": {
+        "en": {
+          "term": "Linked List",
+          "definition": "A data structure made up of nodes, where each node stores a value and a pointer to the next node in the sequence."
+        },
+        "pl": {
+          "term": "Lista powiązana",
+          "definition": "Struktura danych złożona z węzłów, gdzie każdy węzeł przechowuje wartość i wskaźnik do następnego węzła w sekwencji."
+        },
+        "cy": {
+          "term": "Rhestr Gysylltiedig",
+          "definition": "Strwythur data wedi'i wneud o nodau, lle mae pob nod yn storio gwerth a phwyntydd i'r nod nesaf yn y dilyniant."
+        }
+      }
+    },
+    {
+      "id": "logic_error",
+      "topics": [
+        "software_development",
+        "programming"
+      ],
+      "translations": {
+        "en": {
+          "term": "Logic Error",
+          "definition": "A mistake in the design of a program that causes it to run but produce incorrect results."
+        },
+        "pl": {
+          "term": "Błąd logiczny",
+          "definition": "Błąd w projekcie programu, który powoduje jego uruchomienie, ale daje nieprawidłowe wyniki."
+        },
+        "cy": {
+          "term": "Gwall Rhesymeg",
+          "definition": "Camgymeriad yn nyluniad rhaglen sy'n achosi iddi redeg ond cynhyrchu canlyniadau anghywir."
+        }
+      }
+    },
+    {
       "id": "logic_gate",
       "topics": [
         "logic"
@@ -1227,6 +1470,26 @@
       }
     },
     {
+      "id": "maintainability",
+      "topics": [
+        "software_development"
+      ],
+      "translations": {
+        "en": {
+          "term": "Maintainability",
+          "definition": "How easily a program can be understood, updated and fixed by developers over time."
+        },
+        "pl": {
+          "term": "Utrzymywalność",
+          "definition": "Łatwość, z jaką programiści mogą rozumieć, aktualizować i naprawiać program w czasie."
+        },
+        "cy": {
+          "term": "Cynaliadwyedd",
+          "definition": "Pa mor hawdd y gall datblygwyr ddeall, diweddaru a thrwsio rhaglen dros amser."
+        }
+      }
+    },
+    {
       "id": "malware",
       "translations": {
         "en": {
@@ -1364,6 +1627,27 @@
         "cy": {
           "term": "Cod Agored",
           "definition": "Meddalwedd y mae ei god ffynhonnell ar gael yn rhydd i unrhyw un ei weld, ei ddefnyddio, ei addasu a'i rannu."
+        }
+      }
+    },
+    {
+      "id": "open_source_licence",
+      "topics": [
+        "ethics",
+        "software"
+      ],
+      "translations": {
+        "en": {
+          "term": "Open Source Licence",
+          "definition": "A licence that allows software to be freely used, modified and shared, with conditions depending on the specific licence."
+        },
+        "pl": {
+          "term": "Licencja open source",
+          "definition": "Licencja zezwalająca na swobodne używanie, modyfikowanie i udostępnianie oprogramowania, z warunkami zależnymi od konkretnej licencji."
+        },
+        "cy": {
+          "term": "Trwydded Cod Agored",
+          "definition": "Trwydded sy'n caniatáu defnyddio, addasu a rhannu meddalwedd yn rhydd, gydag amodau yn dibynnu ar y drwydded benodol."
         }
       }
     },
@@ -1588,6 +1872,27 @@
       }
     },
     {
+      "id": "pointer",
+      "topics": [
+        "data_structures",
+        "programming"
+      ],
+      "translations": {
+        "en": {
+          "term": "Pointer",
+          "definition": "A variable that stores the memory address of another variable or data structure."
+        },
+        "pl": {
+          "term": "Wskaźnik",
+          "definition": "Zmienna przechowująca adres pamięci innej zmiennej lub struktury danych."
+        },
+        "cy": {
+          "term": "Pwyntydd",
+          "definition": "Newidyn sy'n storio cyfeiriad cof newidyn neu strwythur data arall."
+        }
+      }
+    },
+    {
       "id": "primary-key",
       "translations": {
         "en": {
@@ -1606,6 +1911,27 @@
       "topics": [
         "data"
       ]
+    },
+    {
+      "id": "privacy",
+      "topics": [
+        "ethics",
+        "security"
+      ],
+      "translations": {
+        "en": {
+          "term": "Privacy",
+          "definition": "The right of individuals to control what personal information is collected about them and how it is used."
+        },
+        "pl": {
+          "term": "Prywatność",
+          "definition": "Prawo jednostek do kontrolowania, jakie informacje osobiste są o nich zbierane i jak są wykorzystywane."
+        },
+        "cy": {
+          "term": "Preifatrwydd",
+          "definition": "Hawl unigolion i reoli pa wybodaeth bersonol sy'n cael ei chasglu amdanynt a sut y caiff ei defnyddio."
+        }
+      }
     },
     {
       "id": "proprietary",
@@ -1667,6 +1993,26 @@
       "topics": [
         "data"
       ]
+    },
+    {
+      "id": "queue",
+      "topics": [
+        "data_structures"
+      ],
+      "translations": {
+        "en": {
+          "term": "Queue",
+          "definition": "A data structure where items are added at one end and removed from the other, following a first-in, first-out (FIFO) order."
+        },
+        "pl": {
+          "term": "Kolejka",
+          "definition": "Struktura danych, w której elementy są dodawane na jednym końcu i usuwane z drugiego, zgodnie z kolejnością pierwszy na wejściu, pierwszy na wyjściu (FIFO)."
+        },
+        "cy": {
+          "term": "Ciw",
+          "definition": "Strwythur data lle ychwanegir eitemau ar un pen a'u tynnu o'r llall, yn dilyn trefn cyntaf i mewn, cyntaf allan (FIFO)."
+        }
+      }
     },
     {
       "id": "ram",
@@ -1789,6 +2135,27 @@
       ]
     },
     {
+      "id": "runtime_error",
+      "topics": [
+        "software_development",
+        "programming"
+      ],
+      "translations": {
+        "en": {
+          "term": "Runtime Error",
+          "definition": "An error that occurs while a program is running, causing it to crash or behave unexpectedly."
+        },
+        "pl": {
+          "term": "Błąd wykonania",
+          "definition": "Błąd występujący podczas działania programu, powodujący jego awarię lub nieoczekiwane zachowanie."
+        },
+        "cy": {
+          "term": "Gwall Amser Rhedeg",
+          "definition": "Gwall sy'n digwydd tra bo rhaglen yn rhedeg, gan achosi iddi gwympo neu ymddwyn yn annisgwyl."
+        }
+      }
+    },
+    {
       "id": "selection",
       "translations": {
         "en": {
@@ -1827,6 +2194,46 @@
       "topics": [
         "algorithms"
       ]
+    },
+    {
+      "id": "software_development_lifecycle",
+      "topics": [
+        "software_development"
+      ],
+      "translations": {
+        "en": {
+          "term": "Software Development Lifecycle",
+          "definition": "The stages a software project goes through from initial idea to deployment and maintenance."
+        },
+        "pl": {
+          "term": "Cykl życia oprogramowania",
+          "definition": "Etapy, przez które przechodzi projekt oprogramowania od pomysłu do wdrożenia i konserwacji."
+        },
+        "cy": {
+          "term": "Cylch Bywyd Datblygu Meddalwedd",
+          "definition": "Y camau y mae prosiect meddalwedd yn mynd drwyddynt o'r syniad cychwynnol i'w ddefnyddio a'i gynnal."
+        }
+      }
+    },
+    {
+      "id": "stack",
+      "topics": [
+        "data_structures"
+      ],
+      "translations": {
+        "en": {
+          "term": "Stack",
+          "definition": "A data structure where items are added and removed from the same end, following a last-in, first-out (LIFO) order."
+        },
+        "pl": {
+          "term": "Stos",
+          "definition": "Struktura danych, w której elementy są dodawane i usuwane z tego samego końca, zgodnie z kolejnością ostatni na wejściu, pierwszy na wyjściu (LIFO)."
+        },
+        "cy": {
+          "term": "Pentwr",
+          "definition": "Strwythur data lle ychwanegir ac y tynnir eitemau o'r un pen, yn dilyn trefn olaf i mewn, cyntaf allan (LIFO)."
+        }
+      }
     },
     {
       "id": "storage",
@@ -1869,6 +2276,27 @@
       ]
     },
     {
+      "id": "syntax_error",
+      "topics": [
+        "software_development",
+        "programming"
+      ],
+      "translations": {
+        "en": {
+          "term": "Syntax Error",
+          "definition": "A mistake in the code that breaks the rules of the programming language, preventing the program from running."
+        },
+        "pl": {
+          "term": "Błąd składniowy",
+          "definition": "Błąd w kodzie naruszający reguły języka programowania, uniemożliwiający uruchomienie programu."
+        },
+        "cy": {
+          "term": "Gwall Cystrawen",
+          "definition": "Camgymeriad yn y cod sy'n torri rheolau'r iaith raglennu, gan atal y rhaglen rhag rhedeg."
+        }
+      }
+    },
+    {
       "id": "table",
       "translations": {
         "en": {
@@ -1889,6 +2317,46 @@
       ]
     },
     {
+      "id": "test_data",
+      "topics": [
+        "software_development"
+      ],
+      "translations": {
+        "en": {
+          "term": "Test Data",
+          "definition": "Values used to check that a program handles normal, boundary and erroneous inputs correctly."
+        },
+        "pl": {
+          "term": "Dane testowe",
+          "definition": "Wartości używane do sprawdzenia, czy program poprawnie obsługuje normalne, graniczne i błędne dane wejściowe."
+        },
+        "cy": {
+          "term": "Data Profi",
+          "definition": "Gwerthoedd a ddefnyddir i wirio bod rhaglen yn trin mewnbynnau normal, ffin a chamweiniol yn gywir."
+        }
+      }
+    },
+    {
+      "id": "testing",
+      "topics": [
+        "software_development"
+      ],
+      "translations": {
+        "en": {
+          "term": "Testing",
+          "definition": "The process of checking that a program works correctly and produces the expected results."
+        },
+        "pl": {
+          "term": "Testowanie",
+          "definition": "Proces sprawdzania, czy program działa poprawnie i daje oczekiwane wyniki."
+        },
+        "cy": {
+          "term": "Profi",
+          "definition": "Y broses o wirio bod rhaglen yn gweithio'n gywir ac yn cynhyrchu'r canlyniadau disgwyliedig."
+        }
+      }
+    },
+    {
       "id": "topology",
       "topics": [
         "networking"
@@ -1905,6 +2373,46 @@
         "cy": {
           "term": "Topoleg Rhwydwaith",
           "definition": "Y ffordd y mae dyfeisiau mewn rhwydwaith wedi'u trefnu a'u cysylltu â'i gilydd yn gorfforol neu yn rhesymegol."
+        }
+      }
+    },
+    {
+      "id": "trace_table",
+      "topics": [
+        "software_development"
+      ],
+      "translations": {
+        "en": {
+          "term": "Trace Table",
+          "definition": "A table used to manually track the value of variables at each step of an algorithm to check it works correctly."
+        },
+        "pl": {
+          "term": "Tabela śledzenia",
+          "definition": "Tabela używana do ręcznego śledzenia wartości zmiennych na każdym kroku algorytmu w celu sprawdzenia poprawności."
+        },
+        "cy": {
+          "term": "Tabl Olrhain",
+          "definition": "Tabl a ddefnyddir i olrhain gwerth newidynnau â llaw ar bob cam o algorithm i wirio ei fod yn gweithio'n gywir."
+        }
+      }
+    },
+    {
+      "id": "tree",
+      "topics": [
+        "data_structures"
+      ],
+      "translations": {
+        "en": {
+          "term": "Tree",
+          "definition": "A hierarchical data structure with a root node at the top, branching into child nodes, with no cycles."
+        },
+        "pl": {
+          "term": "Drzewo",
+          "definition": "Hierarchiczna struktura danych z węzłem głównym na górze, rozgałęziająca się w węzły potomne, bez cykli."
+        },
+        "cy": {
+          "term": "Coeden",
+          "definition": "Strwythur data hierarchaidd gyda nod gwreiddiol ar y brig, yn canghennu i nodau plentyn, heb gylchoedd."
         }
       }
     },
@@ -2025,6 +2533,26 @@
         "cy": {
           "term": "WAN",
           "definition": "Rhwydwaith Ardal Eang; yn cysylltu dyfeisiau ar draws ardaloedd daearyddol mawr, fel y rhyngrwyd."
+        }
+      }
+    },
+    {
+      "id": "waterfall",
+      "topics": [
+        "software_development"
+      ],
+      "translations": {
+        "en": {
+          "term": "Waterfall Model",
+          "definition": "A linear software development method where each stage must be completed before the next one begins."
+        },
+        "pl": {
+          "term": "Model kaskadowy",
+          "definition": "Liniowa metoda tworzenia oprogramowania, w której każdy etap musi zostać zakończony przed rozpoczęciem następnego."
+        },
+        "cy": {
+          "term": "Model Rhaeadr",
+          "definition": "Dull datblygu meddalwedd llinol lle mae'n rhaid cwblhau pob cam cyn i'r un nesaf ddechrau."
         }
       }
     },
