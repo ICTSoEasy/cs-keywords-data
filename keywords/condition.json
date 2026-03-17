@@ -1,0 +1,21 @@
+{
+  "id": "condition",
+  "topics": [
+    "programming",
+    "computational_thinking"
+  ],
+  "translations": {
+    "en": {
+      "term": "Condition",
+      "definition": "An expression that evaluates to true or false, used to make decisions in a program."
+    },
+    "pl": {
+      "term": "Warunek",
+      "definition": "Wyrażenie, które przyjmuje wartość prawda lub fałsz, używane do podejmowania decyzji w programie."
+    },
+    "cy": {
+      "term": "Amod",
+      "definition": "Mynegiad sy'n gwerthuso i wir neu gau, a ddefnyddir i wneud penderfyniadau mewn rhaglen."
+    }
+  }
+}

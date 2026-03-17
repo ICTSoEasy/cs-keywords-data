@@ -1,0 +1,20 @@
+{
+  "id": "data_type",
+  "topics": [
+    "programming"
+  ],
+  "translations": {
+    "en": {
+      "term": "Data Type",
+      "definition": "A classification that tells the computer what kind of value a variable holds, such as integer, string or boolean."
+    },
+    "pl": {
+      "term": "Typ danych",
+      "definition": "Klasyfikacja mówiąca komputerowi, jaki rodzaj wartości przechowuje zmienna, np. liczba całkowita, ciąg znaków lub wartość logiczna."
+    },
+    "cy": {
+      "term": "Math Data",
+      "definition": "Dosbarthiad sy'n dweud wrth y cyfrifiadur pa fath o werth mae newidyn yn ei ddal, fel cyfanrif, llinyn neu boolean."
+    }
+  }
+}

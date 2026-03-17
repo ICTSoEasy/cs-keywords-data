@@ -1,0 +1,20 @@
+{
+  "id": "loop",
+  "topics": [
+    "programming"
+  ],
+  "translations": {
+    "en": {
+      "term": "Loop",
+      "definition": "A block of code that repeats until a condition is met or a set number of times."
+    },
+    "pl": {
+      "term": "Pętla",
+      "definition": "Blok kodu, który powtarza się, dopóki warunek nie zostanie spełniony lub określoną liczbę razy."
+    },
+    "cy": {
+      "term": "Dolen",
+      "definition": "Bloc o god sy'n ailadrodd nes bod amod yn cael ei fodloni neu nifer penodol o weithiau."
+    }
+  }
+}

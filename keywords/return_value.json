@@ -1,0 +1,20 @@
+{
+  "id": "return_value",
+  "topics": [
+    "programming"
+  ],
+  "translations": {
+    "en": {
+      "term": "Return Value",
+      "definition": "The data a function sends back after it has finished running."
+    },
+    "pl": {
+      "term": "Wartość zwracana",
+      "definition": "Dane, które funkcja odsyła po zakończeniu działania."
+    },
+    "cy": {
+      "term": "Gwerth Dychwelyd",
+      "definition": "Y data mae ffwythiant yn ei anfon yn ôl ar ôl iddo orffen rhedeg."
+    }
+  }
+}

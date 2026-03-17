@@ -1,0 +1,20 @@
+{
+  "id": "parameter",
+  "topics": [
+    "programming"
+  ],
+  "translations": {
+    "en": {
+      "term": "Parameter",
+      "definition": "A variable passed into a function to give it data to work with."
+    },
+    "pl": {
+      "term": "Parametr",
+      "definition": "Zmienna przekazywana do funkcji, aby dostarczyć jej dane do pracy."
+    },
+    "cy": {
+      "term": "Paramedr",
+      "definition": "Newidyn a basir i mewn i ffwythiant i roi data iddo weithio ag ef."
+    }
+  }
+}

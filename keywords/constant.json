@@ -1,0 +1,20 @@
+{
+  "id": "constant",
+  "topics": [
+    "programming"
+  ],
+  "translations": {
+    "en": {
+      "term": "Constant",
+      "definition": "A named value that is set once and cannot change while the program runs."
+    },
+    "pl": {
+      "term": "Stała",
+      "definition": "Nazwana wartość, która jest ustawiana raz i nie może się zmienić podczas działania programu."
+    },
+    "cy": {
+      "term": "Cysonyn",
+      "definition": "Gwerth a enwir sy'n cael ei osod unwaith ac na all newid tra bo'r rhaglen yn rhedeg."
+    }
+  }
+}

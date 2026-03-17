@@ -1,0 +1,20 @@
+{
+  "id": "output",
+  "topics": [
+    "programming"
+  ],
+  "translations": {
+    "en": {
+      "term": "Output",
+      "definition": "Information produced by a program, such as text displayed on screen."
+    },
+    "pl": {
+      "term": "Wyjście",
+      "definition": "Informacje produkowane przez program, np. tekst wyświetlany na ekranie."
+    },
+    "cy": {
+      "term": "Allbwn",
+      "definition": "Gwybodaeth a gynhyrchir gan raglen, fel testun a arddangosir ar y sgrin."
+    }
+  }
+}

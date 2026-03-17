@@ -1,0 +1,20 @@
+{
+  "id": "input",
+  "topics": [
+    "programming"
+  ],
+  "translations": {
+    "en": {
+      "term": "Input",
+      "definition": "Data entered into a program by a user or another system."
+    },
+    "pl": {
+      "term": "Wejście",
+      "definition": "Dane wprowadzane do programu przez użytkownika lub inny system."
+    },
+    "cy": {
+      "term": "Mewnbwn",
+      "definition": "Data a gofnodir i mewn i raglen gan ddefnyddiwr neu system arall."
+    }
+  }
+}

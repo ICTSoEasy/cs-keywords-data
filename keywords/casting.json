@@ -1,0 +1,20 @@
+{
+  "id": "casting",
+  "topics": [
+    "programming"
+  ],
+  "translations": {
+    "en": {
+      "term": "Casting",
+      "definition": "Converting a value from one data type to another, for example turning a string into an integer."
+    },
+    "pl": {
+      "term": "Rzutowanie",
+      "definition": "Konwersja wartości z jednego typu danych na inny, na przykład zamiana ciągu znaków na liczbę całkowitą."
+    },
+    "cy": {
+      "term": "Castio",
+      "definition": "Trosi gwerth o un math data i un arall, er enghraifft troi llinyn yn gyfanrif."
+    }
+  }
+}
