@@ -279,6 +279,26 @@
       ]
     },
     {
+      "id": "ascii",
+      "topics": [
+        "data_representation"
+      ],
+      "translations": {
+        "en": {
+          "term": "ASCII",
+          "definition": "A standard that assigns a unique number to each character so computers can store and share text."
+        },
+        "pl": {
+          "term": "ASCII",
+          "definition": "Standard przypisujący unikalny numer każdemu znakowi, dzięki czemu komputery mogą przechowywać i udostępniać tekst."
+        },
+        "cy": {
+          "term": "ASCII",
+          "definition": "Safon sy'n neilltuo rhif unigryw i bob nod fel y gall cyfrifiaduron storio a rhannu testun."
+        }
+      }
+    },
+    {
       "id": "authentication",
       "translations": {
         "en": {
@@ -319,6 +339,46 @@
       ]
     },
     {
+      "id": "binary",
+      "topics": [
+        "data_representation"
+      ],
+      "translations": {
+        "en": {
+          "term": "Binary",
+          "definition": "A number system that uses only 0 and 1 to represent all values."
+        },
+        "pl": {
+          "term": "Binarny",
+          "definition": "System liczbowy używający tylko 0 i 1 do reprezentowania wszystkich wartości."
+        },
+        "cy": {
+          "term": "Deuaidd",
+          "definition": "System rhifau sy'n defnyddio 0 ac 1 yn unig i gynrychioli pob gwerth."
+        }
+      }
+    },
+    {
+      "id": "bit",
+      "topics": [
+        "data_representation"
+      ],
+      "translations": {
+        "en": {
+          "term": "Bit",
+          "definition": "The smallest unit of data in a computer, with a value of either 0 or 1."
+        },
+        "pl": {
+          "term": "Bit",
+          "definition": "Najmniejsza jednostka danych w komputerze, o wartości 0 lub 1."
+        },
+        "cy": {
+          "term": "Did",
+          "definition": "Yr uned ddata leiaf mewn cyfrifiadur, gyda gwerth o 0 neu 1."
+        }
+      }
+    },
+    {
       "id": "boolean",
       "translations": {
         "en": {
@@ -339,6 +399,26 @@
       ]
     },
     {
+      "id": "byte",
+      "topics": [
+        "data_representation"
+      ],
+      "translations": {
+        "en": {
+          "term": "Byte",
+          "definition": "A group of 8 bits, used to represent a single character or small value."
+        },
+        "pl": {
+          "term": "Bajt",
+          "definition": "Grupa 8 bitów, używana do reprezentowania pojedynczego znaku lub małej wartości."
+        },
+        "cy": {
+          "term": "Beit",
+          "definition": "Grŵp o 8 did, a ddefnyddir i gynrychioli un nod neu werth bach."
+        }
+      }
+    },
+    {
       "id": "casting",
       "topics": [
         "programming"
@@ -355,6 +435,26 @@
         "cy": {
           "term": "Castio",
           "definition": "Trosi gwerth o un math data i un arall, er enghraifft troi llinyn yn gyfanrif."
+        }
+      }
+    },
+    {
+      "id": "compression",
+      "topics": [
+        "data_representation"
+      ],
+      "translations": {
+        "en": {
+          "term": "Compression",
+          "definition": "Reducing the size of a file by encoding data more efficiently."
+        },
+        "pl": {
+          "term": "Kompresja",
+          "definition": "Zmniejszanie rozmiaru pliku poprzez bardziej efektywne kodowanie danych."
+        },
+        "cy": {
+          "term": "Cywasgiad",
+          "definition": "Lleihau maint ffeil drwy amgodio data yn fwy effeithlon."
         }
       }
     },
@@ -482,6 +582,26 @@
       ]
     },
     {
+      "id": "denary",
+      "topics": [
+        "data_representation"
+      ],
+      "translations": {
+        "en": {
+          "term": "Denary",
+          "definition": "The standard number system using digits 0–9, also called decimal or base-10."
+        },
+        "pl": {
+          "term": "Dziesiętny",
+          "definition": "Standardowy system liczbowy używający cyfr 0–9, zwany też systemem dziesiętnym."
+        },
+        "cy": {
+          "term": "Degol",
+          "definition": "Y system rhifau safonol sy'n defnyddio digidau 0–9, a elwir hefyd yn ddegol neu fas-10."
+        }
+      }
+    },
+    {
       "id": "encryption",
       "translations": {
         "en": {
@@ -558,6 +678,26 @@
         "cy": {
           "term": "Cyffredinoli",
           "definition": "Defnyddio patrymau a ganfuwyd mewn un broblem i greu atebion sy'n gweithio ar gyfer problemau tebyg."
+        }
+      }
+    },
+    {
+      "id": "hexadecimal",
+      "topics": [
+        "data_representation"
+      ],
+      "translations": {
+        "en": {
+          "term": "Hexadecimal",
+          "definition": "A base-16 number system using digits 0–9 and letters A–F, often used to represent binary values more concisely."
+        },
+        "pl": {
+          "term": "Szesnastkowy",
+          "definition": "System liczbowy o podstawie 16, używający cyfr 0–9 i liter A–F, często stosowany do zwięzłego zapisu wartości binarnych."
+        },
+        "cy": {
+          "term": "Hecsadegol",
+          "definition": "System rhifau bas-16 sy'n defnyddio digidau 0–9 a llythrennau A–F, a ddefnyddir yn aml i gynrychioli gwerthoedd deuaidd yn fwy cryno."
         }
       }
     },
@@ -658,6 +798,46 @@
         "cy": {
           "term": "Dolen",
           "definition": "Bloc o god sy'n ailadrodd nes bod amod yn cael ei fodloni neu nifer penodol o weithiau."
+        }
+      }
+    },
+    {
+      "id": "lossless",
+      "topics": [
+        "data_representation"
+      ],
+      "translations": {
+        "en": {
+          "term": "Lossless Compression",
+          "definition": "A compression method that reduces file size without losing any data, so the original can be fully restored."
+        },
+        "pl": {
+          "term": "Kompresja bezstratna",
+          "definition": "Metoda kompresji zmniejszająca rozmiar pliku bez utraty danych, dzięki czemu oryginał można w pełni odtworzyć."
+        },
+        "cy": {
+          "term": "Cywasgiad Di-golled",
+          "definition": "Dull cywasgiad sy'n lleihau maint y ffeil heb golli unrhyw ddata, fel y gellir adfer y gwreiddiol yn llawn."
+        }
+      }
+    },
+    {
+      "id": "lossy",
+      "topics": [
+        "data_representation"
+      ],
+      "translations": {
+        "en": {
+          "term": "Lossy Compression",
+          "definition": "A compression method that permanently removes some data to reduce file size, resulting in lower quality."
+        },
+        "pl": {
+          "term": "Kompresja stratna",
+          "definition": "Metoda kompresji, która trwale usuwa część danych w celu zmniejszenia rozmiaru pliku, co skutkuje niższą jakością."
+        },
+        "cy": {
+          "term": "Cywasgiad Colledus",
+          "definition": "Dull cywasgiad sy'n tynnu rhywfaint o ddata yn barhaol i leihau maint y ffeil, gan arwain at ansawdd is."
         }
       }
     },
@@ -802,6 +982,26 @@
       ]
     },
     {
+      "id": "pixel",
+      "topics": [
+        "data_representation"
+      ],
+      "translations": {
+        "en": {
+          "term": "Pixel",
+          "definition": "The smallest element of a digital image, represented by colour values."
+        },
+        "pl": {
+          "term": "Piksel",
+          "definition": "Najmniejszy element obrazu cyfrowego, reprezentowany przez wartości kolorów."
+        },
+        "cy": {
+          "term": "Picsel",
+          "definition": "Elfen leiaf delwedd ddigidol, a gynrychiolir gan werthoedd lliw."
+        }
+      }
+    },
+    {
       "id": "primary-key",
       "translations": {
         "en": {
@@ -880,6 +1080,26 @@
       "topics": [
         "data"
       ]
+    },
+    {
+      "id": "resolution",
+      "topics": [
+        "data_representation"
+      ],
+      "translations": {
+        "en": {
+          "term": "Resolution",
+          "definition": "The number of pixels in an image; a higher resolution means more detail but a larger file size."
+        },
+        "pl": {
+          "term": "Rozdzielczość",
+          "definition": "Liczba pikseli w obrazie; wyższa rozdzielczość oznacza więcej szczegółów, ale większy rozmiar pliku."
+        },
+        "cy": {
+          "term": "Cydraniad",
+          "definition": "Nifer y picselau mewn delwedd; mae cydraniad uwch yn golygu mwy o fanylion ond maint ffeil mwy."
+        }
+      }
     },
     {
       "id": "return_value",
@@ -1000,6 +1220,26 @@
       "topics": [
         "data"
       ]
+    },
+    {
+      "id": "unicode",
+      "topics": [
+        "data_representation"
+      ],
+      "translations": {
+        "en": {
+          "term": "Unicode",
+          "definition": "A character encoding standard that supports characters from all the world's languages, extending beyond ASCII."
+        },
+        "pl": {
+          "term": "Unicode",
+          "definition": "Standard kodowania znaków obsługujący znaki ze wszystkich języków świata, rozszerzający ASCII."
+        },
+        "cy": {
+          "term": "Unicode",
+          "definition": "Safon amgodio nodau sy'n cefnogi nodau o holl ieithoedd y byd, gan ymestyn y tu hwnt i ASCII."
+        }
+      }
     },
     {
       "id": "variable",
