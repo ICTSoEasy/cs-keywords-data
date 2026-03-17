@@ -1,0 +1,21 @@
+{
+  "id": "data_protection",
+  "topics": [
+    "ethics",
+    "security"
+  ],
+  "translations": {
+    "en": {
+      "term": "Data Protection",
+      "definition": "Laws and practices that control how personal data is collected, stored and used to protect people's privacy."
+    },
+    "pl": {
+      "term": "Ochrona danych",
+      "definition": "Przepisy i praktyki kontrolujące sposób zbierania, przechowywania i wykorzystywania danych osobowych w celu ochrony prywatności."
+    },
+    "cy": {
+      "term": "Diogelu Data",
+      "definition": "Deddfau ac arferion sy'n rheoli sut y caiff data personol ei gasglu, ei storio a'i ddefnyddio i amddiffyn preifatrwydd pobl."
+    }
+  }
+}

@@ -1,0 +1,20 @@
+{
+  "id": "gdpr",
+  "topics": [
+    "ethics"
+  ],
+  "translations": {
+    "en": {
+      "term": "GDPR",
+      "definition": "General Data Protection Regulation; a UK and EU law that gives people rights over their personal data and requires organisations to handle it responsibly."
+    },
+    "pl": {
+      "term": "RODO",
+      "definition": "Ogólne rozporządzenie o ochronie danych; prawo UE i Wielkiej Brytanii przyznające ludziom prawa do ich danych osobowych i wymagające od organizacji odpowiedzialnego postępowania z nimi."
+    },
+    "cy": {
+      "term": "GDPR",
+      "definition": "Rheoliad Diogelu Data Cyffredinol; deddf y DU a'r UE sy'n rhoi hawliau i bobl dros eu data personol ac yn ei gwneud yn ofynnol i sefydliadau ei drin yn gyfrifol."
+    }
+  }
+}

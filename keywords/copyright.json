@@ -1,0 +1,20 @@
+{
+  "id": "copyright",
+  "topics": [
+    "ethics"
+  ],
+  "translations": {
+    "en": {
+      "term": "Copyright",
+      "definition": "A legal right that protects creative work such as software, music or text from being copied without permission."
+    },
+    "pl": {
+      "term": "Prawa autorskie",
+      "definition": "Prawo chroniące twórczość, taką jak oprogramowanie, muzyka czy tekst, przed kopiowaniem bez zezwolenia."
+    },
+    "cy": {
+      "term": "Hawlfraint",
+      "definition": "Hawl gyfreithiol sy'n amddiffyn gwaith creadigol fel meddalwedd, cerddoriaeth neu destun rhag cael ei gopïo heb ganiatâd."
+    }
+  }
+}

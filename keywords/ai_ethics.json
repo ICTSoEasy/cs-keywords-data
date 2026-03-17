@@ -1,0 +1,21 @@
+{
+  "id": "ai_ethics",
+  "topics": [
+    "ethics",
+    "ai"
+  ],
+  "translations": {
+    "en": {
+      "term": "AI Ethics",
+      "definition": "The study of moral questions raised by artificial intelligence, such as bias, fairness, accountability and the impact on jobs."
+    },
+    "pl": {
+      "term": "Etyka AI",
+      "definition": "Badanie kwestii moralnych związanych ze sztuczną inteligencją, takich jak stronniczość, sprawiedliwość, odpowiedzialność i wpływ na zatrudnienie."
+    },
+    "cy": {
+      "term": "Moeseg AI",
+      "definition": "Astudiaeth o gwestiynau moesol a godir gan ddeallusrwydd artiffisial, fel tuedd, tegwch, atebolrwydd ac effaith ar swyddi."
+    }
+  }
+}

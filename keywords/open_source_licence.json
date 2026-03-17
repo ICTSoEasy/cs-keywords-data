@@ -1,0 +1,21 @@
+{
+  "id": "open_source_licence",
+  "topics": [
+    "ethics",
+    "software"
+  ],
+  "translations": {
+    "en": {
+      "term": "Open Source Licence",
+      "definition": "A licence that allows software to be freely used, modified and shared, with conditions depending on the specific licence."
+    },
+    "pl": {
+      "term": "Licencja open source",
+      "definition": "Licencja zezwalająca na swobodne używanie, modyfikowanie i udostępnianie oprogramowania, z warunkami zależnymi od konkretnej licencji."
+    },
+    "cy": {
+      "term": "Trwydded Cod Agored",
+      "definition": "Trwydded sy'n caniatáu defnyddio, addasu a rhannu meddalwedd yn rhydd, gydag amodau yn dibynnu ar y drwydded benodol."
+    }
+  }
+}

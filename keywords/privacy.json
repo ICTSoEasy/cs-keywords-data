@@ -1,0 +1,21 @@
+{
+  "id": "privacy",
+  "topics": [
+    "ethics",
+    "security"
+  ],
+  "translations": {
+    "en": {
+      "term": "Privacy",
+      "definition": "The right of individuals to control what personal information is collected about them and how it is used."
+    },
+    "pl": {
+      "term": "Prywatność",
+      "definition": "Prawo jednostek do kontrolowania, jakie informacje osobiste są o nich zbierane i jak są wykorzystywane."
+    },
+    "cy": {
+      "term": "Preifatrwydd",
+      "definition": "Hawl unigolion i reoli pa wybodaeth bersonol sy'n cael ei chasglu amdanynt a sut y caiff ei defnyddio."
+    }
+  }
+}

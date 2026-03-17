@@ -1,0 +1,20 @@
+{
+  "id": "environmental_impact",
+  "topics": [
+    "ethics"
+  ],
+  "translations": {
+    "en": {
+      "term": "Environmental Impact",
+      "definition": "The effect that manufacturing, using and disposing of technology has on the environment, including energy use and e-waste."
+    },
+    "pl": {
+      "term": "Wpływ na środowisko",
+      "definition": "Wpływ produkcji, użytkowania i utylizacji technologii na środowisko, w tym zużycie energii i e-odpady."
+    },
+    "cy": {
+      "term": "Effaith Amgylcheddol",
+      "definition": "Yr effaith y mae cynhyrchu, defnyddio a chael gwared ar dechnoleg yn ei chael ar yr amgylchedd, gan gynnwys defnydd ynni a gwastraff e."
+    }
+  }
+}
