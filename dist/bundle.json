@@ -259,6 +259,26 @@
       }
     },
     {
+      "id": "and_gate",
+      "topics": [
+        "logic"
+      ],
+      "translations": {
+        "en": {
+          "term": "AND Gate",
+          "definition": "A logic gate that outputs 1 only when all of its inputs are 1."
+        },
+        "pl": {
+          "term": "Bramka AND",
+          "definition": "Bramka logiczna, która daje wyjście 1 tylko wtedy, gdy wszystkie jej wejścia wynoszą 1."
+        },
+        "cy": {
+          "term": "Porth AND",
+          "definition": "Porth rhesymeg sy'n allbynnu 1 dim ond pan fo pob un o'i fewnbynnau yn 1."
+        }
+      }
+    },
+    {
       "id": "application",
       "topics": [
         "software"
@@ -415,7 +435,8 @@
         }
       },
       "topics": [
-        "programming"
+        "programming",
+        "logic"
       ]
     },
     {
@@ -702,6 +723,26 @@
       }
     },
     {
+      "id": "dns",
+      "topics": [
+        "networking"
+      ],
+      "translations": {
+        "en": {
+          "term": "DNS",
+          "definition": "Domain Name System; translates human-readable website addresses into IP addresses computers can use."
+        },
+        "pl": {
+          "term": "DNS",
+          "definition": "System nazw domenowych; tłumaczy czytelne dla człowieka adresy stron internetowych na adresy IP używane przez komputery."
+        },
+        "cy": {
+          "term": "DNS",
+          "definition": "System Enwau Parth; yn cyfieithu cyfeiriadau gwefannau darllenadwy i bobl yn gyfeiriadau IP y gall cyfrifiaduron eu defnyddio."
+        }
+      }
+    },
+    {
       "id": "encryption",
       "translations": {
         "en": {
@@ -863,6 +904,47 @@
       }
     },
     {
+      "id": "http",
+      "topics": [
+        "networking"
+      ],
+      "translations": {
+        "en": {
+          "term": "HTTP",
+          "definition": "HyperText Transfer Protocol; the set of rules for transferring web pages over the internet."
+        },
+        "pl": {
+          "term": "HTTP",
+          "definition": "Protokół przesyłania hipertekstu; zestaw reguł przesyłania stron internetowych przez internet."
+        },
+        "cy": {
+          "term": "HTTP",
+          "definition": "Protocol Trosglwyddo HyperDestun; y set o reolau ar gyfer trosglwyddo tudalennau gwe dros y rhyngrwyd."
+        }
+      }
+    },
+    {
+      "id": "https",
+      "topics": [
+        "networking",
+        "security"
+      ],
+      "translations": {
+        "en": {
+          "term": "HTTPS",
+          "definition": "A secure version of HTTP that encrypts data sent between a browser and a website to protect it from interception."
+        },
+        "pl": {
+          "term": "HTTPS",
+          "definition": "Bezpieczna wersja HTTP szyfrująca dane przesyłane między przeglądarką a stroną internetową, chroniąca je przed przechwyceniem."
+        },
+        "cy": {
+          "term": "HTTPS",
+          "definition": "Fersiwn diogel o HTTP sy'n amgryptio data a anfonir rhwng porwr a gwefan i'w amddiffyn rhag ei ryng-gipio."
+        }
+      }
+    },
+    {
       "id": "input",
       "topics": [
         "programming"
@@ -899,6 +981,26 @@
         "cy": {
           "term": "Dyfais Fewnbwn",
           "definition": "Caledwedd a ddefnyddir i anfon data i mewn i gyfrifiadur, fel bysellfwrdd neu lygoden."
+        }
+      }
+    },
+    {
+      "id": "internet",
+      "topics": [
+        "networking"
+      ],
+      "translations": {
+        "en": {
+          "term": "Internet",
+          "definition": "A global system of interconnected computer networks that allows data to be shared worldwide."
+        },
+        "pl": {
+          "term": "Internet",
+          "definition": "Globalny system połączonych sieci komputerowych umożliwiający wymianę danych na całym świecie."
+        },
+        "cy": {
+          "term": "Rhyngrwyd",
+          "definition": "System fyd-eang o rwydweithiau cyfrifiadurol cysylltiedig sy'n caniatáu rhannu data ledled y byd."
         }
       }
     },
@@ -961,6 +1063,46 @@
       "topics": [
         "algorithms"
       ]
+    },
+    {
+      "id": "lan",
+      "topics": [
+        "networking"
+      ],
+      "translations": {
+        "en": {
+          "term": "LAN",
+          "definition": "A Local Area Network; connects devices within a small area such as a school building or office."
+        },
+        "pl": {
+          "term": "LAN",
+          "definition": "Sieć lokalna; łączy urządzenia w małym obszarze, np. w budynku szkolnym lub biurze."
+        },
+        "cy": {
+          "term": "LAN",
+          "definition": "Rhwydwaith Ardal Leol; yn cysylltu dyfeisiau o fewn ardal fach fel adeilad ysgol neu swyddfa."
+        }
+      }
+    },
+    {
+      "id": "logic_gate",
+      "topics": [
+        "logic"
+      ],
+      "translations": {
+        "en": {
+          "term": "Logic Gate",
+          "definition": "An electronic component that performs a basic Boolean operation on one or more binary inputs to produce an output."
+        },
+        "pl": {
+          "term": "Bramka logiczna",
+          "definition": "Element elektroniczny wykonujący podstawową operację logiczną na jednym lub więcej wejściach binarnych w celu wytworzenia wyjścia."
+        },
+        "cy": {
+          "term": "Porth Rhesymeg",
+          "definition": "Cydran electronig sy'n perfformio gweithrediad Boole sylfaenol ar un mewnbwn deuaidd neu ragor i gynhyrchu allbwn."
+        }
+      }
     },
     {
       "id": "logical_reasoning",
@@ -1125,6 +1267,86 @@
       }
     },
     {
+      "id": "nand_gate",
+      "topics": [
+        "logic"
+      ],
+      "translations": {
+        "en": {
+          "term": "NAND Gate",
+          "definition": "A logic gate that outputs 0 only when all inputs are 1; the opposite of an AND gate."
+        },
+        "pl": {
+          "term": "Bramka NAND",
+          "definition": "Bramka logiczna dająca wyjście 0 tylko wtedy, gdy wszystkie wejścia wynoszą 1; przeciwieństwo bramki AND."
+        },
+        "cy": {
+          "term": "Porth NAND",
+          "definition": "Porth rhesymeg sy'n allbynnu 0 dim ond pan fo pob mewnbwn yn 1; gwrthwyneb porth AND."
+        }
+      }
+    },
+    {
+      "id": "network",
+      "topics": [
+        "networking"
+      ],
+      "translations": {
+        "en": {
+          "term": "Network",
+          "definition": "Two or more computers connected together to share data and resources."
+        },
+        "pl": {
+          "term": "Sieć",
+          "definition": "Dwa lub więcej komputerów połączonych ze sobą w celu współdzielenia danych i zasobów."
+        },
+        "cy": {
+          "term": "Rhwydwaith",
+          "definition": "Dau neu fwy o gyfrifiaduron wedi'u cysylltu â'i gilydd i rannu data ac adnoddau."
+        }
+      }
+    },
+    {
+      "id": "nor_gate",
+      "topics": [
+        "logic"
+      ],
+      "translations": {
+        "en": {
+          "term": "NOR Gate",
+          "definition": "A logic gate that outputs 1 only when all inputs are 0; the opposite of an OR gate."
+        },
+        "pl": {
+          "term": "Bramka NOR",
+          "definition": "Bramka logiczna dająca wyjście 1 tylko wtedy, gdy wszystkie wejścia wynoszą 0; przeciwieństwo bramki OR."
+        },
+        "cy": {
+          "term": "Porth NOR",
+          "definition": "Porth rhesymeg sy'n allbynnu 1 dim ond pan fo pob mewnbwn yn 0; gwrthwyneb porth OR."
+        }
+      }
+    },
+    {
+      "id": "not_gate",
+      "topics": [
+        "logic"
+      ],
+      "translations": {
+        "en": {
+          "term": "NOT Gate",
+          "definition": "A logic gate that inverts its input; outputs 1 if the input is 0, and 0 if the input is 1."
+        },
+        "pl": {
+          "term": "Bramka NOT",
+          "definition": "Bramka logiczna odwracająca wejście; daje wyjście 1, gdy wejście wynosi 0, i 0, gdy wejście wynosi 1."
+        },
+        "cy": {
+          "term": "Porth NOT",
+          "definition": "Porth rhesymeg sy'n gwrthdroi ei fewnbwn; yn allbynnu 1 os yw'r mewnbwn yn 0, a 0 os yw'r mewnbwn yn 1."
+        }
+      }
+    },
+    {
       "id": "open_source",
       "topics": [
         "software",
@@ -1182,6 +1404,26 @@
         "cy": {
           "term": "Gweithredydd",
           "definition": "Symbol sy'n perfformio gweithrediad ar werthoedd, fel + ar gyfer adio neu == ar gyfer cymharu."
+        }
+      }
+    },
+    {
+      "id": "or_gate",
+      "topics": [
+        "logic"
+      ],
+      "translations": {
+        "en": {
+          "term": "OR Gate",
+          "definition": "A logic gate that outputs 1 when at least one of its inputs is 1."
+        },
+        "pl": {
+          "term": "Bramka OR",
+          "definition": "Bramka logiczna, która daje wyjście 1, gdy co najmniej jedno z jej wejść wynosi 1."
+        },
+        "cy": {
+          "term": "Porth OR",
+          "definition": "Porth rhesymeg sy'n allbynnu 1 pan fo o leiaf un o'i fewnbynnau yn 1."
         }
       }
     },
@@ -1244,6 +1486,26 @@
       "topics": [
         "networking"
       ]
+    },
+    {
+      "id": "packet_switching",
+      "topics": [
+        "networking"
+      ],
+      "translations": {
+        "en": {
+          "term": "Packet Switching",
+          "definition": "A method of sending data by breaking it into small packets that travel independently across a network and are reassembled at the destination."
+        },
+        "pl": {
+          "term": "Przełączanie pakietów",
+          "definition": "Metoda przesyłania danych polegająca na podzieleniu ich na małe pakiety, które niezależnie przemierzają sieć i są składane w miejscu docelowym."
+        },
+        "cy": {
+          "term": "Newid Pecynnau",
+          "definition": "Dull o anfon data drwy ei dorri'n becynnau bach sy'n teithio'n annibynnol ar draws rhwydwaith ac yn cael eu hailgydosod yn y cyrchfan."
+        }
+      }
     },
     {
       "id": "parameter",
@@ -1627,6 +1889,46 @@
       ]
     },
     {
+      "id": "topology",
+      "topics": [
+        "networking"
+      ],
+      "translations": {
+        "en": {
+          "term": "Network Topology",
+          "definition": "The way devices in a network are physically or logically arranged and connected to each other."
+        },
+        "pl": {
+          "term": "Topologia sieci",
+          "definition": "Sposób fizycznego lub logicznego rozmieszczenia i połączenia urządzeń w sieci."
+        },
+        "cy": {
+          "term": "Topoleg Rhwydwaith",
+          "definition": "Y ffordd y mae dyfeisiau mewn rhwydwaith wedi'u trefnu a'u cysylltu â'i gilydd yn gorfforol neu yn rhesymegol."
+        }
+      }
+    },
+    {
+      "id": "truth_table",
+      "topics": [
+        "logic"
+      ],
+      "translations": {
+        "en": {
+          "term": "Truth Table",
+          "definition": "A table that shows every possible combination of inputs and the resulting output for a logic expression or circuit."
+        },
+        "pl": {
+          "term": "Tabela prawdy",
+          "definition": "Tabela pokazująca wszystkie możliwe kombinacje wejść i wynikowe wyjście dla wyrażenia lub układu logicznego."
+        },
+        "cy": {
+          "term": "Tabl Gwir",
+          "definition": "Tabl sy'n dangos pob cyfuniad posibl o fewnbynnau a'r allbwn canlyniadol ar gyfer mynegiad neu gylched rhesymeg."
+        }
+      }
+    },
+    {
       "id": "unicode",
       "topics": [
         "data_representation"
@@ -1703,6 +2005,66 @@
         "cy": {
           "term": "Pensaernïaeth Von Neumann",
           "definition": "Model dylunio cyfrifiadur lle mae'r CPU, y cof a mewnbwn/allbwn yn rhannu un llwybr data o'r enw'r bws."
+        }
+      }
+    },
+    {
+      "id": "wan",
+      "topics": [
+        "networking"
+      ],
+      "translations": {
+        "en": {
+          "term": "WAN",
+          "definition": "A Wide Area Network; connects devices across large geographical areas, such as the internet."
+        },
+        "pl": {
+          "term": "WAN",
+          "definition": "Sieć rozległa; łączy urządzenia na dużych obszarach geograficznych, np. internet."
+        },
+        "cy": {
+          "term": "WAN",
+          "definition": "Rhwydwaith Ardal Eang; yn cysylltu dyfeisiau ar draws ardaloedd daearyddol mawr, fel y rhyngrwyd."
+        }
+      }
+    },
+    {
+      "id": "world_wide_web",
+      "topics": [
+        "networking"
+      ],
+      "translations": {
+        "en": {
+          "term": "World Wide Web",
+          "definition": "A system of web pages and resources accessed via the internet using a browser; often confused with the internet itself."
+        },
+        "pl": {
+          "term": "World Wide Web",
+          "definition": "System stron internetowych i zasobów dostępnych przez internet za pomocą przeglądarki; często mylony z samym internetem."
+        },
+        "cy": {
+          "term": "Y We Fyd Eang",
+          "definition": "System o dudalennau gwe ac adnoddau y cyrchir atynt drwy'r rhyngrwyd gan ddefnyddio porwr; yn aml yn cael ei gymysgu â'r rhyngrwyd ei hun."
+        }
+      }
+    },
+    {
+      "id": "xor_gate",
+      "topics": [
+        "logic"
+      ],
+      "translations": {
+        "en": {
+          "term": "XOR Gate",
+          "definition": "A logic gate that outputs 1 when its inputs are different, and 0 when they are the same."
+        },
+        "pl": {
+          "term": "Bramka XOR",
+          "definition": "Bramka logiczna dająca wyjście 1, gdy jej wejścia są różne, i 0, gdy są takie same."
+        },
+        "cy": {
+          "term": "Porth XOR",
+          "definition": "Porth rhesymeg sy'n allbynnu 1 pan fo ei fewnbynnau yn wahanol, a 0 pan fyddant yr un peth."
         }
       }
     }
