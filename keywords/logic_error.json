@@ -1,0 +1,21 @@
+{
+  "id": "logic_error",
+  "topics": [
+    "software_development",
+    "programming"
+  ],
+  "translations": {
+    "en": {
+      "term": "Logic Error",
+      "definition": "A mistake in the design of a program that causes it to run but produce incorrect results."
+    },
+    "pl": {
+      "term": "Błąd logiczny",
+      "definition": "Błąd w projekcie programu, który powoduje jego uruchomienie, ale daje nieprawidłowe wyniki."
+    },
+    "cy": {
+      "term": "Gwall Rhesymeg",
+      "definition": "Camgymeriad yn nyluniad rhaglen sy'n achosi iddi redeg ond cynhyrchu canlyniadau anghywir."
+    }
+  }
+}

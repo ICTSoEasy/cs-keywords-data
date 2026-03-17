@@ -1,0 +1,21 @@
+{
+  "id": "runtime_error",
+  "topics": [
+    "software_development",
+    "programming"
+  ],
+  "translations": {
+    "en": {
+      "term": "Runtime Error",
+      "definition": "An error that occurs while a program is running, causing it to crash or behave unexpectedly."
+    },
+    "pl": {
+      "term": "Błąd wykonania",
+      "definition": "Błąd występujący podczas działania programu, powodujący jego awarię lub nieoczekiwane zachowanie."
+    },
+    "cy": {
+      "term": "Gwall Amser Rhedeg",
+      "definition": "Gwall sy'n digwydd tra bo rhaglen yn rhedeg, gan achosi iddi gwympo neu ymddwyn yn annisgwyl."
+    }
+  }
+}

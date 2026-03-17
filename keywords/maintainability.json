@@ -1,0 +1,20 @@
+{
+  "id": "maintainability",
+  "topics": [
+    "software_development"
+  ],
+  "translations": {
+    "en": {
+      "term": "Maintainability",
+      "definition": "How easily a program can be understood, updated and fixed by developers over time."
+    },
+    "pl": {
+      "term": "Utrzymywalność",
+      "definition": "Łatwość, z jaką programiści mogą rozumieć, aktualizować i naprawiać program w czasie."
+    },
+    "cy": {
+      "term": "Cynaliadwyedd",
+      "definition": "Pa mor hawdd y gall datblygwyr ddeall, diweddaru a thrwsio rhaglen dros amser."
+    }
+  }
+}

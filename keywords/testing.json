@@ -1,0 +1,20 @@
+{
+  "id": "testing",
+  "topics": [
+    "software_development"
+  ],
+  "translations": {
+    "en": {
+      "term": "Testing",
+      "definition": "The process of checking that a program works correctly and produces the expected results."
+    },
+    "pl": {
+      "term": "Testowanie",
+      "definition": "Proces sprawdzania, czy program działa poprawnie i daje oczekiwane wyniki."
+    },
+    "cy": {
+      "term": "Profi",
+      "definition": "Y broses o wirio bod rhaglen yn gweithio'n gywir ac yn cynhyrchu'r canlyniadau disgwyliedig."
+    }
+  }
+}

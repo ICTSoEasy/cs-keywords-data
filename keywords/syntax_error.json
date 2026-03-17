@@ -1,0 +1,21 @@
+{
+  "id": "syntax_error",
+  "topics": [
+    "software_development",
+    "programming"
+  ],
+  "translations": {
+    "en": {
+      "term": "Syntax Error",
+      "definition": "A mistake in the code that breaks the rules of the programming language, preventing the program from running."
+    },
+    "pl": {
+      "term": "Błąd składniowy",
+      "definition": "Błąd w kodzie naruszający reguły języka programowania, uniemożliwiający uruchomienie programu."
+    },
+    "cy": {
+      "term": "Gwall Cystrawen",
+      "definition": "Camgymeriad yn y cod sy'n torri rheolau'r iaith raglennu, gan atal y rhaglen rhag rhedeg."
+    }
+  }
+}

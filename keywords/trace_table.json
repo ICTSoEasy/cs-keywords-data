@@ -1,0 +1,20 @@
+{
+  "id": "trace_table",
+  "topics": [
+    "software_development"
+  ],
+  "translations": {
+    "en": {
+      "term": "Trace Table",
+      "definition": "A table used to manually track the value of variables at each step of an algorithm to check it works correctly."
+    },
+    "pl": {
+      "term": "Tabela śledzenia",
+      "definition": "Tabela używana do ręcznego śledzenia wartości zmiennych na każdym kroku algorytmu w celu sprawdzenia poprawności."
+    },
+    "cy": {
+      "term": "Tabl Olrhain",
+      "definition": "Tabl a ddefnyddir i olrhain gwerth newidynnau â llaw ar bob cam o algorithm i wirio ei fod yn gweithio'n gywir."
+    }
+  }
+}

@@ -1,0 +1,20 @@
+{
+  "id": "agile",
+  "topics": [
+    "software_development"
+  ],
+  "translations": {
+    "en": {
+      "term": "Agile",
+      "definition": "A flexible software development approach that works in short cycles, regularly reviewing and improving the product."
+    },
+    "pl": {
+      "term": "Agile",
+      "definition": "Elastyczne podejście do tworzenia oprogramowania, które działa w krótkich cyklach, regularnie przeglądając i ulepszając produkt."
+    },
+    "cy": {
+      "term": "Agile",
+      "definition": "Dull datblygu meddalwedd hyblyg sy'n gweithio mewn cylchoedd byr, gan adolygu a gwella'r cynnyrch yn rheolaidd."
+    }
+  }
+}

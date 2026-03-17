@@ -1,0 +1,20 @@
+{
+  "id": "waterfall",
+  "topics": [
+    "software_development"
+  ],
+  "translations": {
+    "en": {
+      "term": "Waterfall Model",
+      "definition": "A linear software development method where each stage must be completed before the next one begins."
+    },
+    "pl": {
+      "term": "Model kaskadowy",
+      "definition": "Liniowa metoda tworzenia oprogramowania, w której każdy etap musi zostać zakończony przed rozpoczęciem następnego."
+    },
+    "cy": {
+      "term": "Model Rhaeadr",
+      "definition": "Dull datblygu meddalwedd llinol lle mae'n rhaid cwblhau pob cam cyn i'r un nesaf ddechrau."
+    }
+  }
+}

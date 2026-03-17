@@ -1,0 +1,20 @@
+{
+  "id": "software_development_lifecycle",
+  "topics": [
+    "software_development"
+  ],
+  "translations": {
+    "en": {
+      "term": "Software Development Lifecycle",
+      "definition": "The stages a software project goes through from initial idea to deployment and maintenance."
+    },
+    "pl": {
+      "term": "Cykl życia oprogramowania",
+      "definition": "Etapy, przez które przechodzi projekt oprogramowania od pomysłu do wdrożenia i konserwacji."
+    },
+    "cy": {
+      "term": "Cylch Bywyd Datblygu Meddalwedd",
+      "definition": "Y camau y mae prosiect meddalwedd yn mynd drwyddynt o'r syniad cychwynnol i'w ddefnyddio a'i gynnal."
+    }
+  }
+}
