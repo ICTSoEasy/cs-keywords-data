@@ -1,0 +1,20 @@
+{
+  "id": "not_gate",
+  "topics": [
+    "logic"
+  ],
+  "translations": {
+    "en": {
+      "term": "NOT Gate",
+      "definition": "A logic gate that inverts its input; outputs 1 if the input is 0, and 0 if the input is 1."
+    },
+    "pl": {
+      "term": "Bramka NOT",
+      "definition": "Bramka logiczna odwracająca wejście; daje wyjście 1, gdy wejście wynosi 0, i 0, gdy wejście wynosi 1."
+    },
+    "cy": {
+      "term": "Porth NOT",
+      "definition": "Porth rhesymeg sy'n gwrthdroi ei fewnbwn; yn allbynnu 1 os yw'r mewnbwn yn 0, a 0 os yw'r mewnbwn yn 1."
+    }
+  }
+}

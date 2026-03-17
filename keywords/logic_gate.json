@@ -1,0 +1,20 @@
+{
+  "id": "logic_gate",
+  "topics": [
+    "logic"
+  ],
+  "translations": {
+    "en": {
+      "term": "Logic Gate",
+      "definition": "An electronic component that performs a basic Boolean operation on one or more binary inputs to produce an output."
+    },
+    "pl": {
+      "term": "Bramka logiczna",
+      "definition": "Element elektroniczny wykonujący podstawową operację logiczną na jednym lub więcej wejściach binarnych w celu wytworzenia wyjścia."
+    },
+    "cy": {
+      "term": "Porth Rhesymeg",
+      "definition": "Cydran electronig sy'n perfformio gweithrediad Boole sylfaenol ar un mewnbwn deuaidd neu ragor i gynhyrchu allbwn."
+    }
+  }
+}

@@ -1,0 +1,20 @@
+{
+  "id": "truth_table",
+  "topics": [
+    "logic"
+  ],
+  "translations": {
+    "en": {
+      "term": "Truth Table",
+      "definition": "A table that shows every possible combination of inputs and the resulting output for a logic expression or circuit."
+    },
+    "pl": {
+      "term": "Tabela prawdy",
+      "definition": "Tabela pokazująca wszystkie możliwe kombinacje wejść i wynikowe wyjście dla wyrażenia lub układu logicznego."
+    },
+    "cy": {
+      "term": "Tabl Gwir",
+      "definition": "Tabl sy'n dangos pob cyfuniad posibl o fewnbynnau a'r allbwn canlyniadol ar gyfer mynegiad neu gylched rhesymeg."
+    }
+  }
+}

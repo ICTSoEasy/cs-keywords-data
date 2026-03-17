@@ -1,0 +1,20 @@
+{
+  "id": "xor_gate",
+  "topics": [
+    "logic"
+  ],
+  "translations": {
+    "en": {
+      "term": "XOR Gate",
+      "definition": "A logic gate that outputs 1 when its inputs are different, and 0 when they are the same."
+    },
+    "pl": {
+      "term": "Bramka XOR",
+      "definition": "Bramka logiczna dająca wyjście 1, gdy jej wejścia są różne, i 0, gdy są takie same."
+    },
+    "cy": {
+      "term": "Porth XOR",
+      "definition": "Porth rhesymeg sy'n allbynnu 1 pan fo ei fewnbynnau yn wahanol, a 0 pan fyddant yr un peth."
+    }
+  }
+}

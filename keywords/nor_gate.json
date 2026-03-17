@@ -1,0 +1,20 @@
+{
+  "id": "nor_gate",
+  "topics": [
+    "logic"
+  ],
+  "translations": {
+    "en": {
+      "term": "NOR Gate",
+      "definition": "A logic gate that outputs 1 only when all inputs are 0; the opposite of an OR gate."
+    },
+    "pl": {
+      "term": "Bramka NOR",
+      "definition": "Bramka logiczna dająca wyjście 1 tylko wtedy, gdy wszystkie wejścia wynoszą 0; przeciwieństwo bramki OR."
+    },
+    "cy": {
+      "term": "Porth NOR",
+      "definition": "Porth rhesymeg sy'n allbynnu 1 dim ond pan fo pob mewnbwn yn 0; gwrthwyneb porth OR."
+    }
+  }
+}

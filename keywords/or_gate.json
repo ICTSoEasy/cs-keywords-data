@@ -1,0 +1,20 @@
+{
+  "id": "or_gate",
+  "topics": [
+    "logic"
+  ],
+  "translations": {
+    "en": {
+      "term": "OR Gate",
+      "definition": "A logic gate that outputs 1 when at least one of its inputs is 1."
+    },
+    "pl": {
+      "term": "Bramka OR",
+      "definition": "Bramka logiczna, która daje wyjście 1, gdy co najmniej jedno z jej wejść wynosi 1."
+    },
+    "cy": {
+      "term": "Porth OR",
+      "definition": "Porth rhesymeg sy'n allbynnu 1 pan fo o leiaf un o'i fewnbynnau yn 1."
+    }
+  }
+}

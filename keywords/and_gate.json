@@ -1,0 +1,20 @@
+{
+  "id": "and_gate",
+  "topics": [
+    "logic"
+  ],
+  "translations": {
+    "en": {
+      "term": "AND Gate",
+      "definition": "A logic gate that outputs 1 only when all of its inputs are 1."
+    },
+    "pl": {
+      "term": "Bramka AND",
+      "definition": "Bramka logiczna, która daje wyjście 1 tylko wtedy, gdy wszystkie jej wejścia wynoszą 1."
+    },
+    "cy": {
+      "term": "Porth AND",
+      "definition": "Porth rhesymeg sy'n allbynnu 1 dim ond pan fo pob un o'i fewnbynnau yn 1."
+    }
+  }
+}

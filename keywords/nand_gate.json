@@ -1,0 +1,20 @@
+{
+  "id": "nand_gate",
+  "topics": [
+    "logic"
+  ],
+  "translations": {
+    "en": {
+      "term": "NAND Gate",
+      "definition": "A logic gate that outputs 0 only when all inputs are 1; the opposite of an AND gate."
+    },
+    "pl": {
+      "term": "Bramka NAND",
+      "definition": "Bramka logiczna dająca wyjście 0 tylko wtedy, gdy wszystkie wejścia wynoszą 1; przeciwieństwo bramki AND."
+    },
+    "cy": {
+      "term": "Porth NAND",
+      "definition": "Porth rhesymeg sy'n allbynnu 0 dim ond pan fo pob mewnbwn yn 1; gwrthwyneb porth AND."
+    }
+  }
+}
