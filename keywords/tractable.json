@@ -1,0 +1,20 @@
+{
+  "id": "tractable",
+  "topics": [
+    "theory"
+  ],
+  "translations": {
+    "en": {
+      "term": "Tractable Problem",
+      "definition": "A problem that can be solved by an algorithm in a reasonable amount of time, typically with polynomial time complexity."
+    },
+    "pl": {
+      "term": "Problem rozwiązywalny",
+      "definition": "Problem, który może być rozwiązany przez algorytm w rozsądnym czasie, zazwyczaj o złożoności wielomianowej."
+    },
+    "cy": {
+      "term": "Problem Hydrin",
+      "definition": "Problem y gellir ei ddatrys gan algorithm mewn amser rhesymol, fel arfer gyda chymhlethdod amser polynomaidd."
+    }
+  }
+}

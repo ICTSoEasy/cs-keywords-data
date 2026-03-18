@@ -1,0 +1,21 @@
+{
+  "id": "regular_expression",
+  "topics": [
+    "theory",
+    "programming"
+  ],
+  "translations": {
+    "en": {
+      "term": "Regular Expression",
+      "definition": "A sequence of characters that defines a search pattern, used to match or validate strings of text."
+    },
+    "pl": {
+      "term": "Wyrażenie regularne",
+      "definition": "Ciąg znaków definiujący wzorzec wyszukiwania, używany do dopasowywania lub walidacji ciągów tekstowych."
+    },
+    "cy": {
+      "term": "Mynegiad Rheolaidd",
+      "definition": "Dilyniant o nodau sy'n diffinio patrwm chwilio, a ddefnyddir i gyfateb neu ddilysu llinynau o destun."
+    }
+  }
+}

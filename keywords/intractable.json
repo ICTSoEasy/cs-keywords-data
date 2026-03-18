@@ -1,0 +1,20 @@
+{
+  "id": "intractable",
+  "topics": [
+    "theory"
+  ],
+  "translations": {
+    "en": {
+      "term": "Intractable Problem",
+      "definition": "A problem that cannot be solved in a reasonable time as the input grows; no efficient algorithm is known."
+    },
+    "pl": {
+      "term": "Problem nierozwiązywalny",
+      "definition": "Problem, który nie może być rozwiązany w rozsądnym czasie wraz ze wzrostem danych wejściowych; nie jest znany żaden wydajny algorytm."
+    },
+    "cy": {
+      "term": "Problem Anhydrin",
+      "definition": "Problem na ellir ei ddatrys mewn amser rhesymol wrth i'r mewnbwn dyfu; nid oes algorithm effeithlon hysbys."
+    }
+  }
+}

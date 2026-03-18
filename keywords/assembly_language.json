@@ -1,0 +1,21 @@
+{
+  "id": "assembly_language",
+  "topics": [
+    "theory",
+    "software"
+  ],
+  "translations": {
+    "en": {
+      "term": "Assembly Language",
+      "definition": "A low-level programming language that uses short mnemonics to represent machine code instructions for a specific processor."
+    },
+    "pl": {
+      "term": "Język asemblera",
+      "definition": "Język programowania niskiego poziomu używający krótkich mnemoników do reprezentowania instrukcji kodu maszynowego dla konkretnego procesora."
+    },
+    "cy": {
+      "term": "Iaith Gynulliad",
+      "definition": "Iaith raglennu lefel isel sy'n defnyddio mnemoneg byr i gynrychioli cyfarwyddiadau cod peiriant ar gyfer prosesydd penodol."
+    }
+  }
+}

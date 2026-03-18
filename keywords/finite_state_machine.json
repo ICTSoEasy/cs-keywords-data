@@ -1,0 +1,20 @@
+{
+  "id": "finite_state_machine",
+  "topics": [
+    "theory"
+  ],
+  "translations": {
+    "en": {
+      "term": "Finite State Machine",
+      "definition": "A model of computation that moves between a fixed set of states based on inputs, used to design systems and recognise patterns."
+    },
+    "pl": {
+      "term": "Skończony automat stanowy",
+      "definition": "Model obliczeniowy przechodzący między ustaloną liczbą stanów na podstawie danych wejściowych, używany do projektowania systemów i rozpoznawania wzorców."
+    },
+    "cy": {
+      "term": "Peiriant Cyflwr Cyfyngedig",
+      "definition": "Model cyfrifiadol sy'n symud rhwng set benodol o gyflyrau yn seiliedig ar fewnbynnau, a ddefnyddir i ddylunio systemau ac adnabod patrymau."
+    }
+  }
+}

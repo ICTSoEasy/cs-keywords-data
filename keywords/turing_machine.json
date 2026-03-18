@@ -1,0 +1,20 @@
+{
+  "id": "turing_machine",
+  "topics": [
+    "theory"
+  ],
+  "translations": {
+    "en": {
+      "term": "Turing Machine",
+      "definition": "A theoretical model of computation that reads and writes symbols on an infinite tape, used to define what can and cannot be computed."
+    },
+    "pl": {
+      "term": "Maszyna Turinga",
+      "definition": "Teoretyczny model obliczeniowy odczytujący i zapisujący symbole na nieskończonej taśmie, używany do określenia, co może, a co nie może być obliczone."
+    },
+    "cy": {
+      "term": "Peiriant Turing",
+      "definition": "Model damcaniaethol o gyfrifiadaeth sy'n darllen ac yn ysgrifennu symbolau ar dâp anfeidrol, a ddefnyddir i ddiffinio beth ellir a beth na ellir ei gyfrifo."
+    }
+  }
+}

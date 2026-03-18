@@ -1,0 +1,21 @@
+{
+  "id": "big_o",
+  "topics": [
+    "theory",
+    "algorithms"
+  ],
+  "translations": {
+    "en": {
+      "term": "Big O Notation",
+      "definition": "A way of describing how the time or space requirements of an algorithm grow as the input size increases."
+    },
+    "pl": {
+      "term": "Notacja dużego O",
+      "definition": "Sposób opisywania, jak wymagania algorytmu dotyczące czasu lub pamięci rosną wraz ze wzrostem rozmiaru danych wejściowych."
+    },
+    "cy": {
+      "term": "Nodiant O Fawr",
+      "definition": "Ffordd o ddisgrifio sut mae gofynion amser neu ofod algorithm yn tyfu wrth i faint y mewnbwn gynyddu."
+    }
+  }
+}

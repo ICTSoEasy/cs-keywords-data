@@ -1,0 +1,20 @@
+{
+  "id": "halting_problem",
+  "topics": [
+    "theory"
+  ],
+  "translations": {
+    "en": {
+      "term": "Halting Problem",
+      "definition": "A famous problem proving that no algorithm can always determine whether any given program will finish or run forever."
+    },
+    "pl": {
+      "term": "Problem stopu",
+      "definition": "Słynny problem udowadniający, że żaden algorytm nie może zawsze stwierdzić, czy dany program zakończy działanie, czy będzie działał wiecznie."
+    },
+    "cy": {
+      "term": "Problem Atal",
+      "definition": "Problem enwog sy'n profi na all unrhyw algorithm bennu bob amser a fydd rhaglen benodol yn gorffen neu'n rhedeg am byth."
+    }
+  }
+}
