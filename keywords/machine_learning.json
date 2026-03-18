@@ -1,0 +1,20 @@
+{
+  "id": "machine_learning",
+  "topics": [
+    "ai"
+  ],
+  "translations": {
+    "en": {
+      "term": "Machine Learning",
+      "definition": "A type of AI where a computer learns to make decisions by finding patterns in data rather than being given explicit instructions."
+    },
+    "pl": {
+      "term": "Uczenie maszynowe",
+      "definition": "Rodzaj sztucznej inteligencji, w którym komputer uczy się podejmować decyzje, znajdując wzorce w danych, zamiast otrzymywać wyraźne instrukcje."
+    },
+    "cy": {
+      "term": "Dysgu Peiriant",
+      "definition": "Math o AI lle mae cyfrifiadur yn dysgu gwneud penderfyniadau drwy ddarganfod patrymau mewn data yn hytrach na derbyn cyfarwyddiadau penodol."
+    }
+  }
+}

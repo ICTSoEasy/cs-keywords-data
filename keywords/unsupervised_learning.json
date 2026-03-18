@@ -1,0 +1,20 @@
+{
+  "id": "unsupervised_learning",
+  "topics": [
+    "ai"
+  ],
+  "translations": {
+    "en": {
+      "term": "Unsupervised Learning",
+      "definition": "A type of machine learning where a model finds patterns in data without being given labelled examples or correct answers."
+    },
+    "pl": {
+      "term": "Uczenie nienadzorowane",
+      "definition": "Rodzaj uczenia maszynowego, w którym model znajduje wzorce w danych bez podawania oznaczonych przykładów ani poprawnych odpowiedzi."
+    },
+    "cy": {
+      "term": "Dysgu Heb Oruchwyliaeth",
+      "definition": "Math o ddysgu peiriant lle mae model yn darganfod patrymau mewn data heb gael enghreifftiau wedi'u labelu nac atebion cywir."
+    }
+  }
+}

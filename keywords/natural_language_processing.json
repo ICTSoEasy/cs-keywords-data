@@ -1,0 +1,20 @@
+{
+  "id": "natural_language_processing",
+  "topics": [
+    "ai"
+  ],
+  "translations": {
+    "en": {
+      "term": "Natural Language Processing",
+      "definition": "A branch of AI that enables computers to understand, interpret and generate human language."
+    },
+    "pl": {
+      "term": "Przetwarzanie języka naturalnego",
+      "definition": "Gałąź sztucznej inteligencji umożliwiająca komputerom rozumienie, interpretowanie i generowanie ludzkiego języka."
+    },
+    "cy": {
+      "term": "Prosesu Iaith Naturiol",
+      "definition": "Cangen o AI sy'n galluogi cyfrifiaduron i ddeall, dehongli a chynhyrchu iaith ddynol."
+    }
+  }
+}

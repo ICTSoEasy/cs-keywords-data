@@ -1,0 +1,20 @@
+{
+  "id": "training_data",
+  "topics": [
+    "ai"
+  ],
+  "translations": {
+    "en": {
+      "term": "Training Data",
+      "definition": "The dataset used to teach a machine learning model to recognise patterns and make predictions."
+    },
+    "pl": {
+      "term": "Dane treningowe",
+      "definition": "Zbiór danych używany do uczenia modelu uczenia maszynowego rozpoznawania wzorców i dokonywania przewidywań."
+    },
+    "cy": {
+      "term": "Data Hyfforddi",
+      "definition": "Y set ddata a ddefnyddir i ddysgu model dysgu peiriant i adnabod patrymau a gwneud rhagfynegiadau."
+    }
+  }
+}

@@ -1,0 +1,20 @@
+{
+  "id": "chatbot",
+  "topics": [
+    "ai"
+  ],
+  "translations": {
+    "en": {
+      "term": "Chatbot",
+      "definition": "A computer program designed to simulate conversation with humans, often using natural language processing."
+    },
+    "pl": {
+      "term": "Chatbot",
+      "definition": "Program komputerowy zaprojektowany do symulowania rozmowy z ludźmi, często wykorzystujący przetwarzanie języka naturalnego."
+    },
+    "cy": {
+      "term": "Chatbot",
+      "definition": "Rhaglen gyfrifiadurol wedi'i chynllunio i efelychu sgwrs gyda phobl, gan ddefnyddio prosesu iaith naturiol yn aml."
+    }
+  }
+}

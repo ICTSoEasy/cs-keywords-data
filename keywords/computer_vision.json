@@ -1,0 +1,20 @@
+{
+  "id": "computer_vision",
+  "topics": [
+    "ai"
+  ],
+  "translations": {
+    "en": {
+      "term": "Computer Vision",
+      "definition": "A field of AI that enables computers to interpret and understand images and video from the real world."
+    },
+    "pl": {
+      "term": "Wizja komputerowa",
+      "definition": "Dziedzina sztucznej inteligencji umożliwiająca komputerom interpretowanie i rozumienie obrazów i filmów ze świata rzeczywistego."
+    },
+    "cy": {
+      "term": "Gweledigaeth Cyfrifiadur",
+      "definition": "Maes AI sy'n galluogi cyfrifiaduron i ddehongli a deall delweddau a fideo o'r byd real."
+    }
+  }
+}

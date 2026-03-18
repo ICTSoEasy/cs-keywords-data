@@ -1,0 +1,20 @@
+{
+  "id": "artificial_intelligence",
+  "topics": [
+    "ai"
+  ],
+  "translations": {
+    "en": {
+      "term": "Artificial Intelligence",
+      "definition": "The ability of a computer system to perform tasks that would normally require human intelligence, such as recognising speech or making decisions."
+    },
+    "pl": {
+      "term": "Sztuczna inteligencja",
+      "definition": "Zdolność systemu komputerowego do wykonywania zadań, które normalnie wymagałyby ludzkiej inteligencji, takich jak rozpoznawanie mowy lub podejmowanie decyzji."
+    },
+    "cy": {
+      "term": "Deallusrwydd Artiffisial",
+      "definition": "Gallu system gyfrifiadurol i gyflawni tasgau a fyddai fel arfer yn gofyn am ddeallusrwydd dynol, fel adnabod lleferydd neu wneud penderfyniadau."
+    }
+  }
+}

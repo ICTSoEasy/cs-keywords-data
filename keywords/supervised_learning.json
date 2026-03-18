@@ -1,0 +1,20 @@
+{
+  "id": "supervised_learning",
+  "topics": [
+    "ai"
+  ],
+  "translations": {
+    "en": {
+      "term": "Supervised Learning",
+      "definition": "A type of machine learning where a model is trained on labelled data, with correct answers provided to guide learning."
+    },
+    "pl": {
+      "term": "Uczenie nadzorowane",
+      "definition": "Rodzaj uczenia maszynowego, w którym model jest trenowany na oznaczonych danych, z dostarczonymi poprawnymi odpowiedziami w celu kierowania uczeniem."
+    },
+    "cy": {
+      "term": "Dysgu Goruchwyliedig",
+      "definition": "Math o ddysgu peiriant lle hyfforddir model ar ddata wedi'i labelu, gydag atebion cywir yn cael eu darparu i arwain y dysgu."
+    }
+  }
+}

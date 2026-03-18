@@ -1,0 +1,21 @@
+{
+  "id": "algorithm_bias",
+  "topics": [
+    "ai",
+    "ethics"
+  ],
+  "translations": {
+    "en": {
+      "term": "Algorithm Bias",
+      "definition": "When an AI system produces unfair or discriminatory results because the training data or design reflects existing biases."
+    },
+    "pl": {
+      "term": "Stronniczość algorytmu",
+      "definition": "Gdy system AI produkuje niesprawiedliwe lub dyskryminujące wyniki, ponieważ dane treningowe lub projekt odzwierciedlają istniejące uprzedzenia."
+    },
+    "cy": {
+      "term": "Tuedd Algorithm",
+      "definition": "Pan fo system AI yn cynhyrchu canlyniadau annheg neu wahaniaethol oherwydd bod y data hyfforddi neu'r dyluniad yn adlewyrchu rhagfarnau presennol."
+    }
+  }
+}

@@ -1,0 +1,20 @@
+{
+  "id": "neural_network",
+  "topics": [
+    "ai"
+  ],
+  "translations": {
+    "en": {
+      "term": "Neural Network",
+      "definition": "An AI system loosely inspired by the human brain, made up of layers of connected nodes that process and learn from data."
+    },
+    "pl": {
+      "term": "Sieć neuronowa",
+      "definition": "System sztucznej inteligencji luźno inspirowany ludzkim mózgiem, złożony z warstw połączonych węzłów przetwarzających i uczących się na danych."
+    },
+    "cy": {
+      "term": "Rhwydwaith Niwral",
+      "definition": "System AI wedi'i ysbrydoli'n fras gan yr ymennydd dynol, wedi'i wneud o haenau o nodau cysylltiedig sy'n prosesu ac yn dysgu o ddata."
+    }
+  }
+}
