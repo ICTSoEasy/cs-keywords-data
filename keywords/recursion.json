@@ -1,0 +1,21 @@
+{
+  "id": "recursion",
+  "topics": [
+    "algorithms",
+    "programming"
+  ],
+  "translations": {
+    "en": {
+      "term": "Recursion",
+      "definition": "A technique where a function calls itself to solve smaller versions of the same problem until a base case is reached."
+    },
+    "pl": {
+      "term": "Rekurencja",
+      "definition": "Technika, w której funkcja wywołuje samą siebie, aby rozwiązać mniejsze wersje tego samego problemu, aż zostanie osiągnięty przypadek bazowy."
+    },
+    "cy": {
+      "term": "Ailadroddiad",
+      "definition": "Techneg lle mae ffwythiant yn galw arno'i hun i ddatrys fersiynau llai o'r un broblem nes cyrraedd achos sylfaenol."
+    }
+  }
+}

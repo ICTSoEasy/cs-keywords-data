@@ -1,0 +1,20 @@
+{
+  "id": "merge_sort",
+  "topics": [
+    "algorithms"
+  ],
+  "translations": {
+    "en": {
+      "term": "Merge Sort",
+      "definition": "A sorting algorithm that splits a list in half repeatedly, sorts each half, then merges them back together in order."
+    },
+    "pl": {
+      "term": "Sortowanie przez scalanie",
+      "definition": "Algorytm sortowania, który wielokrotnie dzieli listę na pół, sortuje każdą połowę, a następnie scala je z powrotem w kolejności."
+    },
+    "cy": {
+      "term": "Didoli Uno",
+      "definition": "Algorithm didoli sy'n hollti rhestr yn ei hanner dro ar ôl tro, yn didoli pob hanner, yna'n eu huno yn ôl at ei gilydd mewn trefn."
+    }
+  }
+}

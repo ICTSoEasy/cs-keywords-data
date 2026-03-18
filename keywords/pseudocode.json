@@ -1,0 +1,21 @@
+{
+  "id": "pseudocode",
+  "topics": [
+    "algorithms",
+    "programming"
+  ],
+  "translations": {
+    "en": {
+      "term": "Pseudocode",
+      "definition": "An informal way of describing an algorithm using plain language and simple code-like structures, without following the rules of any specific language."
+    },
+    "pl": {
+      "term": "Pseudokod",
+      "definition": "Nieformalny sposób opisywania algorytmu przy użyciu prostego języka i prostych struktur podobnych do kodu, bez przestrzegania zasad żadnego konkretnego języka."
+    },
+    "cy": {
+      "term": "Ffug-god",
+      "definition": "Ffordd anffurfiol o ddisgrifio algorithm gan ddefnyddio iaith syml a strwythurau tebyg i god syml, heb ddilyn rheolau unrhyw iaith benodol."
+    }
+  }
+}

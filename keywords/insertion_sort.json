@@ -1,0 +1,20 @@
+{
+  "id": "insertion_sort",
+  "topics": [
+    "algorithms"
+  ],
+  "translations": {
+    "en": {
+      "term": "Insertion Sort",
+      "definition": "A sorting algorithm that builds a sorted list one item at a time by inserting each new item into its correct position."
+    },
+    "pl": {
+      "term": "Sortowanie przez wstawianie",
+      "definition": "Algorytm sortowania budujący posortowaną listę po jednym elemencie naraz, wstawiając każdy nowy element na właściwą pozycję."
+    },
+    "cy": {
+      "term": "Didoli Mewnosod",
+      "definition": "Algorithm didoli sy'n adeiladu rhestr wedi'i didoli un eitem ar y tro drwy fewnosod pob eitem newydd yn ei safle cywir."
+    }
+  }
+}

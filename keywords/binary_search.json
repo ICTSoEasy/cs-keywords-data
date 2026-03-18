@@ -1,0 +1,20 @@
+{
+  "id": "binary_search",
+  "topics": [
+    "algorithms"
+  ],
+  "translations": {
+    "en": {
+      "term": "Binary Search",
+      "definition": "A search algorithm that repeatedly halves a sorted list to find a target, making it much faster than linear search."
+    },
+    "pl": {
+      "term": "Wyszukiwanie binarne",
+      "definition": "Algorytm wyszukiwania, który wielokrotnie dzieli posortowaną listę na pół w celu znalezienia celu, co jest znacznie szybsze niż wyszukiwanie liniowe."
+    },
+    "cy": {
+      "term": "Chwilio Deuaidd",
+      "definition": "Algorithm chwilio sy'n haneru rhestr wedi'i didoli dro ar ôl tro i ddod o hyd i darged, sy'n llawer cyflymach na chwilio llinol."
+    }
+  }
+}

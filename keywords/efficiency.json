@@ -1,0 +1,20 @@
+{
+  "id": "efficiency",
+  "topics": [
+    "algorithms"
+  ],
+  "translations": {
+    "en": {
+      "term": "Algorithm Efficiency",
+      "definition": "A measure of how well an algorithm uses time and memory resources, particularly as the size of the input grows."
+    },
+    "pl": {
+      "term": "Wydajność algorytmu",
+      "definition": "Miara tego, jak dobrze algorytm wykorzystuje zasoby czasowe i pamięciowe, szczególnie gdy rozmiar danych wejściowych rośnie."
+    },
+    "cy": {
+      "term": "Effeithlonrwydd Algorithm",
+      "definition": "Mesur o ba mor dda y mae algorithm yn defnyddio adnoddau amser a chof, yn enwedig wrth i faint y mewnbwn dyfu."
+    }
+  }
+}

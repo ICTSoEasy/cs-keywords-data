@@ -1,0 +1,20 @@
+{
+  "id": "linear_search",
+  "topics": [
+    "algorithms"
+  ],
+  "translations": {
+    "en": {
+      "term": "Linear Search",
+      "definition": "A search algorithm that checks each item in a list one by one until the target is found or the list is exhausted."
+    },
+    "pl": {
+      "term": "Wyszukiwanie liniowe",
+      "definition": "Algorytm wyszukiwania sprawdzający każdy element listy po kolei, aż znajdzie cel lub wyczerpie listę."
+    },
+    "cy": {
+      "term": "Chwilio Llinol",
+      "definition": "Algorithm chwilio sy'n gwirio pob eitem mewn rhestr un ar y tro nes dod o hyd i'r targed neu orffen y rhestr."
+    }
+  }
+}

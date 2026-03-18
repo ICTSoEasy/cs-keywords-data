@@ -1,0 +1,20 @@
+{
+  "id": "bubble_sort",
+  "topics": [
+    "algorithms"
+  ],
+  "translations": {
+    "en": {
+      "term": "Bubble Sort",
+      "definition": "A sorting algorithm that repeatedly compares adjacent items and swaps them if they are in the wrong order."
+    },
+    "pl": {
+      "term": "Sortowanie bąbelkowe",
+      "definition": "Algorytm sortowania, który wielokrotnie porównuje sąsiednie elementy i zamienia je miejscami, jeśli są w złej kolejności."
+    },
+    "cy": {
+      "term": "Didoli Swigen",
+      "definition": "Algorithm didoli sy'n cymharu eitemau cyfagos dro ar ôl tro ac yn eu cyfnewid os ydynt yn y drefn anghywir."
+    }
+  }
+}
