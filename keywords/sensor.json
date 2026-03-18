@@ -1,0 +1,21 @@
+{
+  "id": "sensor",
+  "topics": [
+    "robotics",
+    "hardware"
+  ],
+  "translations": {
+    "en": {
+      "term": "Sensor",
+      "definition": "A device that detects changes in the physical environment, such as light, temperature or movement, and sends data to a computer."
+    },
+    "pl": {
+      "term": "Czujnik",
+      "definition": "Urządzenie wykrywające zmiany w środowisku fizycznym, takie jak światło, temperatura lub ruch, i wysyłające dane do komputera."
+    },
+    "cy": {
+      "term": "Synhwyrydd",
+      "definition": "Dyfais sy'n canfod newidiadau yn yr amgylchedd ffisegol, fel golau, tymheredd neu symudiad, ac yn anfon data i gyfrifiadur."
+    }
+  }
+}

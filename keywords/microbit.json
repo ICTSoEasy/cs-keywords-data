@@ -1,0 +1,21 @@
+{
+  "id": "microbit",
+  "topics": [
+    "robotics",
+    "programming"
+  ],
+  "translations": {
+    "en": {
+      "term": "micro:bit",
+      "definition": "A small programmable device designed to help young people learn computing, with built-in sensors, LEDs and wireless connectivity."
+    },
+    "pl": {
+      "term": "micro:bit",
+      "definition": "Małe programowalne urządzenie zaprojektowane, aby pomóc młodym ludziom uczyć się informatyki, z wbudowanymi czujnikami, diodami LED i łącznością bezprzewodową."
+    },
+    "cy": {
+      "term": "micro:bit",
+      "definition": "Dyfais raglennadwy fach wedi'i chynllunio i helpu pobl ifanc i ddysgu cyfrifiadeg, gyda synwyryddion, LEDau a chysylltedd di-wifr wedi'u hadeiladu i mewn."
+    }
+  }
+}

@@ -1,0 +1,22 @@
+{
+  "id": "flowchart",
+  "topics": [
+    "robotics",
+    "algorithms",
+    "computational_thinking"
+  ],
+  "translations": {
+    "en": {
+      "term": "Flowchart",
+      "definition": "A diagram that uses shapes and arrows to represent the steps and decisions in an algorithm or process."
+    },
+    "pl": {
+      "term": "Schemat blokowy",
+      "definition": "Diagram używający kształtów i strzałek do reprezentowania kroków i decyzji w algorytmie lub procesie."
+    },
+    "cy": {
+      "term": "Siart Llif",
+      "definition": "Diagram sy'n defnyddio siapiau a saethau i gynrychioli'r camau a'r penderfyniadau mewn algorithm neu broses."
+    }
+  }
+}

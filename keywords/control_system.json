@@ -1,0 +1,20 @@
+{
+  "id": "control_system",
+  "topics": [
+    "robotics"
+  ],
+  "translations": {
+    "en": {
+      "term": "Control System",
+      "definition": "A system that monitors inputs and adjusts outputs to achieve a desired result, such as a thermostat regulating temperature."
+    },
+    "pl": {
+      "term": "System sterowania",
+      "definition": "System monitorujący wejścia i dostosowujący wyjścia w celu osiągnięcia pożądanego rezultatu, np. termostat regulujący temperaturę."
+    },
+    "cy": {
+      "term": "System Reoli",
+      "definition": "System sy'n monitro mewnbynnau ac yn addasu allbynnau i gyflawni canlyniad dymunol, fel thermostat yn rheoli tymheredd."
+    }
+  }
+}

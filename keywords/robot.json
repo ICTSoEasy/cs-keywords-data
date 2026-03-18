@@ -1,0 +1,20 @@
+{
+  "id": "robot",
+  "topics": [
+    "robotics"
+  ],
+  "translations": {
+    "en": {
+      "term": "Robot",
+      "definition": "A machine that can carry out tasks automatically or under computer control, often interacting with the physical world."
+    },
+    "pl": {
+      "term": "Robot",
+      "definition": "Maszyna, która może wykonywać zadania automatycznie lub pod kontrolą komputera, często wchodząc w interakcję ze środowiskiem fizycznym."
+    },
+    "cy": {
+      "term": "Robot",
+      "definition": "Peiriant sy'n gallu cyflawni tasgau yn awtomatig neu o dan reolaeth cyfrifiadur, gan ryngweithio â'r byd ffisegol yn aml."
+    }
+  }
+}

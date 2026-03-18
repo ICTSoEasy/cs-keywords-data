@@ -1,0 +1,21 @@
+{
+  "id": "automation",
+  "topics": [
+    "robotics",
+    "ai"
+  ],
+  "translations": {
+    "en": {
+      "term": "Automation",
+      "definition": "Using technology to perform tasks with minimal human involvement, often replacing repetitive manual processes."
+    },
+    "pl": {
+      "term": "Automatyzacja",
+      "definition": "Wykorzystanie technologii do wykonywania zadań przy minimalnym udziale człowieka, często zastępując powtarzalne procesy ręczne."
+    },
+    "cy": {
+      "term": "Awtomeiddio",
+      "definition": "Defnyddio technoleg i gyflawni tasgau gyda chyfranogiad dynol lleiaf, gan ddisodli prosesau ailadroddus â llaw yn aml."
+    }
+  }
+}

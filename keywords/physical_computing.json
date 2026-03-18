@@ -1,0 +1,20 @@
+{
+  "id": "physical_computing",
+  "topics": [
+    "robotics"
+  ],
+  "translations": {
+    "en": {
+      "term": "Physical Computing",
+      "definition": "Building interactive systems that can sense and respond to the real world, using hardware such as microcontrollers and sensors."
+    },
+    "pl": {
+      "term": "Fizyczne przetwarzanie",
+      "definition": "Budowanie interaktywnych systemów, które mogą wykrywać i reagować na rzeczywisty świat, używając sprzętu takiego jak mikrokontrolery i czujniki."
+    },
+    "cy": {
+      "term": "Cyfrifiadeg Ffisegol",
+      "definition": "Adeiladu systemau rhyngweithiol sy'n gallu synhwyro ac ymateb i'r byd real, gan ddefnyddio caledwedd fel micreolyddion a synwyryddion."
+    }
+  }
+}

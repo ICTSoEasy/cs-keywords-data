@@ -1,0 +1,20 @@
+{
+  "id": "actuator",
+  "topics": [
+    "robotics"
+  ],
+  "translations": {
+    "en": {
+      "term": "Actuator",
+      "definition": "A device that converts electrical signals from a computer into physical movement or action, such as a motor or servo."
+    },
+    "pl": {
+      "term": "Aktuator",
+      "definition": "Urządzenie przekształcające sygnały elektryczne z komputera w ruch fizyczny lub działanie, np. silnik lub serwo."
+    },
+    "cy": {
+      "term": "Actwadur",
+      "definition": "Dyfais sy'n trosi signalau trydanol o gyfrifiadur yn symudiad neu weithred ffisegol, fel modur neu serfo."
+    }
+  }
+}

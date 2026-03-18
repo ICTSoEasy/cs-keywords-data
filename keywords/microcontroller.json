@@ -1,0 +1,21 @@
+{
+  "id": "microcontroller",
+  "topics": [
+    "robotics",
+    "hardware"
+  ],
+  "translations": {
+    "en": {
+      "term": "Microcontroller",
+      "definition": "A small computer on a single chip that can read inputs from sensors and control outputs, commonly used in physical computing projects."
+    },
+    "pl": {
+      "term": "Mikrokontroler",
+      "definition": "Mały komputer na jednym chipie, który może odczytywać dane z czujników i sterować wyjściami, powszechnie używany w projektach z zakresu fizycznego przetwarzania."
+    },
+    "cy": {
+      "term": "Micreolydd",
+      "definition": "Cyfrifiadur bach ar un sglodyn sy'n gallu darllen mewnbynnau o synwyryddion a rheoli allbynnau, a ddefnyddir yn gyffredin mewn prosiectau cyfrifiadeg ffisegol."
+    }
+  }
+}
