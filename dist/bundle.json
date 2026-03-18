@@ -17,6 +17,10 @@
       {
         "code": "ar",
         "label": "العربية"
+      },
+      {
+        "code": "ro",
+        "label": "Română"
       }
     ]
   },
@@ -64,6 +68,17 @@
       "second_language": "اللغة الثانية",
       "footer_text": "البيانات مُقدَّمة من المجتمع.",
       "footer_contribute": "اقترح تغييرات على GitHub"
+    },
+    "ro": {
+      "site_title": "Termeni de Informatică",
+      "site_subtitle": "Vocabular de informatică pentru toți",
+      "search_placeholder": "Caută termeni…",
+      "all_topics": "Toate subiectele",
+      "no_results": "Nu s-au găsit termeni. Încearcă o altă căutare sau subiect.",
+      "no_translation": "Traducere indisponibilă momentan",
+      "second_language": "A doua limbă",
+      "footer_text": "Datele sunt contribuite de comunitate.",
+      "footer_contribute": "Sugerează modificări pe GitHub"
     }
   },
   "topics": [
@@ -74,7 +89,8 @@
         "en": "Algorithms",
         "pl": "Algorytmy",
         "cy": "Algorithmau",
-        "ar": "الخوارزميات"
+        "ar": "الخوارزميات",
+        "ro": "Algoritmi"
       }
     },
     {
@@ -84,7 +100,8 @@
         "en": "Programming",
         "pl": "Programowanie",
         "cy": "Rhaglennu",
-        "ar": "البرمجة"
+        "ar": "البرمجة",
+        "ro": "Programare"
       }
     },
     {
@@ -94,7 +111,8 @@
         "en": "Computational Thinking",
         "pl": "Myślenie komputacyjne",
         "cy": "Meddwl Cyfrifiadurol",
-        "ar": "التفكير الحاسوبي"
+        "ar": "التفكير الحاسوبي",
+        "ro": "Gândire computațională"
       }
     },
     {
@@ -104,7 +122,8 @@
         "en": "Data Representation",
         "pl": "Reprezentacja danych",
         "cy": "Cynrychiolaeth Data",
-        "ar": "تمثيل البيانات"
+        "ar": "تمثيل البيانات",
+        "ro": "Reprezentarea datelor"
       }
     },
     {
@@ -114,7 +133,8 @@
         "en": "Hardware & Computer Systems",
         "pl": "Sprzęt i systemy komputerowe",
         "cy": "Caledwedd a Systemau Cyfrifiadurol",
-        "ar": "الأجهزة وأنظمة الحاسوب"
+        "ar": "الأجهزة وأنظمة الحاسوب",
+        "ro": "Hardware și sisteme de calcul"
       }
     },
     {
@@ -124,7 +144,8 @@
         "en": "Software",
         "pl": "Oprogramowanie",
         "cy": "Meddalwedd",
-        "ar": "البرمجيات"
+        "ar": "البرمجيات",
+        "ro": "Software"
       }
     },
     {
@@ -134,7 +155,8 @@
         "en": "Networking",
         "pl": "Sieci",
         "cy": "Rhwydweithio",
-        "ar": "الشبكات"
+        "ar": "الشبكات",
+        "ro": "Rețele"
       }
     },
     {
@@ -144,7 +166,8 @@
         "en": "Data & Databases",
         "pl": "Dane i bazy danych",
         "cy": "Data a Chronfeydd Data",
-        "ar": "البيانات وقواعد البيانات"
+        "ar": "البيانات وقواعد البيانات",
+        "ro": "Date și baze de date"
       }
     },
     {
@@ -154,7 +177,8 @@
         "en": "Security & Cybersecurity",
         "pl": "Bezpieczeństwo i cyberbezpieczeństwo",
         "cy": "Diogelwch a Seiberddiogelwch",
-        "ar": "الأمن والأمن الإلكتروني"
+        "ar": "الأمن والأمن الإلكتروني",
+        "ro": "Securitate și securitate cibernetică"
       }
     },
     {
@@ -164,7 +188,8 @@
         "en": "Boolean Logic",
         "pl": "Logika Boole'a",
         "cy": "Rhesymeg Boole",
-        "ar": "المنطق البولياني"
+        "ar": "المنطق البولياني",
+        "ro": "Logică booleană"
       }
     },
     {
@@ -174,7 +199,8 @@
         "en": "Software Development",
         "pl": "Tworzenie oprogramowania",
         "cy": "Datblygu Meddalwedd",
-        "ar": "تطوير البرمجيات"
+        "ar": "تطوير البرمجيات",
+        "ro": "Dezvoltare software"
       }
     },
     {
@@ -184,7 +210,8 @@
         "en": "Data Structures",
         "pl": "Struktury danych",
         "cy": "Strwythurau Data",
-        "ar": "هياكل البيانات"
+        "ar": "هياكل البيانات",
+        "ro": "Structuri de date"
       }
     },
     {
@@ -194,7 +221,8 @@
         "en": "Theory of Computation",
         "pl": "Teoria obliczeń",
         "cy": "Theori Cyfrifiadaeth",
-        "ar": "نظرية الحوسبة"
+        "ar": "نظرية الحوسبة",
+        "ro": "Teoria calculului"
       }
     },
     {
@@ -204,7 +232,8 @@
         "en": "Ethical & Legal Issues",
         "pl": "Kwestie etyczne i prawne",
         "cy": "Materion Moesegol a Chyfreithiol",
-        "ar": "القضايا الأخلاقية والقانونية"
+        "ar": "القضايا الأخلاقية والقانونية",
+        "ro": "Probleme etice și juridice"
       }
     },
     {
@@ -214,7 +243,8 @@
         "en": "Artificial Intelligence",
         "pl": "Sztuczna inteligencja",
         "cy": "Deallusrwydd Artiffisial",
-        "ar": "الذكاء الاصطناعي"
+        "ar": "الذكاء الاصطناعي",
+        "ro": "Inteligență artificială"
       }
     },
     {
@@ -224,7 +254,8 @@
         "en": "Robotics & Physical Computing",
         "pl": "Robotyka i obliczenia fizyczne",
         "cy": "Roboteg a Chyfrifiadeg Ffisegol",
-        "ar": "الروبوتات والحوسبة الفيزيائية"
+        "ar": "الروبوتات والحوسبة الفيزيائية",
+        "ro": "Robotică și calcul fizic"
       }
     }
   ],
@@ -250,6 +281,10 @@
         "ar": {
           "term": "التجريد",
           "definition": "إزالة التفاصيل غير الضرورية للتركيز على ما هو مهم عند حل مشكلة ما."
+        },
+        "ro": {
+          "term": "Abstractizare",
+          "definition": "Eliminarea detaliilor inutile pentru a te concentra pe ceea ce este important în rezolvarea unei probleme."
         }
       }
     },
@@ -274,6 +309,10 @@
         "ar": {
           "term": "محرك",
           "definition": "مكون يحول الطاقة الكهربائية إلى حركة فيزيائية في الروبوتات والأنظمة المدمجة."
+        },
+        "ro": {
+          "term": "Actuator",
+          "definition": "O componentă care transformă energia electrică în mișcare fizică în roboți și sisteme încorporate."
         }
       }
     },
@@ -298,6 +337,10 @@
         "ar": {
           "term": "المنهجية الرشيقة",
           "definition": "نهج لتطوير البرمجيات يعمل في دورات قصيرة مع إمكانية التكيف مع التغييرات باستمرار."
+        },
+        "ro": {
+          "term": "Agile",
+          "definition": "O abordare a dezvoltării software care lucrează în cicluri scurte, cu posibilitatea de a se adapta la schimbări în mod continuu."
         }
       }
     },
@@ -323,6 +366,10 @@
         "ar": {
           "term": "أخلاقيات الذكاء الاصطناعي",
           "definition": "المبادئ والمعايير التي تحكم التطوير والاستخدام المسؤول لأنظمة الذكاء الاصطناعي."
+        },
+        "ro": {
+          "term": "Etica inteligenței artificiale",
+          "definition": "Principiile și standardele care guvernează dezvoltarea și utilizarea responsabilă a sistemelor de inteligență artificială."
         }
       }
     },
@@ -344,6 +391,10 @@
         "ar": {
           "term": "خوارزمية",
           "definition": "تسلسل من الخطوات أو التعليمات المصممة لحل مشكلة ما أو إنجاز مهمة."
+        },
+        "ro": {
+          "term": "Algoritm",
+          "definition": "O secvență de pași sau instrucțiuni concepute pentru a rezolva o problemă sau a îndeplini o sarcină."
         }
       },
       "topics": [
@@ -372,6 +423,10 @@
         "ar": {
           "term": "التحيز في الخوارزميات",
           "definition": "عندما تُنتج الخوارزمية نتائج غير عادلة أو تمييزية بسبب بيانات تدريب أو افتراضات متحيزة."
+        },
+        "ro": {
+          "term": "Părtinire algoritmică",
+          "definition": "Când un algoritm produce rezultate nedrepte sau discriminatorii din cauza datelor de antrenament sau a presupozițiilor părtinite."
         }
       }
     },
@@ -396,6 +451,10 @@
         "ar": {
           "term": "تصميم الخوارزمية",
           "definition": "التخطيط للحل خطوة بخطوة لمشكلة ما قبل كتابة أي كود."
+        },
+        "ro": {
+          "term": "Proiectarea algoritmilor",
+          "definition": "Planificarea soluției pas cu pas a unei probleme înainte de a scrie orice cod."
         }
       }
     },
@@ -420,6 +479,10 @@
         "ar": {
           "term": "بوابة AND",
           "definition": "بوابة منطقية تُخرج 1 فقط عندما تكون جميع مداخلها 1."
+        },
+        "ro": {
+          "term": "Poartă AND",
+          "definition": "O poartă logică care produce 1 doar când toate intrările sale sunt 1."
         }
       }
     },
@@ -444,6 +507,10 @@
         "ar": {
           "term": "تطبيق",
           "definition": "برنامج مصمم لأداء مهمة محددة للمستخدم، مثل معالج النصوص أو متصفح الإنترنت."
+        },
+        "ro": {
+          "term": "Aplicație",
+          "definition": "Un program conceput pentru a efectua o sarcină specifică pentru utilizator, cum ar fi un procesor de text sau un browser."
         }
       }
     },
@@ -465,6 +532,10 @@
         "ar": {
           "term": "مصفوفة",
           "definition": "هيكل بيانات يخزن عناصر متعددة من النوع نفسه في مواضع ذاكرة متتالية يمكن الوصول إليها بالمؤشر."
+        },
+        "ro": {
+          "term": "Tablou",
+          "definition": "O structură de date care stochează mai multe elemente de același tip în locații consecutive de memorie."
         }
       },
       "topics": [
@@ -492,6 +563,10 @@
         "ar": {
           "term": "الذكاء الاصطناعي",
           "definition": "محاكاة الذكاء البشري بواسطة أنظمة الحاسوب، بما في ذلك التعلم وحل المشكلات واتخاذ القرارات."
+        },
+        "ro": {
+          "term": "Inteligență artificială",
+          "definition": "Simularea inteligenței umane de către sisteme informatice, inclusiv învățarea și rezolvarea problemelor."
         }
       }
     },
@@ -516,6 +591,10 @@
         "ar": {
           "term": "آسكي",
           "definition": "معيار ترميز يُخصص للحروف الإنجليزية والأرقام وعلامات الترقيم أرقاماً ثنائية."
+        },
+        "ro": {
+          "term": "ASCII",
+          "definition": "Un standard de codificare care atribuie numere binare literelor engleze, cifrelor și semnelor de punctuație."
         }
       }
     },
@@ -541,6 +620,10 @@
         "ar": {
           "term": "لغة التجميع",
           "definition": "لغة برمجة منخفضة المستوى تستخدم رموزاً يمكن للبشر قراءتها وتُترجم مباشرة إلى لغة الآلة."
+        },
+        "ro": {
+          "term": "Limbaj de asamblare",
+          "definition": "Un limbaj de programare de nivel scăzut care folosește simboluri lizibile și se traduce direct în cod mașină."
         }
       }
     },
@@ -562,6 +645,10 @@
         "ar": {
           "term": "المصادقة",
           "definition": "عملية التحقق من هوية المستخدم أو الجهاز قبل منح الوصول إلى النظام."
+        },
+        "ro": {
+          "term": "Autentificare",
+          "definition": "Procesul de verificare a identității unui utilizator sau dispozitiv înainte de a acorda accesul."
         }
       },
       "topics": [
@@ -590,6 +677,10 @@
         "ar": {
           "term": "الأتمتة",
           "definition": "استخدام التكنولوجيا لأداء المهام بشكل تلقائي دون الحاجة إلى تدخل بشري مستمر."
+        },
+        "ro": {
+          "term": "Automatizare",
+          "definition": "Utilizarea tehnologiei pentru a efectua sarcini automat, fără intervenție umană continuă."
         }
       }
     },
@@ -611,6 +702,10 @@
         "ar": {
           "term": "عرض النطاق الترددي",
           "definition": "الحد الأقصى لكمية البيانات التي يمكن نقلها عبر شبكة في وقت معين."
+        },
+        "ro": {
+          "term": "Lățime de bandă",
+          "definition": "Cantitatea maximă de date care poate fi transferată printr-o rețea într-un interval de timp dat."
         }
       },
       "topics": [
@@ -639,6 +734,10 @@
         "ar": {
           "term": "تدوين O الكبير",
           "definition": "طريقة لوصف مدى كفاءة خوارزمية من حيث الوقت أو المساحة عندما يكبر حجم المدخلات."
+        },
+        "ro": {
+          "term": "Notația O mare",
+          "definition": "O metodă de a descrie eficiența unui algoritm în termeni de timp sau spațiu pe măsură ce dimensiunea intrării crește."
         }
       }
     },
@@ -663,6 +762,10 @@
         "ar": {
           "term": "ثنائي",
           "definition": "نظام ترقيم يستخدم رقمين فقط: 0 و1. تستخدمه الحواسيب لتمثيل جميع البيانات."
+        },
+        "ro": {
+          "term": "Binar",
+          "definition": "Un sistem de numerație care folosește doar două cifre: 0 și 1. Calculatoarele folosesc binar pentru a reprezenta toate datele."
         }
       }
     },
@@ -687,6 +790,10 @@
         "ar": {
           "term": "البحث الثنائي",
           "definition": "خوارزمية بحث تقسم القائمة المرتبة إلى نصفين بشكل متكرر للعثور على العنصر المطلوب."
+        },
+        "ro": {
+          "term": "Căutare binară",
+          "definition": "Un algoritm de căutare care împarte în mod repetat o listă sortată în jumătăți pentru a găsi elementul dorit."
         }
       }
     },
@@ -711,6 +818,10 @@
         "ar": {
           "term": "شجرة ثنائية",
           "definition": "هيكل بيانات شجري حيث يمتلك كل عقدة طفلاً أيسر وطفلاً أيمن على الأكثر."
+        },
+        "ro": {
+          "term": "Arbore binar",
+          "definition": "O structură de date arborescentă în care fiecare nod are cel mult un copil stâng și unul drept."
         }
       }
     },
@@ -735,6 +846,10 @@
         "ar": {
           "term": "بت",
           "definition": "أصغر وحدة من البيانات في الحاسوب. يمكن أن تكون 0 أو 1 فقط."
+        },
+        "ro": {
+          "term": "Bit",
+          "definition": "Cea mai mică unitate de date dintr-un calculator. Poate fi doar 0 sau 1."
         }
       }
     },
@@ -756,6 +871,10 @@
         "ar": {
           "term": "منطقي",
           "definition": "نوع بيانات يمكنه تخزين قيمتين فقط: صحيح أو خطأ."
+        },
+        "ro": {
+          "term": "Boolean",
+          "definition": "Un tip de date care poate stoca doar două valori: adevărat sau fals."
         }
       },
       "topics": [
@@ -784,6 +903,10 @@
         "ar": {
           "term": "هجوم القوة الغاشمة",
           "definition": "طريقة اختراق تجرب جميع التركيبات الممكنة حتى يتم العثور على كلمة المرور الصحيحة."
+        },
+        "ro": {
+          "term": "Forță brută",
+          "definition": "O metodă de spargere a sistemelor prin încercarea tuturor combinațiilor posibile până când este găsită cea corectă."
         }
       }
     },
@@ -808,6 +931,10 @@
         "ar": {
           "term": "ترتيب الفقاعة",
           "definition": "خوارزمية ترتيب تقارن العناصر المتجاورة وتبادلها مراراً حتى تُرتَّب القائمة بالكامل."
+        },
+        "ro": {
+          "term": "Sortare prin bule",
+          "definition": "Un algoritm de sortare care compară și schimbă în mod repetat elementele adiacente până când lista este complet sortată."
         }
       }
     },
@@ -832,6 +959,10 @@
         "ar": {
           "term": "ناقل",
           "definition": "مجموعة أسلاك داخل الحاسوب تنقل البيانات بين المكونات. يشمل ناقل البيانات وناقل العنوان وناقل التحكم."
+        },
+        "ro": {
+          "term": "Magistrală",
+          "definition": "Un set de fire din calculator care transportă date între componente. Include magistrala de date, cea de adrese și cea de control."
         }
       }
     },
@@ -856,6 +987,10 @@
         "ar": {
           "term": "بايت",
           "definition": "وحدة من البيانات تتكون من 8 بتات. يمكن لبايت واحد تمثيل 256 قيمة مختلفة."
+        },
+        "ro": {
+          "term": "Byte",
+          "definition": "O unitate de date formată din 8 biți. Un byte poate reprezenta 256 de valori diferite."
         }
       }
     },
@@ -880,6 +1015,10 @@
         "ar": {
           "term": "ذاكرة التخزين المؤقت",
           "definition": "ذاكرة صغيرة وسريعة جداً في المعالج أو بالقرب منه تخزن البيانات المستخدمة مؤخراً لتسريع معالجتها."
+        },
+        "ro": {
+          "term": "Memorie cache",
+          "definition": "O memorie mică și foarte rapidă în interiorul sau aproape de procesor care stochează datele utilizate recent pentru procesare mai rapidă."
         }
       }
     },
@@ -904,6 +1043,10 @@
         "ar": {
           "term": "تحويل النوع",
           "definition": "تغيير نوع بيانات قيمة ما، مثل تحويل رقم إلى نص أو العكس."
+        },
+        "ro": {
+          "term": "Conversie de tip",
+          "definition": "Schimbarea tipului de date al unei valori, de exemplu conversia unui număr în text."
         }
       }
     },
@@ -928,6 +1071,10 @@
         "ar": {
           "term": "روبوت المحادثة",
           "definition": "برنامج حاسوبي مُصمَّم للتحدث مع البشر من خلال النصوص أو الصوت."
+        },
+        "ro": {
+          "term": "Chatbot",
+          "definition": "Un program de calculator conceput pentru a vorbi cu oamenii prin text sau voce."
         }
       }
     },
@@ -952,6 +1099,10 @@
         "ar": {
           "term": "فئة",
           "definition": "قالب لإنشاء الكائنات يحدد الخصائص والأساليب التي ستمتلكها جميع كائنات ذلك النوع."
+        },
+        "ro": {
+          "term": "Clasă",
+          "definition": "Un șablon pentru crearea obiectelor care definește atributele și metodele pe care le vor avea toate obiectele de acel tip."
         }
       }
     },
@@ -976,6 +1127,10 @@
         "ar": {
           "term": "سرعة الساعة",
           "definition": "عدد الدورات التي يؤديها المعالج في الثانية. تُقاس عادةً بالجيجاهرتز (GHz)."
+        },
+        "ro": {
+          "term": "Frecvența de ceas",
+          "definition": "Numărul de cicluri pe care procesorul le efectuează pe secundă. Măsurată de obicei în GHz."
         }
       }
     },
@@ -1000,6 +1155,10 @@
         "ar": {
           "term": "الحوسبة السحابية",
           "definition": "استخدام خوادم بعيدة على الإنترنت لتخزين البيانات وإدارتها ومعالجتها بدلاً من الحاسوب المحلي."
+        },
+        "ro": {
+          "term": "Calcul în cloud",
+          "definition": "Utilizarea serverelor la distanță pe internet pentru a stoca, gestiona și procesa date în loc de un calculator local."
         }
       }
     },
@@ -1024,6 +1183,10 @@
         "ar": {
           "term": "عمق الألوان",
           "definition": "عدد البتات المستخدمة لتخزين لون بكسل واحد. عمق الألوان الأعلى يعني المزيد من الألوان الممكنة وحجم ملف أكبر."
+        },
+        "ro": {
+          "term": "Adâncime de culoare",
+          "definition": "Numărul de biți folosiți pentru a stoca culoarea unui singur pixel. O adâncime mai mare înseamnă mai multe culori posibile și un fișier mai mare."
         }
       }
     },
@@ -1048,6 +1211,10 @@
         "ar": {
           "term": "مُجمِّع",
           "definition": "برنامج يحول كود لغة عالية المستوى إلى لغة الآلة دفعة واحدة قبل تشغيله."
+        },
+        "ro": {
+          "term": "Compilator",
+          "definition": "Un program care convertește codul dintr-un limbaj de nivel înalt în cod mașină dintr-o dată, înainte de execuție."
         }
       }
     },
@@ -1072,6 +1239,10 @@
         "ar": {
           "term": "الضغط",
           "definition": "تقليص حجم الملف عن طريق تمثيل البيانات بطريقة أكثر كفاءة."
+        },
+        "ro": {
+          "term": "Compresie",
+          "definition": "Reducerea dimensiunii unui fișier prin reprezentarea datelor mai eficient."
         }
       }
     },
@@ -1096,6 +1267,10 @@
         "ar": {
           "term": "رؤية الحاسوب",
           "definition": "مجال من الذكاء الاصطناعي يُمكِّن الحواسيب من تفسير الصور ومقاطع الفيديو وفهمها."
+        },
+        "ro": {
+          "term": "Viziune artificială",
+          "definition": "Un domeniu al inteligenței artificiale care permite calculatoarelor să interpreteze și să înțeleagă imagini și videoclipuri."
         }
       }
     },
@@ -1121,6 +1296,10 @@
         "ar": {
           "term": "شرط",
           "definition": "تعبير يُقيَّم إما بصحيح أو خطأ، يُستخدم للتحكم في تدفق البرنامج."
+        },
+        "ro": {
+          "term": "Condiție",
+          "definition": "O expresie evaluată ca adevărată sau falsă, folosită pentru a controla fluxul unui program."
         }
       }
     },
@@ -1145,6 +1324,10 @@
         "ar": {
           "term": "ثابت",
           "definition": "قيمة مسماة لا تتغير أثناء تشغيل البرنامج."
+        },
+        "ro": {
+          "term": "Constantă",
+          "definition": "O valoare cu nume care nu se schimbă pe parcursul execuției programului."
         }
       }
     },
@@ -1169,6 +1352,10 @@
         "ar": {
           "term": "نظام التحكم",
           "definition": "نظام يراقب عملية أو جهازاً ويتحكم فيه تلقائياً باستخدام بيانات من المستشعرات."
+        },
+        "ro": {
+          "term": "Sistem de control",
+          "definition": "Un sistem care monitorizează și controlează automat un proces sau dispozitiv folosind date de la senzori."
         }
       }
     },
@@ -1193,6 +1380,10 @@
         "ar": {
           "term": "حقوق النشر",
           "definition": "الحماية القانونية التي تمنح المبدعين حق التحكم في كيفية استخدام أعمالهم."
+        },
+        "ro": {
+          "term": "Drepturi de autor",
+          "definition": "Protecția legală care acordă creatorilor dreptul de a controla modul în care lucrările lor sunt utilizate."
         }
       }
     },
@@ -1217,6 +1408,10 @@
         "ar": {
           "term": "وحدة المعالجة المركزية",
           "definition": "المكون الرئيسي في الحاسوب الذي ينفذ التعليمات. يُسمى أحياناً 'دماغ الحاسوب'."
+        },
+        "ro": {
+          "term": "Unitate centrală de procesare (CPU)",
+          "definition": "Componenta principală a calculatorului care execută instrucțiunile. Uneori numită 'creierul calculatorului'."
         }
       }
     },
@@ -1241,6 +1436,10 @@
         "ar": {
           "term": "إنشاء وقراءة وتحديث وحذف (CRUD)",
           "definition": "العمليات الأساسية الأربع لإدارة البيانات في قواعد البيانات: الإنشاء والقراءة والتحديث والحذف."
+        },
+        "ro": {
+          "term": "CRUD",
+          "definition": "Cele patru operații de bază pentru gestionarea datelor în baze de date: Creare, Citire, Actualizare și Ștergere."
         }
       }
     },
@@ -1265,6 +1464,10 @@
         "ar": {
           "term": "هجوم إلكتروني",
           "definition": "محاولة متعمدة للوصول غير المصرح به إلى نظام حاسوبي أو الإضرار به."
+        },
+        "ro": {
+          "term": "Atac cibernetic",
+          "definition": "O tentativă deliberată de acces neautorizat la un sistem informatic sau de a-i cauza daune."
         }
       }
     },
@@ -1290,6 +1493,10 @@
         "ar": {
           "term": "حماية البيانات",
           "definition": "مجموعة من الممارسات والقوانين التي تضمن الاستخدام الآمن والعادل للبيانات الشخصية."
+        },
+        "ro": {
+          "term": "Protecția datelor",
+          "definition": "Un set de practici și legi care garantează utilizarea sigură și corectă a datelor personale."
         }
       }
     },
@@ -1314,6 +1521,10 @@
         "ar": {
           "term": "نوع البيانات",
           "definition": "تصنيف يحدد نوع البيانات التي يمكن تخزينها، مثل رقم صحيح أو نص أو منطقي."
+        },
+        "ro": {
+          "term": "Tip de date",
+          "definition": "O clasificare care determină ce fel de date pot fi stocate, cum ar fi număr întreg, text sau boolean."
         }
       }
     },
@@ -1338,6 +1549,10 @@
         "ar": {
           "term": "نوع بيانات قاعدة البيانات",
           "definition": "تصنيف البيانات المخزنة في حقل قاعدة البيانات، مثل نص أو رقم أو تاريخ."
+        },
+        "ro": {
+          "term": "Tip de date (bază de date)",
+          "definition": "Clasificarea datelor stocate într-un câmp al bazei de date, cum ar fi text, număr sau dată."
         }
       }
     },
@@ -1363,6 +1578,10 @@
         "ar": {
           "term": "التحقق من صحة البيانات",
           "definition": "عملية التحقق من أن البيانات المُدخَلة صحيحة ومنطقية قبل معالجتها."
+        },
+        "ro": {
+          "term": "Validarea datelor",
+          "definition": "Procesul de verificare că datele introduse sunt corecte și rezonabile înainte de procesare."
         }
       }
     },
@@ -1384,6 +1603,10 @@
         "ar": {
           "term": "قاعدة البيانات",
           "definition": "مجموعة منظمة من البيانات المخزنة والمُدارة إلكترونياً."
+        },
+        "ro": {
+          "term": "Bază de date",
+          "definition": "O colecție organizată de date stocate și gestionate electronic."
         }
       },
       "topics": [
@@ -1411,6 +1634,10 @@
         "ar": {
           "term": "هجوم DDoS",
           "definition": "هجوم يُغرق النظام بكميات هائلة من حركة المرور لجعله غير متاح للمستخدمين."
+        },
+        "ro": {
+          "term": "Atac DDoS",
+          "definition": "Un atac care inundă un sistem cu cantități mari de trafic pentru a-l face indisponibil utilizatorilor."
         }
       }
     },
@@ -1436,6 +1663,10 @@
         "ar": {
           "term": "تصحيح الأخطاء",
           "definition": "عملية إيجاد وإصلاح الأخطاء في خوارزمية أو برنامج."
+        },
+        "ro": {
+          "term": "Depanare",
+          "definition": "Procesul de identificare și corectare a erorilor dintr-un algoritm sau program."
         }
       }
     },
@@ -1457,6 +1688,10 @@
         "ar": {
           "term": "التحليل",
           "definition": "تقسيم مشكلة معقدة إلى أجزاء أصغر وأسهل في الإدارة والحل."
+        },
+        "ro": {
+          "term": "Descompunere",
+          "definition": "Împărțirea unei probleme complexe în părți mai mici și mai ușor de gestionat și rezolvat."
         }
       },
       "topics": [
@@ -1485,6 +1720,10 @@
         "ar": {
           "term": "عشري",
           "definition": "نظام الترقيم العادي القائم على أساس 10، باستخدام الأرقام من 0 إلى 9."
+        },
+        "ro": {
+          "term": "Zecimal",
+          "definition": "Sistemul de numerație obișnuit în baza 10, folosind cifrele de la 0 la 9."
         }
       }
     },
@@ -1509,6 +1748,10 @@
         "ar": {
           "term": "الفجوة الرقمية",
           "definition": "الفجوة بين من يمكنهم الوصول إلى التكنولوجيا الرقمية ومن لا يستطيعون ذلك."
+        },
+        "ro": {
+          "term": "Decalaj digital",
+          "definition": "Diferența dintre cei care pot accesa tehnologia digitală și cei care nu pot."
         }
       }
     },
@@ -1533,6 +1776,10 @@
         "ar": {
           "term": "نظام أسماء النطاقات (DNS)",
           "definition": "خدمة تحول أسماء النطاقات مثل www.example.com إلى عناوين IP يمكن للحواسيب فهمها."
+        },
+        "ro": {
+          "term": "DNS",
+          "definition": "Un serviciu care convertește numele de domenii precum www.exemplu.com în adrese IP pe care calculatoarele le înțeleg."
         }
       }
     },
@@ -1557,6 +1804,10 @@
         "ar": {
           "term": "الكفاءة",
           "definition": "مدى جودة استخدام خوارزمية للوقت والذاكرة لحل مشكلة ما."
+        },
+        "ro": {
+          "term": "Eficiență",
+          "definition": "Cât de bine folosește un algoritm timpul și memoria pentru a rezolva o problemă."
         }
       }
     },
@@ -1581,6 +1832,10 @@
         "ar": {
           "term": "التغليف",
           "definition": "تجميع بيانات الكائن والأساليب التي تعمل عليها معاً داخل فئة وإخفاء التفاصيل الداخلية عن الكود الخارجي."
+        },
+        "ro": {
+          "term": "Încapsulare",
+          "definition": "Gruparea datelor unui obiect și a metodelor care le folosesc împreună într-o clasă, ascunzând detaliile interne față de codul extern."
         }
       }
     },
@@ -1602,6 +1857,10 @@
         "ar": {
           "term": "التشفير",
           "definition": "تحويل البيانات إلى صيغة لا يمكن قراءتها بدون مفتاح فك التشفير."
+        },
+        "ro": {
+          "term": "Criptare",
+          "definition": "Conversia datelor într-un format care nu poate fi citit fără o cheie de decriptare."
         }
       },
       "topics": [
@@ -1629,6 +1888,10 @@
         "ar": {
           "term": "الأثر البيئي",
           "definition": "التأثيرات التي تُحدثها التكنولوجيا على البيئة، مثل استهلاك الطاقة والنفايات الإلكترونية."
+        },
+        "ro": {
+          "term": "Impact de mediu",
+          "definition": "Efectele pe care tehnologia le are asupra mediului, cum ar fi consumul de energie și deșeurile electronice."
         }
       }
     },
@@ -1653,6 +1916,10 @@
         "ar": {
           "term": "دورة الجلب والفك والتنفيذ",
           "definition": "الدورة التي ينفذ بها المعالج التعليمات: يجلب التعليمة من الذاكرة، ويفك ترميزها، ثم ينفذها."
+        },
+        "ro": {
+          "term": "Ciclul fetch-decode-execute",
+          "definition": "Ciclul prin care procesorul execută instrucțiunile: preia instrucțiunea din memorie, o decodifică, apoi o execută."
         }
       }
     },
@@ -1677,6 +1944,10 @@
         "ar": {
           "term": "آلة الحالة المحدودة",
           "definition": "نموذج حوسبي يمكن أن يكون في حالة واحدة من عدد محدود من الحالات في أي وقت."
+        },
+        "ro": {
+          "term": "Automat cu stări finite",
+          "definition": "Un model de calcul care poate fi într-o singură stare dintr-un număr finit de stări la orice moment."
         }
       }
     },
@@ -1698,6 +1969,10 @@
         "ar": {
           "term": "جدار الحماية",
           "definition": "نظام أمني يراقب حركة مرور الشبكة ويتحكم فيها بناءً على قواعد محددة مسبقاً."
+        },
+        "ro": {
+          "term": "Firewall",
+          "definition": "Un sistem de securitate care monitorizează și controlează traficul de rețea pe baza unor reguli prestabilite."
         }
       },
       "topics": [
@@ -1725,6 +2000,10 @@
         "ar": {
           "term": "ملف مسطح",
           "definition": "قاعدة بيانات تخزن جميع البيانات في جدول واحد دون أي علاقات بين الجداول."
+        },
+        "ro": {
+          "term": "Fișier plat",
+          "definition": "O bază de date care stochează toate datele într-un singur tabel fără relații între tabele."
         }
       }
     },
@@ -1751,6 +2030,10 @@
         "ar": {
           "term": "مخطط التدفق",
           "definition": "رسم بياني يستخدم أشكالاً وأسهماً لتمثيل خطوات خوارزمية أو عملية."
+        },
+        "ro": {
+          "term": "Diagramă de flux",
+          "definition": "Un grafic care folosește forme și săgeți pentru a reprezenta pașii unui algoritm sau proces."
         }
       }
     },
@@ -1775,6 +2058,10 @@
         "ar": {
           "term": "المفتاح الأجنبي",
           "definition": "حقل في جدول يشير إلى المفتاح الأساسي في جدول آخر، يُستخدم لربط الجداول ببعضها."
+        },
+        "ro": {
+          "term": "Cheie externă",
+          "definition": "Un câmp dintr-un tabel care face referire la cheia primară dintr-un alt tabel, folosit pentru a lega tabelele."
         }
       }
     },
@@ -1796,6 +2083,10 @@
         "ar": {
           "term": "دالة",
           "definition": "كتلة كود مسماة تؤدي مهمة محددة وتُرجع قيمة إلى الكود الذي استدعاها."
+        },
+        "ro": {
+          "term": "Funcție",
+          "definition": "Un bloc de cod cu nume care efectuează o sarcină specifică și returnează o valoare."
         }
       },
       "topics": [
@@ -1823,6 +2114,10 @@
         "ar": {
           "term": "اللائحة العامة لحماية البيانات (GDPR)",
           "definition": "قانون أوروبي يحكم كيفية جمع بيانات الأشخاص وتخزينها واستخدامها."
+        },
+        "ro": {
+          "term": "GDPR",
+          "definition": "Un regulament european care guvernează modul în care datele personale sunt colectate, stocate și utilizate."
         }
       }
     },
@@ -1847,6 +2142,10 @@
         "ar": {
           "term": "التعميم",
           "definition": "استخدام الأنماط الموجودة في مشكلة واحدة لإنشاء حلول تعمل لمشاكل مماثلة."
+        },
+        "ro": {
+          "term": "Generalizare",
+          "definition": "Folosirea tiparelor găsite într-o problemă pentru a crea soluții care funcționează pentru probleme similare."
         }
       }
     },
@@ -1871,6 +2170,10 @@
         "ar": {
           "term": "وحدة معالجة الرسوميات",
           "definition": "معالج متخصص في معالجة الرسوميات، يُستخدم في الألعاب والذكاء الاصطناعي."
+        },
+        "ro": {
+          "term": "Unitate de procesare grafică (GPU)",
+          "definition": "Un procesor specializat în procesarea graficii, folosit în jocuri și inteligență artificială."
         }
       }
     },
@@ -1895,6 +2198,10 @@
         "ar": {
           "term": "رسم بياني",
           "definition": "هيكل بيانات يتكون من عقد (رؤوس) متصلة بحواف، يُستخدم لتمثيل العلاقات والشبكات."
+        },
+        "ro": {
+          "term": "Graf",
+          "definition": "O structură de date formată din noduri (vârfuri) conectate prin muchii, folosită pentru a reprezenta relații și rețele."
         }
       }
     },
@@ -1919,6 +2226,10 @@
         "ar": {
           "term": "مشكلة التوقف",
           "definition": "مسألة نظرية تثبت أنه من المستحيل تحديد ما إذا كان برنامج ما سيتوقف أم سيستمر في التشغيل إلى الأبد."
+        },
+        "ro": {
+          "term": "Problema opririi",
+          "definition": "O problemă teoretică care dovedește că este imposibil de determinat dacă un program se va opri sau va continua să ruleze la infinit."
         }
       }
     },
@@ -1943,6 +2254,10 @@
         "ar": {
           "term": "جدول التجزئة",
           "definition": "هيكل بيانات يخزن البيانات في أزواج مفتاح-قيمة لتسهيل الوصول السريع إليها."
+        },
+        "ro": {
+          "term": "Tabel hash",
+          "definition": "O structură de date care stochează date în perechi cheie-valoare pentru acces rapid."
         }
       }
     },
@@ -1967,6 +2282,10 @@
         "ar": {
           "term": "ست عشري",
           "definition": "نظام ترقيم قائم على أساس 16 يستخدم الأرقام 0–9 والحروف A–F. يُستخدم كاختصار مناسب للثنائي."
+        },
+        "ro": {
+          "term": "Hexazecimal",
+          "definition": "Un sistem de numerație în baza 16 care folosește cifrele 0–9 și literele A–F. Folosit ca prescurtare convenabilă pentru binar."
         }
       }
     },
@@ -1992,6 +2311,10 @@
         "ar": {
           "term": "لغة عالية المستوى",
           "definition": "لغة برمجة تستخدم كلمات تشبه اللغة البشرية وسهلة القراءة والكتابة."
+        },
+        "ro": {
+          "term": "Limbaj de nivel înalt",
+          "definition": "Un limbaj de programare care folosește cuvinte asemănătoare limbajului uman și este ușor de citit și scris."
         }
       }
     },
@@ -2016,6 +2339,10 @@
         "ar": {
           "term": "HTTP",
           "definition": "البروتوكول المستخدم لنقل صفحات الويب عبر الإنترنت."
+        },
+        "ro": {
+          "term": "HTTP",
+          "definition": "Protocolul folosit pentru transferul paginilor web pe internet."
         }
       }
     },
@@ -2041,6 +2368,10 @@
         "ar": {
           "term": "HTTPS",
           "definition": "نسخة آمنة من HTTP تُشفِّر البيانات أثناء النقل لحماية المعلومات."
+        },
+        "ro": {
+          "term": "HTTPS",
+          "definition": "O versiune securizată a HTTP care criptează datele în tranzit pentru a proteja informațiile."
         }
       }
     },
@@ -2066,6 +2397,10 @@
         "ar": {
           "term": "بيئة التطوير المتكاملة (IDE)",
           "definition": "برنامج يجمع محرر الكود وأداة فحص الأخطاء والمُصحِّح في مكان واحد لمساعدة المبرمجين."
+        },
+        "ro": {
+          "term": "Mediu de dezvoltare integrat (IDE)",
+          "definition": "Un program care combină un editor de cod, verificator de erori și depanator într-un singur loc pentru a ajuta programatorii."
         }
       }
     },
@@ -2090,6 +2425,10 @@
         "ar": {
           "term": "الوراثة",
           "definition": "عندما تأخذ فئة خصائص وأساليب فئة أخرى. تُسمى الفئة الجديدة فئة فرعية."
+        },
+        "ro": {
+          "term": "Moștenire",
+          "definition": "Când o clasă preia atributele și metodele altei clase. Noua clasă se numește subclasă."
         }
       }
     },
@@ -2114,6 +2453,10 @@
         "ar": {
           "term": "إدخال",
           "definition": "البيانات التي تُدخَل إلى برنامج، عادةً من لوحة المفاتيح أو الملفات أو المستشعرات."
+        },
+        "ro": {
+          "term": "Intrare",
+          "definition": "Date introduse într-un program, de obicei de la tastatură, fișiere sau senzori."
         }
       }
     },
@@ -2138,6 +2481,10 @@
         "ar": {
           "term": "جهاز الإدخال",
           "definition": "جهاز يُستخدم لإدخال البيانات إلى الحاسوب، مثل لوحة المفاتيح والفأرة."
+        },
+        "ro": {
+          "term": "Dispozitiv de intrare",
+          "definition": "Un dispozitiv folosit pentru a introduce date în calculator, cum ar fi tastatura și mouse-ul."
         }
       }
     },
@@ -2162,6 +2509,10 @@
         "ar": {
           "term": "ترتيب الإدراج",
           "definition": "خوارزمية ترتيب تبني القائمة المرتبة عنصراً واحداً في كل مرة عن طريق إدراجه في موضعه الصحيح."
+        },
+        "ro": {
+          "term": "Sortare prin inserție",
+          "definition": "Un algoritm de sortare care construiește lista sortată câte un element pe rând, inserându-l în poziția corectă."
         }
       }
     },
@@ -2186,6 +2537,10 @@
         "ar": {
           "term": "الإنترنت",
           "definition": "شبكة عالمية ضخمة من الحواسيب والأجهزة المتصلة ببعضها."
+        },
+        "ro": {
+          "term": "Internet",
+          "definition": "O rețea globală uriașă de calculatoare și dispozitive conectate între ele."
         }
       }
     },
@@ -2210,6 +2565,10 @@
         "ar": {
           "term": "مُفسِّر",
           "definition": "برنامج يحول كود لغة عالية المستوى ويُشغِّله سطراً بسطر."
+        },
+        "ro": {
+          "term": "Interpretor",
+          "definition": "Un program care convertește și execută codul dintr-un limbaj de nivel înalt linie cu linie."
         }
       }
     },
@@ -2234,6 +2593,10 @@
         "ar": {
           "term": "مشكلة صعبة الحل",
           "definition": "مشكلة لا توجد لها خوارزمية فعالة حتى الآن وتستغرق حلها وقتاً طويلاً جداً للمدخلات الكبيرة."
+        },
+        "ro": {
+          "term": "Problemă intractabilă",
+          "definition": "O problemă pentru care nu există un algoritm eficient și care necesită timp foarte lung pentru intrări mari."
         }
       }
     },
@@ -2255,6 +2618,10 @@
         "ar": {
           "term": "عنوان IP",
           "definition": "عنوان رقمي فريد يُعرِّف جهازاً على الشبكة."
+        },
+        "ro": {
+          "term": "Adresă IP",
+          "definition": "O adresă numerică unică care identifică un dispozitiv într-o rețea."
         }
       },
       "topics": [
@@ -2279,6 +2646,10 @@
         "ar": {
           "term": "التكرار",
           "definition": "تكرار مجموعة من التعليمات عدداً محدداً من المرات أو حتى يتحقق شرط معين."
+        },
+        "ro": {
+          "term": "Iterație",
+          "definition": "Repetarea unui set de instrucțiuni de un număr stabilit de ori sau până când este îndeplinită o condiție."
         }
       },
       "topics": [
@@ -2306,6 +2677,10 @@
         "ar": {
           "term": "الشبكة المحلية (LAN)",
           "definition": "شبكة تربط الأجهزة في منطقة صغيرة مثل منزل أو مكتب أو مدرسة."
+        },
+        "ro": {
+          "term": "Rețea locală (LAN)",
+          "definition": "O rețea care conectează dispozitivele dintr-o zonă mică, cum ar fi o casă, birou sau școală."
         }
       }
     },
@@ -2330,6 +2705,10 @@
         "ar": {
           "term": "البحث الخطي",
           "definition": "خوارزمية بحث تفحص كل عنصر في القائمة واحداً تلو الآخر حتى تجد العنصر المطلوب."
+        },
+        "ro": {
+          "term": "Căutare liniară",
+          "definition": "Un algoritm de căutare care examinează fiecare element din listă, unul câte unul, până găsește elementul dorit."
         }
       }
     },
@@ -2354,6 +2733,10 @@
         "ar": {
           "term": "قائمة مترابطة",
           "definition": "هيكل بيانات حيث يُشير كل عنصر إلى العنصر التالي في التسلسل عبر مؤشر."
+        },
+        "ro": {
+          "term": "Listă înlănțuită",
+          "definition": "O structură de date în care fiecare element indică spre elementul următor din secvență printr-un pointer."
         }
       }
     },
@@ -2379,6 +2762,10 @@
         "ar": {
           "term": "خطأ منطقي",
           "definition": "خطأ في منطق البرنامج يجعله يُنتج نتائج خاطئة دون أن يتوقف عن العمل."
+        },
+        "ro": {
+          "term": "Eroare logică",
+          "definition": "O eroare în logica programului care face ca acesta să producă rezultate incorecte fără să se oprească."
         }
       }
     },
@@ -2403,6 +2790,10 @@
         "ar": {
           "term": "بوابة منطقية",
           "definition": "مكون إلكتروني يؤدي عملية منطقية أساسية على إشارة واحدة أو أكثر."
+        },
+        "ro": {
+          "term": "Poartă logică",
+          "definition": "O componentă electronică care efectuează o operație logică de bază pe unul sau mai multe semnale."
         }
       }
     },
@@ -2427,6 +2818,10 @@
         "ar": {
           "term": "التفكير المنطقي",
           "definition": "استخدام التفكير الواضح خطوة بخطوة لفهم مشكلة والوصول إلى استنتاج."
+        },
+        "ro": {
+          "term": "Raționament logic",
+          "definition": "Folosirea gândirii clare, pas cu pas, pentru a rezolva o problemă și a ajunge la o concluzie."
         }
       }
     },
@@ -2451,6 +2846,10 @@
         "ar": {
           "term": "حلقة",
           "definition": "بنية برمجية تكرر كتلة من الكود حتى يتحقق شرط معين."
+        },
+        "ro": {
+          "term": "Buclă",
+          "definition": "O structură de programare care repetă un bloc de cod până când este îndeplinită o condiție."
         }
       }
     },
@@ -2475,6 +2874,10 @@
         "ar": {
           "term": "ضغط بدون فقدان",
           "definition": "ضغط الملف مع الحفاظ على جميع البيانات الأصلية بحيث يمكن استعادة الملف بشكل كامل."
+        },
+        "ro": {
+          "term": "Compresie fără pierderi",
+          "definition": "Compresia unui fișier păstrând toate datele originale, astfel încât fișierul poate fi restaurat complet."
         }
       }
     },
@@ -2499,6 +2902,10 @@
         "ar": {
           "term": "ضغط مع فقدان",
           "definition": "ضغط الملف بإزالة بعض البيانات بشكل دائم لتحقيق حجم ملف أصغر."
+        },
+        "ro": {
+          "term": "Compresie cu pierderi",
+          "definition": "Compresia unui fișier prin eliminarea permanentă a unor date pentru a obține o dimensiune mai mică."
         }
       }
     },
@@ -2524,6 +2931,10 @@
         "ar": {
           "term": "لغة منخفضة المستوى",
           "definition": "لغة برمجة أقرب إلى لغة الآلة، مثل لغة التجميع، وتتحكم مباشرة في أجهزة الحاسوب."
+        },
+        "ro": {
+          "term": "Limbaj de nivel scăzut",
+          "definition": "Un limbaj de programare mai apropiat de limbajul mașinii, cum ar fi limbajul de asamblare, care controlează direct hardware-ul."
         }
       }
     },
@@ -2548,6 +2959,10 @@
         "ar": {
           "term": "عنوان MAC",
           "definition": "معرِّف فريد مُخصَّص بشكل دائم لبطاقة واجهة الشبكة، يُستخدم لتعريف الأجهزة على الشبكة المحلية."
+        },
+        "ro": {
+          "term": "Adresă MAC",
+          "definition": "Un identificator unic atribuit permanent plăcii de interfață de rețea, folosit pentru a identifica dispozitivele dintr-o rețea locală."
         }
       }
     },
@@ -2573,6 +2988,10 @@
         "ar": {
           "term": "لغة الآلة",
           "definition": "اللغة التي يفهمها المعالج مباشرة، تتكون من تعليمات ثنائية (0 و1)."
+        },
+        "ro": {
+          "term": "Cod mașină",
+          "definition": "Limbajul înțeles direct de procesor, format din instrucțiuni binare (0 și 1)."
         }
       }
     },
@@ -2597,6 +3016,10 @@
         "ar": {
           "term": "التعلم الآلي",
           "definition": "نوع من الذكاء الاصطناعي يتعلم فيه الحاسوب من البيانات بدلاً من اتباع تعليمات مبرمجة بشكل صريح."
+        },
+        "ro": {
+          "term": "Învățare automată",
+          "definition": "Un tip de inteligență artificială în care calculatorul învață din date în loc să urmeze instrucțiuni programate explicit."
         }
       }
     },
@@ -2621,6 +3044,10 @@
         "ar": {
           "term": "قابلية الصيانة",
           "definition": "مدى سهولة فهم الكود وتعديله وإصلاحه من قِبَل المبرمجين مستقبلاً."
+        },
+        "ro": {
+          "term": "Mentenabilitate",
+          "definition": "Cât de ușor poate fi înțeles, modificat și reparat codul de către programatori în viitor."
         }
       }
     },
@@ -2642,6 +3069,10 @@
         "ar": {
           "term": "برمجيات خبيثة",
           "definition": "أي برنامج مصمم للإضرار بالحواسيب أو الأجهزة أو سرقة البيانات."
+        },
+        "ro": {
+          "term": "Malware",
+          "definition": "Orice program conceput pentru a afecta calculatoarele sau dispozitivele sau pentru a fura date."
         }
       },
       "topics": [
@@ -2669,6 +3100,10 @@
         "ar": {
           "term": "ترتيب الدمج",
           "definition": "خوارزمية ترتيب تقسم القائمة إلى نصفين وترتب كل نصف ثم تدمجهما في قائمة مرتبة واحدة."
+        },
+        "ro": {
+          "term": "Sortare prin interclasare",
+          "definition": "Un algoritm de sortare care împarte lista în jumătăți, sortează fiecare jumătate, apoi le interclasează într-o listă sortată."
         }
       }
     },
@@ -2693,6 +3128,10 @@
         "ar": {
           "term": "أسلوب",
           "definition": "دالة تنتمي إلى فئة أو كائن وتُستخدم لتحديد ما يمكن للكائن القيام به."
+        },
+        "ro": {
+          "term": "Metodă",
+          "definition": "O funcție care aparține unei clase sau obiect, folosită pentru a defini ce poate face obiectul."
         }
       }
     },
@@ -2718,6 +3157,10 @@
         "ar": {
           "term": "مايكروبيت",
           "definition": "لوحة حاسوبية صغيرة مصممة لتعليم البرمجة والحوسبة الفيزيائية."
+        },
+        "ro": {
+          "term": "Micro:bit",
+          "definition": "O placă de calcul mică concepută pentru predarea programării și a calculului fizic."
         }
       }
     },
@@ -2743,6 +3186,10 @@
         "ar": {
           "term": "متحكم دقيق",
           "definition": "حاسوب صغير على رقاقة واحدة، يُستخدم في الأجهزة المدمجة والروبوتات."
+        },
+        "ro": {
+          "term": "Microcontroler",
+          "definition": "Un calculator mic pe un singur cip, folosit în dispozitive încorporate și roboți."
         }
       }
     },
@@ -2767,6 +3214,10 @@
         "ar": {
           "term": "اللوحة الأم",
           "definition": "اللوحة الرئيسية في الحاسوب التي تربط جميع المكونات معاً."
+        },
+        "ro": {
+          "term": "Placă de bază",
+          "definition": "Placa principală a calculatorului care conectează toate componentele împreună."
         }
       }
     },
@@ -2791,6 +3242,10 @@
         "ar": {
           "term": "بوابة NAND",
           "definition": "بوابة منطقية تُخرج 0 فقط عندما تكون جميع مداخلها 1، وهي عكس بوابة AND."
+        },
+        "ro": {
+          "term": "Poartă NAND",
+          "definition": "O poartă logică care produce 0 doar când toate intrările sale sunt 1; opusul porții AND."
         }
       }
     },
@@ -2815,6 +3270,10 @@
         "ar": {
           "term": "معالجة اللغة الطبيعية",
           "definition": "مجال الذكاء الاصطناعي الذي يُمكِّن الحواسيب من فهم اللغة البشرية والتفاعل معها."
+        },
+        "ro": {
+          "term": "Procesarea limbajului natural",
+          "definition": "Domeniul inteligenței artificiale care permite calculatoarelor să înțeleagă și să interacționeze cu limbajul uman."
         }
       }
     },
@@ -2839,6 +3298,10 @@
         "ar": {
           "term": "شبكة",
           "definition": "مجموعة من الأجهزة المتصلة التي تستطيع تبادل البيانات."
+        },
+        "ro": {
+          "term": "Rețea",
+          "definition": "Un grup de dispozitive conectate care pot schimba date între ele."
         }
       }
     },
@@ -2863,6 +3326,10 @@
         "ar": {
           "term": "محوِّل الشبكة",
           "definition": "جهاز شبكي يربط الأجهزة على شبكة LAN ويرسل البيانات فقط إلى الجهاز المحدد المقصود، على عكس الموزِّع الذي يرسل إلى الجميع."
+        },
+        "ro": {
+          "term": "Comutator de rețea",
+          "definition": "Un dispozitiv de rețea care conectează dispozitivele dintr-o rețea LAN și trimite date doar dispozitivului specific destinat, spre deosebire de un hub."
         }
       }
     },
@@ -2887,6 +3354,10 @@
         "ar": {
           "term": "الشبكة العصبية الاصطناعية",
           "definition": "نظام حوسبة مستوحى من الدماغ البشري، يُستخدم في التعلم الآلي للتعرف على الأنماط."
+        },
+        "ro": {
+          "term": "Rețea neuronală artificială",
+          "definition": "Un sistem de calcul inspirat din creierul uman, folosit în învățarea automată pentru recunoașterea tiparelor."
         }
       }
     },
@@ -2911,6 +3382,10 @@
         "ar": {
           "term": "بوابة NOR",
           "definition": "بوابة منطقية تُخرج 1 فقط عندما تكون جميع مداخلها 0، وهي عكس بوابة OR."
+        },
+        "ro": {
+          "term": "Poartă NOR",
+          "definition": "O poartă logică care produce 1 doar când toate intrările sale sunt 0; opusul porții OR."
         }
       }
     },
@@ -2935,6 +3410,10 @@
         "ar": {
           "term": "التسوية",
           "definition": "عملية تنظيم قاعدة البيانات لتقليل تكرار البيانات وتحسين سلامتها."
+        },
+        "ro": {
+          "term": "Normalizare",
+          "definition": "Procesul de organizare a unei baze de date pentru a reduce redundanța datelor și a îmbunătăți integritatea acestora."
         }
       }
     },
@@ -2959,6 +3438,10 @@
         "ar": {
           "term": "بوابة NOT",
           "definition": "بوابة منطقية تعكس مدخلها: تحول 1 إلى 0 و0 إلى 1."
+        },
+        "ro": {
+          "term": "Poartă NOT",
+          "definition": "O poartă logică care inversează intrarea sa: transformă 1 în 0 și 0 în 1."
         }
       }
     },
@@ -2983,6 +3466,10 @@
         "ar": {
           "term": "كائن",
           "definition": "نسخة من فئة، تمتلك خصائص (بيانات) وأساليب (أفعال) تحددها الفئة التي أُنشئت منها."
+        },
+        "ro": {
+          "term": "Obiect",
+          "definition": "O instanță a unei clase care are atribute (date) și metode (acțiuni) definite de clasa sa."
         }
       }
     },
@@ -3008,6 +3495,10 @@
         "ar": {
           "term": "مفتوح المصدر",
           "definition": "برنامج يمكن للجميع عرض كوده المصدري وتعديله وتوزيعه بحرية."
+        },
+        "ro": {
+          "term": "Open source",
+          "definition": "Software al cărui cod sursă poate fi vizualizat, modificat și distribuit liber de oricine."
         }
       }
     },
@@ -3033,6 +3524,10 @@
         "ar": {
           "term": "رخصة المصدر المفتوح",
           "definition": "اتفاقية قانونية تحدد كيفية استخدام البرامج مفتوحة المصدر ومشاركتها وتعديلها."
+        },
+        "ro": {
+          "term": "Licență open source",
+          "definition": "Un acord legal care specifică cum poate fi folosit, partajat și modificat software-ul open source."
         }
       }
     },
@@ -3057,6 +3552,10 @@
         "ar": {
           "term": "نظام التشغيل",
           "definition": "برنامج يدير موارد الحاسوب ويوفر واجهة بين المستخدم والأجهزة."
+        },
+        "ro": {
+          "term": "Sistem de operare",
+          "definition": "Un program care gestionează resursele calculatorului și oferă o interfață între utilizator și hardware."
         }
       }
     },
@@ -3081,6 +3580,10 @@
         "ar": {
           "term": "عامل",
           "definition": "رمز يؤدي عملية على قيمة أو قيمتين، مثل + للجمع أو == للمقارنة."
+        },
+        "ro": {
+          "term": "Operator",
+          "definition": "Un simbol care efectuează o operație asupra uneia sau mai multor valori, cum ar fi + pentru adunare sau == pentru comparație."
         }
       }
     },
@@ -3105,6 +3608,10 @@
         "ar": {
           "term": "بوابة OR",
           "definition": "بوابة منطقية تُخرج 1 عندما يكون أحد مداخلها أو أكثر 1."
+        },
+        "ro": {
+          "term": "Poartă OR",
+          "definition": "O poartă logică care produce 1 când cel puțin una dintre intrările sale este 1."
         }
       }
     },
@@ -3129,6 +3636,10 @@
         "ar": {
           "term": "إخراج",
           "definition": "البيانات التي يُنتجها البرنامج، مثل النص على الشاشة أو البيانات المحفوظة في ملف."
+        },
+        "ro": {
+          "term": "Ieșire",
+          "definition": "Date produse de un program, cum ar fi text pe ecran sau date salvate într-un fișier."
         }
       }
     },
@@ -3153,6 +3664,10 @@
         "ar": {
           "term": "جهاز الإخراج",
           "definition": "جهاز يُخرج البيانات من الحاسوب، مثل الشاشة والطابعة والسماعات."
+        },
+        "ro": {
+          "term": "Dispozitiv de ieșire",
+          "definition": "Un dispozitiv care produce date din calculator, cum ar fi monitorul, imprimanta sau difuzoarele."
         }
       }
     },
@@ -3174,6 +3689,10 @@
         "ar": {
           "term": "حزمة بيانات",
           "definition": "قطعة صغيرة من البيانات تُرسَل عبر شبكة. تُقسَّم البيانات الكبيرة إلى حزم عديدة."
+        },
+        "ro": {
+          "term": "Pachet de date",
+          "definition": "O bucată mică de date trimisă printr-o rețea. Datele mari sunt împărțite în mai multe pachete."
         }
       },
       "topics": [
@@ -3201,6 +3720,10 @@
         "ar": {
           "term": "تبديل الحزم",
           "definition": "طريقة لإرسال البيانات عبر الشبكة بتقسيمها إلى حزم يمكنها السير عبر مسارات مختلفة."
+        },
+        "ro": {
+          "term": "Comutare de pachete",
+          "definition": "O metodă de trimitere a datelor printr-o rețea prin împărțirea lor în pachete care pot călători pe căi diferite."
         }
       }
     },
@@ -3225,6 +3748,10 @@
         "ar": {
           "term": "معامل",
           "definition": "متغير يُمرَّر إلى دالة أو إجراء عند استدعائها لتزويدها بالبيانات اللازمة."
+        },
+        "ro": {
+          "term": "Parametru",
+          "definition": "O variabilă transmisă unei funcții sau proceduri când aceasta este apelată."
         }
       }
     },
@@ -3250,6 +3777,10 @@
         "ar": {
           "term": "رقعة (تحديث)",
           "definition": "تحديث برمجي يُصلح أخطاء أو ثغرات أمنية في برنامج."
+        },
+        "ro": {
+          "term": "Patch",
+          "definition": "O actualizare software care corectează erori sau vulnerabilități de securitate dintr-un program."
         }
       }
     },
@@ -3274,6 +3805,10 @@
         "ar": {
           "term": "التعرف على الأنماط",
           "definition": "تحديد أوجه التشابه أو الميزات المتكررة في المشاكل للمساعدة في حلها بكفاءة أكبر."
+        },
+        "ro": {
+          "term": "Recunoașterea tiparelor",
+          "definition": "Identificarea asemănărilor sau caracteristicilor repetate în probleme pentru a le rezolva mai eficient."
         }
       }
     },
@@ -3295,6 +3830,10 @@
         "ar": {
           "term": "التصيد الاحتيالي",
           "definition": "محاولة احتيال لخداع الأشخاص للكشف عن معلومات شخصية عبر رسائل أو مواقع مزيفة."
+        },
+        "ro": {
+          "term": "Phishing",
+          "definition": "O tentativă de fraudă pentru a înșela oamenii să dezvăluie informații personale prin mesaje sau site-uri false."
         }
       },
       "topics": [
@@ -3322,6 +3861,10 @@
         "ar": {
           "term": "الحوسبة الفيزيائية",
           "definition": "بناء أنظمة حوسبة تتفاعل مع العالم الفيزيائي من خلال أجهزة الاستشعار والمحركات."
+        },
+        "ro": {
+          "term": "Calcul fizic",
+          "definition": "Construirea de sisteme de calcul care interacționează cu lumea fizică prin senzori și actuatoare."
         }
       }
     },
@@ -3346,6 +3889,10 @@
         "ar": {
           "term": "بكسل",
           "definition": "أصغر عنصر في صورة رقمية. الصور مكونة من شبكة من البكسلات."
+        },
+        "ro": {
+          "term": "Pixel",
+          "definition": "Cel mai mic element al unei imagini digitale. Imaginile sunt formate dintr-o grilă de pixeli."
         }
       }
     },
@@ -3371,6 +3918,10 @@
         "ar": {
           "term": "مؤشر",
           "definition": "متغير يخزن عنوان ذاكرة متغير آخر بدلاً من تخزين القيمة مباشرة."
+        },
+        "ro": {
+          "term": "Pointer",
+          "definition": "O variabilă care stochează adresa de memorie a altei variabile."
         }
       }
     },
@@ -3392,6 +3943,10 @@
         "ar": {
           "term": "المفتاح الأساسي",
           "definition": "حقل أو مجموعة حقول تُعرِّف كل سجل بشكل فريد في جدول قاعدة البيانات."
+        },
+        "ro": {
+          "term": "Cheie primară",
+          "definition": "Un câmp sau un set de câmpuri care identifică unic fiecare înregistrare dintr-un tabel al bazei de date."
         }
       },
       "topics": [
@@ -3420,6 +3975,10 @@
         "ar": {
           "term": "الخصوصية",
           "definition": "حق الأفراد في التحكم في معلوماتهم الشخصية ومن يمكنه الوصول إليها."
+        },
+        "ro": {
+          "term": "Confidențialitate",
+          "definition": "Dreptul persoanelor de a controla informațiile lor personale și cine le poate accesa."
         }
       }
     },
@@ -3445,6 +4004,10 @@
         "ar": {
           "term": "برنامج مملوك",
           "definition": "برنامج يمتلكه شخص أو شركة ويتحكم في استخدامه. لا يمكن عرض كوده أو نسخه بحرية."
+        },
+        "ro": {
+          "term": "Software proprietar",
+          "definition": "Software deținut de o persoană sau companie care controlează utilizarea sa. Codul nu poate fi vizualizat sau copiat liber."
         }
       }
     },
@@ -3466,6 +4029,10 @@
         "ar": {
           "term": "بروتوكول",
           "definition": "مجموعة من القواعد التي تحدد كيفية تواصل الأجهزة وتبادل البيانات عبر الشبكة."
+        },
+        "ro": {
+          "term": "Protocol",
+          "definition": "Un set de reguli care definesc cum comunică dispozitivele și cum schimbă date printr-o rețea."
         }
       },
       "topics": [
@@ -3494,6 +4061,10 @@
         "ar": {
           "term": "الكود الزائف",
           "definition": "وصف بسيط لخوارزمية يشبه الكود البرمجي لكنه مكتوب باللغة العادية وليس بلغة برمجة محددة."
+        },
+        "ro": {
+          "term": "Pseudocod",
+          "definition": "O descriere simplă a unui algoritm care seamănă cu codul de programare dar este scrisă în limbaj obișnuit."
         }
       }
     },
@@ -3515,6 +4086,10 @@
         "ar": {
           "term": "استعلام",
           "definition": "طلب للحصول على بيانات أو إجراء عملية على بيانات في قاعدة البيانات."
+        },
+        "ro": {
+          "term": "Interogare",
+          "definition": "O solicitare de a obține date sau de a efectua o operație pe date dintr-o bază de date."
         }
       },
       "topics": [
@@ -3542,6 +4117,10 @@
         "ar": {
           "term": "طابور",
           "definition": "هيكل بيانات يعمل وفق مبدأ الأول يدخل الأول يخرج (FIFO)."
+        },
+        "ro": {
+          "term": "Coadă",
+          "definition": "O structură de date care funcționează după principiul primul intrat, primul ieșit (FIFO)."
         }
       }
     },
@@ -3566,6 +4145,10 @@
         "ar": {
           "term": "ذاكرة الوصول العشوائي (RAM)",
           "definition": "ذاكرة مؤقتة تخزن البيانات والبرامج التي يستخدمها الحاسوب حالياً. تُمسح عند إيقاف تشغيله."
+        },
+        "ro": {
+          "term": "Memorie RAM",
+          "definition": "Memorie temporară care stochează datele și programele folosite curent de calculator. Este ștearsă când calculatorul este oprit."
         }
       }
     },
@@ -3587,6 +4170,10 @@
         "ar": {
           "term": "سجل",
           "definition": "صف في جدول قاعدة البيانات يمثل مجموعة بيانات ذات صلة بعنصر واحد."
+        },
+        "ro": {
+          "term": "Înregistrare",
+          "definition": "Un rând dintr-un tabel de baze de date care reprezintă un set de date legate de un singur element."
         }
       },
       "topics": [
@@ -3615,6 +4202,10 @@
         "ar": {
           "term": "العودية",
           "definition": "عندما تستدعي دالة نفسها لحل نسخة أصغر من المشكلة نفسها."
+        },
+        "ro": {
+          "term": "Recursivitate",
+          "definition": "Când o funcție se apelează pe sine pentru a rezolva o versiune mai mică a aceleiași probleme."
         }
       }
     },
@@ -3639,6 +4230,10 @@
         "ar": {
           "term": "سجل",
           "definition": "موقع تخزين صغير جداً وسريع داخل المعالج يُستخدم لحفظ البيانات والتعليمات التي يتم معالجتها حالياً."
+        },
+        "ro": {
+          "term": "Registru",
+          "definition": "Un loc de stocare mic și foarte rapid în interiorul procesorului folosit pentru a reține datele și instrucțiunile procesate curent."
         }
       }
     },
@@ -3664,6 +4259,10 @@
         "ar": {
           "term": "تعبير نمطي",
           "definition": "تسلسل من الأحرف يشكل نمط بحث، يُستخدم للبحث عن نص أو التحقق من صحته أو استبداله."
+        },
+        "ro": {
+          "term": "Expresie regulată",
+          "definition": "O secvență de caractere care formează un tipar de căutare, folosită pentru a căuta, valida sau înlocui text."
         }
       }
     },
@@ -3688,6 +4287,10 @@
         "ar": {
           "term": "قاعدة البيانات العلائقية",
           "definition": "قاعدة بيانات تُنظِّم البيانات في جداول مترابطة يمكن ربطها عبر المفاتيح."
+        },
+        "ro": {
+          "term": "Bază de date relațională",
+          "definition": "O bază de date care organizează datele în tabele interconectate care pot fi legate prin chei."
         }
       }
     },
@@ -3712,6 +4315,10 @@
         "ar": {
           "term": "الدقة",
           "definition": "عدد البكسلات في صورة. الدقة الأعلى تعني صورة أوضح وحجم ملف أكبر."
+        },
+        "ro": {
+          "term": "Rezoluție",
+          "definition": "Numărul de pixeli dintr-o imagine. O rezoluție mai mare înseamnă o imagine mai clară și un fișier mai mare."
         }
       }
     },
@@ -3736,6 +4343,10 @@
         "ar": {
           "term": "قيمة الإرجاع",
           "definition": "القيمة التي ترسلها الدالة إلى الكود الذي استدعاها عند انتهاء تنفيذها."
+        },
+        "ro": {
+          "term": "Valoare returnată",
+          "definition": "Valoarea trimisă înapoi de o funcție către codul care a apelat-o."
         }
       }
     },
@@ -3760,6 +4371,10 @@
         "ar": {
           "term": "روبوت",
           "definition": "آلة يمكن برمجتها لأداء مهام تلقائياً، غالباً ما تحاكي الإجراءات البشرية."
+        },
+        "ro": {
+          "term": "Robot",
+          "definition": "O mașină care poate fi programată pentru a efectua sarcini automat, adesea imitând acțiunile umane."
         }
       }
     },
@@ -3784,6 +4399,10 @@
         "ar": {
           "term": "ذاكرة القراءة فقط (ROM)",
           "definition": "ذاكرة دائمة تحتوي على تعليمات لا يمكن تغييرها، مثل تعليمات بدء تشغيل الحاسوب."
+        },
+        "ro": {
+          "term": "Memorie ROM",
+          "definition": "Memorie permanentă care conține instrucțiuni care nu pot fi modificate, cum ar fi instrucțiunile de pornire a calculatorului."
         }
       }
     },
@@ -3805,6 +4424,10 @@
         "ar": {
           "term": "جهاز التوجيه",
           "definition": "جهاز شبكي يوجه حزم البيانات بين شبكات مختلفة ويربط الشبكة المنزلية بالإنترنت."
+        },
+        "ro": {
+          "term": "Router",
+          "definition": "Un dispozitiv de rețea care direcționează pachete de date între rețele diferite și conectează rețeaua locală la internet."
         }
       },
       "topics": [
@@ -3833,6 +4456,10 @@
         "ar": {
           "term": "خطأ وقت التشغيل",
           "definition": "خطأ يحدث أثناء تشغيل البرنامج ويتسبب في إيقافه فجأة."
+        },
+        "ro": {
+          "term": "Eroare de execuție",
+          "definition": "O eroare care apare în timpul rulării programului și îl face să se oprească brusc."
         }
       }
     },
@@ -3857,6 +4484,10 @@
         "ar": {
           "term": "معدل أخذ العينات",
           "definition": "عدد المرات في الثانية التي تُقاس فيها موجة الصوت عند التسجيل. معدل أعلى ينتج صوتاً أفضل جودةً لكن حجم ملف أكبر."
+        },
+        "ro": {
+          "term": "Rată de eșantionare",
+          "definition": "Numărul de ori pe secundă în care o undă sonoră este măsurată la înregistrare. O rată mai mare produce sunet de calitate mai bună dar fișier mai mare."
         }
       }
     },
@@ -3881,6 +4512,10 @@
         "ar": {
           "term": "النطاق",
           "definition": "المنطقة في البرنامج حيث يمكن الوصول إلى متغير. المتغير المحلي موجود فقط داخل البرنامج الفرعي الذي أُنشئ فيه؛ المتغير العام يمكن الوصول إليه من أي مكان."
+        },
+        "ro": {
+          "term": "Domeniu de vizibilitate",
+          "definition": "Zona din program în care o variabilă poate fi accesată. O variabilă locală există doar în subrutina în care a fost creată; una globală poate fi accesată oriunde."
         }
       }
     },
@@ -3902,6 +4537,10 @@
         "ar": {
           "term": "الاختيار",
           "definition": "جزء من البرنامج يُتخذ فيه قرار بناءً على شرط ما، باستخدام تعليمات مثل if/else."
+        },
+        "ro": {
+          "term": "Selecție",
+          "definition": "O parte a unui program în care se ia o decizie pe baza unei condiții, folosind instrucțiuni de tipul if/else."
         }
       },
       "topics": [
@@ -3930,6 +4569,10 @@
         "ar": {
           "term": "مستشعر",
           "definition": "جهاز يقيس خاصية فيزيائية من العالم الحقيقي، مثل درجة الحرارة أو الضوء أو الصوت."
+        },
+        "ro": {
+          "term": "Senzor",
+          "definition": "Un dispozitiv care măsoară o proprietate fizică din lumea reală, cum ar fi temperatura, lumina sau sunetul."
         }
       }
     },
@@ -3951,6 +4594,10 @@
         "ar": {
           "term": "التسلسل",
           "definition": "تنفيذ التعليمات بالترتيب واحدة تلو الأخرى."
+        },
+        "ro": {
+          "term": "Secvență",
+          "definition": "Executarea instrucțiunilor în ordine, una după alta."
         }
       },
       "topics": [
@@ -3978,6 +4625,10 @@
         "ar": {
           "term": "الهندسة الاجتماعية",
           "definition": "التلاعب النفسي بالأشخاص لإقناعهم بالكشف عن معلومات سرية أو اتخاذ إجراءات غير آمنة."
+        },
+        "ro": {
+          "term": "Inginerie socială",
+          "definition": "Manipularea psihologică a oamenilor pentru a-i convinge să dezvăluie informații confidențiale sau să ia măsuri nesigure."
         }
       }
     },
@@ -4002,6 +4653,10 @@
         "ar": {
           "term": "دورة حياة تطوير البرمجيات",
           "definition": "المراحل المتبعة لتخطيط وإنشاء واختبار وصيانة نظام برمجي."
+        },
+        "ro": {
+          "term": "Ciclul de viață al dezvoltării software",
+          "definition": "Etapele urmate pentru planificarea, crearea, testarea și întreținerea unui sistem software."
         }
       }
     },
@@ -4026,6 +4681,10 @@
         "ar": {
           "term": "لغة SQL",
           "definition": "لغة تُستخدم لإنشاء قواعد البيانات العلائقية وإدارتها والاستعلام منها."
+        },
+        "ro": {
+          "term": "SQL",
+          "definition": "Un limbaj folosit pentru a crea și gestiona baze de date relaționale și a efectua interogări."
         }
       }
     },
@@ -4050,6 +4709,10 @@
         "ar": {
           "term": "حقن SQL",
           "definition": "هجوم إلكتروني يُدخل فيه المهاجم كوداً ضاراً في نماذج الإدخال للتحكم في قاعدة البيانات."
+        },
+        "ro": {
+          "term": "Injecție SQL",
+          "definition": "Un atac cibernetic în care atacatorul introduce cod malițios în formularele de intrare pentru a controla baza de date."
         }
       }
     },
@@ -4074,6 +4737,10 @@
         "ar": {
           "term": "مكدس",
           "definition": "هيكل بيانات يعمل وفق مبدأ الأخير يدخل الأول يخرج (LIFO)."
+        },
+        "ro": {
+          "term": "Stivă",
+          "definition": "O structură de date care funcționează după principiul ultimul intrat, primul ieșit (LIFO)."
         }
       }
     },
@@ -4098,6 +4765,10 @@
         "ar": {
           "term": "التخزين",
           "definition": "وسيط يحتفظ بالبيانات بشكل دائم، مثل القرص الصلب أو محرك أقراص USB."
+        },
+        "ro": {
+          "term": "Stocare",
+          "definition": "Un suport care păstrează datele permanent, cum ar fi hard disk-ul sau un stick USB."
         }
       }
     },
@@ -4119,6 +4790,10 @@
         "ar": {
           "term": "سلسلة نصية",
           "definition": "تسلسل من الأحرف يُستخدم لتمثيل النص في البرمجة."
+        },
+        "ro": {
+          "term": "Șir de caractere",
+          "definition": "O secvență de caractere folosită pentru a reprezenta text în programare."
         }
       },
       "topics": [
@@ -4147,6 +4822,10 @@
         "ar": {
           "term": "برنامج فرعي",
           "definition": "كتلة كود مسماة يمكن استدعاؤها من أي مكان في البرنامج. تشمل الإجراءات (بدون قيمة إرجاع) والدوال (تُرجع قيمة)."
+        },
+        "ro": {
+          "term": "Subrutină",
+          "definition": "Un bloc de cod cu nume care poate fi apelat din orice loc al programului. Include proceduri (fără valoare returnată) și funcții (returnează o valoare)."
         }
       }
     },
@@ -4171,6 +4850,10 @@
         "ar": {
           "term": "التعلم الخاضع للإشراف",
           "definition": "نوع من التعلم الآلي يتدرب فيه النموذج على بيانات مُعلَّمة بإجابات صحيحة معروفة."
+        },
+        "ro": {
+          "term": "Învățare supervizată",
+          "definition": "Un tip de învățare automată în care modelul este antrenat pe date etichetate cu răspunsuri corecte cunoscute."
         }
       }
     },
@@ -4196,6 +4879,10 @@
         "ar": {
           "term": "خطأ نحوي",
           "definition": "خطأ في قواعد كتابة الكود يمنع البرنامج من التشغيل."
+        },
+        "ro": {
+          "term": "Eroare de sintaxă",
+          "definition": "O eroare în regulile de scriere a codului care împiedică rularea programului."
         }
       }
     },
@@ -4217,6 +4904,10 @@
         "ar": {
           "term": "جدول",
           "definition": "هيكل في قاعدة البيانات يُنظِّم البيانات في صفوف وأعمدة."
+        },
+        "ro": {
+          "term": "Tabel",
+          "definition": "O structură dintr-o bază de date care organizează datele în rânduri și coloane."
         }
       },
       "topics": [
@@ -4244,6 +4935,10 @@
         "ar": {
           "term": "بيانات الاختبار",
           "definition": "بيانات تُستخدم لاختبار برنامج والتحقق من أنه يعمل بشكل صحيح في جميع الحالات."
+        },
+        "ro": {
+          "term": "Date de testare",
+          "definition": "Date folosite pentru a testa un program și a verifica că funcționează corect în toate cazurile."
         }
       }
     },
@@ -4268,6 +4963,10 @@
         "ar": {
           "term": "الاختبار",
           "definition": "عملية التحقق من أن البرنامج يعمل بشكل صحيح ويُنتج النتائج المتوقعة."
+        },
+        "ro": {
+          "term": "Testare",
+          "definition": "Procesul de verificare că programul funcționează corect și produce rezultatele așteptate."
         }
       }
     },
@@ -4292,6 +4991,10 @@
         "ar": {
           "term": "طبولوجيا الشبكة",
           "definition": "الترتيب الفيزيائي أو المنطقي للأجهزة في شبكة."
+        },
+        "ro": {
+          "term": "Topologia rețelei",
+          "definition": "Aranjamentul fizic sau logic al dispozitivelor dintr-o rețea."
         }
       }
     },
@@ -4316,6 +5019,10 @@
         "ar": {
           "term": "جدول التتبع",
           "definition": "جدول يُستخدم لتتبع قيم المتغيرات خطوة بخطوة عند تشغيل الكود يدوياً."
+        },
+        "ro": {
+          "term": "Tabel de urmărire",
+          "definition": "Un tabel folosit pentru a urmări valorile variabilelor pas cu pas la rularea manuală a codului."
         }
       }
     },
@@ -4340,6 +5047,10 @@
         "ar": {
           "term": "مشكلة قابلة للحل",
           "definition": "مشكلة يمكن حلها بكفاءة باستخدام خوارزمية تعمل في وقت متعدد الحدود."
+        },
+        "ro": {
+          "term": "Problemă tractabilă",
+          "definition": "O problemă care poate fi rezolvată eficient folosind un algoritm cu timp de execuție polinomial."
         }
       }
     },
@@ -4364,6 +5075,10 @@
         "ar": {
           "term": "بيانات التدريب",
           "definition": "البيانات المستخدمة لتدريب نموذج التعلم الآلي. جودة هذه البيانات تؤثر مباشرة على أداء النموذج."
+        },
+        "ro": {
+          "term": "Date de antrenament",
+          "definition": "Datele folosite pentru a antrena un model de învățare automată. Calitatea lor influențează direct performanța modelului."
         }
       }
     },
@@ -4388,6 +5103,10 @@
         "ar": {
           "term": "شجرة",
           "definition": "هيكل بيانات هرمي يتكون من عقد، لكل منها عقدة أب واحدة وعقد أبناء متعددة."
+        },
+        "ro": {
+          "term": "Arbore",
+          "definition": "O structură de date ierarhică formată din noduri, fiecare cu un singur nod părinte și mai mulți noduri copii."
         }
       }
     },
@@ -4412,6 +5131,10 @@
         "ar": {
           "term": "جدول الحقيقة",
           "definition": "جدول يُظهر جميع مجموعات المداخل الممكنة والمخرجات المقابلة لها في دائرة منطقية."
+        },
+        "ro": {
+          "term": "Tabel de adevăr",
+          "definition": "Un tabel care arată toate combinațiile posibile de intrări și ieșirile corespunzătoare pentru un circuit logic."
         }
       }
     },
@@ -4436,6 +5159,10 @@
         "ar": {
           "term": "آلة تورينج",
           "definition": "نموذج رياضي لجهاز حوسبة يصف مفهوم الخوارزمية والحوسبة بشكل مجرد."
+        },
+        "ro": {
+          "term": "Mașina Turing",
+          "definition": "Un model matematic al unui dispozitiv de calcul care descrie conceptul de algoritm și calcul."
         }
       }
     },
@@ -4460,6 +5187,10 @@
         "ar": {
           "term": "مكمل الاثنين",
           "definition": "طريقة لتمثيل الأعداد الصحيحة السالبة في النظام الثنائي. لنفي عدد: اقلب جميع البتات ثم أضف 1."
+        },
+        "ro": {
+          "term": "Complement față de doi",
+          "definition": "O metodă de reprezentare a numerelor întregi negative în binar. Pentru a nega un număr: inversează toți biții, apoi adaugă 1."
         }
       }
     },
@@ -4484,6 +5215,10 @@
         "ar": {
           "term": "المصادقة الثنائية",
           "definition": "طريقة أمان تتطلب شكلين من التحقق من الهوية، مثل كلمة المرور ورمز يُرسَل إلى الهاتف."
+        },
+        "ro": {
+          "term": "Autentificare cu doi factori",
+          "definition": "O metodă de securitate care necesită două forme de verificare a identității, cum ar fi o parolă și un cod trimis pe telefon."
         }
       }
     },
@@ -4508,6 +5243,10 @@
         "ar": {
           "term": "يونيكود",
           "definition": "معيار ترميز يدعم معظم أحرف وأنظمة كتابة العالم."
+        },
+        "ro": {
+          "term": "Unicode",
+          "definition": "Un standard de codificare care suportă majoritatea caracterelor și sistemelor de scriere din lume."
         }
       }
     },
@@ -4532,6 +5271,10 @@
         "ar": {
           "term": "التعلم غير الخاضع للإشراف",
           "definition": "نوع من التعلم الآلي يجد فيه النموذج الأنماط في بيانات غير مُعلَّمة بنفسه."
+        },
+        "ro": {
+          "term": "Învățare nesupervizată",
+          "definition": "Un tip de învățare automată în care modelul găsește singur tipare în date neetichetate."
         }
       }
     },
@@ -4556,6 +5299,10 @@
         "ar": {
           "term": "برنامج مساعد",
           "definition": "برنامج يساعد في إدارة الحاسوب وصيانته، مثل برامج مكافحة الفيروسات وضغط الملفات."
+        },
+        "ro": {
+          "term": "Program utilitar",
+          "definition": "Un program care ajută la gestionarea și întreținerea calculatorului, cum ar fi programele antivirus sau de compresie."
         }
       }
     },
@@ -4577,6 +5324,10 @@
         "ar": {
           "term": "متغير",
           "definition": "مكان مسمى في ذاكرة الحاسوب يُخزَّن فيه قيمة يمكن أن تتغير أثناء تشغيل البرنامج."
+        },
+        "ro": {
+          "term": "Variabilă",
+          "definition": "Un loc cu nume în memoria calculatorului unde este stocată o valoare. Valoarea se poate schimba în timpul execuției programului."
         }
       },
       "topics": [
@@ -4604,6 +5355,10 @@
         "ar": {
           "term": "التحكم في الإصدارات",
           "definition": "نظام يسجل التغييرات في الملفات بمرور الوقت للتعاون مع الآخرين والرجوع إلى إصدارات سابقة."
+        },
+        "ro": {
+          "term": "Control al versiunilor",
+          "definition": "Un sistem care înregistrează modificările fișierelor în timp pentru a facilita colaborarea și revenirea la versiuni anterioare."
         }
       }
     },
@@ -4628,6 +5383,10 @@
         "ar": {
           "term": "معمارية فون نيومان",
           "definition": "تصميم الحاسوب الذي يخزن البيانات والتعليمات في نفس الذاكرة ويعالجهما بواسطة نفس المعالج."
+        },
+        "ro": {
+          "term": "Arhitectura von Neumann",
+          "definition": "Proiectul calculatorului care stochează datele și instrucțiunile în aceeași memorie și le procesează cu același procesor."
         }
       }
     },
@@ -4652,6 +5411,10 @@
         "ar": {
           "term": "ثغرة أمنية",
           "definition": "ضعف في نظام الحاسوب يمكن استغلاله من قِبَل المهاجمين للوصول غير المصرح به."
+        },
+        "ro": {
+          "term": "Vulnerabilitate",
+          "definition": "O slăbiciune într-un sistem informatic care poate fi exploatată de atacatori pentru acces neautorizat."
         }
       }
     },
@@ -4676,6 +5439,10 @@
         "ar": {
           "term": "الشبكة الواسعة (WAN)",
           "definition": "شبكة تغطي مساحة جغرافية كبيرة. الإنترنت هو أكبر مثال على الشبكة الواسعة."
+        },
+        "ro": {
+          "term": "Rețea de arie largă (WAN)",
+          "definition": "O rețea care acoperă o zonă geografică mare. Internetul este cel mai mare exemplu de rețea WAN."
         }
       }
     },
@@ -4700,6 +5467,10 @@
         "ar": {
           "term": "نموذج الشلال",
           "definition": "نهج لتطوير البرمجيات يتبع مراحل متتالية ثابتة: التحليل والتصميم والتطوير والاختبار والصيانة."
+        },
+        "ro": {
+          "term": "Model cascadă",
+          "definition": "O abordare a dezvoltării software care urmează etape secvențiale fixe: analiză, proiectare, dezvoltare, testare și întreținere."
         }
       }
     },
@@ -4724,6 +5495,10 @@
         "ar": {
           "term": "الشبكة العنكبوتية العالمية",
           "definition": "نظام من الصفحات والموارد المترابطة على الإنترنت، يمكن الوصول إليها عبر المتصفح."
+        },
+        "ro": {
+          "term": "World Wide Web",
+          "definition": "Un sistem de pagini și resurse interconectate pe internet, accesibil prin browser."
         }
       }
     },
@@ -4748,6 +5523,10 @@
         "ar": {
           "term": "بوابة XOR",
           "definition": "بوابة منطقية تُخرج 1 عندما يكون أحد مداخلها فقط 1، وليس كليهما معاً."
+        },
+        "ro": {
+          "term": "Poartă XOR",
+          "definition": "O poartă logică care produce 1 când exact una dintre intrările sale este 1, nu ambele."
         }
       }
     }
