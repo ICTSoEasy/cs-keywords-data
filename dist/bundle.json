@@ -785,6 +785,26 @@
       }
     },
     {
+      "id": "cloud_computing",
+      "topics": [
+        "networks"
+      ],
+      "translations": {
+        "en": {
+          "term": "Cloud Computing",
+          "definition": "Using remote servers hosted on the internet to store, manage, and process data instead of a local computer."
+        },
+        "pl": {
+          "term": "Przetwarzanie w chmurze",
+          "definition": "Używanie zdalnych serwerów hostowanych w internecie do przechowywania, zarządzania i przetwarzania danych zamiast lokalnego komputera."
+        },
+        "cy": {
+          "term": "Cyfrifiadureg Cwmwl",
+          "definition": "Defnyddio gweinyddion o bell sy'n cael eu cynnal ar y rhyngrwyd i storio, rheoli a phrosesu data yn lle cyfrifiadur lleol."
+        }
+      }
+    },
+    {
       "id": "compiler",
       "topics": [
         "software"
@@ -3509,6 +3529,26 @@
       "topics": [
         "programming"
       ]
+    },
+    {
+      "id": "version_control",
+      "topics": [
+        "software_development"
+      ],
+      "translations": {
+        "en": {
+          "term": "Version Control",
+          "definition": "A system that records changes to files over time so you can recall specific versions later and collaborate with others without overwriting each other's work."
+        },
+        "pl": {
+          "term": "Kontrola wersji",
+          "definition": "System rejestrujący zmiany w plikach w czasie, dzięki czemu można przywołać konkretne wersje później i współpracować z innymi bez nadpisywania swojej pracy."
+        },
+        "cy": {
+          "term": "Rheoli Fersiynau",
+          "definition": "System sy'n cofnodi newidiadau i ffeiliau dros amser fel y gallwch alw fersiynau penodol yn ôl yn ddiweddarach a chydweithio ag eraill heb drosysgrifo gwaith ei gilydd."
+        }
+      }
     },
     {
       "id": "von_neumann",
