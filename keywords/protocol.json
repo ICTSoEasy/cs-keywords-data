@@ -12,6 +12,10 @@
     "cy": {
       "term": "Protocol",
       "definition": "Set o reolau y cytunwyd arnynt sy'n rheoli sut mae data yn cael ei anfon a'i dderbyn dros rwydwaith."
+    },
+    "ar": {
+      "term": "بروتوكول",
+      "definition": "مجموعة من القواعد التي تحدد كيفية تواصل الأجهزة وتبادل البيانات عبر الشبكة."
     }
   },
   "topics": [

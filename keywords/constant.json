@@ -15,6 +15,10 @@
     "cy": {
       "term": "Cysonyn",
       "definition": "Gwerth a enwir sy'n cael ei osod unwaith ac na all newid tra bo'r rhaglen yn rhedeg."
+    },
+    "ar": {
+      "term": "ثابت",
+      "definition": "قيمة مسماة لا تتغير أثناء تشغيل البرنامج."
     }
   }
 }

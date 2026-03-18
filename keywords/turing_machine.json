@@ -15,6 +15,10 @@
     "cy": {
       "term": "Peiriant Turing",
       "definition": "Model damcaniaethol o gyfrifiadaeth sy'n darllen ac yn ysgrifennu symbolau ar dâp anfeidrol, a ddefnyddir i ddiffinio beth ellir a beth na ellir ei gyfrifo."
+    },
+    "ar": {
+      "term": "آلة تورينج",
+      "definition": "نموذج رياضي لجهاز حوسبة يصف مفهوم الخوارزمية والحوسبة بشكل مجرد."
     }
   }
 }

@@ -15,6 +15,10 @@
     "cy": {
       "term": "Cydraniad",
       "definition": "Nifer y picselau mewn delwedd; mae cydraniad uwch yn golygu mwy o fanylion ond maint ffeil mwy."
+    },
+    "ar": {
+      "term": "الدقة",
+      "definition": "عدد البكسلات في صورة. الدقة الأعلى تعني صورة أوضح وحجم ملف أكبر."
     }
   }
 }

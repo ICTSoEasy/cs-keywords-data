@@ -15,6 +15,10 @@
     "cy": {
       "term": "Peiriant Cyflwr Cyfyngedig",
       "definition": "Model cyfrifiadol sy'n symud rhwng set benodol o gyflyrau yn seiliedig ar fewnbynnau, a ddefnyddir i ddylunio systemau ac adnabod patrymau."
+    },
+    "ar": {
+      "term": "آلة الحالة المحدودة",
+      "definition": "نموذج حوسبي يمكن أن يكون في حالة واحدة من عدد محدود من الحالات في أي وقت."
     }
   }
 }

@@ -15,6 +15,10 @@
     "cy": {
       "term": "Model Rhaeadr",
       "definition": "Dull datblygu meddalwedd llinol lle mae'n rhaid cwblhau pob cam cyn i'r un nesaf ddechrau."
+    },
+    "ar": {
+      "term": "نموذج الشلال",
+      "definition": "نهج لتطوير البرمجيات يتبع مراحل متتالية ثابتة: التحليل والتصميم والتطوير والاختبار والصيانة."
     }
   }
 }

@@ -15,6 +15,10 @@
     "cy": {
       "term": "Effeithlonrwydd Algorithm",
       "definition": "Mesur o ba mor dda y mae algorithm yn defnyddio adnoddau amser a chof, yn enwedig wrth i faint y mewnbwn dyfu."
+    },
+    "ar": {
+      "term": "الكفاءة",
+      "definition": "مدى جودة استخدام خوارزمية للوقت والذاكرة لحل مشكلة ما."
     }
   }
 }

@@ -15,6 +15,10 @@
     "cy": {
       "term": "Rhwydwaith",
       "definition": "Dau neu fwy o gyfrifiaduron wedi'u cysylltu â'i gilydd i rannu data ac adnoddau."
+    },
+    "ar": {
+      "term": "شبكة",
+      "definition": "مجموعة من الأجهزة المتصلة التي تستطيع تبادل البيانات."
     }
   }
 }

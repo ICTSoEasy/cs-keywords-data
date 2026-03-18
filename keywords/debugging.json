@@ -16,6 +16,10 @@
     "cy": {
       "term": "Dadfygio",
       "definition": "Y broses o ddod o hyd i wallau mewn algorithm neu raglen a'u cywiro."
+    },
+    "ar": {
+      "term": "تصحيح الأخطاء",
+      "definition": "عملية إيجاد وإصلاح الأخطاء في خوارزمية أو برنامج."
     }
   }
 }

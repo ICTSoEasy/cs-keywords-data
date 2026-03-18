@@ -12,6 +12,10 @@
     "cy": {
       "term": "Arae",
       "definition": "Rhestr o werthoedd wedi'u storio gyda'i gilydd o dan un enw, y cyrchir atynt drwy eu rhif safle (mynegai)."
+    },
+    "ar": {
+      "term": "مصفوفة",
+      "definition": "هيكل بيانات يخزن عناصر متعددة من النوع نفسه في مواضع ذاكرة متتالية يمكن الوصول إليها بالمؤشر."
     }
   },
   "topics": [

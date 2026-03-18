@@ -15,6 +15,10 @@
     "cy": {
       "term": "Storfa Gyflym",
       "definition": "Math bach, cyflym iawn o gof wedi'i leoli yn agos at y CPU i gyflymu prosesu."
+    },
+    "ar": {
+      "term": "ذاكرة التخزين المؤقت",
+      "definition": "ذاكرة صغيرة وسريعة جداً في المعالج أو بالقرب منه تخزن البيانات المستخدمة مؤخراً لتسريع معالجتها."
     }
   }
 }

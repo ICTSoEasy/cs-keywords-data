@@ -15,6 +15,10 @@
     "cy": {
       "term": "Adnabod Patrymau",
       "definition": "Nodi tebygrwydd neu nodweddion sy'n ailadrodd mewn problemau er mwyn eu datrys yn fwy effeithlon."
+    },
+    "ar": {
+      "term": "التعرف على الأنماط",
+      "definition": "تحديد أوجه التشابه أو الميزات المتكررة في المشاكل للمساعدة في حلها بكفاءة أكبر."
     }
   }
 }

@@ -15,6 +15,10 @@
     "cy": {
       "term": "Math Data Maes",
       "definition": "Y math o ddata y mae maes cronfa ddata wedi'i osod i'w ddal, fel testun, cyfanrif, dyddiad neu boolean."
+    },
+    "ar": {
+      "term": "نوع بيانات قاعدة البيانات",
+      "definition": "تصنيف البيانات المخزنة في حقل قاعدة البيانات، مثل نص أو رقم أو تاريخ."
     }
   }
 }

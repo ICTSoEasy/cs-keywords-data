@@ -15,6 +15,10 @@
     "cy": {
       "term": "SQL",
       "definition": "Iaith Ymholiad Strwythuredig; iaith a ddefnyddir i greu, darllen, diweddaru a dileu data mewn cronfa ddata berthynol."
+    },
+    "ar": {
+      "term": "لغة SQL",
+      "definition": "لغة تُستخدم لإنشاء قواعد البيانات العلائقية وإدارتها والاستعلام منها."
     }
   }
 }

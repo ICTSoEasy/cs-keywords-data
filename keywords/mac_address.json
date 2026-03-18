@@ -15,6 +15,10 @@
     "cy": {
       "term": "Cyfeiriad MAC",
       "definition": "Dynodwr unigryw wedi'i neilltuo'n barhaol i gerdyn rhyngwyneb rhwydwaith. Defnyddir i adnabod dyfeisiau ar rwydwaith lleol. Yn sefyll am gyfeiriad Rheoli Mynediad i Gyfryngau."
+    },
+    "ar": {
+      "term": "عنوان MAC",
+      "definition": "معرِّف فريد مُخصَّص بشكل دائم لبطاقة واجهة الشبكة، يُستخدم لتعريف الأجهزة على الشبكة المحلية."
     }
   }
 }

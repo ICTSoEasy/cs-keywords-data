@@ -16,6 +16,10 @@
     "cy": {
       "term": "Cod Agored",
       "definition": "Meddalwedd y mae ei god ffynhonnell ar gael yn rhydd i unrhyw un ei weld, ei ddefnyddio, ei addasu a'i rannu."
+    },
+    "ar": {
+      "term": "مفتوح المصدر",
+      "definition": "برنامج يمكن للجميع عرض كوده المصدري وتعديله وتوزيعه بحرية."
     }
   }
 }

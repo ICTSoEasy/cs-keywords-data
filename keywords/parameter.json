@@ -15,6 +15,10 @@
     "cy": {
       "term": "Paramedr",
       "definition": "Newidyn a basir i mewn i ffwythiant i roi data iddo weithio ag ef."
+    },
+    "ar": {
+      "term": "معامل",
+      "definition": "متغير يُمرَّر إلى دالة أو إجراء عند استدعائها لتزويدها بالبيانات اللازمة."
     }
   }
 }

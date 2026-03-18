@@ -15,6 +15,10 @@
     "cy": {
       "term": "WAN",
       "definition": "Rhwydwaith Ardal Eang; yn cysylltu dyfeisiau ar draws ardaloedd daearyddol mawr, fel y rhyngrwyd."
+    },
+    "ar": {
+      "term": "الشبكة الواسعة (WAN)",
+      "definition": "شبكة تغطي مساحة جغرافية كبيرة. الإنترنت هو أكبر مثال على الشبكة الواسعة."
     }
   }
 }

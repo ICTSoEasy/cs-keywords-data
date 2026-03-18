@@ -15,6 +15,10 @@
     "cy": {
       "term": "Seiberymosodiad",
       "definition": "Ymgais fwriadol gan unigolion neu grwpiau i dorri i mewn i systemau gwybodaeth person neu sefydliad arall."
+    },
+    "ar": {
+      "term": "هجوم إلكتروني",
+      "definition": "محاولة متعمدة للوصول غير المصرح به إلى نظام حاسوبي أو الإضرار به."
     }
   }
 }

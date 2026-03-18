@@ -15,6 +15,10 @@
     "cy": {
       "term": "Porth NOR",
       "definition": "Porth rhesymeg sy'n allbynnu 1 dim ond pan fo pob mewnbwn yn 0; gwrthwyneb porth OR."
+    },
+    "ar": {
+      "term": "بوابة NOR",
+      "definition": "بوابة منطقية تُخرج 1 فقط عندما تكون جميع مداخلها 0، وهي عكس بوابة OR."
     }
   }
 }

@@ -15,6 +15,10 @@
     "cy": {
       "term": "Dyfais Fewnbwn",
       "definition": "Caledwedd a ddefnyddir i anfon data i mewn i gyfrifiadur, fel bysellfwrdd neu lygoden."
+    },
+    "ar": {
+      "term": "جهاز الإدخال",
+      "definition": "جهاز يُستخدم لإدخال البيانات إلى الحاسوب، مثل لوحة المفاتيح والفأرة."
     }
   }
 }

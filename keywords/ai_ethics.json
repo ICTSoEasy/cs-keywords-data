@@ -16,6 +16,10 @@
     "cy": {
       "term": "Moeseg AI",
       "definition": "Astudiaeth o gwestiynau moesol a godir gan ddeallusrwydd artiffisial, fel tuedd, tegwch, atebolrwydd ac effaith ar swyddi."
+    },
+    "ar": {
+      "term": "أخلاقيات الذكاء الاصطناعي",
+      "definition": "المبادئ والمعايير التي تحكم التطوير والاستخدام المسؤول لأنظمة الذكاء الاصطناعي."
     }
   }
 }

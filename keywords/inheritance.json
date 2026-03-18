@@ -15,6 +15,10 @@
     "cy": {
       "term": "Etifeddiaeth",
       "definition": "Pan fo dosbarth yn cymryd priodweddau a dulliau dosbarth arall. Gelwir y dosbarth newydd yn is-ddosbarth."
+    },
+    "ar": {
+      "term": "الوراثة",
+      "definition": "عندما تأخذ فئة خصائص وأساليب فئة أخرى. تُسمى الفئة الجديدة فئة فرعية."
     }
   }
 }

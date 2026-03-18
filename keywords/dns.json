@@ -15,6 +15,10 @@
     "cy": {
       "term": "DNS",
       "definition": "System Enwau Parth; yn cyfieithu cyfeiriadau gwefannau darllenadwy i bobl yn gyfeiriadau IP y gall cyfrifiaduron eu defnyddio."
+    },
+    "ar": {
+      "term": "نظام أسماء النطاقات (DNS)",
+      "definition": "خدمة تحول أسماء النطاقات مثل www.example.com إلى عناوين IP يمكن للحواسيب فهمها."
     }
   }
 }

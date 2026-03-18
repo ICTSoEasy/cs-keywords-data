@@ -16,6 +16,10 @@
     "cy": {
       "term": "Iaith Lefel Isel",
       "definition": "Iaith raglennu sydd wedi'i chysylltu'n agos â set gyfarwyddiadau prosesydd penodol, fel iaith gynulliad."
+    },
+    "ar": {
+      "term": "لغة منخفضة المستوى",
+      "definition": "لغة برمجة أقرب إلى لغة الآلة، مثل لغة التجميع، وتتحكم مباشرة في أجهزة الحاسوب."
     }
   }
 }

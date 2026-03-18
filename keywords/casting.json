@@ -15,6 +15,10 @@
     "cy": {
       "term": "Castio",
       "definition": "Trosi gwerth o un math data i un arall, er enghraifft troi llinyn yn gyfanrif."
+    },
+    "ar": {
+      "term": "تحويل النوع",
+      "definition": "تغيير نوع بيانات قيمة ما، مثل تحويل رقم إلى نص أو العكس."
     }
   }
 }

@@ -15,6 +15,10 @@
     "cy": {
       "term": "LAN",
       "definition": "Rhwydwaith Ardal Leol; yn cysylltu dyfeisiau o fewn ardal fach fel adeilad ysgol neu swyddfa."
+    },
+    "ar": {
+      "term": "الشبكة المحلية (LAN)",
+      "definition": "شبكة تربط الأجهزة في منطقة صغيرة مثل منزل أو مكتب أو مدرسة."
     }
   }
 }

@@ -15,6 +15,10 @@
     "cy": {
       "term": "Pensaernïaeth Von Neumann",
       "definition": "Model dylunio cyfrifiadur lle mae'r CPU, y cof a mewnbwn/allbwn yn rhannu un llwybr data o'r enw'r bws."
+    },
+    "ar": {
+      "term": "معمارية فون نيومان",
+      "definition": "تصميم الحاسوب الذي يخزن البيانات والتعليمات في نفس الذاكرة ويعالجهما بواسطة نفس المعالج."
     }
   }
 }

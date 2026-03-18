@@ -15,6 +15,10 @@
     "cy": {
       "term": "Cynaliadwyedd",
       "definition": "Pa mor hawdd y gall datblygwyr ddeall, diweddaru a thrwsio rhaglen dros amser."
+    },
+    "ar": {
+      "term": "قابلية الصيانة",
+      "definition": "مدى سهولة فهم الكود وتعديله وإصلاحه من قِبَل المبرمجين مستقبلاً."
     }
   }
 }

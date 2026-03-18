@@ -15,6 +15,10 @@
     "cy": {
       "term": "Porth Rhesymeg",
       "definition": "Cydran electronig sy'n perfformio gweithrediad Boole sylfaenol ar un mewnbwn deuaidd neu ragor i gynhyrchu allbwn."
+    },
+    "ar": {
+      "term": "بوابة منطقية",
+      "definition": "مكون إلكتروني يؤدي عملية منطقية أساسية على إشارة واحدة أو أكثر."
     }
   }
 }

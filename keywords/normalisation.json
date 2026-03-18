@@ -15,6 +15,10 @@
     "cy": {
       "term": "Normaleiddio",
       "definition": "Y broses o drefnu cronfa ddata i leihau ailadrodd data a gwella cywirdeb data."
+    },
+    "ar": {
+      "term": "التسوية",
+      "definition": "عملية تنظيم قاعدة البيانات لتقليل تكرار البيانات وتحسين سلامتها."
     }
   }
 }

@@ -15,6 +15,10 @@
     "cy": {
       "term": "CRUD",
       "definition": "Y pedair prif weithrediad y gellir eu perfformio ar ddata mewn cronfa ddata: Creu, Darllen, Diweddaru a Dileu."
+    },
+    "ar": {
+      "term": "إنشاء وقراءة وتحديث وحذف (CRUD)",
+      "definition": "العمليات الأساسية الأربع لإدارة البيانات في قواعد البيانات: الإنشاء والقراءة والتحديث والحذف."
     }
   }
 }

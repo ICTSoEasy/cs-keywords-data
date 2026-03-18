@@ -15,6 +15,10 @@
     "cy": {
       "term": "Gweledigaeth Cyfrifiadur",
       "definition": "Maes AI sy'n galluogi cyfrifiaduron i ddehongli a deall delweddau a fideo o'r byd real."
+    },
+    "ar": {
+      "term": "رؤية الحاسوب",
+      "definition": "مجال من الذكاء الاصطناعي يُمكِّن الحواسيب من تفسير الصور ومقاطع الفيديو وفهمها."
     }
   }
 }

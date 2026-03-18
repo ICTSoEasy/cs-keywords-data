@@ -15,6 +15,10 @@
     "cy": {
       "term": "System Weithredu",
       "definition": "Meddalwedd sy'n rheoli caledwedd cyfrifiadur ac yn darparu gwasanaethau i raglenni eraill redeg."
+    },
+    "ar": {
+      "term": "نظام التشغيل",
+      "definition": "برنامج يدير موارد الحاسوب ويوفر واجهة بين المستخدم والأجهزة."
     }
   }
 }

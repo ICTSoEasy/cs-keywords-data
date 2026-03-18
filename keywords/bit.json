@@ -15,6 +15,10 @@
     "cy": {
       "term": "Did",
       "definition": "Yr uned ddata leiaf mewn cyfrifiadur, gyda gwerth o 0 neu 1."
+    },
+    "ar": {
+      "term": "بت",
+      "definition": "أصغر وحدة من البيانات في الحاسوب. يمكن أن تكون 0 أو 1 فقط."
     }
   }
 }

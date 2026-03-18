@@ -15,6 +15,10 @@
     "cy": {
       "term": "Ymosodiad DDoS",
       "definition": "Ymosodiad Gwadu Gwasanaeth Dosbarthedig sy'n llethu gweinydd â thraffig o lawer o ffynonellau i'w wneud yn anghael."
+    },
+    "ar": {
+      "term": "هجوم DDoS",
+      "definition": "هجوم يُغرق النظام بكميات هائلة من حركة المرور لجعله غير متاح للمستخدمين."
     }
   }
 }

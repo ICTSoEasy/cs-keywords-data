@@ -15,6 +15,10 @@
     "cy": {
       "term": "Peirianneg Gymdeithasol",
       "definition": "Trin pobl i ddatgelu gwybodaeth gyfrinachol neu gyflawni gweithredoedd sy'n peryglu diogelwch."
+    },
+    "ar": {
+      "term": "الهندسة الاجتماعية",
+      "definition": "التلاعب النفسي بالأشخاص لإقناعهم بالكشف عن معلومات سرية أو اتخاذ إجراءات غير آمنة."
     }
   }
 }

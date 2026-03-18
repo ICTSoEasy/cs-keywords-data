@@ -15,6 +15,10 @@
     "cy": {
       "term": "Cywasgiad Di-golled",
       "definition": "Dull cywasgiad sy'n lleihau maint y ffeil heb golli unrhyw ddata, fel y gellir adfer y gwreiddiol yn llawn."
+    },
+    "ar": {
+      "term": "ضغط بدون فقدان",
+      "definition": "ضغط الملف مع الحفاظ على جميع البيانات الأصلية بحيث يمكن استعادة الملف بشكل كامل."
     }
   }
 }

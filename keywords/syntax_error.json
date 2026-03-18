@@ -16,6 +16,10 @@
     "cy": {
       "term": "Gwall Cystrawen",
       "definition": "Camgymeriad yn y cod sy'n torri rheolau'r iaith raglennu, gan atal y rhaglen rhag rhedeg."
+    },
+    "ar": {
+      "term": "خطأ نحوي",
+      "definition": "خطأ في قواعد كتابة الكود يمنع البرنامج من التشغيل."
     }
   }
 }

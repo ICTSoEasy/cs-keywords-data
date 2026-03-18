@@ -15,6 +15,10 @@
     "cy": {
       "term": "CPU",
       "definition": "Yr Uned Brosesu Ganolog; y prif sglodyn sy'n cyflawni cyfarwyddiadau mewn cyfrifiadur."
+    },
+    "ar": {
+      "term": "وحدة المعالجة المركزية",
+      "definition": "المكون الرئيسي في الحاسوب الذي ينفذ التعليمات. يُسمى أحياناً 'دماغ الحاسوب'."
     }
   }
 }

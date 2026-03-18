@@ -15,6 +15,10 @@
     "cy": {
       "term": "Dehonglydd",
       "definition": "Rhaglen sy'n cyfieithu ac yn rhedeg rhaglen iaith lefel uchel un llinell ar y tro."
+    },
+    "ar": {
+      "term": "مُفسِّر",
+      "definition": "برنامج يحول كود لغة عالية المستوى ويُشغِّله سطراً بسطر."
     }
   }
 }

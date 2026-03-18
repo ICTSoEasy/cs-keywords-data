@@ -15,6 +15,10 @@
     "cy": {
       "term": "Cymhwysiad",
       "definition": "Rhaglen wedi'i chynllunio i helpu defnyddwyr i gyflawni tasg benodol, fel prosesydd geiriau neu borwr gwe."
+    },
+    "ar": {
+      "term": "تطبيق",
+      "definition": "برنامج مصمم لأداء مهمة محددة للمستخدم، مثل معالج النصوص أو متصفح الإنترنت."
     }
   }
 }

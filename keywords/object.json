@@ -15,6 +15,10 @@
     "cy": {
       "term": "Gwrthrych",
       "definition": "Enghraifft o ddosbarth. Mae ganddo briodweddau (data) a dulliau (gweithredoedd) a ddiffinnir gan ei ddosbarth."
+    },
+    "ar": {
+      "term": "كائن",
+      "definition": "نسخة من فئة، تمتلك خصائص (بيانات) وأساليب (أفعال) تحددها الفئة التي أُنشئت منها."
     }
   }
 }

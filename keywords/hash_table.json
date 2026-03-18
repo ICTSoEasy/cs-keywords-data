@@ -15,6 +15,10 @@
     "cy": {
       "term": "Tabl Hash",
       "definition": "Strwythur data sy'n storio parau allwedd-gwerth, gan ddefnyddio ffwythiant hash i ddod o hyd yn gyflym i ble mae pob gwerth wedi'i storio."
+    },
+    "ar": {
+      "term": "جدول التجزئة",
+      "definition": "هيكل بيانات يخزن البيانات في أزواج مفتاح-قيمة لتسهيل الوصول السريع إليها."
     }
   }
 }

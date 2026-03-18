@@ -12,6 +12,10 @@
     "cy": {
       "term": "Ffwythiant",
       "definition": "Bloc o god y gellir ei ailddefnyddio sy'n gwneud swydd benodol. Gallwch ei alw wrth ei enw pryd bynnag y bydd ei angen."
+    },
+    "ar": {
+      "term": "دالة",
+      "definition": "كتلة كود مسماة تؤدي مهمة محددة وتُرجع قيمة إلى الكود الذي استدعاها."
     }
   },
   "topics": [

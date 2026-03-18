@@ -15,6 +15,10 @@
     "cy": {
       "term": "Beit",
       "definition": "Grŵp o 8 did, a ddefnyddir i gynrychioli un nod neu werth bach."
+    },
+    "ar": {
+      "term": "بايت",
+      "definition": "وحدة من البيانات تتكون من 8 بتات. يمكن لبايت واحد تمثيل 256 قيمة مختلفة."
     }
   }
 }

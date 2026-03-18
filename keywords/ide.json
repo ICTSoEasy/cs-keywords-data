@@ -16,6 +16,10 @@
     "cy": {
       "term": "IDE",
       "definition": "Amgylchedd Datblygu Integredig. Rhaglen sy'n cyfuno golygydd cod, gwirydd gwallau a dadfygiwr mewn un lle i helpu rhaglenyddion i ysgrifennu meddalwedd."
+    },
+    "ar": {
+      "term": "بيئة التطوير المتكاملة (IDE)",
+      "definition": "برنامج يجمع محرر الكود وأداة فحص الأخطاء والمُصحِّح في مكان واحد لمساعدة المبرمجين."
     }
   }
 }

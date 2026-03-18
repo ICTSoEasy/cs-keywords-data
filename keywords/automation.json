@@ -16,6 +16,10 @@
     "cy": {
       "term": "Awtomeiddio",
       "definition": "Defnyddio technoleg i gyflawni tasgau gyda chyfranogiad dynol lleiaf, gan ddisodli prosesau ailadroddus â llaw yn aml."
+    },
+    "ar": {
+      "term": "الأتمتة",
+      "definition": "استخدام التكنولوجيا لأداء المهام بشكل تلقائي دون الحاجة إلى تدخل بشري مستمر."
     }
   }
 }

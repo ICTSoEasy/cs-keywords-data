@@ -15,6 +15,10 @@
     "cy": {
       "term": "Haniaethu",
       "definition": "Tynnu manylion diangen er mwyn canolbwyntio ar yr hyn sy'n bwysig wrth ddatrys problem."
+    },
+    "ar": {
+      "term": "التجريد",
+      "definition": "إزالة التفاصيل غير الضرورية للتركيز على ما هو مهم عند حل مشكلة ما."
     }
   }
 }

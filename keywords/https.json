@@ -16,6 +16,10 @@
     "cy": {
       "term": "HTTPS",
       "definition": "Fersiwn diogel o HTTP sy'n amgryptio data a anfonir rhwng porwr a gwefan i'w amddiffyn rhag ei ryng-gipio."
+    },
+    "ar": {
+      "term": "HTTPS",
+      "definition": "نسخة آمنة من HTTP تُشفِّر البيانات أثناء النقل لحماية المعلومات."
     }
   }
 }

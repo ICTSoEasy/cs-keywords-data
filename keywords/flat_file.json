@@ -15,6 +15,10 @@
     "cy": {
       "term": "Cronfa Ddata Ffeil Wastad",
       "definition": "Cronfa ddata wedi'i storio mewn un tabl heb gysylltiadau â thablau eraill; syml ond gall arwain at ddata ailadroddus."
+    },
+    "ar": {
+      "term": "ملف مسطح",
+      "definition": "قاعدة بيانات تخزن جميع البيانات في جدول واحد دون أي علاقات بين الجداول."
     }
   }
 }

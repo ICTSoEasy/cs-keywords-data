@@ -15,6 +15,10 @@
     "cy": {
       "term": "Problem Hydrin",
       "definition": "Problem y gellir ei ddatrys gan algorithm mewn amser rhesymol, fel arfer gyda chymhlethdod amser polynomaidd."
+    },
+    "ar": {
+      "term": "مشكلة قابلة للحل",
+      "definition": "مشكلة يمكن حلها بكفاءة باستخدام خوارزمية تعمل في وقت متعدد الحدود."
     }
   }
 }

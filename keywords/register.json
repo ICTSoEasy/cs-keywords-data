@@ -15,6 +15,10 @@
     "cy": {
       "term": "Cofrestr",
       "definition": "Lleoliad storio bach iawn a chyflym y tu mewn i'r CPU a ddefnyddir i ddal data a chyfarwyddiadau sy'n cael eu prosesu ar hyn o bryd."
+    },
+    "ar": {
+      "term": "سجل",
+      "definition": "موقع تخزين صغير جداً وسريع داخل المعالج يُستخدم لحفظ البيانات والتعليمات التي يتم معالجتها حالياً."
     }
   }
 }

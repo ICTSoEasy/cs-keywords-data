@@ -15,6 +15,10 @@
     "cy": {
       "term": "ROM",
       "definition": "Cof Darllen yn Unig; storfa barhaol sy'n cynnwys cyfarwyddiadau sydd eu hangen ar y cyfrifiadur i gychwyn."
+    },
+    "ar": {
+      "term": "ذاكرة القراءة فقط (ROM)",
+      "definition": "ذاكرة دائمة تحتوي على تعليمات لا يمكن تغييرها، مثل تعليمات بدء تشغيل الحاسوب."
     }
   }
 }

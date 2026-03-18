@@ -15,6 +15,10 @@
     "cy": {
       "term": "Deallusrwydd Artiffisial",
       "definition": "Gallu system gyfrifiadurol i gyflawni tasgau a fyddai fel arfer yn gofyn am ddeallusrwydd dynol, fel adnabod lleferydd neu wneud penderfyniadau."
+    },
+    "ar": {
+      "term": "الذكاء الاصطناعي",
+      "definition": "محاكاة الذكاء البشري بواسطة أنظمة الحاسوب، بما في ذلك التعلم وحل المشكلات واتخاذ القرارات."
     }
   }
 }

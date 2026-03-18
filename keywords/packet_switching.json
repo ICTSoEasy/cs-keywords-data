@@ -15,6 +15,10 @@
     "cy": {
       "term": "Newid Pecynnau",
       "definition": "Dull o anfon data drwy ei dorri'n becynnau bach sy'n teithio'n annibynnol ar draws rhwydwaith ac yn cael eu hailgydosod yn y cyrchfan."
+    },
+    "ar": {
+      "term": "تبديل الحزم",
+      "definition": "طريقة لإرسال البيانات عبر الشبكة بتقسيمها إلى حزم يمكنها السير عبر مسارات مختلفة."
     }
   }
 }

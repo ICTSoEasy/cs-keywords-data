@@ -15,6 +15,10 @@
     "cy": {
       "term": "Bws",
       "definition": "Set o wifrau y tu mewn i gyfrifiadur sy'n cludo data rhwng cydrannau. Mae'r bws data'n cludo data, mae'r bws cyfeiriad yn cludo lleoliadau cof, ac mae'r bws rheoli yn cludo signalau rheoli."
+    },
+    "ar": {
+      "term": "ناقل",
+      "definition": "مجموعة أسلاك داخل الحاسوب تنقل البيانات بين المكونات. يشمل ناقل البيانات وناقل العنوان وناقل التحكم."
     }
   }
 }

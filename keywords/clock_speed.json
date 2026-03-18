@@ -15,6 +15,10 @@
     "cy": {
       "term": "Cyflymder Cloc",
       "definition": "Nifer y cylchoedd cyfarwyddiadau y gall CPU eu perfformio yr eiliad, wedi'i fesur mewn GHz."
+    },
+    "ar": {
+      "term": "سرعة الساعة",
+      "definition": "عدد الدورات التي يؤديها المعالج في الثانية. تُقاس عادةً بالجيجاهرتز (GHz)."
     }
   }
 }

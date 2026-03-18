@@ -15,6 +15,10 @@
     "cy": {
       "term": "Mewnbwn",
       "definition": "Data a gofnodir i mewn i raglen gan ddefnyddiwr neu system arall."
+    },
+    "ar": {
+      "term": "إدخال",
+      "definition": "البيانات التي تُدخَل إلى برنامج، عادةً من لوحة المفاتيح أو الملفات أو المستشعرات."
     }
   }
 }

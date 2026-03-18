@@ -15,6 +15,10 @@
     "cy": {
       "term": "Dysgu Peiriant",
       "definition": "Math o AI lle mae cyfrifiadur yn dysgu gwneud penderfyniadau drwy ddarganfod patrymau mewn data yn hytrach na derbyn cyfarwyddiadau penodol."
+    },
+    "ar": {
+      "term": "التعلم الآلي",
+      "definition": "نوع من الذكاء الاصطناعي يتعلم فيه الحاسوب من البيانات بدلاً من اتباع تعليمات مبرمجة بشكل صريح."
     }
   }
 }

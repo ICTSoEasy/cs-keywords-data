@@ -15,6 +15,10 @@
     "cy": {
       "term": "Allwedd Dramor",
       "definition": "Maes mewn un tabl sy'n cysylltu â'r allwedd gynradd mewn tabl arall, gan greu perthynas rhwng y ddau."
+    },
+    "ar": {
+      "term": "المفتاح الأجنبي",
+      "definition": "حقل في جدول يشير إلى المفتاح الأساسي في جدول آخر، يُستخدم لربط الجداول ببعضها."
     }
   }
 }

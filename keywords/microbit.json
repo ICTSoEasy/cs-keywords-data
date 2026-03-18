@@ -16,6 +16,10 @@
     "cy": {
       "term": "micro:bit",
       "definition": "Dyfais raglennadwy fach wedi'i chynllunio i helpu pobl ifanc i ddysgu cyfrifiadeg, gyda synwyryddion, LEDau a chysylltedd di-wifr wedi'u hadeiladu i mewn."
+    },
+    "ar": {
+      "term": "مايكروبيت",
+      "definition": "لوحة حاسوبية صغيرة مصممة لتعليم البرمجة والحوسبة الفيزيائية."
     }
   }
 }

@@ -16,6 +16,10 @@
     "cy": {
       "term": "Nodiant O Fawr",
       "definition": "Ffordd o ddisgrifio sut mae gofynion amser neu ofod algorithm yn tyfu wrth i faint y mewnbwn gynyddu."
+    },
+    "ar": {
+      "term": "تدوين O الكبير",
+      "definition": "طريقة لوصف مدى كفاءة خوارزمية من حيث الوقت أو المساحة عندما يكبر حجم المدخلات."
     }
   }
 }

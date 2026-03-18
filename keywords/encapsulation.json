@@ -15,6 +15,10 @@
     "cy": {
       "term": "Amgapsiwleiddio",
       "definition": "Cadw data gwrthrych a'r dulliau sy'n ei ddefnyddio wedi'u cloi gyda'i gilydd y tu mewn i ddosbarth, a chuddio'r manylion mewnol rhag cod allanol."
+    },
+    "ar": {
+      "term": "التغليف",
+      "definition": "تجميع بيانات الكائن والأساليب التي تعمل عليها معاً داخل فئة وإخفاء التفاصيل الداخلية عن الكود الخارجي."
     }
   }
 }

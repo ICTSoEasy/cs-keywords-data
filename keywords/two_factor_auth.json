@@ -15,6 +15,10 @@
     "cy": {
       "term": "Dilysu Dau Ffactor",
       "definition": "Dull diogelwch sy'n gofyn am ddwy ffurf ar wahân o ddilysu cyn rhoi mynediad i gyfrif."
+    },
+    "ar": {
+      "term": "المصادقة الثنائية",
+      "definition": "طريقة أمان تتطلب شكلين من التحقق من الهوية، مثل كلمة المرور ورمز يُرسَل إلى الهاتف."
     }
   }
 }

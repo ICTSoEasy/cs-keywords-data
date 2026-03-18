@@ -15,6 +15,10 @@
     "cy": {
       "term": "Switsh",
       "definition": "Dyfais rwydwaith sy'n cysylltu dyfeisiau ar rwydwaith LAN ac yn anfon data dim ond at y ddyfais benodol y mae wedi'i bwriadu ar ei chyfer, yn wahanol i hwb sy'n anfon at bob dyfais."
+    },
+    "ar": {
+      "term": "محوِّل الشبكة",
+      "definition": "جهاز شبكي يربط الأجهزة على شبكة LAN ويرسل البيانات فقط إلى الجهاز المحدد المقصود، على عكس الموزِّع الذي يرسل إلى الجميع."
     }
   }
 }

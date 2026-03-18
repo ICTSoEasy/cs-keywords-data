@@ -15,6 +15,10 @@
     "cy": {
       "term": "ASCII",
       "definition": "Safon sy'n neilltuo rhif unigryw i bob nod fel y gall cyfrifiaduron storio a rhannu testun."
+    },
+    "ar": {
+      "term": "آسكي",
+      "definition": "معيار ترميز يُخصص للحروف الإنجليزية والأرقام وعلامات الترقيم أرقاماً ثنائية."
     }
   }
 }

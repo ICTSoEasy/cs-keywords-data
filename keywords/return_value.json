@@ -15,6 +15,10 @@
     "cy": {
       "term": "Gwerth Dychwelyd",
       "definition": "Y data mae ffwythiant yn ei anfon yn ôl ar ôl iddo orffen rhedeg."
+    },
+    "ar": {
+      "term": "قيمة الإرجاع",
+      "definition": "القيمة التي ترسلها الدالة إلى الكود الذي استدعاها عند انتهاء تنفيذها."
     }
   }
 }

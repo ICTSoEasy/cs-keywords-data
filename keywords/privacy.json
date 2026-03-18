@@ -16,6 +16,10 @@
     "cy": {
       "term": "Preifatrwydd",
       "definition": "Hawl unigolion i reoli pa wybodaeth bersonol sy'n cael ei chasglu amdanynt a sut y caiff ei defnyddio."
+    },
+    "ar": {
+      "term": "الخصوصية",
+      "definition": "حق الأفراد في التحكم في معلوماتهم الشخصية ومن يمكنه الوصول إليها."
     }
   }
 }

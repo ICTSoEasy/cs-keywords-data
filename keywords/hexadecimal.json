@@ -15,6 +15,10 @@
     "cy": {
       "term": "Hecsadegol",
       "definition": "System rhifau bas-16 sy'n defnyddio digidau 0–9 a llythrennau A–F, a ddefnyddir yn aml i gynrychioli gwerthoedd deuaidd yn fwy cryno."
+    },
+    "ar": {
+      "term": "ست عشري",
+      "definition": "نظام ترقيم قائم على أساس 16 يستخدم الأرقام 0–9 والحروف A–F. يُستخدم كاختصار مناسب للثنائي."
     }
   }
 }

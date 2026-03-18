@@ -15,6 +15,10 @@
     "cy": {
       "term": "Porth OR",
       "definition": "Porth rhesymeg sy'n allbynnu 1 pan fo o leiaf un o'i fewnbynnau yn 1."
+    },
+    "ar": {
+      "term": "بوابة OR",
+      "definition": "بوابة منطقية تُخرج 1 عندما يكون أحد مداخلها أو أكثر 1."
     }
   }
 }

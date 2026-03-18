@@ -15,6 +15,10 @@
     "cy": {
       "term": "Ciw",
       "definition": "Strwythur data lle ychwanegir eitemau ar un pen a'u tynnu o'r llall, yn dilyn trefn cyntaf i mewn, cyntaf allan (FIFO)."
+    },
+    "ar": {
+      "term": "طابور",
+      "definition": "هيكل بيانات يعمل وفق مبدأ الأول يدخل الأول يخرج (FIFO)."
     }
   }
 }

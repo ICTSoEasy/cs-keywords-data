@@ -15,6 +15,10 @@
     "cy": {
       "term": "Gweithredydd",
       "definition": "Symbol sy'n perfformio gweithrediad ar werthoedd, fel + ar gyfer adio neu == ar gyfer cymharu."
+    },
+    "ar": {
+      "term": "عامل",
+      "definition": "رمز يؤدي عملية على قيمة أو قيمتين، مثل + للجمع أو == للمقارنة."
     }
   }
 }

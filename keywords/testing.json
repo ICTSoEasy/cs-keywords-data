@@ -15,6 +15,10 @@
     "cy": {
       "term": "Profi",
       "definition": "Y broses o wirio bod rhaglen yn gweithio'n gywir ac yn cynhyrchu'r canlyniadau disgwyliedig."
+    },
+    "ar": {
+      "term": "الاختبار",
+      "definition": "عملية التحقق من أن البرنامج يعمل بشكل صحيح ويُنتج النتائج المتوقعة."
     }
   }
 }

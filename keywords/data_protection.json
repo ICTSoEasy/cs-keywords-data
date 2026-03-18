@@ -16,6 +16,10 @@
     "cy": {
       "term": "Diogelu Data",
       "definition": "Deddfau ac arferion sy'n rheoli sut y caiff data personol ei gasglu, ei storio a'i ddefnyddio i amddiffyn preifatrwydd pobl."
+    },
+    "ar": {
+      "term": "حماية البيانات",
+      "definition": "مجموعة من الممارسات والقوانين التي تضمن الاستخدام الآمن والعادل للبيانات الشخصية."
     }
   }
 }

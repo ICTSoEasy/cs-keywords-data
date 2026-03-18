@@ -15,6 +15,10 @@
     "cy": {
       "term": "Problem Atal",
       "definition": "Problem enwog sy'n profi na all unrhyw algorithm bennu bob amser a fydd rhaglen benodol yn gorffen neu'n rhedeg am byth."
+    },
+    "ar": {
+      "term": "مشكلة التوقف",
+      "definition": "مسألة نظرية تثبت أنه من المستحيل تحديد ما إذا كان برنامج ما سيتوقف أم سيستمر في التشغيل إلى الأبد."
     }
   }
 }

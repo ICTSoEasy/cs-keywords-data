@@ -15,6 +15,10 @@
     "cy": {
       "term": "Coeden",
       "definition": "Strwythur data hierarchaidd gyda nod gwreiddiol ar y brig, yn canghennu i nodau plentyn, heb gylchoedd."
+    },
+    "ar": {
+      "term": "شجرة",
+      "definition": "هيكل بيانات هرمي يتكون من عقد، لكل منها عقدة أب واحدة وعقد أبناء متعددة."
     }
   }
 }

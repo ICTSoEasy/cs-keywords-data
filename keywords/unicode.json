@@ -15,6 +15,10 @@
     "cy": {
       "term": "Unicode",
       "definition": "Safon amgodio nodau sy'n cefnogi nodau o holl ieithoedd y byd, gan ymestyn y tu hwnt i ASCII."
+    },
+    "ar": {
+      "term": "يونيكود",
+      "definition": "معيار ترميز يدعم معظم أحرف وأنظمة كتابة العالم."
     }
   }
 }

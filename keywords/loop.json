@@ -15,6 +15,10 @@
     "cy": {
       "term": "Dolen",
       "definition": "Bloc o god sy'n ailadrodd nes bod amod yn cael ei fodloni neu nifer penodol o weithiau."
+    },
+    "ar": {
+      "term": "حلقة",
+      "definition": "بنية برمجية تكرر كتلة من الكود حتى يتحقق شرط معين."
     }
   }
 }

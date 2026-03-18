@@ -15,6 +15,10 @@
     "cy": {
       "term": "Pentwr",
       "definition": "Strwythur data lle ychwanegir ac y tynnir eitemau o'r un pen, yn dilyn trefn olaf i mewn, cyntaf allan (LIFO)."
+    },
+    "ar": {
+      "term": "مكدس",
+      "definition": "هيكل بيانات يعمل وفق مبدأ الأخير يدخل الأول يخرج (LIFO)."
     }
   }
 }

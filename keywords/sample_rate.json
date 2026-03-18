@@ -15,6 +15,10 @@
     "cy": {
       "term": "Cyfradd Samplo",
       "definition": "Nifer y troeon y mae ton sain yn cael ei mesur bob eiliad wrth recordio. Mae cyfradd samplo uwch yn cynhyrchu sain o well ansawdd ond ffeil fwy."
+    },
+    "ar": {
+      "term": "معدل أخذ العينات",
+      "definition": "عدد المرات في الثانية التي تُقاس فيها موجة الصوت عند التسجيل. معدل أعلى ينتج صوتاً أفضل جودةً لكن حجم ملف أكبر."
     }
   }
 }

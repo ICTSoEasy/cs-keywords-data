@@ -15,6 +15,10 @@
     "cy": {
       "term": "Tabl Olrhain",
       "definition": "Tabl a ddefnyddir i olrhain gwerth newidynnau â llaw ar bob cam o algorithm i wirio ei fod yn gweithio'n gywir."
+    },
+    "ar": {
+      "term": "جدول التتبع",
+      "definition": "جدول يُستخدم لتتبع قيم المتغيرات خطوة بخطوة عند تشغيل الكود يدوياً."
     }
   }
 }

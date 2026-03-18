@@ -15,6 +15,10 @@
     "cy": {
       "term": "GDPR",
       "definition": "Rheoliad Diogelu Data Cyffredinol; deddf y DU a'r UE sy'n rhoi hawliau i bobl dros eu data personol ac yn ei gwneud yn ofynnol i sefydliadau ei drin yn gyfrifol."
+    },
+    "ar": {
+      "term": "اللائحة العامة لحماية البيانات (GDPR)",
+      "definition": "قانون أوروبي يحكم كيفية جمع بيانات الأشخاص وتخزينها واستخدامها."
     }
   }
 }

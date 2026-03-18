@@ -12,6 +12,10 @@
     "cy": {
       "term": "Lled Band",
       "definition": "Y maint mwyaf o ddata a all deithio drwy gysylltiad rhwydwaith ar yr un pryd. Fel arfer fe'i mesurir mewn Mbps."
+    },
+    "ar": {
+      "term": "عرض النطاق الترددي",
+      "definition": "الحد الأقصى لكمية البيانات التي يمكن نقلها عبر شبكة في وقت معين."
     }
   },
   "topics": [

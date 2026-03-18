@@ -16,6 +16,10 @@
     "cy": {
       "term": "Pwyntydd",
       "definition": "Newidyn sy'n storio cyfeiriad cof newidyn neu strwythur data arall."
+    },
+    "ar": {
+      "term": "مؤشر",
+      "definition": "متغير يخزن عنوان ذاكرة متغير آخر بدلاً من تخزين القيمة مباشرة."
     }
   }
 }

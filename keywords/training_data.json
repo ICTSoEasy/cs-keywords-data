@@ -15,6 +15,10 @@
     "cy": {
       "term": "Data Hyfforddi",
       "definition": "Y set ddata a ddefnyddir i ddysgu model dysgu peiriant i adnabod patrymau a gwneud rhagfynegiadau."
+    },
+    "ar": {
+      "term": "بيانات التدريب",
+      "definition": "البيانات المستخدمة لتدريب نموذج التعلم الآلي. جودة هذه البيانات تؤثر مباشرة على أداء النموذج."
     }
   }
 }

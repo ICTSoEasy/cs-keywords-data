@@ -12,6 +12,10 @@
     "cy": {
       "term": "Amgryptio",
       "definition": "Y broses o gymysgu data fel mai dim ond rhywun â'r allwedd gywir all ei ddarllen."
+    },
+    "ar": {
+      "term": "التشفير",
+      "definition": "تحويل البيانات إلى صيغة لا يمكن قراءتها بدون مفتاح فك التشفير."
     }
   },
   "topics": [

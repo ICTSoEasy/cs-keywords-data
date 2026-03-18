@@ -15,6 +15,10 @@
     "cy": {
       "term": "Allbwn",
       "definition": "Gwybodaeth a gynhyrchir gan raglen, fel testun a arddangosir ar y sgrin."
+    },
+    "ar": {
+      "term": "إخراج",
+      "definition": "البيانات التي يُنتجها البرنامج، مثل النص على الشاشة أو البيانات المحفوظة في ملف."
     }
   }
 }

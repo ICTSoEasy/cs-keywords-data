@@ -16,6 +16,10 @@
     "cy": {
       "term": "Amod",
       "definition": "Mynegiad sy'n gwerthuso i wir neu gau, a ddefnyddir i wneud penderfyniadau mewn rhaglen."
+    },
+    "ar": {
+      "term": "شرط",
+      "definition": "تعبير يُقيَّم إما بصحيح أو خطأ، يُستخدم للتحكم في تدفق البرنامج."
     }
   }
 }

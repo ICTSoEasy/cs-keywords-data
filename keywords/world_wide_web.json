@@ -15,6 +15,10 @@
     "cy": {
       "term": "Y We Fyd Eang",
       "definition": "System o dudalennau gwe ac adnoddau y cyrchir atynt drwy'r rhyngrwyd gan ddefnyddio porwr; yn aml yn cael ei gymysgu â'r rhyngrwyd ei hun."
+    },
+    "ar": {
+      "term": "الشبكة العنكبوتية العالمية",
+      "definition": "نظام من الصفحات والموارد المترابطة على الإنترنت، يمكن الوصول إليها عبر المتصفح."
     }
   }
 }

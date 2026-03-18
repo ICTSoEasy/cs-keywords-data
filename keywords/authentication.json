@@ -12,6 +12,10 @@
     "cy": {
       "term": "Dilysu",
       "definition": "Y broses o wirio bod rhywun yn bwy maent yn honni ei fod — er enghraifft, drwy ddefnyddio cyfrinair neu olion bysedd."
+    },
+    "ar": {
+      "term": "المصادقة",
+      "definition": "عملية التحقق من هوية المستخدم أو الجهاز قبل منح الوصول إلى النظام."
     }
   },
   "topics": [

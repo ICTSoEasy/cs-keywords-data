@@ -15,6 +15,10 @@
     "cy": {
       "term": "Cywasgiad Colledus",
       "definition": "Dull cywasgiad sy'n tynnu rhywfaint o ddata yn barhaol i leihau maint y ffeil, gan arwain at ansawdd is."
+    },
+    "ar": {
+      "term": "ضغط مع فقدان",
+      "definition": "ضغط الملف بإزالة بعض البيانات بشكل دائم لتحقيق حجم ملف أصغر."
     }
   }
 }

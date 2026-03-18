@@ -15,6 +15,10 @@
     "cy": {
       "term": "Rhyngrwyd",
       "definition": "System fyd-eang o rwydweithiau cyfrifiadurol cysylltiedig sy'n caniatáu rhannu data ledled y byd."
+    },
+    "ar": {
+      "term": "الإنترنت",
+      "definition": "شبكة عالمية ضخمة من الحواسيب والأجهزة المتصلة ببعضها."
     }
   }
 }

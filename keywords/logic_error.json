@@ -16,6 +16,10 @@
     "cy": {
       "term": "Gwall Rhesymeg",
       "definition": "Camgymeriad yn nyluniad rhaglen sy'n achosi iddi redeg ond cynhyrchu canlyniadau anghywir."
+    },
+    "ar": {
+      "term": "خطأ منطقي",
+      "definition": "خطأ في منطق البرنامج يجعله يُنتج نتائج خاطئة دون أن يتوقف عن العمل."
     }
   }
 }

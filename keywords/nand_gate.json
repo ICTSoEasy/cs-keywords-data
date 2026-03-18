@@ -15,6 +15,10 @@
     "cy": {
       "term": "Porth NAND",
       "definition": "Porth rhesymeg sy'n allbynnu 0 dim ond pan fo pob mewnbwn yn 1; gwrthwyneb porth AND."
+    },
+    "ar": {
+      "term": "بوابة NAND",
+      "definition": "بوابة منطقية تُخرج 0 فقط عندما تكون جميع مداخلها 1، وهي عكس بوابة AND."
     }
   }
 }

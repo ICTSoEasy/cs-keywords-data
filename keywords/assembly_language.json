@@ -16,6 +16,10 @@
     "cy": {
       "term": "Iaith Gynulliad",
       "definition": "Iaith raglennu lefel isel sy'n defnyddio mnemoneg byr i gynrychioli cyfarwyddiadau cod peiriant ar gyfer prosesydd penodol."
+    },
+    "ar": {
+      "term": "لغة التجميع",
+      "definition": "لغة برمجة منخفضة المستوى تستخدم رموزاً يمكن للبشر قراءتها وتُترجم مباشرة إلى لغة الآلة."
     }
   }
 }

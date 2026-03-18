@@ -16,6 +16,10 @@
     "cy": {
       "term": "Micreolydd",
       "definition": "Cyfrifiadur bach ar un sglodyn sy'n gallu darllen mewnbynnau o synwyryddion a rheoli allbynnau, a ddefnyddir yn gyffredin mewn prosiectau cyfrifiadeg ffisegol."
+    },
+    "ar": {
+      "term": "متحكم دقيق",
+      "definition": "حاسوب صغير على رقاقة واحدة، يُستخدم في الأجهزة المدمجة والروبوتات."
     }
   }
 }

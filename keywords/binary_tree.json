@@ -15,6 +15,10 @@
     "cy": {
       "term": "Coeden Ddeuaidd",
       "definition": "Coeden lle mae gan bob nod o leiaf ddau blentyn, a elwir yn blentyn chwith a phlentyn de."
+    },
+    "ar": {
+      "term": "شجرة ثنائية",
+      "definition": "هيكل بيانات شجري حيث يمتلك كل عقدة طفلاً أيسر وطفلاً أيمن على الأكثر."
     }
   }
 }

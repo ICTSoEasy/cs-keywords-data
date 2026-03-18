@@ -15,6 +15,10 @@
     "cy": {
       "term": "Picsel",
       "definition": "Elfen leiaf delwedd ddigidol, a gynrychiolir gan werthoedd lliw."
+    },
+    "ar": {
+      "term": "بكسل",
+      "definition": "أصغر عنصر في صورة رقمية. الصور مكونة من شبكة من البكسلات."
     }
   }
 }

@@ -15,6 +15,10 @@
     "cy": {
       "term": "Chatbot",
       "definition": "Rhaglen gyfrifiadurol wedi'i chynllunio i efelychu sgwrs gyda phobl, gan ddefnyddio prosesu iaith naturiol yn aml."
+    },
+    "ar": {
+      "term": "روبوت المحادثة",
+      "definition": "برنامج حاسوبي مُصمَّم للتحدث مع البشر من خلال النصوص أو الصوت."
     }
   }
 }

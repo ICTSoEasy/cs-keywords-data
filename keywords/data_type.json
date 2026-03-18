@@ -15,6 +15,10 @@
     "cy": {
       "term": "Math Data",
       "definition": "Dosbarthiad sy'n dweud wrth y cyfrifiadur pa fath o werth mae newidyn yn ei ddal, fel cyfanrif, llinyn neu boolean."
+    },
+    "ar": {
+      "term": "نوع البيانات",
+      "definition": "تصنيف يحدد نوع البيانات التي يمكن تخزينها، مثل رقم صحيح أو نص أو منطقي."
     }
   }
 }

@@ -15,6 +15,10 @@
     "cy": {
       "term": "Y Rhaniad Digidol",
       "definition": "Y bwlch rhwng pobl sydd â mynediad at dechnoleg a'r rhyngrwyd a'r rhai nad oes ganddynt."
+    },
+    "ar": {
+      "term": "الفجوة الرقمية",
+      "definition": "الفجوة بين من يمكنهم الوصول إلى التكنولوجيا الرقمية ومن لا يستطيعون ذلك."
     }
   }
 }

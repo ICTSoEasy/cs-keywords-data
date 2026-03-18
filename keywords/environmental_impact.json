@@ -15,6 +15,10 @@
     "cy": {
       "term": "Effaith Amgylcheddol",
       "definition": "Yr effaith y mae cynhyrchu, defnyddio a chael gwared ar dechnoleg yn ei chael ar yr amgylchedd, gan gynnwys defnydd ynni a gwastraff e."
+    },
+    "ar": {
+      "term": "الأثر البيئي",
+      "definition": "التأثيرات التي تُحدثها التكنولوجيا على البيئة، مثل استهلاك الطاقة والنفايات الإلكترونية."
     }
   }
 }

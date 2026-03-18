@@ -15,6 +15,10 @@
     "cy": {
       "term": "Dosbarth",
       "definition": "Cynllun ar gyfer creu gwrthrychau. Mae'n diffinio'r priodweddau a'r dulliau y bydd gan bob gwrthrych o'r math hwnnw."
+    },
+    "ar": {
+      "term": "فئة",
+      "definition": "قالب لإنشاء الكائنات يحدد الخصائص والأساليب التي ستمتلكها جميع كائنات ذلك النوع."
     }
   }
 }

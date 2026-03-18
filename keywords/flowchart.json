@@ -17,6 +17,10 @@
     "cy": {
       "term": "Siart Llif",
       "definition": "Diagram sy'n defnyddio siapiau a saethau i gynrychioli'r camau a'r penderfyniadau mewn algorithm neu broses."
+    },
+    "ar": {
+      "term": "مخطط التدفق",
+      "definition": "رسم بياني يستخدم أشكالاً وأسهماً لتمثيل خطوات خوارزمية أو عملية."
     }
   }
 }

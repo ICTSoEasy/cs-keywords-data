@@ -15,6 +15,10 @@
     "cy": {
       "term": "Graff",
       "definition": "Strwythur data wedi'i wneud o nodau (fertigau) wedi'u cysylltu gan ymylon; gellir ei ddefnyddio i fodelu rhwydweithiau a pherthnasoedd."
+    },
+    "ar": {
+      "term": "رسم بياني",
+      "definition": "هيكل بيانات يتكون من عقد (رؤوس) متصلة بحواف، يُستخدم لتمثيل العلاقات والشبكات."
     }
   }
 }

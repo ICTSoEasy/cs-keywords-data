@@ -15,6 +15,10 @@
     "cy": {
       "term": "Prif Fwrdd",
       "definition": "Y brif fwrdd cylched sy'n cysylltu holl gydrannau cyfrifiadur â'i gilydd."
+    },
+    "ar": {
+      "term": "اللوحة الأم",
+      "definition": "اللوحة الرئيسية في الحاسوب التي تربط جميع المكونات معاً."
     }
   }
 }

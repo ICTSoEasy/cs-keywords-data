@@ -15,6 +15,10 @@
     "cy": {
       "term": "Tabl Gwir",
       "definition": "Tabl sy'n dangos pob cyfuniad posibl o fewnbynnau a'r allbwn canlyniadol ar gyfer mynegiad neu gylched rhesymeg."
+    },
+    "ar": {
+      "term": "جدول الحقيقة",
+      "definition": "جدول يُظهر جميع مجموعات المداخل الممكنة والمخرجات المقابلة لها في دائرة منطقية."
     }
   }
 }

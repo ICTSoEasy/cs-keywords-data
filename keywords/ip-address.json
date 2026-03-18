@@ -12,6 +12,10 @@
     "cy": {
       "term": "Cyfeiriad IP",
       "definition": "Rhif unigryw sy'n adnabod dyfais ar rwydwaith — fel cyfeiriad tŷ, ond i gyfrifiaduron."
+    },
+    "ar": {
+      "term": "عنوان IP",
+      "definition": "عنوان رقمي فريد يُعرِّف جهازاً على الشبكة."
     }
   },
   "topics": [

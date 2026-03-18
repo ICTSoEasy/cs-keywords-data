@@ -15,6 +15,10 @@
     "cy": {
       "term": "Porth XOR",
       "definition": "Porth rhesymeg sy'n allbynnu 1 pan fo ei fewnbynnau yn wahanol, a 0 pan fyddant yr un peth."
+    },
+    "ar": {
+      "term": "بوابة XOR",
+      "definition": "بوابة منطقية تُخرج 1 عندما يكون أحد مداخلها فقط 1، وليس كليهما معاً."
     }
   }
 }

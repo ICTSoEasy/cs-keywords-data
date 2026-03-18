@@ -15,6 +15,10 @@
     "cy": {
       "term": "Meddalwedd Cyfleustod",
       "definition": "Meddalwedd sy'n helpu cynnal, rheoli neu amddiffyn system gyfrifiadurol, fel offer gwrth-feirws neu lanhau disg."
+    },
+    "ar": {
+      "term": "برنامج مساعد",
+      "definition": "برنامج يساعد في إدارة الحاسوب وصيانته، مثل برامج مكافحة الفيروسات وضغط الملفات."
     }
   }
 }

@@ -12,6 +12,10 @@
     "cy": {
       "term": "Algorithm",
       "definition": "Set o gyfarwyddiadau cam-wrth-gam sy'n cael eu defnyddio i ddatrys problem neu gwblhau tasg."
+    },
+    "ar": {
+      "term": "خوارزمية",
+      "definition": "تسلسل من الخطوات أو التعليمات المصممة لحل مشكلة ما أو إنجاز مهمة."
     }
   },
   "topics": [

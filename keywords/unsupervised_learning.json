@@ -15,6 +15,10 @@
     "cy": {
       "term": "Dysgu Heb Oruchwyliaeth",
       "definition": "Math o ddysgu peiriant lle mae model yn darganfod patrymau mewn data heb gael enghreifftiau wedi'u labelu nac atebion cywir."
+    },
+    "ar": {
+      "term": "التعلم غير الخاضع للإشراف",
+      "definition": "نوع من التعلم الآلي يجد فيه النموذج الأنماط في بيانات غير مُعلَّمة بنفسه."
     }
   }
 }

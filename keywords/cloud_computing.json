@@ -15,6 +15,10 @@
     "cy": {
       "term": "Cyfrifiadureg Cwmwl",
       "definition": "Defnyddio gweinyddion o bell sy'n cael eu cynnal ar y rhyngrwyd i storio, rheoli a phrosesu data yn lle cyfrifiadur lleol."
+    },
+    "ar": {
+      "term": "الحوسبة السحابية",
+      "definition": "استخدام خوادم بعيدة على الإنترنت لتخزين البيانات وإدارتها ومعالجتها بدلاً من الحاسوب المحلي."
     }
   }
 }

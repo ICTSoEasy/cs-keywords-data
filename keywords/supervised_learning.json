@@ -15,6 +15,10 @@
     "cy": {
       "term": "Dysgu Goruchwyliedig",
       "definition": "Math o ddysgu peiriant lle hyfforddir model ar ddata wedi'i labelu, gydag atebion cywir yn cael eu darparu i arwain y dysgu."
+    },
+    "ar": {
+      "term": "التعلم الخاضع للإشراف",
+      "definition": "نوع من التعلم الآلي يتدرب فيه النموذج على بيانات مُعلَّمة بإجابات صحيحة معروفة."
     }
   }
 }

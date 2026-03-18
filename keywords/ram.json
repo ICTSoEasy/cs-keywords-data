@@ -15,6 +15,10 @@
     "cy": {
       "term": "RAM",
       "definition": "Cof Mynediad ar Hap; storfa dros dro sy'n dal data y mae'r CPU yn ei ddefnyddio ar hyn o bryd."
+    },
+    "ar": {
+      "term": "ذاكرة الوصول العشوائي (RAM)",
+      "definition": "ذاكرة مؤقتة تخزن البيانات والبرامج التي يستخدمها الحاسوب حالياً. تُمسح عند إيقاف تشغيله."
     }
   }
 }

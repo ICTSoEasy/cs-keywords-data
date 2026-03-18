@@ -12,6 +12,10 @@
     "cy": {
       "term": "Boole",
       "definition": "Gwerth a all fod naill ai'n wir neu'n ffug yn unig. Fe'i defnyddir i wneud penderfyniadau mewn rhaglenni."
+    },
+    "ar": {
+      "term": "منطقي",
+      "definition": "نوع بيانات يمكنه تخزين قيمتين فقط: صحيح أو خطأ."
     }
   },
   "topics": [

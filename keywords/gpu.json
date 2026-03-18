@@ -15,6 +15,10 @@
     "cy": {
       "term": "GPU",
       "definition": "Yr Uned Brosesu Graffeg; sglodyn wedi'i gynllunio i drin delweddau, fideo a graffeg 3D."
+    },
+    "ar": {
+      "term": "وحدة معالجة الرسوميات",
+      "definition": "معالج متخصص في معالجة الرسوميات، يُستخدم في الألعاب والذكاء الاصطناعي."
     }
   }
 }

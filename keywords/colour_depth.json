@@ -15,6 +15,10 @@
     "cy": {
       "term": "Dyfnder Lliw",
       "definition": "Nifer y bitiau a ddefnyddir i storio lliw un picsel. Mae dyfnder lliw uwch yn golygu mwy o liwiau posib a maint ffeil mwy."
+    },
+    "ar": {
+      "term": "عمق الألوان",
+      "definition": "عدد البتات المستخدمة لتخزين لون بكسل واحد. عمق الألوان الأعلى يعني المزيد من الألوان الممكنة وحجم ملف أكبر."
     }
   }
 }

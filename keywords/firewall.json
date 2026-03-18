@@ -12,6 +12,10 @@
     "cy": {
       "term": "Mur Gwarchod",
       "definition": "System sy'n monitro ac yn rheoli traffig rhwydwaith i rwystro mynediad heb awdurdod i gyfrifiadur neu rwydwaith."
+    },
+    "ar": {
+      "term": "جدار الحماية",
+      "definition": "نظام أمني يراقب حركة مرور الشبكة ويتحكم فيها بناءً على قواعد محددة مسبقاً."
     }
   },
   "topics": [

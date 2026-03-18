@@ -15,6 +15,10 @@
     "cy": {
       "term": "Problem Anhydrin",
       "definition": "Problem na ellir ei ddatrys mewn amser rhesymol wrth i'r mewnbwn dyfu; nid oes algorithm effeithlon hysbys."
+    },
+    "ar": {
+      "term": "مشكلة صعبة الحل",
+      "definition": "مشكلة لا توجد لها خوارزمية فعالة حتى الآن وتستغرق حلها وقتاً طويلاً جداً للمدخلات الكبيرة."
     }
   }
 }

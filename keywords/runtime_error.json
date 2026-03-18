@@ -16,6 +16,10 @@
     "cy": {
       "term": "Gwall Amser Rhedeg",
       "definition": "Gwall sy'n digwydd tra bo rhaglen yn rhedeg, gan achosi iddi gwympo neu ymddwyn yn annisgwyl."
+    },
+    "ar": {
+      "term": "خطأ وقت التشغيل",
+      "definition": "خطأ يحدث أثناء تشغيل البرنامج ويتسبب في إيقافه فجأة."
     }
   }
 }

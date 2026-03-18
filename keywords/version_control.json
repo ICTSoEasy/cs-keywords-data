@@ -15,6 +15,10 @@
     "cy": {
       "term": "Rheoli Fersiynau",
       "definition": "System sy'n cofnodi newidiadau i ffeiliau dros amser fel y gallwch alw fersiynau penodol yn ôl yn ddiweddarach a chydweithio ag eraill heb drosysgrifo gwaith ei gilydd."
+    },
+    "ar": {
+      "term": "التحكم في الإصدارات",
+      "definition": "نظام يسجل التغييرات في الملفات بمرور الوقت للتعاون مع الآخرين والرجوع إلى إصدارات سابقة."
     }
   }
 }

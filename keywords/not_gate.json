@@ -15,6 +15,10 @@
     "cy": {
       "term": "Porth NOT",
       "definition": "Porth rhesymeg sy'n gwrthdroi ei fewnbwn; yn allbynnu 1 os yw'r mewnbwn yn 0, a 0 os yw'r mewnbwn yn 1."
+    },
+    "ar": {
+      "term": "بوابة NOT",
+      "definition": "بوابة منطقية تعكس مدخلها: تحول 1 إلى 0 و0 إلى 1."
     }
   }
 }

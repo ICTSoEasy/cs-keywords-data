@@ -15,6 +15,10 @@
     "cy": {
       "term": "Storfa",
       "definition": "Dyfeisiau a ddefnyddir i gadw data yn barhaol, fel gyriannau caled, SSDau neu yrwyr USB."
+    },
+    "ar": {
+      "term": "التخزين",
+      "definition": "وسيط يحتفظ بالبيانات بشكل دائم، مثل القرص الصلب أو محرك أقراص USB."
     }
   }
 }

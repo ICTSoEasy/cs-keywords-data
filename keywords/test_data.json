@@ -15,6 +15,10 @@
     "cy": {
       "term": "Data Profi",
       "definition": "Gwerthoedd a ddefnyddir i wirio bod rhaglen yn trin mewnbynnau normal, ffin a chamweiniol yn gywir."
+    },
+    "ar": {
+      "term": "بيانات الاختبار",
+      "definition": "بيانات تُستخدم لاختبار برنامج والتحقق من أنه يعمل بشكل صحيح في جميع الحالات."
     }
   }
 }

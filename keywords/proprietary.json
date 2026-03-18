@@ -16,6 +16,10 @@
     "cy": {
       "term": "Meddalwedd Perchnogol",
       "definition": "Meddalwedd sydd dan berchnogaeth cwmni; ni all defnyddwyr weld na newid y cod ffynhonnell a rhaid cytuno i drwydded."
+    },
+    "ar": {
+      "term": "برنامج مملوك",
+      "definition": "برنامج يمتلكه شخص أو شركة ويتحكم في استخدامه. لا يمكن عرض كوده أو نسخه بحرية."
     }
   }
 }

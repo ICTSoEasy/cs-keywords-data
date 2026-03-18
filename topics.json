@@ -1,18 +1,162 @@
 [
-  {"id":"algorithms","icon":"⚙️","labels":{"en":"Algorithms","pl":"Algorytmy","cy":"Algorithmau"}},
-  {"id":"programming","icon":"💻","labels":{"en":"Programming","pl":"Programowanie","cy":"Rhaglennu"}},
-  {"id":"computational_thinking","icon":"🧠","labels":{"en":"Computational Thinking","pl":"Myślenie komputacyjne","cy":"Meddwl Cyfrifiadurol"}},
-  {"id":"data_representation","icon":"🔢","labels":{"en":"Data Representation","pl":"Reprezentacja danych","cy":"Cynrychiolaeth Data"}},
-  {"id":"hardware","icon":"🖥️","labels":{"en":"Hardware & Computer Systems","pl":"Sprzęt i systemy komputerowe","cy":"Caledwedd a Systemau Cyfrifiadurol"}},
-  {"id":"software","icon":"📦","labels":{"en":"Software","pl":"Oprogramowanie","cy":"Meddalwedd"}},
-  {"id":"networking","icon":"🌐","labels":{"en":"Networking","pl":"Sieci","cy":"Rhwydweithio"}},
-  {"id":"data","icon":"🗄️","labels":{"en":"Data & Databases","pl":"Dane i bazy danych","cy":"Data a Chronfeydd Data"}},
-  {"id":"security","icon":"🔒","labels":{"en":"Security & Cybersecurity","pl":"Bezpieczeństwo i cyberbezpieczeństwo","cy":"Diogelwch a Seiberddiogelwch"}},
-  {"id":"logic","icon":"⊻","labels":{"en":"Boolean Logic","pl":"Logika Boole'a","cy":"Rhesymeg Boole"}},
-  {"id":"software_development","icon":"🛠️","labels":{"en":"Software Development","pl":"Tworzenie oprogramowania","cy":"Datblygu Meddalwedd"}},
-  {"id":"data_structures","icon":"🌳","labels":{"en":"Data Structures","pl":"Struktury danych","cy":"Strwythurau Data"}},
-  {"id":"theory","icon":"📐","labels":{"en":"Theory of Computation","pl":"Teoria obliczeń","cy":"Theori Cyfrifiadaeth"}},
-  {"id":"ethics","icon":"⚖️","labels":{"en":"Ethical & Legal Issues","pl":"Kwestie etyczne i prawne","cy":"Materion Moesegol a Chyfreithiol"}},
-  {"id":"ai","icon":"🤖","labels":{"en":"Artificial Intelligence","pl":"Sztuczna inteligencja","cy":"Deallusrwydd Artiffisial"}},
-  {"id":"robotics","icon":"🦾","labels":{"en":"Robotics & Physical Computing","pl":"Robotyka i obliczenia fizyczne","cy":"Roboteg a Chyfrifiadeg Ffisegol"}}
+  {
+    "id": "algorithms",
+    "icon": "⚙️",
+    "labels": {
+      "en": "Algorithms",
+      "pl": "Algorytmy",
+      "cy": "Algorithmau",
+      "ar": "الخوارزميات"
+    }
+  },
+  {
+    "id": "programming",
+    "icon": "💻",
+    "labels": {
+      "en": "Programming",
+      "pl": "Programowanie",
+      "cy": "Rhaglennu",
+      "ar": "البرمجة"
+    }
+  },
+  {
+    "id": "computational_thinking",
+    "icon": "🧠",
+    "labels": {
+      "en": "Computational Thinking",
+      "pl": "Myślenie komputacyjne",
+      "cy": "Meddwl Cyfrifiadurol",
+      "ar": "التفكير الحاسوبي"
+    }
+  },
+  {
+    "id": "data_representation",
+    "icon": "🔢",
+    "labels": {
+      "en": "Data Representation",
+      "pl": "Reprezentacja danych",
+      "cy": "Cynrychiolaeth Data",
+      "ar": "تمثيل البيانات"
+    }
+  },
+  {
+    "id": "hardware",
+    "icon": "🖥️",
+    "labels": {
+      "en": "Hardware & Computer Systems",
+      "pl": "Sprzęt i systemy komputerowe",
+      "cy": "Caledwedd a Systemau Cyfrifiadurol",
+      "ar": "الأجهزة وأنظمة الحاسوب"
+    }
+  },
+  {
+    "id": "software",
+    "icon": "📦",
+    "labels": {
+      "en": "Software",
+      "pl": "Oprogramowanie",
+      "cy": "Meddalwedd",
+      "ar": "البرمجيات"
+    }
+  },
+  {
+    "id": "networking",
+    "icon": "🌐",
+    "labels": {
+      "en": "Networking",
+      "pl": "Sieci",
+      "cy": "Rhwydweithio",
+      "ar": "الشبكات"
+    }
+  },
+  {
+    "id": "data",
+    "icon": "🗄️",
+    "labels": {
+      "en": "Data & Databases",
+      "pl": "Dane i bazy danych",
+      "cy": "Data a Chronfeydd Data",
+      "ar": "البيانات وقواعد البيانات"
+    }
+  },
+  {
+    "id": "security",
+    "icon": "🔒",
+    "labels": {
+      "en": "Security & Cybersecurity",
+      "pl": "Bezpieczeństwo i cyberbezpieczeństwo",
+      "cy": "Diogelwch a Seiberddiogelwch",
+      "ar": "الأمن والأمن الإلكتروني"
+    }
+  },
+  {
+    "id": "logic",
+    "icon": "⊻",
+    "labels": {
+      "en": "Boolean Logic",
+      "pl": "Logika Boole'a",
+      "cy": "Rhesymeg Boole",
+      "ar": "المنطق البولياني"
+    }
+  },
+  {
+    "id": "software_development",
+    "icon": "🛠️",
+    "labels": {
+      "en": "Software Development",
+      "pl": "Tworzenie oprogramowania",
+      "cy": "Datblygu Meddalwedd",
+      "ar": "تطوير البرمجيات"
+    }
+  },
+  {
+    "id": "data_structures",
+    "icon": "🌳",
+    "labels": {
+      "en": "Data Structures",
+      "pl": "Struktury danych",
+      "cy": "Strwythurau Data",
+      "ar": "هياكل البيانات"
+    }
+  },
+  {
+    "id": "theory",
+    "icon": "📐",
+    "labels": {
+      "en": "Theory of Computation",
+      "pl": "Teoria obliczeń",
+      "cy": "Theori Cyfrifiadaeth",
+      "ar": "نظرية الحوسبة"
+    }
+  },
+  {
+    "id": "ethics",
+    "icon": "⚖️",
+    "labels": {
+      "en": "Ethical & Legal Issues",
+      "pl": "Kwestie etyczne i prawne",
+      "cy": "Materion Moesegol a Chyfreithiol",
+      "ar": "القضايا الأخلاقية والقانونية"
+    }
+  },
+  {
+    "id": "ai",
+    "icon": "🤖",
+    "labels": {
+      "en": "Artificial Intelligence",
+      "pl": "Sztuczna inteligencja",
+      "cy": "Deallusrwydd Artiffisial",
+      "ar": "الذكاء الاصطناعي"
+    }
+  },
+  {
+    "id": "robotics",
+    "icon": "🦾",
+    "labels": {
+      "en": "Robotics & Physical Computing",
+      "pl": "Robotyka i obliczenia fizyczne",
+      "cy": "Roboteg a Chyfrifiadeg Ffisegol",
+      "ar": "الروبوتات والحوسبة الفيزيائية"
+    }
+  }
 ]

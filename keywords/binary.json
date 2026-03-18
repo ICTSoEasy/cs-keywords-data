@@ -15,6 +15,10 @@
     "cy": {
       "term": "Deuaidd",
       "definition": "System rhifau sy'n defnyddio 0 ac 1 yn unig i gynrychioli pob gwerth."
+    },
+    "ar": {
+      "term": "ثنائي",
+      "definition": "نظام ترقيم يستخدم رقمين فقط: 0 و1. تستخدمه الحواسيب لتمثيل جميع البيانات."
     }
   }
 }

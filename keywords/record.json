@@ -12,6 +12,10 @@
     "cy": {
       "term": "Cofnod",
       "definition": "Un rhes mewn tabl cronfa ddata, sy'n cynrychioli un eitem (e.e. un myfyriwr, un cynnyrch)."
+    },
+    "ar": {
+      "term": "سجل",
+      "definition": "صف في جدول قاعدة البيانات يمثل مجموعة بيانات ذات صلة بعنصر واحد."
     }
   },
   "topics": [

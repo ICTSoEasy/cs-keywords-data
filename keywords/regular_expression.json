@@ -16,6 +16,10 @@
     "cy": {
       "term": "Mynegiad Rheolaidd",
       "definition": "Dilyniant o nodau sy'n diffinio patrwm chwilio, a ddefnyddir i gyfateb neu ddilysu llinynau o destun."
+    },
+    "ar": {
+      "term": "تعبير نمطي",
+      "definition": "تسلسل من الأحرف يشكل نمط بحث، يُستخدم للبحث عن نص أو التحقق من صحته أو استبداله."
     }
   }
 }

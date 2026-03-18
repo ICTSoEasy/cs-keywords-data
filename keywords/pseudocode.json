@@ -16,6 +16,10 @@
     "cy": {
       "term": "Ffug-god",
       "definition": "Ffordd anffurfiol o ddisgrifio algorithm gan ddefnyddio iaith syml a strwythurau tebyg i god syml, heb ddilyn rheolau unrhyw iaith benodol."
+    },
+    "ar": {
+      "term": "الكود الزائف",
+      "definition": "وصف بسيط لخوارزمية يشبه الكود البرمجي لكنه مكتوب باللغة العادية وليس بلغة برمجة محددة."
     }
   }
 }

@@ -15,6 +15,10 @@
     "cy": {
       "term": "Actwadur",
       "definition": "Dyfais sy'n trosi signalau trydanol o gyfrifiadur yn symudiad neu weithred ffisegol, fel modur neu serfo."
+    },
+    "ar": {
+      "term": "محرك",
+      "definition": "مكون يحول الطاقة الكهربائية إلى حركة فيزيائية في الروبوتات والأنظمة المدمجة."
     }
   }
 }

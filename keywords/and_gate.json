@@ -15,6 +15,10 @@
     "cy": {
       "term": "Porth AND",
       "definition": "Porth rhesymeg sy'n allbynnu 1 dim ond pan fo pob un o'i fewnbynnau yn 1."
+    },
+    "ar": {
+      "term": "بوابة AND",
+      "definition": "بوابة منطقية تُخرج 1 فقط عندما تكون جميع مداخلها 1."
     }
   }
 }

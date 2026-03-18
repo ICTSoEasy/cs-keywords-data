@@ -16,6 +16,10 @@
     "cy": {
       "term": "Iaith Lefel Uchel",
       "definition": "Iaith raglennu sy'n defnyddio cystrawen ddarllenadwy i bobl ac sy'n annibynnol ar y caledwedd y mae'n rhedeg arno."
+    },
+    "ar": {
+      "term": "لغة عالية المستوى",
+      "definition": "لغة برمجة تستخدم كلمات تشبه اللغة البشرية وسهلة القراءة والكتابة."
     }
   }
 }

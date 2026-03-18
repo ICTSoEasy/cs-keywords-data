@@ -15,6 +15,10 @@
     "cy": {
       "term": "Didoli Uno",
       "definition": "Algorithm didoli sy'n hollti rhestr yn ei hanner dro ar ôl tro, yn didoli pob hanner, yna'n eu huno yn ôl at ei gilydd mewn trefn."
+    },
+    "ar": {
+      "term": "ترتيب الدمج",
+      "definition": "خوارزمية ترتيب تقسم القائمة إلى نصفين وترتب كل نصف ثم تدمجهما في قائمة مرتبة واحدة."
     }
   }
 }

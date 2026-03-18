@@ -15,6 +15,10 @@
     "cy": {
       "term": "Dull",
       "definition": "Ffwythiant sy'n perthyn i ddosbarth neu wrthych, a ddefnyddir i ddiffinio beth all y gwrthrych ei wneud."
+    },
+    "ar": {
+      "term": "أسلوب",
+      "definition": "دالة تنتمي إلى فئة أو كائن وتُستخدم لتحديد ما يمكن للكائن القيام به."
     }
   }
 }

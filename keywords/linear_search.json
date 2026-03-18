@@ -15,6 +15,10 @@
     "cy": {
       "term": "Chwilio Llinol",
       "definition": "Algorithm chwilio sy'n gwirio pob eitem mewn rhestr un ar y tro nes dod o hyd i'r targed neu orffen y rhestr."
+    },
+    "ar": {
+      "term": "البحث الخطي",
+      "definition": "خوارزمية بحث تفحص كل عنصر في القائمة واحداً تلو الآخر حتى تجد العنصر المطلوب."
     }
   }
 }

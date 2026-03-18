@@ -15,6 +15,10 @@
     "cy": {
       "term": "Topoleg Rhwydwaith",
       "definition": "Y ffordd y mae dyfeisiau mewn rhwydwaith wedi'u trefnu a'u cysylltu â'i gilydd yn gorfforol neu yn rhesymegol."
+    },
+    "ar": {
+      "term": "طبولوجيا الشبكة",
+      "definition": "الترتيب الفيزيائي أو المنطقي للأجهزة في شبكة."
     }
   }
 }

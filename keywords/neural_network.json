@@ -15,6 +15,10 @@
     "cy": {
       "term": "Rhwydwaith Niwral",
       "definition": "System AI wedi'i ysbrydoli'n fras gan yr ymennydd dynol, wedi'i wneud o haenau o nodau cysylltiedig sy'n prosesu ac yn dysgu o ddata."
+    },
+    "ar": {
+      "term": "الشبكة العصبية الاصطناعية",
+      "definition": "نظام حوسبة مستوحى من الدماغ البشري، يُستخدم في التعلم الآلي للتعرف على الأنماط."
     }
   }
 }

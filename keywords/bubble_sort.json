@@ -15,6 +15,10 @@
     "cy": {
       "term": "Didoli Swigen",
       "definition": "Algorithm didoli sy'n cymharu eitemau cyfagos dro ar ôl tro ac yn eu cyfnewid os ydynt yn y drefn anghywir."
+    },
+    "ar": {
+      "term": "ترتيب الفقاعة",
+      "definition": "خوارزمية ترتيب تقارن العناصر المتجاورة وتبادلها مراراً حتى تُرتَّب القائمة بالكامل."
     }
   }
 }

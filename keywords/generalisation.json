@@ -15,6 +15,10 @@
     "cy": {
       "term": "Cyffredinoli",
       "definition": "Defnyddio patrymau a ganfuwyd mewn un broblem i greu atebion sy'n gweithio ar gyfer problemau tebyg."
+    },
+    "ar": {
+      "term": "التعميم",
+      "definition": "استخدام الأنماط الموجودة في مشكلة واحدة لإنشاء حلول تعمل لمشاكل مماثلة."
     }
   }
 }

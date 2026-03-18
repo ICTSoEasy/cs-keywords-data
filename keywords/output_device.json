@@ -15,6 +15,10 @@
     "cy": {
       "term": "Dyfais Allbwn",
       "definition": "Caledwedd a ddefnyddir i dderbyn data o gyfrifiadur, fel monitor neu argraffydd."
+    },
+    "ar": {
+      "term": "جهاز الإخراج",
+      "definition": "جهاز يُخرج البيانات من الحاسوب، مثل الشاشة والطابعة والسماعات."
     }
   }
 }

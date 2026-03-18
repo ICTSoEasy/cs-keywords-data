@@ -15,6 +15,10 @@
     "cy": {
       "term": "Cywasgiad",
       "definition": "Lleihau maint ffeil drwy amgodio data yn fwy effeithlon."
+    },
+    "ar": {
+      "term": "الضغط",
+      "definition": "تقليص حجم الملف عن طريق تمثيل البيانات بطريقة أكثر كفاءة."
     }
   }
 }

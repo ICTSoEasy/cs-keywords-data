@@ -12,6 +12,10 @@
     "cy": {
       "term": "Ailadrodd",
       "definition": "Ailadrodd set o gyfarwyddiadau nifer o weithiau neu nes i amod gael ei fodloni. Gelwir hefyd yn ddolen."
+    },
+    "ar": {
+      "term": "التكرار",
+      "definition": "تكرار مجموعة من التعليمات عدداً محدداً من المرات أو حتى يتحقق شرط معين."
     }
   },
   "topics": [

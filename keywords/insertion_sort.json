@@ -15,6 +15,10 @@
     "cy": {
       "term": "Didoli Mewnosod",
       "definition": "Algorithm didoli sy'n adeiladu rhestr wedi'i didoli un eitem ar y tro drwy fewnosod pob eitem newydd yn ei safle cywir."
+    },
+    "ar": {
+      "term": "ترتيب الإدراج",
+      "definition": "خوارزمية ترتيب تبني القائمة المرتبة عنصراً واحداً في كل مرة عن طريق إدراجه في موضعه الصحيح."
     }
   }
 }

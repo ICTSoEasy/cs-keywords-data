@@ -12,6 +12,10 @@
     "cy": {
       "term": "Allwedd Gynradd",
       "definition": "Gwerth unigryw sy'n cael ei ddefnyddio i adnabod pob cofnod mewn tabl. Ni all unrhyw ddau gofnod rannu'r un allwedd gynradd."
+    },
+    "ar": {
+      "term": "المفتاح الأساسي",
+      "definition": "حقل أو مجموعة حقول تُعرِّف كل سجل بشكل فريد في جدول قاعدة البيانات."
     }
   },
   "topics": [

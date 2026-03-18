@@ -16,6 +16,10 @@
     "cy": {
       "term": "Ailadroddiad",
       "definition": "Techneg lle mae ffwythiant yn galw arno'i hun i ddatrys fersiynau llai o'r un broblem nes cyrraedd achos sylfaenol."
+    },
+    "ar": {
+      "term": "العودية",
+      "definition": "عندما تستدعي دالة نفسها لحل نسخة أصغر من المشكلة نفسها."
     }
   }
 }

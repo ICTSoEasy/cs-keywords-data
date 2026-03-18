@@ -15,6 +15,10 @@
     "cy": {
       "term": "Cylch Nôl-Dadgodio-Gweithredu",
       "definition": "Y broses y mae CPU yn ei hailadrodd yn barhaus: nôl cyfarwyddiad o'r cof, ei ddadgodio, yna ei weithredu."
+    },
+    "ar": {
+      "term": "دورة الجلب والفك والتنفيذ",
+      "definition": "الدورة التي ينفذ بها المعالج التعليمات: يجلب التعليمة من الذاكرة، ويفك ترميزها، ثم ينفذها."
     }
   }
 }

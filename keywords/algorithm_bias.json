@@ -16,6 +16,10 @@
     "cy": {
       "term": "Tuedd Algorithm",
       "definition": "Pan fo system AI yn cynhyrchu canlyniadau annheg neu wahaniaethol oherwydd bod y data hyfforddi neu'r dyluniad yn adlewyrchu rhagfarnau presennol."
+    },
+    "ar": {
+      "term": "التحيز في الخوارزميات",
+      "definition": "عندما تُنتج الخوارزمية نتائج غير عادلة أو تمييزية بسبب بيانات تدريب أو افتراضات متحيزة."
     }
   }
 }

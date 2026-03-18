@@ -15,6 +15,10 @@
     "cy": {
       "term": "Cyfrifiadeg Ffisegol",
       "definition": "Adeiladu systemau rhyngweithiol sy'n gallu synhwyro ac ymateb i'r byd real, gan ddefnyddio caledwedd fel micreolyddion a synwyryddion."
+    },
+    "ar": {
+      "term": "الحوسبة الفيزيائية",
+      "definition": "بناء أنظمة حوسبة تتفاعل مع العالم الفيزيائي من خلال أجهزة الاستشعار والمحركات."
     }
   }
 }

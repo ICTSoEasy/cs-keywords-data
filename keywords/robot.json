@@ -15,6 +15,10 @@
     "cy": {
       "term": "Robot",
       "definition": "Peiriant sy'n gallu cyflawni tasgau yn awtomatig neu o dan reolaeth cyfrifiadur, gan ryngweithio â'r byd ffisegol yn aml."
+    },
+    "ar": {
+      "term": "روبوت",
+      "definition": "آلة يمكن برمجتها لأداء مهام تلقائياً، غالباً ما تحاكي الإجراءات البشرية."
     }
   }
 }

@@ -15,6 +15,10 @@
     "cy": {
       "term": "Dylunio Algorithm",
       "definition": "Cynllunio'r ateb cam-wrth-gam i broblem cyn ysgrifennu unrhyw god."
+    },
+    "ar": {
+      "term": "تصميم الخوارزمية",
+      "definition": "التخطيط للحل خطوة بخطوة لمشكلة ما قبل كتابة أي كود."
     }
   }
 }

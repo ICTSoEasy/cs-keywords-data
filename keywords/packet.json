@@ -12,6 +12,10 @@
     "cy": {
       "term": "Pecyn",
       "definition": "Darn bach o ddata a anfonir ar draws rhwydwaith. Mae ffeiliau mawr yn cael eu rhannu'n awtomatig yn lawer o becynnau."
+    },
+    "ar": {
+      "term": "حزمة بيانات",
+      "definition": "قطعة صغيرة من البيانات تُرسَل عبر شبكة. تُقسَّم البيانات الكبيرة إلى حزم عديدة."
     }
   },
   "topics": [

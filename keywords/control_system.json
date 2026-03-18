@@ -15,6 +15,10 @@
     "cy": {
       "term": "System Reoli",
       "definition": "System sy'n monitro mewnbynnau ac yn addasu allbynnau i gyflawni canlyniad dymunol, fel thermostat yn rheoli tymheredd."
+    },
+    "ar": {
+      "term": "نظام التحكم",
+      "definition": "نظام يراقب عملية أو جهازاً ويتحكم فيه تلقائياً باستخدام بيانات من المستشعرات."
     }
   }
 }

@@ -12,6 +12,10 @@
     "cy": {
       "term": "Newidyn",
       "definition": "Lle o'r enw mewn cof cyfrifiadur lle mae gwerth yn cael ei storio. Gall y gwerth newid tra mae'r rhaglen yn rhedeg."
+    },
+    "ar": {
+      "term": "متغير",
+      "definition": "مكان مسمى في ذاكرة الحاسوب يُخزَّن فيه قيمة يمكن أن تتغير أثناء تشغيل البرنامج."
     }
   },
   "topics": [

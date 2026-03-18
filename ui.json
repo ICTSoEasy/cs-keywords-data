@@ -1,8 +1,21 @@
 {
   "languages": [
-    { "code": "en", "label": "English" },
-    { "code": "pl", "label": "Polski" },
-    { "code": "cy", "label": "Cymraeg" }
+    {
+      "code": "en",
+      "label": "English"
+    },
+    {
+      "code": "pl",
+      "label": "Polski"
+    },
+    {
+      "code": "cy",
+      "label": "Cymraeg"
+    },
+    {
+      "code": "ar",
+      "label": "العربية"
+    }
   ],
   "strings": {
     "en": {
@@ -37,6 +50,17 @@
       "second_language": "Ail iaith",
       "footer_text": "Data a gyfranwyd gan y gymuned.",
       "footer_contribute": "Awgrymu newidiadau ar GitHub"
+    },
+    "ar": {
+      "site_title": "مصطلحات علوم الحاسوب",
+      "site_subtitle": "مفردات علوم الحاسوب للجميع",
+      "search_placeholder": "ابحث عن المصطلحات…",
+      "all_topics": "جميع المواضيع",
+      "no_results": "لم يُعثر على مصطلحات. جرّب بحثاً أو موضوعاً مختلفاً.",
+      "no_translation": "الترجمة غير متوفرة بعد",
+      "second_language": "اللغة الثانية",
+      "footer_text": "البيانات مُقدَّمة من المجتمع.",
+      "footer_contribute": "اقترح تغييرات على GitHub"
     }
   }
 }

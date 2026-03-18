@@ -15,6 +15,10 @@
     "cy": {
       "term": "Cronfa Ddata Berthynol",
       "definition": "Cronfa ddata sy'n trefnu data mewn tablau cysylltiedig wedi'u cysylltu gan allweddi, gan leihau ailadrodd a gwneud data yn haws i'w reoli."
+    },
+    "ar": {
+      "term": "قاعدة البيانات العلائقية",
+      "definition": "قاعدة بيانات تُنظِّم البيانات في جداول مترابطة يمكن ربطها عبر المفاتيح."
     }
   }
 }

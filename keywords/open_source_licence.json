@@ -16,6 +16,10 @@
     "cy": {
       "term": "Trwydded Cod Agored",
       "definition": "Trwydded sy'n caniatáu defnyddio, addasu a rhannu meddalwedd yn rhydd, gydag amodau yn dibynnu ar y drwydded benodol."
+    },
+    "ar": {
+      "term": "رخصة المصدر المفتوح",
+      "definition": "اتفاقية قانونية تحدد كيفية استخدام البرامج مفتوحة المصدر ومشاركتها وتعديلها."
     }
   }
 }

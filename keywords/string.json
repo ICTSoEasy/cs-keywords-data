@@ -12,6 +12,10 @@
     "cy": {
       "term": "Llinyn",
       "definition": "Darn o destun wedi'i storio mewn rhaglen, er enghraifft \"Helo, Byd!\"."
+    },
+    "ar": {
+      "term": "سلسلة نصية",
+      "definition": "تسلسل من الأحرف يُستخدم لتمثيل النص في البرمجة."
     }
   },
   "topics": [

@@ -12,6 +12,10 @@
     "cy": {
       "term": "Dewisiad",
       "definition": "Penderfyniad mewn rhaglen — mae'r cyfrifiadur yn gwirio amod ac yn dewis beth i'w wneud nesaf (e.e. if/else)."
+    },
+    "ar": {
+      "term": "الاختيار",
+      "definition": "جزء من البرنامج يُتخذ فيه قرار بناءً على شرط ما، باستخدام تعليمات مثل if/else."
     }
   },
   "topics": [

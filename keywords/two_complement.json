@@ -15,6 +15,10 @@
     "cy": {
       "term": "Atodiad Dau",
       "definition": "Dull o gynrychioli rhifau cyfan negatif mewn deuaidd. I wrthdroi rhif: gwrthdroi pob bit, yna adio 1."
+    },
+    "ar": {
+      "term": "مكمل الاثنين",
+      "definition": "طريقة لتمثيل الأعداد الصحيحة السالبة في النظام الثنائي. لنفي عدد: اقلب جميع البتات ثم أضف 1."
     }
   }
 }

@@ -12,6 +12,10 @@
     "cy": {
       "term": "Llwybrydd",
       "definition": "Dyfais sy'n cyfeirio traffig y rhyngrwyd rhwng rhwydweithiau, yn anfon data i'r lle cywir."
+    },
+    "ar": {
+      "term": "جهاز التوجيه",
+      "definition": "جهاز شبكي يوجه حزم البيانات بين شبكات مختلفة ويربط الشبكة المنزلية بالإنترنت."
     }
   },
   "topics": [

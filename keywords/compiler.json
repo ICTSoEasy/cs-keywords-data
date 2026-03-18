@@ -15,6 +15,10 @@
     "cy": {
       "term": "Casglwr",
       "definition": "Rhaglen sy'n cyfieithu rhaglen iaith lefel uchel gyfan i god peiriant cyn iddi redeg."
+    },
+    "ar": {
+      "term": "مُجمِّع",
+      "definition": "برنامج يحول كود لغة عالية المستوى إلى لغة الآلة دفعة واحدة قبل تشغيله."
     }
   }
 }

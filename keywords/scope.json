@@ -15,6 +15,10 @@
     "cy": {
       "term": "Cwmpas",
       "definition": "Y rhan o raglen lle y gellir cyrchu newidyn. Mae newidyn lleol yn bodoli dim ond y tu mewn i'r is-raglen y cafodd ei greu ynddi; gellir cyrchu newidyn byd-eang o unrhyw le."
+    },
+    "ar": {
+      "term": "النطاق",
+      "definition": "المنطقة في البرنامج حيث يمكن الوصول إلى متغير. المتغير المحلي موجود فقط داخل البرنامج الفرعي الذي أُنشئ فيه؛ المتغير العام يمكن الوصول إليه من أي مكان."
     }
   }
 }

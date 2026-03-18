@@ -12,6 +12,10 @@
     "cy": {
       "term": "Dilyniant",
       "definition": "Cyfarwyddiadau sy'n cael eu cyflawni un ar ôl y llall, mewn trefn."
+    },
+    "ar": {
+      "term": "التسلسل",
+      "definition": "تنفيذ التعليمات بالترتيب واحدة تلو الأخرى."
     }
   },
   "topics": [

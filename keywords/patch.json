@@ -16,6 +16,10 @@
     "cy": {
       "term": "Clwt Meddalwedd",
       "definition": "Diweddariad a ryddheir gan ddatblygwyr i drwsio gwendidau diogelwch neu fygiau mewn rhaglen."
+    },
+    "ar": {
+      "term": "رقعة (تحديث)",
+      "definition": "تحديث برمجي يُصلح أخطاء أو ثغرات أمنية في برنامج."
     }
   }
 }

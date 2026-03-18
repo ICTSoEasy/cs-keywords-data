@@ -16,6 +16,10 @@
     "cy": {
       "term": "Cod Peiriant",
       "definition": "Cyfarwyddiadau wedi'u hysgrifennu mewn deuaidd y gall CPU eu deall a'u gweithredu yn uniongyrchol."
+    },
+    "ar": {
+      "term": "لغة الآلة",
+      "definition": "اللغة التي يفهمها المعالج مباشرة، تتكون من تعليمات ثنائية (0 و1)."
     }
   }
 }

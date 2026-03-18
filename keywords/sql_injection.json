@@ -15,6 +15,10 @@
     "cy": {
       "term": "Mewnchwistrellu SQL",
       "definition": "Ymosodiad lle mae cod SQL maleisus yn cael ei fewnosod mewn maes mewnbwn i drin neu gyrchu cronfa ddata heb awdurdod."
+    },
+    "ar": {
+      "term": "حقن SQL",
+      "definition": "هجوم إلكتروني يُدخل فيه المهاجم كوداً ضاراً في نماذج الإدخال للتحكم في قاعدة البيانات."
     }
   }
 }

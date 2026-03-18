@@ -16,6 +16,10 @@
     "cy": {
       "term": "Synhwyrydd",
       "definition": "Dyfais sy'n canfod newidiadau yn yr amgylchedd ffisegol, fel golau, tymheredd neu symudiad, ac yn anfon data i gyfrifiadur."
+    },
+    "ar": {
+      "term": "مستشعر",
+      "definition": "جهاز يقيس خاصية فيزيائية من العالم الحقيقي، مثل درجة الحرارة أو الضوء أو الصوت."
     }
   }
 }

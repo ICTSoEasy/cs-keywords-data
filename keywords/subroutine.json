@@ -16,6 +16,10 @@
     "cy": {
       "term": "Is-raglen",
       "definition": "Bloc cod wedi'i enwi y gellir ei alw o unrhyw le yn y rhaglen. Mae'n cynnwys gweithdrefnau (dim gwerth dychwelyd) a ffwythiannau (yn dychwelyd gwerth)."
+    },
+    "ar": {
+      "term": "برنامج فرعي",
+      "definition": "كتلة كود مسماة يمكن استدعاؤها من أي مكان في البرنامج. تشمل الإجراءات (بدون قيمة إرجاع) والدوال (تُرجع قيمة)."
     }
   }
 }

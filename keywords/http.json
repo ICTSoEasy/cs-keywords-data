@@ -15,6 +15,10 @@
     "cy": {
       "term": "HTTP",
       "definition": "Protocol Trosglwyddo HyperDestun; y set o reolau ar gyfer trosglwyddo tudalennau gwe dros y rhyngrwyd."
+    },
+    "ar": {
+      "term": "HTTP",
+      "definition": "البروتوكول المستخدم لنقل صفحات الويب عبر الإنترنت."
     }
   }
 }

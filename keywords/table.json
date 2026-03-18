@@ -12,6 +12,10 @@
     "cy": {
       "term": "Tabl",
       "definition": "Mewn cronfa ddata, mae data wedi'i drefnu mewn rhesi a cholofnau — gelwir y strwythur hwn yn dabl."
+    },
+    "ar": {
+      "term": "جدول",
+      "definition": "هيكل في قاعدة البيانات يُنظِّم البيانات في صفوف وأعمدة."
     }
   },
   "topics": [

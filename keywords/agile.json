@@ -15,6 +15,10 @@
     "cy": {
       "term": "Agile",
       "definition": "Dull datblygu meddalwedd hyblyg sy'n gweithio mewn cylchoedd byr, gan adolygu a gwella'r cynnyrch yn rheolaidd."
+    },
+    "ar": {
+      "term": "المنهجية الرشيقة",
+      "definition": "نهج لتطوير البرمجيات يعمل في دورات قصيرة مع إمكانية التكيف مع التغييرات باستمرار."
     }
   }
 }
