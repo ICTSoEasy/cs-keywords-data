@@ -685,6 +685,26 @@
       }
     },
     {
+      "id": "bus",
+      "topics": [
+        "hardware"
+      ],
+      "translations": {
+        "en": {
+          "term": "Bus",
+          "definition": "A set of wires inside a computer that carries data between components. The data bus carries data, the address bus carries memory locations, and the control bus carries control signals."
+        },
+        "pl": {
+          "term": "Szyna",
+          "definition": "Zestaw przewodów wewnątrz komputera, który przenosi dane między komponentami. Szyna danych przenosi dane, szyna adresowa przenosi lokalizacje pamięci, a szyna sterująca przenosi sygnały sterujące."
+        },
+        "cy": {
+          "term": "Bws",
+          "definition": "Set o wifrau y tu mewn i gyfrifiadur sy'n cludo data rhwng cydrannau. Mae'r bws data'n cludo data, mae'r bws cyfeiriad yn cludo lleoliadau cof, ac mae'r bws rheoli yn cludo signalau rheoli."
+        }
+      }
+    },
+    {
       "id": "byte",
       "topics": [
         "data_representation"
@@ -765,6 +785,26 @@
       }
     },
     {
+      "id": "class",
+      "topics": [
+        "programming"
+      ],
+      "translations": {
+        "en": {
+          "term": "Class",
+          "definition": "A blueprint for creating objects. It defines the attributes and methods that all objects of that type will have."
+        },
+        "pl": {
+          "term": "Klasa",
+          "definition": "Szablon do tworzenia obiektów. Określa atrybuty i metody, które będą miały wszystkie obiekty tego typu."
+        },
+        "cy": {
+          "term": "Dosbarth",
+          "definition": "Cynllun ar gyfer creu gwrthrychau. Mae'n diffinio'r priodweddau a'r dulliau y bydd gan bob gwrthrych o'r math hwnnw."
+        }
+      }
+    },
+    {
       "id": "clock_speed",
       "topics": [
         "hardware"
@@ -787,7 +827,7 @@
     {
       "id": "cloud_computing",
       "topics": [
-        "networks"
+        "networking"
       ],
       "translations": {
         "en": {
@@ -801,6 +841,26 @@
         "cy": {
           "term": "Cyfrifiadureg Cwmwl",
           "definition": "Defnyddio gweinyddion o bell sy'n cael eu cynnal ar y rhyngrwyd i storio, rheoli a phrosesu data yn lle cyfrifiadur lleol."
+        }
+      }
+    },
+    {
+      "id": "colour_depth",
+      "topics": [
+        "data_representation"
+      ],
+      "translations": {
+        "en": {
+          "term": "Colour Depth",
+          "definition": "The number of bits used to store the colour of a single pixel. A higher colour depth means more possible colours and a larger file size."
+        },
+        "pl": {
+          "term": "Głębia kolorów",
+          "definition": "Liczba bitów używanych do przechowywania koloru pojedynczego piksela. Większa głębia kolorów oznacza więcej możliwych kolorów i większy rozmiar pliku."
+        },
+        "cy": {
+          "term": "Dyfnder Lliw",
+          "definition": "Nifer y bitiau a ddefnyddir i storio lliw un picsel. Mae dyfnder lliw uwch yn golygu mwy o liwiau posib a maint ffeil mwy."
         }
       }
     },
@@ -1250,6 +1310,26 @@
       }
     },
     {
+      "id": "encapsulation",
+      "topics": [
+        "programming"
+      ],
+      "translations": {
+        "en": {
+          "term": "Encapsulation",
+          "definition": "Keeping an object's data and the methods that use it bundled together inside a class, and hiding the internal details from outside code."
+        },
+        "pl": {
+          "term": "Enkapsulacja",
+          "definition": "Przechowywanie danych obiektu i metod, które ich używają, razem w klasie oraz ukrywanie wewnętrznych szczegółów przed zewnętrznym kodem."
+        },
+        "cy": {
+          "term": "Amgapsiwleiddio",
+          "definition": "Cadw data gwrthrych a'r dulliau sy'n ei ddefnyddio wedi'u cloi gyda'i gilydd y tu mewn i ddosbarth, a chuddio'r manylion mewnol rhag cod allanol."
+        }
+      }
+    },
+    {
       "id": "encryption",
       "translations": {
         "en": {
@@ -1634,6 +1714,47 @@
       }
     },
     {
+      "id": "ide",
+      "topics": [
+        "software_development",
+        "software"
+      ],
+      "translations": {
+        "en": {
+          "term": "IDE",
+          "definition": "Integrated Development Environment. A program that combines a code editor, error checker, and debugger in one place to help programmers write software."
+        },
+        "pl": {
+          "term": "IDE",
+          "definition": "Zintegrowane środowisko programistyczne. Program łączący edytor kodu, sprawdzanie błędów i debugger w jednym miejscu, pomagający programistom pisać oprogramowanie."
+        },
+        "cy": {
+          "term": "IDE",
+          "definition": "Amgylchedd Datblygu Integredig. Rhaglen sy'n cyfuno golygydd cod, gwirydd gwallau a dadfygiwr mewn un lle i helpu rhaglenyddion i ysgrifennu meddalwedd."
+        }
+      }
+    },
+    {
+      "id": "inheritance",
+      "topics": [
+        "programming"
+      ],
+      "translations": {
+        "en": {
+          "term": "Inheritance",
+          "definition": "When a class takes on the attributes and methods of another class. The new class is called a subclass."
+        },
+        "pl": {
+          "term": "Dziedziczenie",
+          "definition": "Gdy klasa przejmuje atrybuty i metody innej klasy. Nowa klasa nazywana jest podklasą."
+        },
+        "cy": {
+          "term": "Etifeddiaeth",
+          "definition": "Pan fo dosbarth yn cymryd priodweddau a dulliau dosbarth arall. Gelwir y dosbarth newydd yn is-ddosbarth."
+        }
+      }
+    },
+    {
       "id": "input",
       "topics": [
         "programming"
@@ -1996,6 +2117,26 @@
       }
     },
     {
+      "id": "mac_address",
+      "topics": [
+        "networking"
+      ],
+      "translations": {
+        "en": {
+          "term": "MAC Address",
+          "definition": "A unique identifier permanently assigned to a network interface card. Used to identify devices on a local network. Stands for Media Access Control address."
+        },
+        "pl": {
+          "term": "Adres MAC",
+          "definition": "Unikalny identyfikator trwale przypisany do karty sieciowej. Używany do identyfikacji urządzeń w sieci lokalnej. Skrót od Media Access Control."
+        },
+        "cy": {
+          "term": "Cyfeiriad MAC",
+          "definition": "Dynodwr unigryw wedi'i neilltuo'n barhaol i gerdyn rhyngwyneb rhwydwaith. Defnyddir i adnabod dyfeisiau ar rwydwaith lleol. Yn sefyll am gyfeiriad Rheoli Mynediad i Gyfryngau."
+        }
+      }
+    },
+    {
       "id": "machine_code",
       "topics": [
         "software",
@@ -2093,6 +2234,26 @@
         "cy": {
           "term": "Didoli Uno",
           "definition": "Algorithm didoli sy'n hollti rhestr yn ei hanner dro ar ôl tro, yn didoli pob hanner, yna'n eu huno yn ôl at ei gilydd mewn trefn."
+        }
+      }
+    },
+    {
+      "id": "method",
+      "topics": [
+        "programming"
+      ],
+      "translations": {
+        "en": {
+          "term": "Method",
+          "definition": "A function that belongs to a class or object, used to define what the object can do."
+        },
+        "pl": {
+          "term": "Metoda",
+          "definition": "Funkcja należąca do klasy lub obiektu, używana do określenia, co obiekt może robić."
+        },
+        "cy": {
+          "term": "Dull",
+          "definition": "Ffwythiant sy'n perthyn i ddosbarth neu wrthych, a ddefnyddir i ddiffinio beth all y gwrthrych ei wneud."
         }
       }
     },
@@ -2219,6 +2380,26 @@
       }
     },
     {
+      "id": "network_switch",
+      "topics": [
+        "networking"
+      ],
+      "translations": {
+        "en": {
+          "term": "Switch",
+          "definition": "A network device that connects devices on a LAN and sends data only to the specific device it is intended for, unlike a hub which sends to all devices."
+        },
+        "pl": {
+          "term": "Przełącznik",
+          "definition": "Urządzenie sieciowe łączące urządzenia w sieci LAN i wysyłające dane tylko do określonego urządzenia, dla którego są przeznaczone, w przeciwieństwie do koncentratora, który wysyła do wszystkich urządzeń."
+        },
+        "cy": {
+          "term": "Switsh",
+          "definition": "Dyfais rwydwaith sy'n cysylltu dyfeisiau ar rwydwaith LAN ac yn anfon data dim ond at y ddyfais benodol y mae wedi'i bwriadu ar ei chyfer, yn wahanol i hwb sy'n anfon at bob dyfais."
+        }
+      }
+    },
+    {
       "id": "neural_network",
       "topics": [
         "ai"
@@ -2295,6 +2476,26 @@
         "cy": {
           "term": "Porth NOT",
           "definition": "Porth rhesymeg sy'n gwrthdroi ei fewnbwn; yn allbynnu 1 os yw'r mewnbwn yn 0, a 0 os yw'r mewnbwn yn 1."
+        }
+      }
+    },
+    {
+      "id": "object",
+      "topics": [
+        "programming"
+      ],
+      "translations": {
+        "en": {
+          "term": "Object",
+          "definition": "An instance of a class. It has attributes (data) and methods (actions) defined by its class."
+        },
+        "pl": {
+          "term": "Obiekt",
+          "definition": "Egzemplarz klasy. Posiada atrybuty (dane) i metody (działania) zdefiniowane przez swoją klasę."
+        },
+        "cy": {
+          "term": "Gwrthrych",
+          "definition": "Enghraifft o ddosbarth. Mae ganddo briodweddau (data) a dulliau (gweithredoedd) a ddiffinnir gan ei ddosbarth."
         }
       }
     },
@@ -2827,6 +3028,26 @@
       }
     },
     {
+      "id": "register",
+      "topics": [
+        "hardware"
+      ],
+      "translations": {
+        "en": {
+          "term": "Register",
+          "definition": "A very small, fast storage location inside the CPU used to hold data and instructions that are currently being processed."
+        },
+        "pl": {
+          "term": "Rejestr",
+          "definition": "Bardzo małe, szybkie miejsce przechowywania danych wewnątrz procesora, używane do przechowywania aktualnie przetwarzanych danych i instrukcji."
+        },
+        "cy": {
+          "term": "Cofrestr",
+          "definition": "Lleoliad storio bach iawn a chyflym y tu mewn i'r CPU a ddefnyddir i ddal data a chyfarwyddiadau sy'n cael eu prosesu ar hyn o bryd."
+        }
+      }
+    },
+    {
       "id": "regular_expression",
       "topics": [
         "theory",
@@ -2985,6 +3206,46 @@
         "cy": {
           "term": "Gwall Amser Rhedeg",
           "definition": "Gwall sy'n digwydd tra bo rhaglen yn rhedeg, gan achosi iddi gwympo neu ymddwyn yn annisgwyl."
+        }
+      }
+    },
+    {
+      "id": "sample_rate",
+      "topics": [
+        "data_representation"
+      ],
+      "translations": {
+        "en": {
+          "term": "Sample Rate",
+          "definition": "The number of times per second that a sound wave is measured when recording audio. A higher sample rate produces better quality sound but a larger file."
+        },
+        "pl": {
+          "term": "Częstotliwość próbkowania",
+          "definition": "Liczba razy na sekundę, w których mierzona jest fala dźwiękowa podczas nagrywania. Wyższa częstotliwość próbkowania daje lepszą jakość dźwięku, ale większy plik."
+        },
+        "cy": {
+          "term": "Cyfradd Samplo",
+          "definition": "Nifer y troeon y mae ton sain yn cael ei mesur bob eiliad wrth recordio. Mae cyfradd samplo uwch yn cynhyrchu sain o well ansawdd ond ffeil fwy."
+        }
+      }
+    },
+    {
+      "id": "scope",
+      "topics": [
+        "programming"
+      ],
+      "translations": {
+        "en": {
+          "term": "Scope",
+          "definition": "The area of a program where a variable can be accessed. A local variable only exists inside the subroutine it was created in; a global variable can be accessed anywhere."
+        },
+        "pl": {
+          "term": "Zasięg",
+          "definition": "Obszar programu, w którym można uzyskać dostęp do zmiennej. Zmienna lokalna istnieje tylko wewnątrz podprogramu, w którym została utworzona; do zmiennej globalnej można uzyskać dostęp wszędzie."
+        },
+        "cy": {
+          "term": "Cwmpas",
+          "definition": "Y rhan o raglen lle y gellir cyrchu newidyn. Mae newidyn lleol yn bodoli dim ond y tu mewn i'r is-raglen y cafodd ei greu ynddi; gellir cyrchu newidyn byd-eang o unrhyw le."
         }
       }
     },
@@ -3188,6 +3449,27 @@
       "topics": [
         "programming"
       ]
+    },
+    {
+      "id": "subroutine",
+      "topics": [
+        "programming",
+        "algorithms"
+      ],
+      "translations": {
+        "en": {
+          "term": "Subroutine",
+          "definition": "A named block of code that can be called from anywhere in a program. Includes both procedures (no return value) and functions (return a value)."
+        },
+        "pl": {
+          "term": "Podprogram",
+          "definition": "Nazwany blok kodu, który można wywołać z dowolnego miejsca w programie. Obejmuje procedury (bez wartości zwracanej) i funkcje (zwracają wartość)."
+        },
+        "cy": {
+          "term": "Is-raglen",
+          "definition": "Bloc cod wedi'i enwi y gellir ei alw o unrhyw le yn y rhaglen. Mae'n cynnwys gweithdrefnau (dim gwerth dychwelyd) a ffwythiannau (yn dychwelyd gwerth)."
+        }
+      }
     },
     {
       "id": "supervised_learning",
@@ -3427,6 +3709,26 @@
         "cy": {
           "term": "Peiriant Turing",
           "definition": "Model damcaniaethol o gyfrifiadaeth sy'n darllen ac yn ysgrifennu symbolau ar dâp anfeidrol, a ddefnyddir i ddiffinio beth ellir a beth na ellir ei gyfrifo."
+        }
+      }
+    },
+    {
+      "id": "two_complement",
+      "topics": [
+        "data_representation"
+      ],
+      "translations": {
+        "en": {
+          "term": "Two's Complement",
+          "definition": "A method of representing negative integers in binary. To negate a number: flip all the bits, then add 1."
+        },
+        "pl": {
+          "term": "Uzupełnienie do dwóch",
+          "definition": "Metoda reprezentowania ujemnych liczb całkowitych w postaci binarnej. Aby zanegować liczbę: odwróć wszystkie bity, a następnie dodaj 1."
+        },
+        "cy": {
+          "term": "Atodiad Dau",
+          "definition": "Dull o gynrychioli rhifau cyfan negatif mewn deuaidd. I wrthdroi rhif: gwrthdroi pob bit, yna adio 1."
         }
       }
     },
