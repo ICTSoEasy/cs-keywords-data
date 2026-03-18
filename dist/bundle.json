@@ -13,6 +13,10 @@
       {
         "code": "cy",
         "label": "Cymraeg"
+      },
+      {
+        "code": "ar",
+        "label": "العربية"
       }
     ]
   },
@@ -49,6 +53,17 @@
       "second_language": "Ail iaith",
       "footer_text": "Data a gyfranwyd gan y gymuned.",
       "footer_contribute": "Awgrymu newidiadau ar GitHub"
+    },
+    "ar": {
+      "site_title": "مصطلحات علوم الحاسوب",
+      "site_subtitle": "مفردات علوم الحاسوب للجميع",
+      "search_placeholder": "ابحث عن المصطلحات…",
+      "all_topics": "جميع المواضيع",
+      "no_results": "لم يُعثر على مصطلحات. جرّب بحثاً أو موضوعاً مختلفاً.",
+      "no_translation": "الترجمة غير متوفرة بعد",
+      "second_language": "اللغة الثانية",
+      "footer_text": "البيانات مُقدَّمة من المجتمع.",
+      "footer_contribute": "اقترح تغييرات على GitHub"
     }
   },
   "topics": [
@@ -58,7 +73,8 @@
       "labels": {
         "en": "Algorithms",
         "pl": "Algorytmy",
-        "cy": "Algorithmau"
+        "cy": "Algorithmau",
+        "ar": "الخوارزميات"
       }
     },
     {
@@ -67,7 +83,8 @@
       "labels": {
         "en": "Programming",
         "pl": "Programowanie",
-        "cy": "Rhaglennu"
+        "cy": "Rhaglennu",
+        "ar": "البرمجة"
       }
     },
     {
@@ -76,7 +93,8 @@
       "labels": {
         "en": "Computational Thinking",
         "pl": "Myślenie komputacyjne",
-        "cy": "Meddwl Cyfrifiadurol"
+        "cy": "Meddwl Cyfrifiadurol",
+        "ar": "التفكير الحاسوبي"
       }
     },
     {
@@ -85,7 +103,8 @@
       "labels": {
         "en": "Data Representation",
         "pl": "Reprezentacja danych",
-        "cy": "Cynrychiolaeth Data"
+        "cy": "Cynrychiolaeth Data",
+        "ar": "تمثيل البيانات"
       }
     },
     {
@@ -94,7 +113,8 @@
       "labels": {
         "en": "Hardware & Computer Systems",
         "pl": "Sprzęt i systemy komputerowe",
-        "cy": "Caledwedd a Systemau Cyfrifiadurol"
+        "cy": "Caledwedd a Systemau Cyfrifiadurol",
+        "ar": "الأجهزة وأنظمة الحاسوب"
       }
     },
     {
@@ -103,7 +123,8 @@
       "labels": {
         "en": "Software",
         "pl": "Oprogramowanie",
-        "cy": "Meddalwedd"
+        "cy": "Meddalwedd",
+        "ar": "البرمجيات"
       }
     },
     {
@@ -112,7 +133,8 @@
       "labels": {
         "en": "Networking",
         "pl": "Sieci",
-        "cy": "Rhwydweithio"
+        "cy": "Rhwydweithio",
+        "ar": "الشبكات"
       }
     },
     {
@@ -121,7 +143,8 @@
       "labels": {
         "en": "Data & Databases",
         "pl": "Dane i bazy danych",
-        "cy": "Data a Chronfeydd Data"
+        "cy": "Data a Chronfeydd Data",
+        "ar": "البيانات وقواعد البيانات"
       }
     },
     {
@@ -130,7 +153,8 @@
       "labels": {
         "en": "Security & Cybersecurity",
         "pl": "Bezpieczeństwo i cyberbezpieczeństwo",
-        "cy": "Diogelwch a Seiberddiogelwch"
+        "cy": "Diogelwch a Seiberddiogelwch",
+        "ar": "الأمن والأمن الإلكتروني"
       }
     },
     {
@@ -139,7 +163,8 @@
       "labels": {
         "en": "Boolean Logic",
         "pl": "Logika Boole'a",
-        "cy": "Rhesymeg Boole"
+        "cy": "Rhesymeg Boole",
+        "ar": "المنطق البولياني"
       }
     },
     {
@@ -148,7 +173,8 @@
       "labels": {
         "en": "Software Development",
         "pl": "Tworzenie oprogramowania",
-        "cy": "Datblygu Meddalwedd"
+        "cy": "Datblygu Meddalwedd",
+        "ar": "تطوير البرمجيات"
       }
     },
     {
@@ -157,7 +183,8 @@
       "labels": {
         "en": "Data Structures",
         "pl": "Struktury danych",
-        "cy": "Strwythurau Data"
+        "cy": "Strwythurau Data",
+        "ar": "هياكل البيانات"
       }
     },
     {
@@ -166,7 +193,8 @@
       "labels": {
         "en": "Theory of Computation",
         "pl": "Teoria obliczeń",
-        "cy": "Theori Cyfrifiadaeth"
+        "cy": "Theori Cyfrifiadaeth",
+        "ar": "نظرية الحوسبة"
       }
     },
     {
@@ -175,7 +203,8 @@
       "labels": {
         "en": "Ethical & Legal Issues",
         "pl": "Kwestie etyczne i prawne",
-        "cy": "Materion Moesegol a Chyfreithiol"
+        "cy": "Materion Moesegol a Chyfreithiol",
+        "ar": "القضايا الأخلاقية والقانونية"
       }
     },
     {
@@ -184,7 +213,8 @@
       "labels": {
         "en": "Artificial Intelligence",
         "pl": "Sztuczna inteligencja",
-        "cy": "Deallusrwydd Artiffisial"
+        "cy": "Deallusrwydd Artiffisial",
+        "ar": "الذكاء الاصطناعي"
       }
     },
     {
@@ -193,7 +223,8 @@
       "labels": {
         "en": "Robotics & Physical Computing",
         "pl": "Robotyka i obliczenia fizyczne",
-        "cy": "Roboteg a Chyfrifiadeg Ffisegol"
+        "cy": "Roboteg a Chyfrifiadeg Ffisegol",
+        "ar": "الروبوتات والحوسبة الفيزيائية"
       }
     }
   ],
@@ -215,6 +246,10 @@
         "cy": {
           "term": "Haniaethu",
           "definition": "Tynnu manylion diangen er mwyn canolbwyntio ar yr hyn sy'n bwysig wrth ddatrys problem."
+        },
+        "ar": {
+          "term": "التجريد",
+          "definition": "إزالة التفاصيل غير الضرورية للتركيز على ما هو مهم عند حل مشكلة ما."
         }
       }
     },
@@ -235,6 +270,10 @@
         "cy": {
           "term": "Actwadur",
           "definition": "Dyfais sy'n trosi signalau trydanol o gyfrifiadur yn symudiad neu weithred ffisegol, fel modur neu serfo."
+        },
+        "ar": {
+          "term": "محرك",
+          "definition": "مكون يحول الطاقة الكهربائية إلى حركة فيزيائية في الروبوتات والأنظمة المدمجة."
         }
       }
     },
@@ -255,6 +294,10 @@
         "cy": {
           "term": "Agile",
           "definition": "Dull datblygu meddalwedd hyblyg sy'n gweithio mewn cylchoedd byr, gan adolygu a gwella'r cynnyrch yn rheolaidd."
+        },
+        "ar": {
+          "term": "المنهجية الرشيقة",
+          "definition": "نهج لتطوير البرمجيات يعمل في دورات قصيرة مع إمكانية التكيف مع التغييرات باستمرار."
         }
       }
     },
@@ -276,6 +319,10 @@
         "cy": {
           "term": "Moeseg AI",
           "definition": "Astudiaeth o gwestiynau moesol a godir gan ddeallusrwydd artiffisial, fel tuedd, tegwch, atebolrwydd ac effaith ar swyddi."
+        },
+        "ar": {
+          "term": "أخلاقيات الذكاء الاصطناعي",
+          "definition": "المبادئ والمعايير التي تحكم التطوير والاستخدام المسؤول لأنظمة الذكاء الاصطناعي."
         }
       }
     },
@@ -293,6 +340,10 @@
         "cy": {
           "term": "Algorithm",
           "definition": "Set o gyfarwyddiadau cam-wrth-gam sy'n cael eu defnyddio i ddatrys problem neu gwblhau tasg."
+        },
+        "ar": {
+          "term": "خوارزمية",
+          "definition": "تسلسل من الخطوات أو التعليمات المصممة لحل مشكلة ما أو إنجاز مهمة."
         }
       },
       "topics": [
@@ -317,6 +368,10 @@
         "cy": {
           "term": "Tuedd Algorithm",
           "definition": "Pan fo system AI yn cynhyrchu canlyniadau annheg neu wahaniaethol oherwydd bod y data hyfforddi neu'r dyluniad yn adlewyrchu rhagfarnau presennol."
+        },
+        "ar": {
+          "term": "التحيز في الخوارزميات",
+          "definition": "عندما تُنتج الخوارزمية نتائج غير عادلة أو تمييزية بسبب بيانات تدريب أو افتراضات متحيزة."
         }
       }
     },
@@ -337,6 +392,10 @@
         "cy": {
           "term": "Dylunio Algorithm",
           "definition": "Cynllunio'r ateb cam-wrth-gam i broblem cyn ysgrifennu unrhyw god."
+        },
+        "ar": {
+          "term": "تصميم الخوارزمية",
+          "definition": "التخطيط للحل خطوة بخطوة لمشكلة ما قبل كتابة أي كود."
         }
       }
     },
@@ -357,6 +416,10 @@
         "cy": {
           "term": "Porth AND",
           "definition": "Porth rhesymeg sy'n allbynnu 1 dim ond pan fo pob un o'i fewnbynnau yn 1."
+        },
+        "ar": {
+          "term": "بوابة AND",
+          "definition": "بوابة منطقية تُخرج 1 فقط عندما تكون جميع مداخلها 1."
         }
       }
     },
@@ -377,6 +440,10 @@
         "cy": {
           "term": "Cymhwysiad",
           "definition": "Rhaglen wedi'i chynllunio i helpu defnyddwyr i gyflawni tasg benodol, fel prosesydd geiriau neu borwr gwe."
+        },
+        "ar": {
+          "term": "تطبيق",
+          "definition": "برنامج مصمم لأداء مهمة محددة للمستخدم، مثل معالج النصوص أو متصفح الإنترنت."
         }
       }
     },
@@ -394,6 +461,10 @@
         "cy": {
           "term": "Arae",
           "definition": "Rhestr o werthoedd wedi'u storio gyda'i gilydd o dan un enw, y cyrchir atynt drwy eu rhif safle (mynegai)."
+        },
+        "ar": {
+          "term": "مصفوفة",
+          "definition": "هيكل بيانات يخزن عناصر متعددة من النوع نفسه في مواضع ذاكرة متتالية يمكن الوصول إليها بالمؤشر."
         }
       },
       "topics": [
@@ -417,6 +488,10 @@
         "cy": {
           "term": "Deallusrwydd Artiffisial",
           "definition": "Gallu system gyfrifiadurol i gyflawni tasgau a fyddai fel arfer yn gofyn am ddeallusrwydd dynol, fel adnabod lleferydd neu wneud penderfyniadau."
+        },
+        "ar": {
+          "term": "الذكاء الاصطناعي",
+          "definition": "محاكاة الذكاء البشري بواسطة أنظمة الحاسوب، بما في ذلك التعلم وحل المشكلات واتخاذ القرارات."
         }
       }
     },
@@ -437,6 +512,10 @@
         "cy": {
           "term": "ASCII",
           "definition": "Safon sy'n neilltuo rhif unigryw i bob nod fel y gall cyfrifiaduron storio a rhannu testun."
+        },
+        "ar": {
+          "term": "آسكي",
+          "definition": "معيار ترميز يُخصص للحروف الإنجليزية والأرقام وعلامات الترقيم أرقاماً ثنائية."
         }
       }
     },
@@ -458,6 +537,10 @@
         "cy": {
           "term": "Iaith Gynulliad",
           "definition": "Iaith raglennu lefel isel sy'n defnyddio mnemoneg byr i gynrychioli cyfarwyddiadau cod peiriant ar gyfer prosesydd penodol."
+        },
+        "ar": {
+          "term": "لغة التجميع",
+          "definition": "لغة برمجة منخفضة المستوى تستخدم رموزاً يمكن للبشر قراءتها وتُترجم مباشرة إلى لغة الآلة."
         }
       }
     },
@@ -475,6 +558,10 @@
         "cy": {
           "term": "Dilysu",
           "definition": "Y broses o wirio bod rhywun yn bwy maent yn honni ei fod — er enghraifft, drwy ddefnyddio cyfrinair neu olion bysedd."
+        },
+        "ar": {
+          "term": "المصادقة",
+          "definition": "عملية التحقق من هوية المستخدم أو الجهاز قبل منح الوصول إلى النظام."
         }
       },
       "topics": [
@@ -499,6 +586,10 @@
         "cy": {
           "term": "Awtomeiddio",
           "definition": "Defnyddio technoleg i gyflawni tasgau gyda chyfranogiad dynol lleiaf, gan ddisodli prosesau ailadroddus â llaw yn aml."
+        },
+        "ar": {
+          "term": "الأتمتة",
+          "definition": "استخدام التكنولوجيا لأداء المهام بشكل تلقائي دون الحاجة إلى تدخل بشري مستمر."
         }
       }
     },
@@ -516,6 +607,10 @@
         "cy": {
           "term": "Lled Band",
           "definition": "Y maint mwyaf o ddata a all deithio drwy gysylltiad rhwydwaith ar yr un pryd. Fel arfer fe'i mesurir mewn Mbps."
+        },
+        "ar": {
+          "term": "عرض النطاق الترددي",
+          "definition": "الحد الأقصى لكمية البيانات التي يمكن نقلها عبر شبكة في وقت معين."
         }
       },
       "topics": [
@@ -540,6 +635,10 @@
         "cy": {
           "term": "Nodiant O Fawr",
           "definition": "Ffordd o ddisgrifio sut mae gofynion amser neu ofod algorithm yn tyfu wrth i faint y mewnbwn gynyddu."
+        },
+        "ar": {
+          "term": "تدوين O الكبير",
+          "definition": "طريقة لوصف مدى كفاءة خوارزمية من حيث الوقت أو المساحة عندما يكبر حجم المدخلات."
         }
       }
     },
@@ -560,6 +659,10 @@
         "cy": {
           "term": "Deuaidd",
           "definition": "System rhifau sy'n defnyddio 0 ac 1 yn unig i gynrychioli pob gwerth."
+        },
+        "ar": {
+          "term": "ثنائي",
+          "definition": "نظام ترقيم يستخدم رقمين فقط: 0 و1. تستخدمه الحواسيب لتمثيل جميع البيانات."
         }
       }
     },
@@ -580,6 +683,10 @@
         "cy": {
           "term": "Chwilio Deuaidd",
           "definition": "Algorithm chwilio sy'n haneru rhestr wedi'i didoli dro ar ôl tro i ddod o hyd i darged, sy'n llawer cyflymach na chwilio llinol."
+        },
+        "ar": {
+          "term": "البحث الثنائي",
+          "definition": "خوارزمية بحث تقسم القائمة المرتبة إلى نصفين بشكل متكرر للعثور على العنصر المطلوب."
         }
       }
     },
@@ -600,6 +707,10 @@
         "cy": {
           "term": "Coeden Ddeuaidd",
           "definition": "Coeden lle mae gan bob nod o leiaf ddau blentyn, a elwir yn blentyn chwith a phlentyn de."
+        },
+        "ar": {
+          "term": "شجرة ثنائية",
+          "definition": "هيكل بيانات شجري حيث يمتلك كل عقدة طفلاً أيسر وطفلاً أيمن على الأكثر."
         }
       }
     },
@@ -620,6 +731,10 @@
         "cy": {
           "term": "Did",
           "definition": "Yr uned ddata leiaf mewn cyfrifiadur, gyda gwerth o 0 neu 1."
+        },
+        "ar": {
+          "term": "بت",
+          "definition": "أصغر وحدة من البيانات في الحاسوب. يمكن أن تكون 0 أو 1 فقط."
         }
       }
     },
@@ -637,6 +752,10 @@
         "cy": {
           "term": "Boole",
           "definition": "Gwerth a all fod naill ai'n wir neu'n ffug yn unig. Fe'i defnyddir i wneud penderfyniadau mewn rhaglenni."
+        },
+        "ar": {
+          "term": "منطقي",
+          "definition": "نوع بيانات يمكنه تخزين قيمتين فقط: صحيح أو خطأ."
         }
       },
       "topics": [
@@ -661,6 +780,10 @@
         "cy": {
           "term": "Ymosodiad Grym Garw",
           "definition": "Ymosodiad sy'n trio pob cyfuniad cyfrinair neu allwedd posibl nes dod o hyd i'r un cywir."
+        },
+        "ar": {
+          "term": "هجوم القوة الغاشمة",
+          "definition": "طريقة اختراق تجرب جميع التركيبات الممكنة حتى يتم العثور على كلمة المرور الصحيحة."
         }
       }
     },
@@ -681,6 +804,10 @@
         "cy": {
           "term": "Didoli Swigen",
           "definition": "Algorithm didoli sy'n cymharu eitemau cyfagos dro ar ôl tro ac yn eu cyfnewid os ydynt yn y drefn anghywir."
+        },
+        "ar": {
+          "term": "ترتيب الفقاعة",
+          "definition": "خوارزمية ترتيب تقارن العناصر المتجاورة وتبادلها مراراً حتى تُرتَّب القائمة بالكامل."
         }
       }
     },
@@ -701,6 +828,10 @@
         "cy": {
           "term": "Bws",
           "definition": "Set o wifrau y tu mewn i gyfrifiadur sy'n cludo data rhwng cydrannau. Mae'r bws data'n cludo data, mae'r bws cyfeiriad yn cludo lleoliadau cof, ac mae'r bws rheoli yn cludo signalau rheoli."
+        },
+        "ar": {
+          "term": "ناقل",
+          "definition": "مجموعة أسلاك داخل الحاسوب تنقل البيانات بين المكونات. يشمل ناقل البيانات وناقل العنوان وناقل التحكم."
         }
       }
     },
@@ -721,6 +852,10 @@
         "cy": {
           "term": "Beit",
           "definition": "Grŵp o 8 did, a ddefnyddir i gynrychioli un nod neu werth bach."
+        },
+        "ar": {
+          "term": "بايت",
+          "definition": "وحدة من البيانات تتكون من 8 بتات. يمكن لبايت واحد تمثيل 256 قيمة مختلفة."
         }
       }
     },
@@ -741,6 +876,10 @@
         "cy": {
           "term": "Storfa Gyflym",
           "definition": "Math bach, cyflym iawn o gof wedi'i leoli yn agos at y CPU i gyflymu prosesu."
+        },
+        "ar": {
+          "term": "ذاكرة التخزين المؤقت",
+          "definition": "ذاكرة صغيرة وسريعة جداً في المعالج أو بالقرب منه تخزن البيانات المستخدمة مؤخراً لتسريع معالجتها."
         }
       }
     },
@@ -761,6 +900,10 @@
         "cy": {
           "term": "Castio",
           "definition": "Trosi gwerth o un math data i un arall, er enghraifft troi llinyn yn gyfanrif."
+        },
+        "ar": {
+          "term": "تحويل النوع",
+          "definition": "تغيير نوع بيانات قيمة ما، مثل تحويل رقم إلى نص أو العكس."
         }
       }
     },
@@ -781,6 +924,10 @@
         "cy": {
           "term": "Chatbot",
           "definition": "Rhaglen gyfrifiadurol wedi'i chynllunio i efelychu sgwrs gyda phobl, gan ddefnyddio prosesu iaith naturiol yn aml."
+        },
+        "ar": {
+          "term": "روبوت المحادثة",
+          "definition": "برنامج حاسوبي مُصمَّم للتحدث مع البشر من خلال النصوص أو الصوت."
         }
       }
     },
@@ -801,6 +948,10 @@
         "cy": {
           "term": "Dosbarth",
           "definition": "Cynllun ar gyfer creu gwrthrychau. Mae'n diffinio'r priodweddau a'r dulliau y bydd gan bob gwrthrych o'r math hwnnw."
+        },
+        "ar": {
+          "term": "فئة",
+          "definition": "قالب لإنشاء الكائنات يحدد الخصائص والأساليب التي ستمتلكها جميع كائنات ذلك النوع."
         }
       }
     },
@@ -821,6 +972,10 @@
         "cy": {
           "term": "Cyflymder Cloc",
           "definition": "Nifer y cylchoedd cyfarwyddiadau y gall CPU eu perfformio yr eiliad, wedi'i fesur mewn GHz."
+        },
+        "ar": {
+          "term": "سرعة الساعة",
+          "definition": "عدد الدورات التي يؤديها المعالج في الثانية. تُقاس عادةً بالجيجاهرتز (GHz)."
         }
       }
     },
@@ -841,6 +996,10 @@
         "cy": {
           "term": "Cyfrifiadureg Cwmwl",
           "definition": "Defnyddio gweinyddion o bell sy'n cael eu cynnal ar y rhyngrwyd i storio, rheoli a phrosesu data yn lle cyfrifiadur lleol."
+        },
+        "ar": {
+          "term": "الحوسبة السحابية",
+          "definition": "استخدام خوادم بعيدة على الإنترنت لتخزين البيانات وإدارتها ومعالجتها بدلاً من الحاسوب المحلي."
         }
       }
     },
@@ -861,6 +1020,10 @@
         "cy": {
           "term": "Dyfnder Lliw",
           "definition": "Nifer y bitiau a ddefnyddir i storio lliw un picsel. Mae dyfnder lliw uwch yn golygu mwy o liwiau posib a maint ffeil mwy."
+        },
+        "ar": {
+          "term": "عمق الألوان",
+          "definition": "عدد البتات المستخدمة لتخزين لون بكسل واحد. عمق الألوان الأعلى يعني المزيد من الألوان الممكنة وحجم ملف أكبر."
         }
       }
     },
@@ -881,6 +1044,10 @@
         "cy": {
           "term": "Casglwr",
           "definition": "Rhaglen sy'n cyfieithu rhaglen iaith lefel uchel gyfan i god peiriant cyn iddi redeg."
+        },
+        "ar": {
+          "term": "مُجمِّع",
+          "definition": "برنامج يحول كود لغة عالية المستوى إلى لغة الآلة دفعة واحدة قبل تشغيله."
         }
       }
     },
@@ -901,6 +1068,10 @@
         "cy": {
           "term": "Cywasgiad",
           "definition": "Lleihau maint ffeil drwy amgodio data yn fwy effeithlon."
+        },
+        "ar": {
+          "term": "الضغط",
+          "definition": "تقليص حجم الملف عن طريق تمثيل البيانات بطريقة أكثر كفاءة."
         }
       }
     },
@@ -921,6 +1092,10 @@
         "cy": {
           "term": "Gweledigaeth Cyfrifiadur",
           "definition": "Maes AI sy'n galluogi cyfrifiaduron i ddehongli a deall delweddau a fideo o'r byd real."
+        },
+        "ar": {
+          "term": "رؤية الحاسوب",
+          "definition": "مجال من الذكاء الاصطناعي يُمكِّن الحواسيب من تفسير الصور ومقاطع الفيديو وفهمها."
         }
       }
     },
@@ -942,6 +1117,10 @@
         "cy": {
           "term": "Amod",
           "definition": "Mynegiad sy'n gwerthuso i wir neu gau, a ddefnyddir i wneud penderfyniadau mewn rhaglen."
+        },
+        "ar": {
+          "term": "شرط",
+          "definition": "تعبير يُقيَّم إما بصحيح أو خطأ، يُستخدم للتحكم في تدفق البرنامج."
         }
       }
     },
@@ -962,6 +1141,10 @@
         "cy": {
           "term": "Cysonyn",
           "definition": "Gwerth a enwir sy'n cael ei osod unwaith ac na all newid tra bo'r rhaglen yn rhedeg."
+        },
+        "ar": {
+          "term": "ثابت",
+          "definition": "قيمة مسماة لا تتغير أثناء تشغيل البرنامج."
         }
       }
     },
@@ -982,6 +1165,10 @@
         "cy": {
           "term": "System Reoli",
           "definition": "System sy'n monitro mewnbynnau ac yn addasu allbynnau i gyflawni canlyniad dymunol, fel thermostat yn rheoli tymheredd."
+        },
+        "ar": {
+          "term": "نظام التحكم",
+          "definition": "نظام يراقب عملية أو جهازاً ويتحكم فيه تلقائياً باستخدام بيانات من المستشعرات."
         }
       }
     },
@@ -1002,6 +1189,10 @@
         "cy": {
           "term": "Hawlfraint",
           "definition": "Hawl gyfreithiol sy'n amddiffyn gwaith creadigol fel meddalwedd, cerddoriaeth neu destun rhag cael ei gopïo heb ganiatâd."
+        },
+        "ar": {
+          "term": "حقوق النشر",
+          "definition": "الحماية القانونية التي تمنح المبدعين حق التحكم في كيفية استخدام أعمالهم."
         }
       }
     },
@@ -1022,6 +1213,10 @@
         "cy": {
           "term": "CPU",
           "definition": "Yr Uned Brosesu Ganolog; y prif sglodyn sy'n cyflawni cyfarwyddiadau mewn cyfrifiadur."
+        },
+        "ar": {
+          "term": "وحدة المعالجة المركزية",
+          "definition": "المكون الرئيسي في الحاسوب الذي ينفذ التعليمات. يُسمى أحياناً 'دماغ الحاسوب'."
         }
       }
     },
@@ -1042,6 +1237,10 @@
         "cy": {
           "term": "CRUD",
           "definition": "Y pedair prif weithrediad y gellir eu perfformio ar ddata mewn cronfa ddata: Creu, Darllen, Diweddaru a Dileu."
+        },
+        "ar": {
+          "term": "إنشاء وقراءة وتحديث وحذف (CRUD)",
+          "definition": "العمليات الأساسية الأربع لإدارة البيانات في قواعد البيانات: الإنشاء والقراءة والتحديث والحذف."
         }
       }
     },
@@ -1062,6 +1261,10 @@
         "cy": {
           "term": "Seiberymosodiad",
           "definition": "Ymgais fwriadol gan unigolion neu grwpiau i dorri i mewn i systemau gwybodaeth person neu sefydliad arall."
+        },
+        "ar": {
+          "term": "هجوم إلكتروني",
+          "definition": "محاولة متعمدة للوصول غير المصرح به إلى نظام حاسوبي أو الإضرار به."
         }
       }
     },
@@ -1083,6 +1286,10 @@
         "cy": {
           "term": "Diogelu Data",
           "definition": "Deddfau ac arferion sy'n rheoli sut y caiff data personol ei gasglu, ei storio a'i ddefnyddio i amddiffyn preifatrwydd pobl."
+        },
+        "ar": {
+          "term": "حماية البيانات",
+          "definition": "مجموعة من الممارسات والقوانين التي تضمن الاستخدام الآمن والعادل للبيانات الشخصية."
         }
       }
     },
@@ -1103,6 +1310,10 @@
         "cy": {
           "term": "Math Data",
           "definition": "Dosbarthiad sy'n dweud wrth y cyfrifiadur pa fath o werth mae newidyn yn ei ddal, fel cyfanrif, llinyn neu boolean."
+        },
+        "ar": {
+          "term": "نوع البيانات",
+          "definition": "تصنيف يحدد نوع البيانات التي يمكن تخزينها، مثل رقم صحيح أو نص أو منطقي."
         }
       }
     },
@@ -1123,6 +1334,10 @@
         "cy": {
           "term": "Math Data Maes",
           "definition": "Y math o ddata y mae maes cronfa ddata wedi'i osod i'w ddal, fel testun, cyfanrif, dyddiad neu boolean."
+        },
+        "ar": {
+          "term": "نوع بيانات قاعدة البيانات",
+          "definition": "تصنيف البيانات المخزنة في حقل قاعدة البيانات، مثل نص أو رقم أو تاريخ."
         }
       }
     },
@@ -1144,6 +1359,10 @@
         "cy": {
           "term": "Dilysu Data",
           "definition": "Gwiriadau a wneir i sicrhau bod data a gofnodir i mewn i system yn cwrdd â'r fformat, math ac ystod ofynnol."
+        },
+        "ar": {
+          "term": "التحقق من صحة البيانات",
+          "definition": "عملية التحقق من أن البيانات المُدخَلة صحيحة ومنطقية قبل معالجتها."
         }
       }
     },
@@ -1161,6 +1380,10 @@
         "cy": {
           "term": "Cronfa Ddata",
           "definition": "Casgliad trefnus o ddata wedi'i storio fel y gellir ei chwilio, ei gyrchu a'i reoli'n hawdd."
+        },
+        "ar": {
+          "term": "قاعدة البيانات",
+          "definition": "مجموعة منظمة من البيانات المخزنة والمُدارة إلكترونياً."
         }
       },
       "topics": [
@@ -1184,6 +1407,10 @@
         "cy": {
           "term": "Ymosodiad DDoS",
           "definition": "Ymosodiad Gwadu Gwasanaeth Dosbarthedig sy'n llethu gweinydd â thraffig o lawer o ffynonellau i'w wneud yn anghael."
+        },
+        "ar": {
+          "term": "هجوم DDoS",
+          "definition": "هجوم يُغرق النظام بكميات هائلة من حركة المرور لجعله غير متاح للمستخدمين."
         }
       }
     },
@@ -1205,6 +1432,10 @@
         "cy": {
           "term": "Dadfygio",
           "definition": "Y broses o ddod o hyd i wallau mewn algorithm neu raglen a'u cywiro."
+        },
+        "ar": {
+          "term": "تصحيح الأخطاء",
+          "definition": "عملية إيجاد وإصلاح الأخطاء في خوارزمية أو برنامج."
         }
       }
     },
@@ -1222,6 +1453,10 @@
         "cy": {
           "term": "Dadelfennu",
           "definition": "Torri problem fawr yn rhannau llai, mwy hylaw."
+        },
+        "ar": {
+          "term": "التحليل",
+          "definition": "تقسيم مشكلة معقدة إلى أجزاء أصغر وأسهل في الإدارة والحل."
         }
       },
       "topics": [
@@ -1246,6 +1481,10 @@
         "cy": {
           "term": "Degol",
           "definition": "Y system rhifau safonol sy'n defnyddio digidau 0–9, a elwir hefyd yn ddegol neu fas-10."
+        },
+        "ar": {
+          "term": "عشري",
+          "definition": "نظام الترقيم العادي القائم على أساس 10، باستخدام الأرقام من 0 إلى 9."
         }
       }
     },
@@ -1266,6 +1505,10 @@
         "cy": {
           "term": "Y Rhaniad Digidol",
           "definition": "Y bwlch rhwng pobl sydd â mynediad at dechnoleg a'r rhyngrwyd a'r rhai nad oes ganddynt."
+        },
+        "ar": {
+          "term": "الفجوة الرقمية",
+          "definition": "الفجوة بين من يمكنهم الوصول إلى التكنولوجيا الرقمية ومن لا يستطيعون ذلك."
         }
       }
     },
@@ -1286,6 +1529,10 @@
         "cy": {
           "term": "DNS",
           "definition": "System Enwau Parth; yn cyfieithu cyfeiriadau gwefannau darllenadwy i bobl yn gyfeiriadau IP y gall cyfrifiaduron eu defnyddio."
+        },
+        "ar": {
+          "term": "نظام أسماء النطاقات (DNS)",
+          "definition": "خدمة تحول أسماء النطاقات مثل www.example.com إلى عناوين IP يمكن للحواسيب فهمها."
         }
       }
     },
@@ -1306,6 +1553,10 @@
         "cy": {
           "term": "Effeithlonrwydd Algorithm",
           "definition": "Mesur o ba mor dda y mae algorithm yn defnyddio adnoddau amser a chof, yn enwedig wrth i faint y mewnbwn dyfu."
+        },
+        "ar": {
+          "term": "الكفاءة",
+          "definition": "مدى جودة استخدام خوارزمية للوقت والذاكرة لحل مشكلة ما."
         }
       }
     },
@@ -1326,6 +1577,10 @@
         "cy": {
           "term": "Amgapsiwleiddio",
           "definition": "Cadw data gwrthrych a'r dulliau sy'n ei ddefnyddio wedi'u cloi gyda'i gilydd y tu mewn i ddosbarth, a chuddio'r manylion mewnol rhag cod allanol."
+        },
+        "ar": {
+          "term": "التغليف",
+          "definition": "تجميع بيانات الكائن والأساليب التي تعمل عليها معاً داخل فئة وإخفاء التفاصيل الداخلية عن الكود الخارجي."
         }
       }
     },
@@ -1343,6 +1598,10 @@
         "cy": {
           "term": "Amgryptio",
           "definition": "Y broses o gymysgu data fel mai dim ond rhywun â'r allwedd gywir all ei ddarllen."
+        },
+        "ar": {
+          "term": "التشفير",
+          "definition": "تحويل البيانات إلى صيغة لا يمكن قراءتها بدون مفتاح فك التشفير."
         }
       },
       "topics": [
@@ -1366,6 +1625,10 @@
         "cy": {
           "term": "Effaith Amgylcheddol",
           "definition": "Yr effaith y mae cynhyrchu, defnyddio a chael gwared ar dechnoleg yn ei chael ar yr amgylchedd, gan gynnwys defnydd ynni a gwastraff e."
+        },
+        "ar": {
+          "term": "الأثر البيئي",
+          "definition": "التأثيرات التي تُحدثها التكنولوجيا على البيئة، مثل استهلاك الطاقة والنفايات الإلكترونية."
         }
       }
     },
@@ -1386,6 +1649,10 @@
         "cy": {
           "term": "Cylch Nôl-Dadgodio-Gweithredu",
           "definition": "Y broses y mae CPU yn ei hailadrodd yn barhaus: nôl cyfarwyddiad o'r cof, ei ddadgodio, yna ei weithredu."
+        },
+        "ar": {
+          "term": "دورة الجلب والفك والتنفيذ",
+          "definition": "الدورة التي ينفذ بها المعالج التعليمات: يجلب التعليمة من الذاكرة، ويفك ترميزها، ثم ينفذها."
         }
       }
     },
@@ -1406,6 +1673,10 @@
         "cy": {
           "term": "Peiriant Cyflwr Cyfyngedig",
           "definition": "Model cyfrifiadol sy'n symud rhwng set benodol o gyflyrau yn seiliedig ar fewnbynnau, a ddefnyddir i ddylunio systemau ac adnabod patrymau."
+        },
+        "ar": {
+          "term": "آلة الحالة المحدودة",
+          "definition": "نموذج حوسبي يمكن أن يكون في حالة واحدة من عدد محدود من الحالات في أي وقت."
         }
       }
     },
@@ -1423,6 +1694,10 @@
         "cy": {
           "term": "Mur Gwarchod",
           "definition": "System sy'n monitro ac yn rheoli traffig rhwydwaith i rwystro mynediad heb awdurdod i gyfrifiadur neu rwydwaith."
+        },
+        "ar": {
+          "term": "جدار الحماية",
+          "definition": "نظام أمني يراقب حركة مرور الشبكة ويتحكم فيها بناءً على قواعد محددة مسبقاً."
         }
       },
       "topics": [
@@ -1446,6 +1721,10 @@
         "cy": {
           "term": "Cronfa Ddata Ffeil Wastad",
           "definition": "Cronfa ddata wedi'i storio mewn un tabl heb gysylltiadau â thablau eraill; syml ond gall arwain at ddata ailadroddus."
+        },
+        "ar": {
+          "term": "ملف مسطح",
+          "definition": "قاعدة بيانات تخزن جميع البيانات في جدول واحد دون أي علاقات بين الجداول."
         }
       }
     },
@@ -1468,6 +1747,10 @@
         "cy": {
           "term": "Siart Llif",
           "definition": "Diagram sy'n defnyddio siapiau a saethau i gynrychioli'r camau a'r penderfyniadau mewn algorithm neu broses."
+        },
+        "ar": {
+          "term": "مخطط التدفق",
+          "definition": "رسم بياني يستخدم أشكالاً وأسهماً لتمثيل خطوات خوارزمية أو عملية."
         }
       }
     },
@@ -1488,6 +1771,10 @@
         "cy": {
           "term": "Allwedd Dramor",
           "definition": "Maes mewn un tabl sy'n cysylltu â'r allwedd gynradd mewn tabl arall, gan greu perthynas rhwng y ddau."
+        },
+        "ar": {
+          "term": "المفتاح الأجنبي",
+          "definition": "حقل في جدول يشير إلى المفتاح الأساسي في جدول آخر، يُستخدم لربط الجداول ببعضها."
         }
       }
     },
@@ -1505,6 +1792,10 @@
         "cy": {
           "term": "Ffwythiant",
           "definition": "Bloc o god y gellir ei ailddefnyddio sy'n gwneud swydd benodol. Gallwch ei alw wrth ei enw pryd bynnag y bydd ei angen."
+        },
+        "ar": {
+          "term": "دالة",
+          "definition": "كتلة كود مسماة تؤدي مهمة محددة وتُرجع قيمة إلى الكود الذي استدعاها."
         }
       },
       "topics": [
@@ -1528,6 +1819,10 @@
         "cy": {
           "term": "GDPR",
           "definition": "Rheoliad Diogelu Data Cyffredinol; deddf y DU a'r UE sy'n rhoi hawliau i bobl dros eu data personol ac yn ei gwneud yn ofynnol i sefydliadau ei drin yn gyfrifol."
+        },
+        "ar": {
+          "term": "اللائحة العامة لحماية البيانات (GDPR)",
+          "definition": "قانون أوروبي يحكم كيفية جمع بيانات الأشخاص وتخزينها واستخدامها."
         }
       }
     },
@@ -1548,6 +1843,10 @@
         "cy": {
           "term": "Cyffredinoli",
           "definition": "Defnyddio patrymau a ganfuwyd mewn un broblem i greu atebion sy'n gweithio ar gyfer problemau tebyg."
+        },
+        "ar": {
+          "term": "التعميم",
+          "definition": "استخدام الأنماط الموجودة في مشكلة واحدة لإنشاء حلول تعمل لمشاكل مماثلة."
         }
       }
     },
@@ -1568,6 +1867,10 @@
         "cy": {
           "term": "GPU",
           "definition": "Yr Uned Brosesu Graffeg; sglodyn wedi'i gynllunio i drin delweddau, fideo a graffeg 3D."
+        },
+        "ar": {
+          "term": "وحدة معالجة الرسوميات",
+          "definition": "معالج متخصص في معالجة الرسوميات، يُستخدم في الألعاب والذكاء الاصطناعي."
         }
       }
     },
@@ -1588,6 +1891,10 @@
         "cy": {
           "term": "Graff",
           "definition": "Strwythur data wedi'i wneud o nodau (fertigau) wedi'u cysylltu gan ymylon; gellir ei ddefnyddio i fodelu rhwydweithiau a pherthnasoedd."
+        },
+        "ar": {
+          "term": "رسم بياني",
+          "definition": "هيكل بيانات يتكون من عقد (رؤوس) متصلة بحواف، يُستخدم لتمثيل العلاقات والشبكات."
         }
       }
     },
@@ -1608,6 +1915,10 @@
         "cy": {
           "term": "Problem Atal",
           "definition": "Problem enwog sy'n profi na all unrhyw algorithm bennu bob amser a fydd rhaglen benodol yn gorffen neu'n rhedeg am byth."
+        },
+        "ar": {
+          "term": "مشكلة التوقف",
+          "definition": "مسألة نظرية تثبت أنه من المستحيل تحديد ما إذا كان برنامج ما سيتوقف أم سيستمر في التشغيل إلى الأبد."
         }
       }
     },
@@ -1628,6 +1939,10 @@
         "cy": {
           "term": "Tabl Hash",
           "definition": "Strwythur data sy'n storio parau allwedd-gwerth, gan ddefnyddio ffwythiant hash i ddod o hyd yn gyflym i ble mae pob gwerth wedi'i storio."
+        },
+        "ar": {
+          "term": "جدول التجزئة",
+          "definition": "هيكل بيانات يخزن البيانات في أزواج مفتاح-قيمة لتسهيل الوصول السريع إليها."
         }
       }
     },
@@ -1648,6 +1963,10 @@
         "cy": {
           "term": "Hecsadegol",
           "definition": "System rhifau bas-16 sy'n defnyddio digidau 0–9 a llythrennau A–F, a ddefnyddir yn aml i gynrychioli gwerthoedd deuaidd yn fwy cryno."
+        },
+        "ar": {
+          "term": "ست عشري",
+          "definition": "نظام ترقيم قائم على أساس 16 يستخدم الأرقام 0–9 والحروف A–F. يُستخدم كاختصار مناسب للثنائي."
         }
       }
     },
@@ -1669,6 +1988,10 @@
         "cy": {
           "term": "Iaith Lefel Uchel",
           "definition": "Iaith raglennu sy'n defnyddio cystrawen ddarllenadwy i bobl ac sy'n annibynnol ar y caledwedd y mae'n rhedeg arno."
+        },
+        "ar": {
+          "term": "لغة عالية المستوى",
+          "definition": "لغة برمجة تستخدم كلمات تشبه اللغة البشرية وسهلة القراءة والكتابة."
         }
       }
     },
@@ -1689,6 +2012,10 @@
         "cy": {
           "term": "HTTP",
           "definition": "Protocol Trosglwyddo HyperDestun; y set o reolau ar gyfer trosglwyddo tudalennau gwe dros y rhyngrwyd."
+        },
+        "ar": {
+          "term": "HTTP",
+          "definition": "البروتوكول المستخدم لنقل صفحات الويب عبر الإنترنت."
         }
       }
     },
@@ -1710,6 +2037,10 @@
         "cy": {
           "term": "HTTPS",
           "definition": "Fersiwn diogel o HTTP sy'n amgryptio data a anfonir rhwng porwr a gwefan i'w amddiffyn rhag ei ryng-gipio."
+        },
+        "ar": {
+          "term": "HTTPS",
+          "definition": "نسخة آمنة من HTTP تُشفِّر البيانات أثناء النقل لحماية المعلومات."
         }
       }
     },
@@ -1731,6 +2062,10 @@
         "cy": {
           "term": "IDE",
           "definition": "Amgylchedd Datblygu Integredig. Rhaglen sy'n cyfuno golygydd cod, gwirydd gwallau a dadfygiwr mewn un lle i helpu rhaglenyddion i ysgrifennu meddalwedd."
+        },
+        "ar": {
+          "term": "بيئة التطوير المتكاملة (IDE)",
+          "definition": "برنامج يجمع محرر الكود وأداة فحص الأخطاء والمُصحِّح في مكان واحد لمساعدة المبرمجين."
         }
       }
     },
@@ -1751,6 +2086,10 @@
         "cy": {
           "term": "Etifeddiaeth",
           "definition": "Pan fo dosbarth yn cymryd priodweddau a dulliau dosbarth arall. Gelwir y dosbarth newydd yn is-ddosbarth."
+        },
+        "ar": {
+          "term": "الوراثة",
+          "definition": "عندما تأخذ فئة خصائص وأساليب فئة أخرى. تُسمى الفئة الجديدة فئة فرعية."
         }
       }
     },
@@ -1771,6 +2110,10 @@
         "cy": {
           "term": "Mewnbwn",
           "definition": "Data a gofnodir i mewn i raglen gan ddefnyddiwr neu system arall."
+        },
+        "ar": {
+          "term": "إدخال",
+          "definition": "البيانات التي تُدخَل إلى برنامج، عادةً من لوحة المفاتيح أو الملفات أو المستشعرات."
         }
       }
     },
@@ -1791,6 +2134,10 @@
         "cy": {
           "term": "Dyfais Fewnbwn",
           "definition": "Caledwedd a ddefnyddir i anfon data i mewn i gyfrifiadur, fel bysellfwrdd neu lygoden."
+        },
+        "ar": {
+          "term": "جهاز الإدخال",
+          "definition": "جهاز يُستخدم لإدخال البيانات إلى الحاسوب، مثل لوحة المفاتيح والفأرة."
         }
       }
     },
@@ -1811,6 +2158,10 @@
         "cy": {
           "term": "Didoli Mewnosod",
           "definition": "Algorithm didoli sy'n adeiladu rhestr wedi'i didoli un eitem ar y tro drwy fewnosod pob eitem newydd yn ei safle cywir."
+        },
+        "ar": {
+          "term": "ترتيب الإدراج",
+          "definition": "خوارزمية ترتيب تبني القائمة المرتبة عنصراً واحداً في كل مرة عن طريق إدراجه في موضعه الصحيح."
         }
       }
     },
@@ -1831,6 +2182,10 @@
         "cy": {
           "term": "Rhyngrwyd",
           "definition": "System fyd-eang o rwydweithiau cyfrifiadurol cysylltiedig sy'n caniatáu rhannu data ledled y byd."
+        },
+        "ar": {
+          "term": "الإنترنت",
+          "definition": "شبكة عالمية ضخمة من الحواسيب والأجهزة المتصلة ببعضها."
         }
       }
     },
@@ -1851,6 +2206,10 @@
         "cy": {
           "term": "Dehonglydd",
           "definition": "Rhaglen sy'n cyfieithu ac yn rhedeg rhaglen iaith lefel uchel un llinell ar y tro."
+        },
+        "ar": {
+          "term": "مُفسِّر",
+          "definition": "برنامج يحول كود لغة عالية المستوى ويُشغِّله سطراً بسطر."
         }
       }
     },
@@ -1871,6 +2230,10 @@
         "cy": {
           "term": "Problem Anhydrin",
           "definition": "Problem na ellir ei ddatrys mewn amser rhesymol wrth i'r mewnbwn dyfu; nid oes algorithm effeithlon hysbys."
+        },
+        "ar": {
+          "term": "مشكلة صعبة الحل",
+          "definition": "مشكلة لا توجد لها خوارزمية فعالة حتى الآن وتستغرق حلها وقتاً طويلاً جداً للمدخلات الكبيرة."
         }
       }
     },
@@ -1888,6 +2251,10 @@
         "cy": {
           "term": "Cyfeiriad IP",
           "definition": "Rhif unigryw sy'n adnabod dyfais ar rwydwaith — fel cyfeiriad tŷ, ond i gyfrifiaduron."
+        },
+        "ar": {
+          "term": "عنوان IP",
+          "definition": "عنوان رقمي فريد يُعرِّف جهازاً على الشبكة."
         }
       },
       "topics": [
@@ -1908,6 +2275,10 @@
         "cy": {
           "term": "Ailadrodd",
           "definition": "Ailadrodd set o gyfarwyddiadau nifer o weithiau neu nes i amod gael ei fodloni. Gelwir hefyd yn ddolen."
+        },
+        "ar": {
+          "term": "التكرار",
+          "definition": "تكرار مجموعة من التعليمات عدداً محدداً من المرات أو حتى يتحقق شرط معين."
         }
       },
       "topics": [
@@ -1931,6 +2302,10 @@
         "cy": {
           "term": "LAN",
           "definition": "Rhwydwaith Ardal Leol; yn cysylltu dyfeisiau o fewn ardal fach fel adeilad ysgol neu swyddfa."
+        },
+        "ar": {
+          "term": "الشبكة المحلية (LAN)",
+          "definition": "شبكة تربط الأجهزة في منطقة صغيرة مثل منزل أو مكتب أو مدرسة."
         }
       }
     },
@@ -1951,6 +2326,10 @@
         "cy": {
           "term": "Chwilio Llinol",
           "definition": "Algorithm chwilio sy'n gwirio pob eitem mewn rhestr un ar y tro nes dod o hyd i'r targed neu orffen y rhestr."
+        },
+        "ar": {
+          "term": "البحث الخطي",
+          "definition": "خوارزمية بحث تفحص كل عنصر في القائمة واحداً تلو الآخر حتى تجد العنصر المطلوب."
         }
       }
     },
@@ -1971,6 +2350,10 @@
         "cy": {
           "term": "Rhestr Gysylltiedig",
           "definition": "Strwythur data wedi'i wneud o nodau, lle mae pob nod yn storio gwerth a phwyntydd i'r nod nesaf yn y dilyniant."
+        },
+        "ar": {
+          "term": "قائمة مترابطة",
+          "definition": "هيكل بيانات حيث يُشير كل عنصر إلى العنصر التالي في التسلسل عبر مؤشر."
         }
       }
     },
@@ -1992,6 +2375,10 @@
         "cy": {
           "term": "Gwall Rhesymeg",
           "definition": "Camgymeriad yn nyluniad rhaglen sy'n achosi iddi redeg ond cynhyrchu canlyniadau anghywir."
+        },
+        "ar": {
+          "term": "خطأ منطقي",
+          "definition": "خطأ في منطق البرنامج يجعله يُنتج نتائج خاطئة دون أن يتوقف عن العمل."
         }
       }
     },
@@ -2012,6 +2399,10 @@
         "cy": {
           "term": "Porth Rhesymeg",
           "definition": "Cydran electronig sy'n perfformio gweithrediad Boole sylfaenol ar un mewnbwn deuaidd neu ragor i gynhyrchu allbwn."
+        },
+        "ar": {
+          "term": "بوابة منطقية",
+          "definition": "مكون إلكتروني يؤدي عملية منطقية أساسية على إشارة واحدة أو أكثر."
         }
       }
     },
@@ -2032,6 +2423,10 @@
         "cy": {
           "term": "Rhesymu Rhesymegol",
           "definition": "Defnyddio meddwl clir, cam-wrth-gam i weithio drwy broblem a chyrraedd casgliad."
+        },
+        "ar": {
+          "term": "التفكير المنطقي",
+          "definition": "استخدام التفكير الواضح خطوة بخطوة لفهم مشكلة والوصول إلى استنتاج."
         }
       }
     },
@@ -2052,6 +2447,10 @@
         "cy": {
           "term": "Dolen",
           "definition": "Bloc o god sy'n ailadrodd nes bod amod yn cael ei fodloni neu nifer penodol o weithiau."
+        },
+        "ar": {
+          "term": "حلقة",
+          "definition": "بنية برمجية تكرر كتلة من الكود حتى يتحقق شرط معين."
         }
       }
     },
@@ -2072,6 +2471,10 @@
         "cy": {
           "term": "Cywasgiad Di-golled",
           "definition": "Dull cywasgiad sy'n lleihau maint y ffeil heb golli unrhyw ddata, fel y gellir adfer y gwreiddiol yn llawn."
+        },
+        "ar": {
+          "term": "ضغط بدون فقدان",
+          "definition": "ضغط الملف مع الحفاظ على جميع البيانات الأصلية بحيث يمكن استعادة الملف بشكل كامل."
         }
       }
     },
@@ -2092,6 +2495,10 @@
         "cy": {
           "term": "Cywasgiad Colledus",
           "definition": "Dull cywasgiad sy'n tynnu rhywfaint o ddata yn barhaol i leihau maint y ffeil, gan arwain at ansawdd is."
+        },
+        "ar": {
+          "term": "ضغط مع فقدان",
+          "definition": "ضغط الملف بإزالة بعض البيانات بشكل دائم لتحقيق حجم ملف أصغر."
         }
       }
     },
@@ -2113,6 +2520,10 @@
         "cy": {
           "term": "Iaith Lefel Isel",
           "definition": "Iaith raglennu sydd wedi'i chysylltu'n agos â set gyfarwyddiadau prosesydd penodol, fel iaith gynulliad."
+        },
+        "ar": {
+          "term": "لغة منخفضة المستوى",
+          "definition": "لغة برمجة أقرب إلى لغة الآلة، مثل لغة التجميع، وتتحكم مباشرة في أجهزة الحاسوب."
         }
       }
     },
@@ -2133,6 +2544,10 @@
         "cy": {
           "term": "Cyfeiriad MAC",
           "definition": "Dynodwr unigryw wedi'i neilltuo'n barhaol i gerdyn rhyngwyneb rhwydwaith. Defnyddir i adnabod dyfeisiau ar rwydwaith lleol. Yn sefyll am gyfeiriad Rheoli Mynediad i Gyfryngau."
+        },
+        "ar": {
+          "term": "عنوان MAC",
+          "definition": "معرِّف فريد مُخصَّص بشكل دائم لبطاقة واجهة الشبكة، يُستخدم لتعريف الأجهزة على الشبكة المحلية."
         }
       }
     },
@@ -2154,6 +2569,10 @@
         "cy": {
           "term": "Cod Peiriant",
           "definition": "Cyfarwyddiadau wedi'u hysgrifennu mewn deuaidd y gall CPU eu deall a'u gweithredu yn uniongyrchol."
+        },
+        "ar": {
+          "term": "لغة الآلة",
+          "definition": "اللغة التي يفهمها المعالج مباشرة، تتكون من تعليمات ثنائية (0 و1)."
         }
       }
     },
@@ -2174,6 +2593,10 @@
         "cy": {
           "term": "Dysgu Peiriant",
           "definition": "Math o AI lle mae cyfrifiadur yn dysgu gwneud penderfyniadau drwy ddarganfod patrymau mewn data yn hytrach na derbyn cyfarwyddiadau penodol."
+        },
+        "ar": {
+          "term": "التعلم الآلي",
+          "definition": "نوع من الذكاء الاصطناعي يتعلم فيه الحاسوب من البيانات بدلاً من اتباع تعليمات مبرمجة بشكل صريح."
         }
       }
     },
@@ -2194,6 +2617,10 @@
         "cy": {
           "term": "Cynaliadwyedd",
           "definition": "Pa mor hawdd y gall datblygwyr ddeall, diweddaru a thrwsio rhaglen dros amser."
+        },
+        "ar": {
+          "term": "قابلية الصيانة",
+          "definition": "مدى سهولة فهم الكود وتعديله وإصلاحه من قِبَل المبرمجين مستقبلاً."
         }
       }
     },
@@ -2211,6 +2638,10 @@
         "cy": {
           "term": "Meddalwedd Faleisus",
           "definition": "Meddalwedd wedi'i gynllunio i niweidio cyfrifiadur, dwyn data neu gael mynediad heb awdurdod. Mae'n cynnwys firysau, ransomware a spyware."
+        },
+        "ar": {
+          "term": "برمجيات خبيثة",
+          "definition": "أي برنامج مصمم للإضرار بالحواسيب أو الأجهزة أو سرقة البيانات."
         }
       },
       "topics": [
@@ -2234,6 +2665,10 @@
         "cy": {
           "term": "Didoli Uno",
           "definition": "Algorithm didoli sy'n hollti rhestr yn ei hanner dro ar ôl tro, yn didoli pob hanner, yna'n eu huno yn ôl at ei gilydd mewn trefn."
+        },
+        "ar": {
+          "term": "ترتيب الدمج",
+          "definition": "خوارزمية ترتيب تقسم القائمة إلى نصفين وترتب كل نصف ثم تدمجهما في قائمة مرتبة واحدة."
         }
       }
     },
@@ -2254,6 +2689,10 @@
         "cy": {
           "term": "Dull",
           "definition": "Ffwythiant sy'n perthyn i ddosbarth neu wrthych, a ddefnyddir i ddiffinio beth all y gwrthrych ei wneud."
+        },
+        "ar": {
+          "term": "أسلوب",
+          "definition": "دالة تنتمي إلى فئة أو كائن وتُستخدم لتحديد ما يمكن للكائن القيام به."
         }
       }
     },
@@ -2275,6 +2714,10 @@
         "cy": {
           "term": "micro:bit",
           "definition": "Dyfais raglennadwy fach wedi'i chynllunio i helpu pobl ifanc i ddysgu cyfrifiadeg, gyda synwyryddion, LEDau a chysylltedd di-wifr wedi'u hadeiladu i mewn."
+        },
+        "ar": {
+          "term": "مايكروبيت",
+          "definition": "لوحة حاسوبية صغيرة مصممة لتعليم البرمجة والحوسبة الفيزيائية."
         }
       }
     },
@@ -2296,6 +2739,10 @@
         "cy": {
           "term": "Micreolydd",
           "definition": "Cyfrifiadur bach ar un sglodyn sy'n gallu darllen mewnbynnau o synwyryddion a rheoli allbynnau, a ddefnyddir yn gyffredin mewn prosiectau cyfrifiadeg ffisegol."
+        },
+        "ar": {
+          "term": "متحكم دقيق",
+          "definition": "حاسوب صغير على رقاقة واحدة، يُستخدم في الأجهزة المدمجة والروبوتات."
         }
       }
     },
@@ -2316,6 +2763,10 @@
         "cy": {
           "term": "Prif Fwrdd",
           "definition": "Y brif fwrdd cylched sy'n cysylltu holl gydrannau cyfrifiadur â'i gilydd."
+        },
+        "ar": {
+          "term": "اللوحة الأم",
+          "definition": "اللوحة الرئيسية في الحاسوب التي تربط جميع المكونات معاً."
         }
       }
     },
@@ -2336,6 +2787,10 @@
         "cy": {
           "term": "Porth NAND",
           "definition": "Porth rhesymeg sy'n allbynnu 0 dim ond pan fo pob mewnbwn yn 1; gwrthwyneb porth AND."
+        },
+        "ar": {
+          "term": "بوابة NAND",
+          "definition": "بوابة منطقية تُخرج 0 فقط عندما تكون جميع مداخلها 1، وهي عكس بوابة AND."
         }
       }
     },
@@ -2356,6 +2811,10 @@
         "cy": {
           "term": "Prosesu Iaith Naturiol",
           "definition": "Cangen o AI sy'n galluogi cyfrifiaduron i ddeall, dehongli a chynhyrchu iaith ddynol."
+        },
+        "ar": {
+          "term": "معالجة اللغة الطبيعية",
+          "definition": "مجال الذكاء الاصطناعي الذي يُمكِّن الحواسيب من فهم اللغة البشرية والتفاعل معها."
         }
       }
     },
@@ -2376,6 +2835,10 @@
         "cy": {
           "term": "Rhwydwaith",
           "definition": "Dau neu fwy o gyfrifiaduron wedi'u cysylltu â'i gilydd i rannu data ac adnoddau."
+        },
+        "ar": {
+          "term": "شبكة",
+          "definition": "مجموعة من الأجهزة المتصلة التي تستطيع تبادل البيانات."
         }
       }
     },
@@ -2396,6 +2859,10 @@
         "cy": {
           "term": "Switsh",
           "definition": "Dyfais rwydwaith sy'n cysylltu dyfeisiau ar rwydwaith LAN ac yn anfon data dim ond at y ddyfais benodol y mae wedi'i bwriadu ar ei chyfer, yn wahanol i hwb sy'n anfon at bob dyfais."
+        },
+        "ar": {
+          "term": "محوِّل الشبكة",
+          "definition": "جهاز شبكي يربط الأجهزة على شبكة LAN ويرسل البيانات فقط إلى الجهاز المحدد المقصود، على عكس الموزِّع الذي يرسل إلى الجميع."
         }
       }
     },
@@ -2416,6 +2883,10 @@
         "cy": {
           "term": "Rhwydwaith Niwral",
           "definition": "System AI wedi'i ysbrydoli'n fras gan yr ymennydd dynol, wedi'i wneud o haenau o nodau cysylltiedig sy'n prosesu ac yn dysgu o ddata."
+        },
+        "ar": {
+          "term": "الشبكة العصبية الاصطناعية",
+          "definition": "نظام حوسبة مستوحى من الدماغ البشري، يُستخدم في التعلم الآلي للتعرف على الأنماط."
         }
       }
     },
@@ -2436,6 +2907,10 @@
         "cy": {
           "term": "Porth NOR",
           "definition": "Porth rhesymeg sy'n allbynnu 1 dim ond pan fo pob mewnbwn yn 0; gwrthwyneb porth OR."
+        },
+        "ar": {
+          "term": "بوابة NOR",
+          "definition": "بوابة منطقية تُخرج 1 فقط عندما تكون جميع مداخلها 0، وهي عكس بوابة OR."
         }
       }
     },
@@ -2456,6 +2931,10 @@
         "cy": {
           "term": "Normaleiddio",
           "definition": "Y broses o drefnu cronfa ddata i leihau ailadrodd data a gwella cywirdeb data."
+        },
+        "ar": {
+          "term": "التسوية",
+          "definition": "عملية تنظيم قاعدة البيانات لتقليل تكرار البيانات وتحسين سلامتها."
         }
       }
     },
@@ -2476,6 +2955,10 @@
         "cy": {
           "term": "Porth NOT",
           "definition": "Porth rhesymeg sy'n gwrthdroi ei fewnbwn; yn allbynnu 1 os yw'r mewnbwn yn 0, a 0 os yw'r mewnbwn yn 1."
+        },
+        "ar": {
+          "term": "بوابة NOT",
+          "definition": "بوابة منطقية تعكس مدخلها: تحول 1 إلى 0 و0 إلى 1."
         }
       }
     },
@@ -2496,6 +2979,10 @@
         "cy": {
           "term": "Gwrthrych",
           "definition": "Enghraifft o ddosbarth. Mae ganddo briodweddau (data) a dulliau (gweithredoedd) a ddiffinnir gan ei ddosbarth."
+        },
+        "ar": {
+          "term": "كائن",
+          "definition": "نسخة من فئة، تمتلك خصائص (بيانات) وأساليب (أفعال) تحددها الفئة التي أُنشئت منها."
         }
       }
     },
@@ -2517,6 +3004,10 @@
         "cy": {
           "term": "Cod Agored",
           "definition": "Meddalwedd y mae ei god ffynhonnell ar gael yn rhydd i unrhyw un ei weld, ei ddefnyddio, ei addasu a'i rannu."
+        },
+        "ar": {
+          "term": "مفتوح المصدر",
+          "definition": "برنامج يمكن للجميع عرض كوده المصدري وتعديله وتوزيعه بحرية."
         }
       }
     },
@@ -2538,6 +3029,10 @@
         "cy": {
           "term": "Trwydded Cod Agored",
           "definition": "Trwydded sy'n caniatáu defnyddio, addasu a rhannu meddalwedd yn rhydd, gydag amodau yn dibynnu ar y drwydded benodol."
+        },
+        "ar": {
+          "term": "رخصة المصدر المفتوح",
+          "definition": "اتفاقية قانونية تحدد كيفية استخدام البرامج مفتوحة المصدر ومشاركتها وتعديلها."
         }
       }
     },
@@ -2558,6 +3053,10 @@
         "cy": {
           "term": "System Weithredu",
           "definition": "Meddalwedd sy'n rheoli caledwedd cyfrifiadur ac yn darparu gwasanaethau i raglenni eraill redeg."
+        },
+        "ar": {
+          "term": "نظام التشغيل",
+          "definition": "برنامج يدير موارد الحاسوب ويوفر واجهة بين المستخدم والأجهزة."
         }
       }
     },
@@ -2578,6 +3077,10 @@
         "cy": {
           "term": "Gweithredydd",
           "definition": "Symbol sy'n perfformio gweithrediad ar werthoedd, fel + ar gyfer adio neu == ar gyfer cymharu."
+        },
+        "ar": {
+          "term": "عامل",
+          "definition": "رمز يؤدي عملية على قيمة أو قيمتين، مثل + للجمع أو == للمقارنة."
         }
       }
     },
@@ -2598,6 +3101,10 @@
         "cy": {
           "term": "Porth OR",
           "definition": "Porth rhesymeg sy'n allbynnu 1 pan fo o leiaf un o'i fewnbynnau yn 1."
+        },
+        "ar": {
+          "term": "بوابة OR",
+          "definition": "بوابة منطقية تُخرج 1 عندما يكون أحد مداخلها أو أكثر 1."
         }
       }
     },
@@ -2618,6 +3125,10 @@
         "cy": {
           "term": "Allbwn",
           "definition": "Gwybodaeth a gynhyrchir gan raglen, fel testun a arddangosir ar y sgrin."
+        },
+        "ar": {
+          "term": "إخراج",
+          "definition": "البيانات التي يُنتجها البرنامج، مثل النص على الشاشة أو البيانات المحفوظة في ملف."
         }
       }
     },
@@ -2638,6 +3149,10 @@
         "cy": {
           "term": "Dyfais Allbwn",
           "definition": "Caledwedd a ddefnyddir i dderbyn data o gyfrifiadur, fel monitor neu argraffydd."
+        },
+        "ar": {
+          "term": "جهاز الإخراج",
+          "definition": "جهاز يُخرج البيانات من الحاسوب، مثل الشاشة والطابعة والسماعات."
         }
       }
     },
@@ -2655,6 +3170,10 @@
         "cy": {
           "term": "Pecyn",
           "definition": "Darn bach o ddata a anfonir ar draws rhwydwaith. Mae ffeiliau mawr yn cael eu rhannu'n awtomatig yn lawer o becynnau."
+        },
+        "ar": {
+          "term": "حزمة بيانات",
+          "definition": "قطعة صغيرة من البيانات تُرسَل عبر شبكة. تُقسَّم البيانات الكبيرة إلى حزم عديدة."
         }
       },
       "topics": [
@@ -2678,6 +3197,10 @@
         "cy": {
           "term": "Newid Pecynnau",
           "definition": "Dull o anfon data drwy ei dorri'n becynnau bach sy'n teithio'n annibynnol ar draws rhwydwaith ac yn cael eu hailgydosod yn y cyrchfan."
+        },
+        "ar": {
+          "term": "تبديل الحزم",
+          "definition": "طريقة لإرسال البيانات عبر الشبكة بتقسيمها إلى حزم يمكنها السير عبر مسارات مختلفة."
         }
       }
     },
@@ -2698,6 +3221,10 @@
         "cy": {
           "term": "Paramedr",
           "definition": "Newidyn a basir i mewn i ffwythiant i roi data iddo weithio ag ef."
+        },
+        "ar": {
+          "term": "معامل",
+          "definition": "متغير يُمرَّر إلى دالة أو إجراء عند استدعائها لتزويدها بالبيانات اللازمة."
         }
       }
     },
@@ -2719,6 +3246,10 @@
         "cy": {
           "term": "Clwt Meddalwedd",
           "definition": "Diweddariad a ryddheir gan ddatblygwyr i drwsio gwendidau diogelwch neu fygiau mewn rhaglen."
+        },
+        "ar": {
+          "term": "رقعة (تحديث)",
+          "definition": "تحديث برمجي يُصلح أخطاء أو ثغرات أمنية في برنامج."
         }
       }
     },
@@ -2739,6 +3270,10 @@
         "cy": {
           "term": "Adnabod Patrymau",
           "definition": "Nodi tebygrwydd neu nodweddion sy'n ailadrodd mewn problemau er mwyn eu datrys yn fwy effeithlon."
+        },
+        "ar": {
+          "term": "التعرف على الأنماط",
+          "definition": "تحديد أوجه التشابه أو الميزات المتكررة في المشاكل للمساعدة في حلها بكفاءة أكبر."
         }
       }
     },
@@ -2756,6 +3291,10 @@
         "cy": {
           "term": "Genweirio",
           "definition": "Tric lle mae ymosodwyr yn cymryd arnynt eu bod yn rhywun dibynadwy (e.e. banc) i ddwyn eich gwybodaeth bersonol."
+        },
+        "ar": {
+          "term": "التصيد الاحتيالي",
+          "definition": "محاولة احتيال لخداع الأشخاص للكشف عن معلومات شخصية عبر رسائل أو مواقع مزيفة."
         }
       },
       "topics": [
@@ -2779,6 +3318,10 @@
         "cy": {
           "term": "Cyfrifiadeg Ffisegol",
           "definition": "Adeiladu systemau rhyngweithiol sy'n gallu synhwyro ac ymateb i'r byd real, gan ddefnyddio caledwedd fel micreolyddion a synwyryddion."
+        },
+        "ar": {
+          "term": "الحوسبة الفيزيائية",
+          "definition": "بناء أنظمة حوسبة تتفاعل مع العالم الفيزيائي من خلال أجهزة الاستشعار والمحركات."
         }
       }
     },
@@ -2799,6 +3342,10 @@
         "cy": {
           "term": "Picsel",
           "definition": "Elfen leiaf delwedd ddigidol, a gynrychiolir gan werthoedd lliw."
+        },
+        "ar": {
+          "term": "بكسل",
+          "definition": "أصغر عنصر في صورة رقمية. الصور مكونة من شبكة من البكسلات."
         }
       }
     },
@@ -2820,6 +3367,10 @@
         "cy": {
           "term": "Pwyntydd",
           "definition": "Newidyn sy'n storio cyfeiriad cof newidyn neu strwythur data arall."
+        },
+        "ar": {
+          "term": "مؤشر",
+          "definition": "متغير يخزن عنوان ذاكرة متغير آخر بدلاً من تخزين القيمة مباشرة."
         }
       }
     },
@@ -2837,6 +3388,10 @@
         "cy": {
           "term": "Allwedd Gynradd",
           "definition": "Gwerth unigryw sy'n cael ei ddefnyddio i adnabod pob cofnod mewn tabl. Ni all unrhyw ddau gofnod rannu'r un allwedd gynradd."
+        },
+        "ar": {
+          "term": "المفتاح الأساسي",
+          "definition": "حقل أو مجموعة حقول تُعرِّف كل سجل بشكل فريد في جدول قاعدة البيانات."
         }
       },
       "topics": [
@@ -2861,6 +3416,10 @@
         "cy": {
           "term": "Preifatrwydd",
           "definition": "Hawl unigolion i reoli pa wybodaeth bersonol sy'n cael ei chasglu amdanynt a sut y caiff ei defnyddio."
+        },
+        "ar": {
+          "term": "الخصوصية",
+          "definition": "حق الأفراد في التحكم في معلوماتهم الشخصية ومن يمكنه الوصول إليها."
         }
       }
     },
@@ -2882,6 +3441,10 @@
         "cy": {
           "term": "Meddalwedd Perchnogol",
           "definition": "Meddalwedd sydd dan berchnogaeth cwmni; ni all defnyddwyr weld na newid y cod ffynhonnell a rhaid cytuno i drwydded."
+        },
+        "ar": {
+          "term": "برنامج مملوك",
+          "definition": "برنامج يمتلكه شخص أو شركة ويتحكم في استخدامه. لا يمكن عرض كوده أو نسخه بحرية."
         }
       }
     },
@@ -2899,6 +3462,10 @@
         "cy": {
           "term": "Protocol",
           "definition": "Set o reolau y cytunwyd arnynt sy'n rheoli sut mae data yn cael ei anfon a'i dderbyn dros rwydwaith."
+        },
+        "ar": {
+          "term": "بروتوكول",
+          "definition": "مجموعة من القواعد التي تحدد كيفية تواصل الأجهزة وتبادل البيانات عبر الشبكة."
         }
       },
       "topics": [
@@ -2923,6 +3490,10 @@
         "cy": {
           "term": "Ffug-god",
           "definition": "Ffordd anffurfiol o ddisgrifio algorithm gan ddefnyddio iaith syml a strwythurau tebyg i god syml, heb ddilyn rheolau unrhyw iaith benodol."
+        },
+        "ar": {
+          "term": "الكود الزائف",
+          "definition": "وصف بسيط لخوارزمية يشبه الكود البرمجي لكنه مكتوب باللغة العادية وليس بلغة برمجة محددة."
         }
       }
     },
@@ -2940,6 +3511,10 @@
         "cy": {
           "term": "Ymholiad",
           "definition": "Cwestiwn neu gais a anfonir at gronfa ddata i ddod o hyd i, ychwanegu, diweddaru neu ddileu data penodol."
+        },
+        "ar": {
+          "term": "استعلام",
+          "definition": "طلب للحصول على بيانات أو إجراء عملية على بيانات في قاعدة البيانات."
         }
       },
       "topics": [
@@ -2963,6 +3538,10 @@
         "cy": {
           "term": "Ciw",
           "definition": "Strwythur data lle ychwanegir eitemau ar un pen a'u tynnu o'r llall, yn dilyn trefn cyntaf i mewn, cyntaf allan (FIFO)."
+        },
+        "ar": {
+          "term": "طابور",
+          "definition": "هيكل بيانات يعمل وفق مبدأ الأول يدخل الأول يخرج (FIFO)."
         }
       }
     },
@@ -2983,6 +3562,10 @@
         "cy": {
           "term": "RAM",
           "definition": "Cof Mynediad ar Hap; storfa dros dro sy'n dal data y mae'r CPU yn ei ddefnyddio ar hyn o bryd."
+        },
+        "ar": {
+          "term": "ذاكرة الوصول العشوائي (RAM)",
+          "definition": "ذاكرة مؤقتة تخزن البيانات والبرامج التي يستخدمها الحاسوب حالياً. تُمسح عند إيقاف تشغيله."
         }
       }
     },
@@ -3000,6 +3583,10 @@
         "cy": {
           "term": "Cofnod",
           "definition": "Un rhes mewn tabl cronfa ddata, sy'n cynrychioli un eitem (e.e. un myfyriwr, un cynnyrch)."
+        },
+        "ar": {
+          "term": "سجل",
+          "definition": "صف في جدول قاعدة البيانات يمثل مجموعة بيانات ذات صلة بعنصر واحد."
         }
       },
       "topics": [
@@ -3024,6 +3611,10 @@
         "cy": {
           "term": "Ailadroddiad",
           "definition": "Techneg lle mae ffwythiant yn galw arno'i hun i ddatrys fersiynau llai o'r un broblem nes cyrraedd achos sylfaenol."
+        },
+        "ar": {
+          "term": "العودية",
+          "definition": "عندما تستدعي دالة نفسها لحل نسخة أصغر من المشكلة نفسها."
         }
       }
     },
@@ -3044,6 +3635,10 @@
         "cy": {
           "term": "Cofrestr",
           "definition": "Lleoliad storio bach iawn a chyflym y tu mewn i'r CPU a ddefnyddir i ddal data a chyfarwyddiadau sy'n cael eu prosesu ar hyn o bryd."
+        },
+        "ar": {
+          "term": "سجل",
+          "definition": "موقع تخزين صغير جداً وسريع داخل المعالج يُستخدم لحفظ البيانات والتعليمات التي يتم معالجتها حالياً."
         }
       }
     },
@@ -3065,6 +3660,10 @@
         "cy": {
           "term": "Mynegiad Rheolaidd",
           "definition": "Dilyniant o nodau sy'n diffinio patrwm chwilio, a ddefnyddir i gyfateb neu ddilysu llinynau o destun."
+        },
+        "ar": {
+          "term": "تعبير نمطي",
+          "definition": "تسلسل من الأحرف يشكل نمط بحث، يُستخدم للبحث عن نص أو التحقق من صحته أو استبداله."
         }
       }
     },
@@ -3085,6 +3684,10 @@
         "cy": {
           "term": "Cronfa Ddata Berthynol",
           "definition": "Cronfa ddata sy'n trefnu data mewn tablau cysylltiedig wedi'u cysylltu gan allweddi, gan leihau ailadrodd a gwneud data yn haws i'w reoli."
+        },
+        "ar": {
+          "term": "قاعدة البيانات العلائقية",
+          "definition": "قاعدة بيانات تُنظِّم البيانات في جداول مترابطة يمكن ربطها عبر المفاتيح."
         }
       }
     },
@@ -3105,6 +3708,10 @@
         "cy": {
           "term": "Cydraniad",
           "definition": "Nifer y picselau mewn delwedd; mae cydraniad uwch yn golygu mwy o fanylion ond maint ffeil mwy."
+        },
+        "ar": {
+          "term": "الدقة",
+          "definition": "عدد البكسلات في صورة. الدقة الأعلى تعني صورة أوضح وحجم ملف أكبر."
         }
       }
     },
@@ -3125,6 +3732,10 @@
         "cy": {
           "term": "Gwerth Dychwelyd",
           "definition": "Y data mae ffwythiant yn ei anfon yn ôl ar ôl iddo orffen rhedeg."
+        },
+        "ar": {
+          "term": "قيمة الإرجاع",
+          "definition": "القيمة التي ترسلها الدالة إلى الكود الذي استدعاها عند انتهاء تنفيذها."
         }
       }
     },
@@ -3145,6 +3756,10 @@
         "cy": {
           "term": "Robot",
           "definition": "Peiriant sy'n gallu cyflawni tasgau yn awtomatig neu o dan reolaeth cyfrifiadur, gan ryngweithio â'r byd ffisegol yn aml."
+        },
+        "ar": {
+          "term": "روبوت",
+          "definition": "آلة يمكن برمجتها لأداء مهام تلقائياً، غالباً ما تحاكي الإجراءات البشرية."
         }
       }
     },
@@ -3165,6 +3780,10 @@
         "cy": {
           "term": "ROM",
           "definition": "Cof Darllen yn Unig; storfa barhaol sy'n cynnwys cyfarwyddiadau sydd eu hangen ar y cyfrifiadur i gychwyn."
+        },
+        "ar": {
+          "term": "ذاكرة القراءة فقط (ROM)",
+          "definition": "ذاكرة دائمة تحتوي على تعليمات لا يمكن تغييرها، مثل تعليمات بدء تشغيل الحاسوب."
         }
       }
     },
@@ -3182,6 +3801,10 @@
         "cy": {
           "term": "Llwybrydd",
           "definition": "Dyfais sy'n cyfeirio traffig y rhyngrwyd rhwng rhwydweithiau, yn anfon data i'r lle cywir."
+        },
+        "ar": {
+          "term": "جهاز التوجيه",
+          "definition": "جهاز شبكي يوجه حزم البيانات بين شبكات مختلفة ويربط الشبكة المنزلية بالإنترنت."
         }
       },
       "topics": [
@@ -3206,6 +3829,10 @@
         "cy": {
           "term": "Gwall Amser Rhedeg",
           "definition": "Gwall sy'n digwydd tra bo rhaglen yn rhedeg, gan achosi iddi gwympo neu ymddwyn yn annisgwyl."
+        },
+        "ar": {
+          "term": "خطأ وقت التشغيل",
+          "definition": "خطأ يحدث أثناء تشغيل البرنامج ويتسبب في إيقافه فجأة."
         }
       }
     },
@@ -3226,6 +3853,10 @@
         "cy": {
           "term": "Cyfradd Samplo",
           "definition": "Nifer y troeon y mae ton sain yn cael ei mesur bob eiliad wrth recordio. Mae cyfradd samplo uwch yn cynhyrchu sain o well ansawdd ond ffeil fwy."
+        },
+        "ar": {
+          "term": "معدل أخذ العينات",
+          "definition": "عدد المرات في الثانية التي تُقاس فيها موجة الصوت عند التسجيل. معدل أعلى ينتج صوتاً أفضل جودةً لكن حجم ملف أكبر."
         }
       }
     },
@@ -3246,6 +3877,10 @@
         "cy": {
           "term": "Cwmpas",
           "definition": "Y rhan o raglen lle y gellir cyrchu newidyn. Mae newidyn lleol yn bodoli dim ond y tu mewn i'r is-raglen y cafodd ei greu ynddi; gellir cyrchu newidyn byd-eang o unrhyw le."
+        },
+        "ar": {
+          "term": "النطاق",
+          "definition": "المنطقة في البرنامج حيث يمكن الوصول إلى متغير. المتغير المحلي موجود فقط داخل البرنامج الفرعي الذي أُنشئ فيه؛ المتغير العام يمكن الوصول إليه من أي مكان."
         }
       }
     },
@@ -3263,6 +3898,10 @@
         "cy": {
           "term": "Dewisiad",
           "definition": "Penderfyniad mewn rhaglen — mae'r cyfrifiadur yn gwirio amod ac yn dewis beth i'w wneud nesaf (e.e. if/else)."
+        },
+        "ar": {
+          "term": "الاختيار",
+          "definition": "جزء من البرنامج يُتخذ فيه قرار بناءً على شرط ما، باستخدام تعليمات مثل if/else."
         }
       },
       "topics": [
@@ -3287,6 +3926,10 @@
         "cy": {
           "term": "Synhwyrydd",
           "definition": "Dyfais sy'n canfod newidiadau yn yr amgylchedd ffisegol, fel golau, tymheredd neu symudiad, ac yn anfon data i gyfrifiadur."
+        },
+        "ar": {
+          "term": "مستشعر",
+          "definition": "جهاز يقيس خاصية فيزيائية من العالم الحقيقي، مثل درجة الحرارة أو الضوء أو الصوت."
         }
       }
     },
@@ -3304,6 +3947,10 @@
         "cy": {
           "term": "Dilyniant",
           "definition": "Cyfarwyddiadau sy'n cael eu cyflawni un ar ôl y llall, mewn trefn."
+        },
+        "ar": {
+          "term": "التسلسل",
+          "definition": "تنفيذ التعليمات بالترتيب واحدة تلو الأخرى."
         }
       },
       "topics": [
@@ -3327,6 +3974,10 @@
         "cy": {
           "term": "Peirianneg Gymdeithasol",
           "definition": "Trin pobl i ddatgelu gwybodaeth gyfrinachol neu gyflawni gweithredoedd sy'n peryglu diogelwch."
+        },
+        "ar": {
+          "term": "الهندسة الاجتماعية",
+          "definition": "التلاعب النفسي بالأشخاص لإقناعهم بالكشف عن معلومات سرية أو اتخاذ إجراءات غير آمنة."
         }
       }
     },
@@ -3347,6 +3998,10 @@
         "cy": {
           "term": "Cylch Bywyd Datblygu Meddalwedd",
           "definition": "Y camau y mae prosiect meddalwedd yn mynd drwyddynt o'r syniad cychwynnol i'w ddefnyddio a'i gynnal."
+        },
+        "ar": {
+          "term": "دورة حياة تطوير البرمجيات",
+          "definition": "المراحل المتبعة لتخطيط وإنشاء واختبار وصيانة نظام برمجي."
         }
       }
     },
@@ -3367,6 +4022,10 @@
         "cy": {
           "term": "SQL",
           "definition": "Iaith Ymholiad Strwythuredig; iaith a ddefnyddir i greu, darllen, diweddaru a dileu data mewn cronfa ddata berthynol."
+        },
+        "ar": {
+          "term": "لغة SQL",
+          "definition": "لغة تُستخدم لإنشاء قواعد البيانات العلائقية وإدارتها والاستعلام منها."
         }
       }
     },
@@ -3387,6 +4046,10 @@
         "cy": {
           "term": "Mewnchwistrellu SQL",
           "definition": "Ymosodiad lle mae cod SQL maleisus yn cael ei fewnosod mewn maes mewnbwn i drin neu gyrchu cronfa ddata heb awdurdod."
+        },
+        "ar": {
+          "term": "حقن SQL",
+          "definition": "هجوم إلكتروني يُدخل فيه المهاجم كوداً ضاراً في نماذج الإدخال للتحكم في قاعدة البيانات."
         }
       }
     },
@@ -3407,6 +4070,10 @@
         "cy": {
           "term": "Pentwr",
           "definition": "Strwythur data lle ychwanegir ac y tynnir eitemau o'r un pen, yn dilyn trefn olaf i mewn, cyntaf allan (LIFO)."
+        },
+        "ar": {
+          "term": "مكدس",
+          "definition": "هيكل بيانات يعمل وفق مبدأ الأخير يدخل الأول يخرج (LIFO)."
         }
       }
     },
@@ -3427,6 +4094,10 @@
         "cy": {
           "term": "Storfa",
           "definition": "Dyfeisiau a ddefnyddir i gadw data yn barhaol, fel gyriannau caled, SSDau neu yrwyr USB."
+        },
+        "ar": {
+          "term": "التخزين",
+          "definition": "وسيط يحتفظ بالبيانات بشكل دائم، مثل القرص الصلب أو محرك أقراص USB."
         }
       }
     },
@@ -3444,6 +4115,10 @@
         "cy": {
           "term": "Llinyn",
           "definition": "Darn o destun wedi'i storio mewn rhaglen, er enghraifft \"Helo, Byd!\"."
+        },
+        "ar": {
+          "term": "سلسلة نصية",
+          "definition": "تسلسل من الأحرف يُستخدم لتمثيل النص في البرمجة."
         }
       },
       "topics": [
@@ -3468,6 +4143,10 @@
         "cy": {
           "term": "Is-raglen",
           "definition": "Bloc cod wedi'i enwi y gellir ei alw o unrhyw le yn y rhaglen. Mae'n cynnwys gweithdrefnau (dim gwerth dychwelyd) a ffwythiannau (yn dychwelyd gwerth)."
+        },
+        "ar": {
+          "term": "برنامج فرعي",
+          "definition": "كتلة كود مسماة يمكن استدعاؤها من أي مكان في البرنامج. تشمل الإجراءات (بدون قيمة إرجاع) والدوال (تُرجع قيمة)."
         }
       }
     },
@@ -3488,6 +4167,10 @@
         "cy": {
           "term": "Dysgu Goruchwyliedig",
           "definition": "Math o ddysgu peiriant lle hyfforddir model ar ddata wedi'i labelu, gydag atebion cywir yn cael eu darparu i arwain y dysgu."
+        },
+        "ar": {
+          "term": "التعلم الخاضع للإشراف",
+          "definition": "نوع من التعلم الآلي يتدرب فيه النموذج على بيانات مُعلَّمة بإجابات صحيحة معروفة."
         }
       }
     },
@@ -3509,6 +4192,10 @@
         "cy": {
           "term": "Gwall Cystrawen",
           "definition": "Camgymeriad yn y cod sy'n torri rheolau'r iaith raglennu, gan atal y rhaglen rhag rhedeg."
+        },
+        "ar": {
+          "term": "خطأ نحوي",
+          "definition": "خطأ في قواعد كتابة الكود يمنع البرنامج من التشغيل."
         }
       }
     },
@@ -3526,6 +4213,10 @@
         "cy": {
           "term": "Tabl",
           "definition": "Mewn cronfa ddata, mae data wedi'i drefnu mewn rhesi a cholofnau — gelwir y strwythur hwn yn dabl."
+        },
+        "ar": {
+          "term": "جدول",
+          "definition": "هيكل في قاعدة البيانات يُنظِّم البيانات في صفوف وأعمدة."
         }
       },
       "topics": [
@@ -3549,6 +4240,10 @@
         "cy": {
           "term": "Data Profi",
           "definition": "Gwerthoedd a ddefnyddir i wirio bod rhaglen yn trin mewnbynnau normal, ffin a chamweiniol yn gywir."
+        },
+        "ar": {
+          "term": "بيانات الاختبار",
+          "definition": "بيانات تُستخدم لاختبار برنامج والتحقق من أنه يعمل بشكل صحيح في جميع الحالات."
         }
       }
     },
@@ -3569,6 +4264,10 @@
         "cy": {
           "term": "Profi",
           "definition": "Y broses o wirio bod rhaglen yn gweithio'n gywir ac yn cynhyrchu'r canlyniadau disgwyliedig."
+        },
+        "ar": {
+          "term": "الاختبار",
+          "definition": "عملية التحقق من أن البرنامج يعمل بشكل صحيح ويُنتج النتائج المتوقعة."
         }
       }
     },
@@ -3589,6 +4288,10 @@
         "cy": {
           "term": "Topoleg Rhwydwaith",
           "definition": "Y ffordd y mae dyfeisiau mewn rhwydwaith wedi'u trefnu a'u cysylltu â'i gilydd yn gorfforol neu yn rhesymegol."
+        },
+        "ar": {
+          "term": "طبولوجيا الشبكة",
+          "definition": "الترتيب الفيزيائي أو المنطقي للأجهزة في شبكة."
         }
       }
     },
@@ -3609,6 +4312,10 @@
         "cy": {
           "term": "Tabl Olrhain",
           "definition": "Tabl a ddefnyddir i olrhain gwerth newidynnau â llaw ar bob cam o algorithm i wirio ei fod yn gweithio'n gywir."
+        },
+        "ar": {
+          "term": "جدول التتبع",
+          "definition": "جدول يُستخدم لتتبع قيم المتغيرات خطوة بخطوة عند تشغيل الكود يدوياً."
         }
       }
     },
@@ -3629,6 +4336,10 @@
         "cy": {
           "term": "Problem Hydrin",
           "definition": "Problem y gellir ei ddatrys gan algorithm mewn amser rhesymol, fel arfer gyda chymhlethdod amser polynomaidd."
+        },
+        "ar": {
+          "term": "مشكلة قابلة للحل",
+          "definition": "مشكلة يمكن حلها بكفاءة باستخدام خوارزمية تعمل في وقت متعدد الحدود."
         }
       }
     },
@@ -3649,6 +4360,10 @@
         "cy": {
           "term": "Data Hyfforddi",
           "definition": "Y set ddata a ddefnyddir i ddysgu model dysgu peiriant i adnabod patrymau a gwneud rhagfynegiadau."
+        },
+        "ar": {
+          "term": "بيانات التدريب",
+          "definition": "البيانات المستخدمة لتدريب نموذج التعلم الآلي. جودة هذه البيانات تؤثر مباشرة على أداء النموذج."
         }
       }
     },
@@ -3669,6 +4384,10 @@
         "cy": {
           "term": "Coeden",
           "definition": "Strwythur data hierarchaidd gyda nod gwreiddiol ar y brig, yn canghennu i nodau plentyn, heb gylchoedd."
+        },
+        "ar": {
+          "term": "شجرة",
+          "definition": "هيكل بيانات هرمي يتكون من عقد، لكل منها عقدة أب واحدة وعقد أبناء متعددة."
         }
       }
     },
@@ -3689,6 +4408,10 @@
         "cy": {
           "term": "Tabl Gwir",
           "definition": "Tabl sy'n dangos pob cyfuniad posibl o fewnbynnau a'r allbwn canlyniadol ar gyfer mynegiad neu gylched rhesymeg."
+        },
+        "ar": {
+          "term": "جدول الحقيقة",
+          "definition": "جدول يُظهر جميع مجموعات المداخل الممكنة والمخرجات المقابلة لها في دائرة منطقية."
         }
       }
     },
@@ -3709,6 +4432,10 @@
         "cy": {
           "term": "Peiriant Turing",
           "definition": "Model damcaniaethol o gyfrifiadaeth sy'n darllen ac yn ysgrifennu symbolau ar dâp anfeidrol, a ddefnyddir i ddiffinio beth ellir a beth na ellir ei gyfrifo."
+        },
+        "ar": {
+          "term": "آلة تورينج",
+          "definition": "نموذج رياضي لجهاز حوسبة يصف مفهوم الخوارزمية والحوسبة بشكل مجرد."
         }
       }
     },
@@ -3729,6 +4456,10 @@
         "cy": {
           "term": "Atodiad Dau",
           "definition": "Dull o gynrychioli rhifau cyfan negatif mewn deuaidd. I wrthdroi rhif: gwrthdroi pob bit, yna adio 1."
+        },
+        "ar": {
+          "term": "مكمل الاثنين",
+          "definition": "طريقة لتمثيل الأعداد الصحيحة السالبة في النظام الثنائي. لنفي عدد: اقلب جميع البتات ثم أضف 1."
         }
       }
     },
@@ -3749,6 +4480,10 @@
         "cy": {
           "term": "Dilysu Dau Ffactor",
           "definition": "Dull diogelwch sy'n gofyn am ddwy ffurf ar wahân o ddilysu cyn rhoi mynediad i gyfrif."
+        },
+        "ar": {
+          "term": "المصادقة الثنائية",
+          "definition": "طريقة أمان تتطلب شكلين من التحقق من الهوية، مثل كلمة المرور ورمز يُرسَل إلى الهاتف."
         }
       }
     },
@@ -3769,6 +4504,10 @@
         "cy": {
           "term": "Unicode",
           "definition": "Safon amgodio nodau sy'n cefnogi nodau o holl ieithoedd y byd, gan ymestyn y tu hwnt i ASCII."
+        },
+        "ar": {
+          "term": "يونيكود",
+          "definition": "معيار ترميز يدعم معظم أحرف وأنظمة كتابة العالم."
         }
       }
     },
@@ -3789,6 +4528,10 @@
         "cy": {
           "term": "Dysgu Heb Oruchwyliaeth",
           "definition": "Math o ddysgu peiriant lle mae model yn darganfod patrymau mewn data heb gael enghreifftiau wedi'u labelu nac atebion cywir."
+        },
+        "ar": {
+          "term": "التعلم غير الخاضع للإشراف",
+          "definition": "نوع من التعلم الآلي يجد فيه النموذج الأنماط في بيانات غير مُعلَّمة بنفسه."
         }
       }
     },
@@ -3809,6 +4552,10 @@
         "cy": {
           "term": "Meddalwedd Cyfleustod",
           "definition": "Meddalwedd sy'n helpu cynnal, rheoli neu amddiffyn system gyfrifiadurol, fel offer gwrth-feirws neu lanhau disg."
+        },
+        "ar": {
+          "term": "برنامج مساعد",
+          "definition": "برنامج يساعد في إدارة الحاسوب وصيانته، مثل برامج مكافحة الفيروسات وضغط الملفات."
         }
       }
     },
@@ -3826,6 +4573,10 @@
         "cy": {
           "term": "Newidyn",
           "definition": "Lle o'r enw mewn cof cyfrifiadur lle mae gwerth yn cael ei storio. Gall y gwerth newid tra mae'r rhaglen yn rhedeg."
+        },
+        "ar": {
+          "term": "متغير",
+          "definition": "مكان مسمى في ذاكرة الحاسوب يُخزَّن فيه قيمة يمكن أن تتغير أثناء تشغيل البرنامج."
         }
       },
       "topics": [
@@ -3849,6 +4600,10 @@
         "cy": {
           "term": "Rheoli Fersiynau",
           "definition": "System sy'n cofnodi newidiadau i ffeiliau dros amser fel y gallwch alw fersiynau penodol yn ôl yn ddiweddarach a chydweithio ag eraill heb drosysgrifo gwaith ei gilydd."
+        },
+        "ar": {
+          "term": "التحكم في الإصدارات",
+          "definition": "نظام يسجل التغييرات في الملفات بمرور الوقت للتعاون مع الآخرين والرجوع إلى إصدارات سابقة."
         }
       }
     },
@@ -3869,6 +4624,10 @@
         "cy": {
           "term": "Pensaernïaeth Von Neumann",
           "definition": "Model dylunio cyfrifiadur lle mae'r CPU, y cof a mewnbwn/allbwn yn rhannu un llwybr data o'r enw'r bws."
+        },
+        "ar": {
+          "term": "معمارية فون نيومان",
+          "definition": "تصميم الحاسوب الذي يخزن البيانات والتعليمات في نفس الذاكرة ويعالجهما بواسطة نفس المعالج."
         }
       }
     },
@@ -3889,6 +4648,10 @@
         "cy": {
           "term": "Gwendid",
           "definition": "Gwendid mewn system, meddalwedd neu rwydwaith y gallai ymosodwr ei fanteisio arno i gael mynediad heb awdurdod."
+        },
+        "ar": {
+          "term": "ثغرة أمنية",
+          "definition": "ضعف في نظام الحاسوب يمكن استغلاله من قِبَل المهاجمين للوصول غير المصرح به."
         }
       }
     },
@@ -3909,6 +4672,10 @@
         "cy": {
           "term": "WAN",
           "definition": "Rhwydwaith Ardal Eang; yn cysylltu dyfeisiau ar draws ardaloedd daearyddol mawr, fel y rhyngrwyd."
+        },
+        "ar": {
+          "term": "الشبكة الواسعة (WAN)",
+          "definition": "شبكة تغطي مساحة جغرافية كبيرة. الإنترنت هو أكبر مثال على الشبكة الواسعة."
         }
       }
     },
@@ -3929,6 +4696,10 @@
         "cy": {
           "term": "Model Rhaeadr",
           "definition": "Dull datblygu meddalwedd llinol lle mae'n rhaid cwblhau pob cam cyn i'r un nesaf ddechrau."
+        },
+        "ar": {
+          "term": "نموذج الشلال",
+          "definition": "نهج لتطوير البرمجيات يتبع مراحل متتالية ثابتة: التحليل والتصميم والتطوير والاختبار والصيانة."
         }
       }
     },
@@ -3949,6 +4720,10 @@
         "cy": {
           "term": "Y We Fyd Eang",
           "definition": "System o dudalennau gwe ac adnoddau y cyrchir atynt drwy'r rhyngrwyd gan ddefnyddio porwr; yn aml yn cael ei gymysgu â'r rhyngrwyd ei hun."
+        },
+        "ar": {
+          "term": "الشبكة العنكبوتية العالمية",
+          "definition": "نظام من الصفحات والموارد المترابطة على الإنترنت، يمكن الوصول إليها عبر المتصفح."
         }
       }
     },
@@ -3969,6 +4744,10 @@
         "cy": {
           "term": "Porth XOR",
           "definition": "Porth rhesymeg sy'n allbynnu 1 pan fo ei fewnbynnau yn wahanol, a 0 pan fyddant yr un peth."
+        },
+        "ar": {
+          "term": "بوابة XOR",
+          "definition": "بوابة منطقية تُخرج 1 عندما يكون أحد مداخلها فقط 1، وليس كليهما معاً."
         }
       }
     }
