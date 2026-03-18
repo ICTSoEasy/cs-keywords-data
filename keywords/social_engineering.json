@@ -1,0 +1,20 @@
+{
+  "id": "social_engineering",
+  "topics": [
+    "security"
+  ],
+  "translations": {
+    "en": {
+      "term": "Social Engineering",
+      "definition": "Manipulating people into revealing confidential information or performing actions that compromise security."
+    },
+    "pl": {
+      "term": "Inżynieria społeczna",
+      "definition": "Manipulowanie ludźmi w celu ujawnienia poufnych informacji lub wykonania działań naruszających bezpieczeństwo."
+    },
+    "cy": {
+      "term": "Peirianneg Gymdeithasol",
+      "definition": "Trin pobl i ddatgelu gwybodaeth gyfrinachol neu gyflawni gweithredoedd sy'n peryglu diogelwch."
+    }
+  }
+}

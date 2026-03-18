@@ -1,0 +1,20 @@
+{
+  "id": "cyber_attack",
+  "topics": [
+    "security"
+  ],
+  "translations": {
+    "en": {
+      "term": "Cyber Attack",
+      "definition": "A deliberate attempt by individuals or groups to breach the information systems of another person or organisation."
+    },
+    "pl": {
+      "term": "Cyberatak",
+      "definition": "Celowa próba osób lub grup naruszenia systemów informatycznych innej osoby lub organizacji."
+    },
+    "cy": {
+      "term": "Seiberymosodiad",
+      "definition": "Ymgais fwriadol gan unigolion neu grwpiau i dorri i mewn i systemau gwybodaeth person neu sefydliad arall."
+    }
+  }
+}

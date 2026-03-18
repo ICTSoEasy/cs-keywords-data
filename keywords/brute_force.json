@@ -1,0 +1,20 @@
+{
+  "id": "brute_force",
+  "topics": [
+    "security"
+  ],
+  "translations": {
+    "en": {
+      "term": "Brute Force Attack",
+      "definition": "An attack that tries every possible password or key combination until the correct one is found."
+    },
+    "pl": {
+      "term": "Atak siłowy",
+      "definition": "Atak wypróbowujący każdą możliwą kombinację hasła lub klucza, aż do znalezienia prawidłowej."
+    },
+    "cy": {
+      "term": "Ymosodiad Grym Garw",
+      "definition": "Ymosodiad sy'n trio pob cyfuniad cyfrinair neu allwedd posibl nes dod o hyd i'r un cywir."
+    }
+  }
+}

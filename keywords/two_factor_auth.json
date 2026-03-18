@@ -1,0 +1,20 @@
+{
+  "id": "two_factor_auth",
+  "topics": [
+    "security"
+  ],
+  "translations": {
+    "en": {
+      "term": "Two-Factor Authentication",
+      "definition": "A security method that requires two separate forms of verification before granting access to an account."
+    },
+    "pl": {
+      "term": "Uwierzytelnianie dwuskładnikowe",
+      "definition": "Metoda bezpieczeństwa wymagająca dwóch oddzielnych form weryfikacji przed udzieleniem dostępu do konta."
+    },
+    "cy": {
+      "term": "Dilysu Dau Ffactor",
+      "definition": "Dull diogelwch sy'n gofyn am ddwy ffurf ar wahân o ddilysu cyn rhoi mynediad i gyfrif."
+    }
+  }
+}

@@ -1,0 +1,21 @@
+{
+  "id": "patch",
+  "topics": [
+    "security",
+    "software"
+  ],
+  "translations": {
+    "en": {
+      "term": "Software Patch",
+      "definition": "An update released by developers to fix security vulnerabilities or bugs in a program."
+    },
+    "pl": {
+      "term": "Łatka oprogramowania",
+      "definition": "Aktualizacja wydana przez programistów w celu naprawienia luk bezpieczeństwa lub błędów w programie."
+    },
+    "cy": {
+      "term": "Clwt Meddalwedd",
+      "definition": "Diweddariad a ryddheir gan ddatblygwyr i drwsio gwendidau diogelwch neu fygiau mewn rhaglen."
+    }
+  }
+}

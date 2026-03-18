@@ -1,0 +1,20 @@
+{
+  "id": "ddos",
+  "topics": [
+    "security"
+  ],
+  "translations": {
+    "en": {
+      "term": "DDoS Attack",
+      "definition": "A Distributed Denial of Service attack that overwhelms a server with traffic from many sources to make it unavailable."
+    },
+    "pl": {
+      "term": "Atak DDoS",
+      "definition": "Rozproszony atak odmowy usługi, który przeciąża serwer ruchem z wielu źródeł, czyniąc go niedostępnym."
+    },
+    "cy": {
+      "term": "Ymosodiad DDoS",
+      "definition": "Ymosodiad Gwadu Gwasanaeth Dosbarthedig sy'n llethu gweinydd â thraffig o lawer o ffynonellau i'w wneud yn anghael."
+    }
+  }
+}

@@ -1,0 +1,20 @@
+{
+  "id": "sql_injection",
+  "topics": [
+    "security"
+  ],
+  "translations": {
+    "en": {
+      "term": "SQL Injection",
+      "definition": "An attack where malicious SQL code is inserted into an input field to manipulate or access a database without authorisation."
+    },
+    "pl": {
+      "term": "Wstrzyknięcie SQL",
+      "definition": "Atak polegający na wstawieniu złośliwego kodu SQL do pola wejściowego w celu manipulowania bazą danych lub uzyskania do niej nieautoryzowanego dostępu."
+    },
+    "cy": {
+      "term": "Mewnchwistrellu SQL",
+      "definition": "Ymosodiad lle mae cod SQL maleisus yn cael ei fewnosod mewn maes mewnbwn i drin neu gyrchu cronfa ddata heb awdurdod."
+    }
+  }
+}
