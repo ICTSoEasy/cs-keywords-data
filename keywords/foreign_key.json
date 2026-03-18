@@ -1,0 +1,20 @@
+{
+  "id": "foreign_key",
+  "topics": [
+    "data"
+  ],
+  "translations": {
+    "en": {
+      "term": "Foreign Key",
+      "definition": "A field in one table that links to the primary key in another table, creating a relationship between the two."
+    },
+    "pl": {
+      "term": "Klucz obcy",
+      "definition": "Pole w jednej tabeli łączące się z kluczem głównym w innej tabeli, tworząc relację między nimi."
+    },
+    "cy": {
+      "term": "Allwedd Dramor",
+      "definition": "Maes mewn un tabl sy'n cysylltu â'r allwedd gynradd mewn tabl arall, gan greu perthynas rhwng y ddau."
+    }
+  }
+}

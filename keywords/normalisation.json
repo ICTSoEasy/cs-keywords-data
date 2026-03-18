@@ -1,0 +1,20 @@
+{
+  "id": "normalisation",
+  "topics": [
+    "data"
+  ],
+  "translations": {
+    "en": {
+      "term": "Normalisation",
+      "definition": "The process of organising a database to reduce data repetition and improve data integrity."
+    },
+    "pl": {
+      "term": "Normalizacja",
+      "definition": "Proces organizowania bazy danych w celu zmniejszenia powtórzeń danych i poprawy ich integralności."
+    },
+    "cy": {
+      "term": "Normaleiddio",
+      "definition": "Y broses o drefnu cronfa ddata i leihau ailadrodd data a gwella cywirdeb data."
+    }
+  }
+}

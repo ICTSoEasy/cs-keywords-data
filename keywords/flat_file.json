@@ -1,0 +1,20 @@
+{
+  "id": "flat_file",
+  "topics": [
+    "data"
+  ],
+  "translations": {
+    "en": {
+      "term": "Flat File Database",
+      "definition": "A database stored in a single table with no links to other tables; simple but can lead to repeated data."
+    },
+    "pl": {
+      "term": "Płaska baza danych",
+      "definition": "Baza danych przechowywana w jednej tabeli bez powiązań z innymi tabelami; prosta, ale może prowadzić do powtarzania danych."
+    },
+    "cy": {
+      "term": "Cronfa Ddata Ffeil Wastad",
+      "definition": "Cronfa ddata wedi'i storio mewn un tabl heb gysylltiadau â thablau eraill; syml ond gall arwain at ddata ailadroddus."
+    }
+  }
+}

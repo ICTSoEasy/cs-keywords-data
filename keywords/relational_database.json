@@ -1,0 +1,20 @@
+{
+  "id": "relational_database",
+  "topics": [
+    "data"
+  ],
+  "translations": {
+    "en": {
+      "term": "Relational Database",
+      "definition": "A database that organises data into related tables linked by keys, reducing repetition and making data easier to manage."
+    },
+    "pl": {
+      "term": "Relacyjna baza danych",
+      "definition": "Baza danych organizująca dane w powiązane tabele połączone kluczami, zmniejszając powtórzenia i ułatwiając zarządzanie danymi."
+    },
+    "cy": {
+      "term": "Cronfa Ddata Berthynol",
+      "definition": "Cronfa ddata sy'n trefnu data mewn tablau cysylltiedig wedi'u cysylltu gan allweddi, gan leihau ailadrodd a gwneud data yn haws i'w reoli."
+    }
+  }
+}

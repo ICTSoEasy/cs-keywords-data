@@ -1,0 +1,20 @@
+{
+  "id": "sql",
+  "topics": [
+    "data"
+  ],
+  "translations": {
+    "en": {
+      "term": "SQL",
+      "definition": "Structured Query Language; a language used to create, read, update and delete data in a relational database."
+    },
+    "pl": {
+      "term": "SQL",
+      "definition": "Strukturalny język zapytań; język używany do tworzenia, odczytywania, aktualizowania i usuwania danych w relacyjnej bazie danych."
+    },
+    "cy": {
+      "term": "SQL",
+      "definition": "Iaith Ymholiad Strwythuredig; iaith a ddefnyddir i greu, darllen, diweddaru a dileu data mewn cronfa ddata berthynol."
+    }
+  }
+}

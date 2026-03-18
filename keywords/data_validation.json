@@ -1,0 +1,21 @@
+{
+  "id": "data_validation",
+  "topics": [
+    "data",
+    "software_development"
+  ],
+  "translations": {
+    "en": {
+      "term": "Data Validation",
+      "definition": "Checks performed to ensure data entered into a system meets the required format, type and range."
+    },
+    "pl": {
+      "term": "Walidacja danych",
+      "definition": "Sprawdzenia wykonywane w celu zapewnienia, że dane wprowadzane do systemu spełniają wymagany format, typ i zakres."
+    },
+    "cy": {
+      "term": "Dilysu Data",
+      "definition": "Gwiriadau a wneir i sicrhau bod data a gofnodir i mewn i system yn cwrdd â'r fformat, math ac ystod ofynnol."
+    }
+  }
+}

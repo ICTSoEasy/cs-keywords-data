@@ -1,0 +1,20 @@
+{
+  "id": "data_type_db",
+  "topics": [
+    "data"
+  ],
+  "translations": {
+    "en": {
+      "term": "Field Data Type",
+      "definition": "The type of data a database field is set to hold, such as text, integer, date or boolean."
+    },
+    "pl": {
+      "term": "Typ danych pola",
+      "definition": "Typ danych, który pole bazy danych jest ustawione do przechowywania, np. tekst, liczba całkowita, data lub wartość logiczna."
+    },
+    "cy": {
+      "term": "Math Data Maes",
+      "definition": "Y math o ddata y mae maes cronfa ddata wedi'i osod i'w ddal, fel testun, cyfanrif, dyddiad neu boolean."
+    }
+  }
+}
