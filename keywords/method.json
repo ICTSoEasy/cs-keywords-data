@@ -1,0 +1,20 @@
+{
+  "id": "method",
+  "topics": [
+    "programming"
+  ],
+  "translations": {
+    "en": {
+      "term": "Method",
+      "definition": "A function that belongs to a class or object, used to define what the object can do."
+    },
+    "pl": {
+      "term": "Metoda",
+      "definition": "Funkcja należąca do klasy lub obiektu, używana do określenia, co obiekt może robić."
+    },
+    "cy": {
+      "term": "Dull",
+      "definition": "Ffwythiant sy'n perthyn i ddosbarth neu wrthych, a ddefnyddir i ddiffinio beth all y gwrthrych ei wneud."
+    }
+  }
+}

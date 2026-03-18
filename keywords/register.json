@@ -1,0 +1,20 @@
+{
+  "id": "register",
+  "topics": [
+    "hardware"
+  ],
+  "translations": {
+    "en": {
+      "term": "Register",
+      "definition": "A very small, fast storage location inside the CPU used to hold data and instructions that are currently being processed."
+    },
+    "pl": {
+      "term": "Rejestr",
+      "definition": "Bardzo małe, szybkie miejsce przechowywania danych wewnątrz procesora, używane do przechowywania aktualnie przetwarzanych danych i instrukcji."
+    },
+    "cy": {
+      "term": "Cofrestr",
+      "definition": "Lleoliad storio bach iawn a chyflym y tu mewn i'r CPU a ddefnyddir i ddal data a chyfarwyddiadau sy'n cael eu prosesu ar hyn o bryd."
+    }
+  }
+}

@@ -1,0 +1,20 @@
+{
+  "id": "mac_address",
+  "topics": [
+    "networking"
+  ],
+  "translations": {
+    "en": {
+      "term": "MAC Address",
+      "definition": "A unique identifier permanently assigned to a network interface card. Used to identify devices on a local network. Stands for Media Access Control address."
+    },
+    "pl": {
+      "term": "Adres MAC",
+      "definition": "Unikalny identyfikator trwale przypisany do karty sieciowej. Używany do identyfikacji urządzeń w sieci lokalnej. Skrót od Media Access Control."
+    },
+    "cy": {
+      "term": "Cyfeiriad MAC",
+      "definition": "Dynodwr unigryw wedi'i neilltuo'n barhaol i gerdyn rhyngwyneb rhwydwaith. Defnyddir i adnabod dyfeisiau ar rwydwaith lleol. Yn sefyll am gyfeiriad Rheoli Mynediad i Gyfryngau."
+    }
+  }
+}

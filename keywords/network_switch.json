@@ -1,0 +1,20 @@
+{
+  "id": "network_switch",
+  "topics": [
+    "networking"
+  ],
+  "translations": {
+    "en": {
+      "term": "Switch",
+      "definition": "A network device that connects devices on a LAN and sends data only to the specific device it is intended for, unlike a hub which sends to all devices."
+    },
+    "pl": {
+      "term": "Przełącznik",
+      "definition": "Urządzenie sieciowe łączące urządzenia w sieci LAN i wysyłające dane tylko do określonego urządzenia, dla którego są przeznaczone, w przeciwieństwie do koncentratora, który wysyła do wszystkich urządzeń."
+    },
+    "cy": {
+      "term": "Switsh",
+      "definition": "Dyfais rwydwaith sy'n cysylltu dyfeisiau ar rwydwaith LAN ac yn anfon data dim ond at y ddyfais benodol y mae wedi'i bwriadu ar ei chyfer, yn wahanol i hwb sy'n anfon at bob dyfais."
+    }
+  }
+}

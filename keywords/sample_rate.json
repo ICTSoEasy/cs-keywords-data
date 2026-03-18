@@ -1,0 +1,20 @@
+{
+  "id": "sample_rate",
+  "topics": [
+    "data_representation"
+  ],
+  "translations": {
+    "en": {
+      "term": "Sample Rate",
+      "definition": "The number of times per second that a sound wave is measured when recording audio. A higher sample rate produces better quality sound but a larger file."
+    },
+    "pl": {
+      "term": "Częstotliwość próbkowania",
+      "definition": "Liczba razy na sekundę, w których mierzona jest fala dźwiękowa podczas nagrywania. Wyższa częstotliwość próbkowania daje lepszą jakość dźwięku, ale większy plik."
+    },
+    "cy": {
+      "term": "Cyfradd Samplo",
+      "definition": "Nifer y troeon y mae ton sain yn cael ei mesur bob eiliad wrth recordio. Mae cyfradd samplo uwch yn cynhyrchu sain o well ansawdd ond ffeil fwy."
+    }
+  }
+}

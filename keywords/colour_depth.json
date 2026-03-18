@@ -1,0 +1,20 @@
+{
+  "id": "colour_depth",
+  "topics": [
+    "data_representation"
+  ],
+  "translations": {
+    "en": {
+      "term": "Colour Depth",
+      "definition": "The number of bits used to store the colour of a single pixel. A higher colour depth means more possible colours and a larger file size."
+    },
+    "pl": {
+      "term": "Głębia kolorów",
+      "definition": "Liczba bitów używanych do przechowywania koloru pojedynczego piksela. Większa głębia kolorów oznacza więcej możliwych kolorów i większy rozmiar pliku."
+    },
+    "cy": {
+      "term": "Dyfnder Lliw",
+      "definition": "Nifer y bitiau a ddefnyddir i storio lliw un picsel. Mae dyfnder lliw uwch yn golygu mwy o liwiau posib a maint ffeil mwy."
+    }
+  }
+}

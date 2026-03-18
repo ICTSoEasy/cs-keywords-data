@@ -1,0 +1,20 @@
+{
+  "id": "inheritance",
+  "topics": [
+    "programming"
+  ],
+  "translations": {
+    "en": {
+      "term": "Inheritance",
+      "definition": "When a class takes on the attributes and methods of another class. The new class is called a subclass."
+    },
+    "pl": {
+      "term": "Dziedziczenie",
+      "definition": "Gdy klasa przejmuje atrybuty i metody innej klasy. Nowa klasa nazywana jest podklasą."
+    },
+    "cy": {
+      "term": "Etifeddiaeth",
+      "definition": "Pan fo dosbarth yn cymryd priodweddau a dulliau dosbarth arall. Gelwir y dosbarth newydd yn is-ddosbarth."
+    }
+  }
+}

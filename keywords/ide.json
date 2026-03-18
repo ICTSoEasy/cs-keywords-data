@@ -1,0 +1,21 @@
+{
+  "id": "ide",
+  "topics": [
+    "software_development",
+    "software"
+  ],
+  "translations": {
+    "en": {
+      "term": "IDE",
+      "definition": "Integrated Development Environment. A program that combines a code editor, error checker, and debugger in one place to help programmers write software."
+    },
+    "pl": {
+      "term": "IDE",
+      "definition": "Zintegrowane środowisko programistyczne. Program łączący edytor kodu, sprawdzanie błędów i debugger w jednym miejscu, pomagający programistom pisać oprogramowanie."
+    },
+    "cy": {
+      "term": "IDE",
+      "definition": "Amgylchedd Datblygu Integredig. Rhaglen sy'n cyfuno golygydd cod, gwirydd gwallau a dadfygiwr mewn un lle i helpu rhaglenyddion i ysgrifennu meddalwedd."
+    }
+  }
+}

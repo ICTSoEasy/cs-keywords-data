@@ -1,0 +1,20 @@
+{
+  "id": "bus",
+  "topics": [
+    "hardware"
+  ],
+  "translations": {
+    "en": {
+      "term": "Bus",
+      "definition": "A set of wires inside a computer that carries data between components. The data bus carries data, the address bus carries memory locations, and the control bus carries control signals."
+    },
+    "pl": {
+      "term": "Szyna",
+      "definition": "Zestaw przewodów wewnątrz komputera, który przenosi dane między komponentami. Szyna danych przenosi dane, szyna adresowa przenosi lokalizacje pamięci, a szyna sterująca przenosi sygnały sterujące."
+    },
+    "cy": {
+      "term": "Bws",
+      "definition": "Set o wifrau y tu mewn i gyfrifiadur sy'n cludo data rhwng cydrannau. Mae'r bws data'n cludo data, mae'r bws cyfeiriad yn cludo lleoliadau cof, ac mae'r bws rheoli yn cludo signalau rheoli."
+    }
+  }
+}

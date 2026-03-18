@@ -1,0 +1,20 @@
+{
+  "id": "class",
+  "topics": [
+    "programming"
+  ],
+  "translations": {
+    "en": {
+      "term": "Class",
+      "definition": "A blueprint for creating objects. It defines the attributes and methods that all objects of that type will have."
+    },
+    "pl": {
+      "term": "Klasa",
+      "definition": "Szablon do tworzenia obiektów. Określa atrybuty i metody, które będą miały wszystkie obiekty tego typu."
+    },
+    "cy": {
+      "term": "Dosbarth",
+      "definition": "Cynllun ar gyfer creu gwrthrychau. Mae'n diffinio'r priodweddau a'r dulliau y bydd gan bob gwrthrych o'r math hwnnw."
+    }
+  }
+}

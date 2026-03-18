@@ -1,0 +1,20 @@
+{
+  "id": "object",
+  "topics": [
+    "programming"
+  ],
+  "translations": {
+    "en": {
+      "term": "Object",
+      "definition": "An instance of a class. It has attributes (data) and methods (actions) defined by its class."
+    },
+    "pl": {
+      "term": "Obiekt",
+      "definition": "Egzemplarz klasy. Posiada atrybuty (dane) i metody (działania) zdefiniowane przez swoją klasę."
+    },
+    "cy": {
+      "term": "Gwrthrych",
+      "definition": "Enghraifft o ddosbarth. Mae ganddo briodweddau (data) a dulliau (gweithredoedd) a ddiffinnir gan ei ddosbarth."
+    }
+  }
+}

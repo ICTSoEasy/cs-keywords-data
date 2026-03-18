@@ -1,0 +1,20 @@
+{
+  "id": "scope",
+  "topics": [
+    "programming"
+  ],
+  "translations": {
+    "en": {
+      "term": "Scope",
+      "definition": "The area of a program where a variable can be accessed. A local variable only exists inside the subroutine it was created in; a global variable can be accessed anywhere."
+    },
+    "pl": {
+      "term": "Zasięg",
+      "definition": "Obszar programu, w którym można uzyskać dostęp do zmiennej. Zmienna lokalna istnieje tylko wewnątrz podprogramu, w którym została utworzona; do zmiennej globalnej można uzyskać dostęp wszędzie."
+    },
+    "cy": {
+      "term": "Cwmpas",
+      "definition": "Y rhan o raglen lle y gellir cyrchu newidyn. Mae newidyn lleol yn bodoli dim ond y tu mewn i'r is-raglen y cafodd ei greu ynddi; gellir cyrchu newidyn byd-eang o unrhyw le."
+    }
+  }
+}

@@ -1,0 +1,20 @@
+{
+  "id": "encapsulation",
+  "topics": [
+    "programming"
+  ],
+  "translations": {
+    "en": {
+      "term": "Encapsulation",
+      "definition": "Keeping an object's data and the methods that use it bundled together inside a class, and hiding the internal details from outside code."
+    },
+    "pl": {
+      "term": "Enkapsulacja",
+      "definition": "Przechowywanie danych obiektu i metod, które ich używają, razem w klasie oraz ukrywanie wewnętrznych szczegółów przed zewnętrznym kodem."
+    },
+    "cy": {
+      "term": "Amgapsiwleiddio",
+      "definition": "Cadw data gwrthrych a'r dulliau sy'n ei ddefnyddio wedi'u cloi gyda'i gilydd y tu mewn i ddosbarth, a chuddio'r manylion mewnol rhag cod allanol."
+    }
+  }
+}

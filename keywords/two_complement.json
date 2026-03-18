@@ -1,0 +1,20 @@
+{
+  "id": "two_complement",
+  "topics": [
+    "data_representation"
+  ],
+  "translations": {
+    "en": {
+      "term": "Two's Complement",
+      "definition": "A method of representing negative integers in binary. To negate a number: flip all the bits, then add 1."
+    },
+    "pl": {
+      "term": "Uzupełnienie do dwóch",
+      "definition": "Metoda reprezentowania ujemnych liczb całkowitych w postaci binarnej. Aby zanegować liczbę: odwróć wszystkie bity, a następnie dodaj 1."
+    },
+    "cy": {
+      "term": "Atodiad Dau",
+      "definition": "Dull o gynrychioli rhifau cyfan negatif mewn deuaidd. I wrthdroi rhif: gwrthdroi pob bit, yna adio 1."
+    }
+  }
+}
