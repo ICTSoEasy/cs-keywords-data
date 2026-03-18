@@ -1,0 +1,20 @@
+{
+  "id": "cloud_computing",
+  "topics": [
+    "networks"
+  ],
+  "translations": {
+    "en": {
+      "term": "Cloud Computing",
+      "definition": "Using remote servers hosted on the internet to store, manage, and process data instead of a local computer."
+    },
+    "pl": {
+      "term": "Przetwarzanie w chmurze",
+      "definition": "Używanie zdalnych serwerów hostowanych w internecie do przechowywania, zarządzania i przetwarzania danych zamiast lokalnego komputera."
+    },
+    "cy": {
+      "term": "Cyfrifiadureg Cwmwl",
+      "definition": "Defnyddio gweinyddion o bell sy'n cael eu cynnal ar y rhyngrwyd i storio, rheoli a phrosesu data yn lle cyfrifiadur lleol."
+    }
+  }
+}
