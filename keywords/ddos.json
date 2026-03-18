@@ -19,6 +19,10 @@
     "ar": {
       "term": "هجوم DDoS",
       "definition": "هجوم يُغرق النظام بكميات هائلة من حركة المرور لجعله غير متاح للمستخدمين."
+    },
+    "ro": {
+      "term": "Atac DDoS",
+      "definition": "Un atac care inundă un sistem cu cantități mari de trafic pentru a-l face indisponibil utilizatorilor."
     }
   }
 }

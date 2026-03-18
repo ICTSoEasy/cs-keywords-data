@@ -19,6 +19,10 @@
     "ar": {
       "term": "لغة SQL",
       "definition": "لغة تُستخدم لإنشاء قواعد البيانات العلائقية وإدارتها والاستعلام منها."
+    },
+    "ro": {
+      "term": "SQL",
+      "definition": "Un limbaj folosit pentru a crea și gestiona baze de date relaționale și a efectua interogări."
     }
   }
 }

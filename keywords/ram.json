@@ -19,6 +19,10 @@
     "ar": {
       "term": "ذاكرة الوصول العشوائي (RAM)",
       "definition": "ذاكرة مؤقتة تخزن البيانات والبرامج التي يستخدمها الحاسوب حالياً. تُمسح عند إيقاف تشغيله."
+    },
+    "ro": {
+      "term": "Memorie RAM",
+      "definition": "Memorie temporară care stochează datele și programele folosite curent de calculator. Este ștearsă când calculatorul este oprit."
     }
   }
 }

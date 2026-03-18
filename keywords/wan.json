@@ -19,6 +19,10 @@
     "ar": {
       "term": "الشبكة الواسعة (WAN)",
       "definition": "شبكة تغطي مساحة جغرافية كبيرة. الإنترنت هو أكبر مثال على الشبكة الواسعة."
+    },
+    "ro": {
+      "term": "Rețea de arie largă (WAN)",
+      "definition": "O rețea care acoperă o zonă geografică mare. Internetul este cel mai mare exemplu de rețea WAN."
     }
   }
 }

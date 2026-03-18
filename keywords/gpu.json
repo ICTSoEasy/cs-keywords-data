@@ -19,6 +19,10 @@
     "ar": {
       "term": "وحدة معالجة الرسوميات",
       "definition": "معالج متخصص في معالجة الرسوميات، يُستخدم في الألعاب والذكاء الاصطناعي."
+    },
+    "ro": {
+      "term": "Unitate de procesare grafică (GPU)",
+      "definition": "Un procesor specializat în procesarea graficii, folosit în jocuri și inteligență artificială."
     }
   }
 }

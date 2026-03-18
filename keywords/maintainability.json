@@ -19,6 +19,10 @@
     "ar": {
       "term": "قابلية الصيانة",
       "definition": "مدى سهولة فهم الكود وتعديله وإصلاحه من قِبَل المبرمجين مستقبلاً."
+    },
+    "ro": {
+      "term": "Mentenabilitate",
+      "definition": "Cât de ușor poate fi înțeles, modificat și reparat codul de către programatori în viitor."
     }
   }
 }

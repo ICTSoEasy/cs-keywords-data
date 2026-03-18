@@ -19,6 +19,10 @@
     "ar": {
       "term": "مُفسِّر",
       "definition": "برنامج يحول كود لغة عالية المستوى ويُشغِّله سطراً بسطر."
+    },
+    "ro": {
+      "term": "Interpretor",
+      "definition": "Un program care convertește și execută codul dintr-un limbaj de nivel înalt linie cu linie."
     }
   }
 }

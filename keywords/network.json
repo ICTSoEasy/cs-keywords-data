@@ -19,6 +19,10 @@
     "ar": {
       "term": "شبكة",
       "definition": "مجموعة من الأجهزة المتصلة التي تستطيع تبادل البيانات."
+    },
+    "ro": {
+      "term": "Rețea",
+      "definition": "Un grup de dispozitive conectate care pot schimba date între ele."
     }
   }
 }

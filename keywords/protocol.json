@@ -16,6 +16,10 @@
     "ar": {
       "term": "بروتوكول",
       "definition": "مجموعة من القواعد التي تحدد كيفية تواصل الأجهزة وتبادل البيانات عبر الشبكة."
+    },
+    "ro": {
+      "term": "Protocol",
+      "definition": "Un set de reguli care definesc cum comunică dispozitivele și cum schimbă date printr-o rețea."
     }
   },
   "topics": [

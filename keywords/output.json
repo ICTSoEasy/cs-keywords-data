@@ -19,6 +19,10 @@
     "ar": {
       "term": "إخراج",
       "definition": "البيانات التي يُنتجها البرنامج، مثل النص على الشاشة أو البيانات المحفوظة في ملف."
+    },
+    "ro": {
+      "term": "Ieșire",
+      "definition": "Date produse de un program, cum ar fi text pe ecran sau date salvate într-un fișier."
     }
   }
 }

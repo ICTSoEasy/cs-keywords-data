@@ -19,6 +19,10 @@
     "ar": {
       "term": "ضغط بدون فقدان",
       "definition": "ضغط الملف مع الحفاظ على جميع البيانات الأصلية بحيث يمكن استعادة الملف بشكل كامل."
+    },
+    "ro": {
+      "term": "Compresie fără pierderi",
+      "definition": "Compresia unui fișier păstrând toate datele originale, astfel încât fișierul poate fi restaurat complet."
     }
   }
 }

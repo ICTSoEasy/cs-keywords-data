@@ -19,6 +19,10 @@
     "ar": {
       "term": "الأثر البيئي",
       "definition": "التأثيرات التي تُحدثها التكنولوجيا على البيئة، مثل استهلاك الطاقة والنفايات الإلكترونية."
+    },
+    "ro": {
+      "term": "Impact de mediu",
+      "definition": "Efectele pe care tehnologia le are asupra mediului, cum ar fi consumul de energie și deșeurile electronice."
     }
   }
 }

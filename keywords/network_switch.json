@@ -19,6 +19,10 @@
     "ar": {
       "term": "محوِّل الشبكة",
       "definition": "جهاز شبكي يربط الأجهزة على شبكة LAN ويرسل البيانات فقط إلى الجهاز المحدد المقصود، على عكس الموزِّع الذي يرسل إلى الجميع."
+    },
+    "ro": {
+      "term": "Comutator de rețea",
+      "definition": "Un dispozitiv de rețea care conectează dispozitivele dintr-o rețea LAN și trimite date doar dispozitivului specific destinat, spre deosebire de un hub."
     }
   }
 }

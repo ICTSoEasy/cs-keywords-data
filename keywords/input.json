@@ -19,6 +19,10 @@
     "ar": {
       "term": "إدخال",
       "definition": "البيانات التي تُدخَل إلى برنامج، عادةً من لوحة المفاتيح أو الملفات أو المستشعرات."
+    },
+    "ro": {
+      "term": "Intrare",
+      "definition": "Date introduse într-un program, de obicei de la tastatură, fișiere sau senzori."
     }
   }
 }

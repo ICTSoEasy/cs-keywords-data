@@ -19,6 +19,10 @@
     "ar": {
       "term": "الإنترنت",
       "definition": "شبكة عالمية ضخمة من الحواسيب والأجهزة المتصلة ببعضها."
+    },
+    "ro": {
+      "term": "Internet",
+      "definition": "O rețea globală uriașă de calculatoare și dispozitive conectate între ele."
     }
   }
 }

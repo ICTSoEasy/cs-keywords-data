@@ -19,6 +19,10 @@
     "ar": {
       "term": "جدول التجزئة",
       "definition": "هيكل بيانات يخزن البيانات في أزواج مفتاح-قيمة لتسهيل الوصول السريع إليها."
+    },
+    "ro": {
+      "term": "Tabel hash",
+      "definition": "O structură de date care stochează date în perechi cheie-valoare pentru acces rapid."
     }
   }
 }

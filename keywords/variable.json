@@ -16,6 +16,10 @@
     "ar": {
       "term": "متغير",
       "definition": "مكان مسمى في ذاكرة الحاسوب يُخزَّن فيه قيمة يمكن أن تتغير أثناء تشغيل البرنامج."
+    },
+    "ro": {
+      "term": "Variabilă",
+      "definition": "Un loc cu nume în memoria calculatorului unde este stocată o valoare. Valoarea se poate schimba în timpul execuției programului."
     }
   },
   "topics": [

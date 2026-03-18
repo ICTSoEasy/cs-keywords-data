@@ -19,6 +19,10 @@
     "ar": {
       "term": "جدول الحقيقة",
       "definition": "جدول يُظهر جميع مجموعات المداخل الممكنة والمخرجات المقابلة لها في دائرة منطقية."
+    },
+    "ro": {
+      "term": "Tabel de adevăr",
+      "definition": "Un tabel care arată toate combinațiile posibile de intrări și ieșirile corespunzătoare pentru un circuit logic."
     }
   }
 }

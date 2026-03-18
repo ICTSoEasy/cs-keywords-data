@@ -19,6 +19,10 @@
     "ar": {
       "term": "HTTP",
       "definition": "البروتوكول المستخدم لنقل صفحات الويب عبر الإنترنت."
+    },
+    "ro": {
+      "term": "HTTP",
+      "definition": "Protocolul folosit pentru transferul paginilor web pe internet."
     }
   }
 }

@@ -19,6 +19,10 @@
     "ar": {
       "term": "ترتيب الدمج",
       "definition": "خوارزمية ترتيب تقسم القائمة إلى نصفين وترتب كل نصف ثم تدمجهما في قائمة مرتبة واحدة."
+    },
+    "ro": {
+      "term": "Sortare prin interclasare",
+      "definition": "Un algoritm de sortare care împarte lista în jumătăți, sortează fiecare jumătate, apoi le interclasează într-o listă sortată."
     }
   }
 }

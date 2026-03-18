@@ -19,6 +19,10 @@
     "ar": {
       "term": "الفجوة الرقمية",
       "definition": "الفجوة بين من يمكنهم الوصول إلى التكنولوجيا الرقمية ومن لا يستطيعون ذلك."
+    },
+    "ro": {
+      "term": "Decalaj digital",
+      "definition": "Diferența dintre cei care pot accesa tehnologia digitală și cei care nu pot."
     }
   }
 }

@@ -19,6 +19,10 @@
     "ar": {
       "term": "عمق الألوان",
       "definition": "عدد البتات المستخدمة لتخزين لون بكسل واحد. عمق الألوان الأعلى يعني المزيد من الألوان الممكنة وحجم ملف أكبر."
+    },
+    "ro": {
+      "term": "Adâncime de culoare",
+      "definition": "Numărul de biți folosiți pentru a stoca culoarea unui singur pixel. O adâncime mai mare înseamnă mai multe culori posibile și un fișier mai mare."
     }
   }
 }

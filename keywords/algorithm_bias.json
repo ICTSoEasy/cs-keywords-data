@@ -20,6 +20,10 @@
     "ar": {
       "term": "التحيز في الخوارزميات",
       "definition": "عندما تُنتج الخوارزمية نتائج غير عادلة أو تمييزية بسبب بيانات تدريب أو افتراضات متحيزة."
+    },
+    "ro": {
+      "term": "Părtinire algoritmică",
+      "definition": "Când un algoritm produce rezultate nedrepte sau discriminatorii din cauza datelor de antrenament sau a presupozițiilor părtinite."
     }
   }
 }

@@ -19,6 +19,10 @@
     "ar": {
       "term": "التعلم غير الخاضع للإشراف",
       "definition": "نوع من التعلم الآلي يجد فيه النموذج الأنماط في بيانات غير مُعلَّمة بنفسه."
+    },
+    "ro": {
+      "term": "Învățare nesupervizată",
+      "definition": "Un tip de învățare automată în care modelul găsește singur tipare în date neetichetate."
     }
   }
 }

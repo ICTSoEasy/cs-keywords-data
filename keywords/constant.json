@@ -19,6 +19,10 @@
     "ar": {
       "term": "ثابت",
       "definition": "قيمة مسماة لا تتغير أثناء تشغيل البرنامج."
+    },
+    "ro": {
+      "term": "Constantă",
+      "definition": "O valoare cu nume care nu se schimbă pe parcursul execuției programului."
     }
   }
 }

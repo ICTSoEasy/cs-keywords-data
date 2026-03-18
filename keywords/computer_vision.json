@@ -19,6 +19,10 @@
     "ar": {
       "term": "رؤية الحاسوب",
       "definition": "مجال من الذكاء الاصطناعي يُمكِّن الحواسيب من تفسير الصور ومقاطع الفيديو وفهمها."
+    },
+    "ro": {
+      "term": "Viziune artificială",
+      "definition": "Un domeniu al inteligenței artificiale care permite calculatoarelor să interpreteze și să înțeleagă imagini și videoclipuri."
     }
   }
 }

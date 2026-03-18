@@ -20,6 +20,10 @@
     "ar": {
       "term": "أخلاقيات الذكاء الاصطناعي",
       "definition": "المبادئ والمعايير التي تحكم التطوير والاستخدام المسؤول لأنظمة الذكاء الاصطناعي."
+    },
+    "ro": {
+      "term": "Etica inteligenței artificiale",
+      "definition": "Principiile și standardele care guvernează dezvoltarea și utilizarea responsabilă a sistemelor de inteligență artificială."
     }
   }
 }

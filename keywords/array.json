@@ -16,6 +16,10 @@
     "ar": {
       "term": "مصفوفة",
       "definition": "هيكل بيانات يخزن عناصر متعددة من النوع نفسه في مواضع ذاكرة متتالية يمكن الوصول إليها بالمؤشر."
+    },
+    "ro": {
+      "term": "Tablou",
+      "definition": "O structură de date care stochează mai multe elemente de același tip în locații consecutive de memorie."
     }
   },
   "topics": [

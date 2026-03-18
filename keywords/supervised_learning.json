@@ -19,6 +19,10 @@
     "ar": {
       "term": "التعلم الخاضع للإشراف",
       "definition": "نوع من التعلم الآلي يتدرب فيه النموذج على بيانات مُعلَّمة بإجابات صحيحة معروفة."
+    },
+    "ro": {
+      "term": "Învățare supervizată",
+      "definition": "Un tip de învățare automată în care modelul este antrenat pe date etichetate cu răspunsuri corecte cunoscute."
     }
   }
 }

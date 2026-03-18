@@ -19,6 +19,10 @@
     "ar": {
       "term": "وحدة المعالجة المركزية",
       "definition": "المكون الرئيسي في الحاسوب الذي ينفذ التعليمات. يُسمى أحياناً 'دماغ الحاسوب'."
+    },
+    "ro": {
+      "term": "Unitate centrală de procesare (CPU)",
+      "definition": "Componenta principală a calculatorului care execută instrucțiunile. Uneori numită 'creierul calculatorului'."
     }
   }
 }

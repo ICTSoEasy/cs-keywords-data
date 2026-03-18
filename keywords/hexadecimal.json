@@ -19,6 +19,10 @@
     "ar": {
       "term": "ست عشري",
       "definition": "نظام ترقيم قائم على أساس 16 يستخدم الأرقام 0–9 والحروف A–F. يُستخدم كاختصار مناسب للثنائي."
+    },
+    "ro": {
+      "term": "Hexazecimal",
+      "definition": "Un sistem de numerație în baza 16 care folosește cifrele 0–9 și literele A–F. Folosit ca prescurtare convenabilă pentru binar."
     }
   }
 }

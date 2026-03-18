@@ -16,6 +16,10 @@
     "ar": {
       "term": "التشفير",
       "definition": "تحويل البيانات إلى صيغة لا يمكن قراءتها بدون مفتاح فك التشفير."
+    },
+    "ro": {
+      "term": "Criptare",
+      "definition": "Conversia datelor într-un format care nu poate fi citit fără o cheie de decriptare."
     }
   },
   "topics": [

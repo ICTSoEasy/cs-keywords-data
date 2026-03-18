@@ -19,6 +19,10 @@
     "ar": {
       "term": "تبديل الحزم",
       "definition": "طريقة لإرسال البيانات عبر الشبكة بتقسيمها إلى حزم يمكنها السير عبر مسارات مختلفة."
+    },
+    "ro": {
+      "term": "Comutare de pachete",
+      "definition": "O metodă de trimitere a datelor printr-o rețea prin împărțirea lor în pachete care pot călători pe căi diferite."
     }
   }
 }

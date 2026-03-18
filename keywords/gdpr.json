@@ -19,6 +19,10 @@
     "ar": {
       "term": "اللائحة العامة لحماية البيانات (GDPR)",
       "definition": "قانون أوروبي يحكم كيفية جمع بيانات الأشخاص وتخزينها واستخدامها."
+    },
+    "ro": {
+      "term": "GDPR",
+      "definition": "Un regulament european care guvernează modul în care datele personale sunt colectate, stocate și utilizate."
     }
   }
 }

@@ -19,6 +19,10 @@
     "ar": {
       "term": "حقوق النشر",
       "definition": "الحماية القانونية التي تمنح المبدعين حق التحكم في كيفية استخدام أعمالهم."
+    },
+    "ro": {
+      "term": "Drepturi de autor",
+      "definition": "Protecția legală care acordă creatorilor dreptul de a controla modul în care lucrările lor sunt utilizate."
     }
   }
 }

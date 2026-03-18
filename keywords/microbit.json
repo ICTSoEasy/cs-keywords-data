@@ -20,6 +20,10 @@
     "ar": {
       "term": "مايكروبيت",
       "definition": "لوحة حاسوبية صغيرة مصممة لتعليم البرمجة والحوسبة الفيزيائية."
+    },
+    "ro": {
+      "term": "Micro:bit",
+      "definition": "O placă de calcul mică concepută pentru predarea programării și a calculului fizic."
     }
   }
 }

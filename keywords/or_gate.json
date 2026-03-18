@@ -19,6 +19,10 @@
     "ar": {
       "term": "بوابة OR",
       "definition": "بوابة منطقية تُخرج 1 عندما يكون أحد مداخلها أو أكثر 1."
+    },
+    "ro": {
+      "term": "Poartă OR",
+      "definition": "O poartă logică care produce 1 când cel puțin una dintre intrările sale este 1."
     }
   }
 }

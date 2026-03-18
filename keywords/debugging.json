@@ -20,6 +20,10 @@
     "ar": {
       "term": "تصحيح الأخطاء",
       "definition": "عملية إيجاد وإصلاح الأخطاء في خوارزمية أو برنامج."
+    },
+    "ro": {
+      "term": "Depanare",
+      "definition": "Procesul de identificare și corectare a erorilor dintr-un algoritm sau program."
     }
   }
 }

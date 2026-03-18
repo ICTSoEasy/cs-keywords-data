@@ -19,6 +19,10 @@
     "ar": {
       "term": "الضغط",
       "definition": "تقليص حجم الملف عن طريق تمثيل البيانات بطريقة أكثر كفاءة."
+    },
+    "ro": {
+      "term": "Compresie",
+      "definition": "Reducerea dimensiunii unui fișier prin reprezentarea datelor mai eficient."
     }
   }
 }

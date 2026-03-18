@@ -16,6 +16,10 @@
     "ar": {
       "term": "منطقي",
       "definition": "نوع بيانات يمكنه تخزين قيمتين فقط: صحيح أو خطأ."
+    },
+    "ro": {
+      "term": "Boolean",
+      "definition": "Un tip de date care poate stoca doar două valori: adevărat sau fals."
     }
   },
   "topics": [

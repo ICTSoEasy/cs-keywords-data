@@ -19,6 +19,10 @@
     "ar": {
       "term": "مُجمِّع",
       "definition": "برنامج يحول كود لغة عالية المستوى إلى لغة الآلة دفعة واحدة قبل تشغيله."
+    },
+    "ro": {
+      "term": "Compilator",
+      "definition": "Un program care convertește codul dintr-un limbaj de nivel înalt în cod mașină dintr-o dată, înainte de execuție."
     }
   }
 }

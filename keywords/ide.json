@@ -20,6 +20,10 @@
     "ar": {
       "term": "بيئة التطوير المتكاملة (IDE)",
       "definition": "برنامج يجمع محرر الكود وأداة فحص الأخطاء والمُصحِّح في مكان واحد لمساعدة المبرمجين."
+    },
+    "ro": {
+      "term": "Mediu de dezvoltare integrat (IDE)",
+      "definition": "Un program care combină un editor de cod, verificator de erori și depanator într-un singur loc pentru a ajuta programatorii."
     }
   }
 }

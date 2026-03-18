@@ -19,6 +19,10 @@
     "ar": {
       "term": "ثنائي",
       "definition": "نظام ترقيم يستخدم رقمين فقط: 0 و1. تستخدمه الحواسيب لتمثيل جميع البيانات."
+    },
+    "ro": {
+      "term": "Binar",
+      "definition": "Un sistem de numerație care folosește doar două cifre: 0 și 1. Calculatoarele folosesc binar pentru a reprezenta toate datele."
     }
   }
 }

@@ -19,6 +19,10 @@
     "ar": {
       "term": "حلقة",
       "definition": "بنية برمجية تكرر كتلة من الكود حتى يتحقق شرط معين."
+    },
+    "ro": {
+      "term": "Buclă",
+      "definition": "O structură de programare care repetă un bloc de cod până când este îndeplinită o condiție."
     }
   }
 }

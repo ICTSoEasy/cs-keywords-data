@@ -19,6 +19,10 @@
     "ar": {
       "term": "ناقل",
       "definition": "مجموعة أسلاك داخل الحاسوب تنقل البيانات بين المكونات. يشمل ناقل البيانات وناقل العنوان وناقل التحكم."
+    },
+    "ro": {
+      "term": "Magistrală",
+      "definition": "Un set de fire din calculator care transportă date între componente. Include magistrala de date, cea de adrese și cea de control."
     }
   }
 }

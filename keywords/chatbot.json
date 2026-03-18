@@ -19,6 +19,10 @@
     "ar": {
       "term": "روبوت المحادثة",
       "definition": "برنامج حاسوبي مُصمَّم للتحدث مع البشر من خلال النصوص أو الصوت."
+    },
+    "ro": {
+      "term": "Chatbot",
+      "definition": "Un program de calculator conceput pentru a vorbi cu oamenii prin text sau voce."
     }
   }
 }

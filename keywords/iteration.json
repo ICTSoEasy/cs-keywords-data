@@ -16,6 +16,10 @@
     "ar": {
       "term": "التكرار",
       "definition": "تكرار مجموعة من التعليمات عدداً محدداً من المرات أو حتى يتحقق شرط معين."
+    },
+    "ro": {
+      "term": "Iterație",
+      "definition": "Repetarea unui set de instrucțiuni de un număr stabilit de ori sau până când este îndeplinită o condiție."
     }
   },
   "topics": [

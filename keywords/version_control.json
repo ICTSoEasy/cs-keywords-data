@@ -19,6 +19,10 @@
     "ar": {
       "term": "التحكم في الإصدارات",
       "definition": "نظام يسجل التغييرات في الملفات بمرور الوقت للتعاون مع الآخرين والرجوع إلى إصدارات سابقة."
+    },
+    "ro": {
+      "term": "Control al versiunilor",
+      "definition": "Un sistem care înregistrează modificările fișierelor în timp pentru a facilita colaborarea și revenirea la versiuni anterioare."
     }
   }
 }

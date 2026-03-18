@@ -19,6 +19,10 @@
     "ar": {
       "term": "مشكلة قابلة للحل",
       "definition": "مشكلة يمكن حلها بكفاءة باستخدام خوارزمية تعمل في وقت متعدد الحدود."
+    },
+    "ro": {
+      "term": "Problemă tractabilă",
+      "definition": "O problemă care poate fi rezolvată eficient folosind un algoritm cu timp de execuție polinomial."
     }
   }
 }

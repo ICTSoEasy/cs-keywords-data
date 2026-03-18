@@ -19,6 +19,10 @@
     "ar": {
       "term": "الوراثة",
       "definition": "عندما تأخذ فئة خصائص وأساليب فئة أخرى. تُسمى الفئة الجديدة فئة فرعية."
+    },
+    "ro": {
+      "term": "Moștenire",
+      "definition": "Când o clasă preia atributele și metodele altei clase. Noua clasă se numește subclasă."
     }
   }
 }

@@ -19,6 +19,10 @@
     "ar": {
       "term": "التعلم الآلي",
       "definition": "نوع من الذكاء الاصطناعي يتعلم فيه الحاسوب من البيانات بدلاً من اتباع تعليمات مبرمجة بشكل صريح."
+    },
+    "ro": {
+      "term": "Învățare automată",
+      "definition": "Un tip de inteligență artificială în care calculatorul învață din date în loc să urmeze instrucțiuni programate explicit."
     }
   }
 }

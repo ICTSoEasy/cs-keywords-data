@@ -20,6 +20,10 @@
     "ar": {
       "term": "لغة الآلة",
       "definition": "اللغة التي يفهمها المعالج مباشرة، تتكون من تعليمات ثنائية (0 و1)."
+    },
+    "ro": {
+      "term": "Cod mașină",
+      "definition": "Limbajul înțeles direct de procesor, format din instrucțiuni binare (0 și 1)."
     }
   }
 }

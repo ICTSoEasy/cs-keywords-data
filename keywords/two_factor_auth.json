@@ -19,6 +19,10 @@
     "ar": {
       "term": "المصادقة الثنائية",
       "definition": "طريقة أمان تتطلب شكلين من التحقق من الهوية، مثل كلمة المرور ورمز يُرسَل إلى الهاتف."
+    },
+    "ro": {
+      "term": "Autentificare cu doi factori",
+      "definition": "O metodă de securitate care necesită două forme de verificare a identității, cum ar fi o parolă și un cod trimis pe telefon."
     }
   }
 }

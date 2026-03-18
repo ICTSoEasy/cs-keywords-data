@@ -19,6 +19,10 @@
     "ar": {
       "term": "الشبكة المحلية (LAN)",
       "definition": "شبكة تربط الأجهزة في منطقة صغيرة مثل منزل أو مكتب أو مدرسة."
+    },
+    "ro": {
+      "term": "Rețea locală (LAN)",
+      "definition": "O rețea care conectează dispozitivele dintr-o zonă mică, cum ar fi o casă, birou sau școală."
     }
   }
 }

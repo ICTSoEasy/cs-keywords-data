@@ -16,6 +16,10 @@
     "ar": {
       "term": "جدار الحماية",
       "definition": "نظام أمني يراقب حركة مرور الشبكة ويتحكم فيها بناءً على قواعد محددة مسبقاً."
+    },
+    "ro": {
+      "term": "Firewall",
+      "definition": "Un sistem de securitate care monitorizează și controlează traficul de rețea pe baza unor reguli prestabilite."
     }
   },
   "topics": [

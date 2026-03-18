@@ -16,6 +16,10 @@
     "ar": {
       "term": "دالة",
       "definition": "كتلة كود مسماة تؤدي مهمة محددة وتُرجع قيمة إلى الكود الذي استدعاها."
+    },
+    "ro": {
+      "term": "Funcție",
+      "definition": "Un bloc de cod cu nume care efectuează o sarcină specifică și returnează o valoare."
     }
   },
   "topics": [

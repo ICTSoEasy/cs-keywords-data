@@ -19,6 +19,10 @@
     "ar": {
       "term": "آسكي",
       "definition": "معيار ترميز يُخصص للحروف الإنجليزية والأرقام وعلامات الترقيم أرقاماً ثنائية."
+    },
+    "ro": {
+      "term": "ASCII",
+      "definition": "Un standard de codificare care atribuie numere binare literelor engleze, cifrelor și semnelor de punctuație."
     }
   }
 }

@@ -19,6 +19,10 @@
     "ar": {
       "term": "الشبكة العصبية الاصطناعية",
       "definition": "نظام حوسبة مستوحى من الدماغ البشري، يُستخدم في التعلم الآلي للتعرف على الأنماط."
+    },
+    "ro": {
+      "term": "Rețea neuronală artificială",
+      "definition": "Un sistem de calcul inspirat din creierul uman, folosit în învățarea automată pentru recunoașterea tiparelor."
     }
   }
 }

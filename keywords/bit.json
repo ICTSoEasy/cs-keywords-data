@@ -19,6 +19,10 @@
     "ar": {
       "term": "بت",
       "definition": "أصغر وحدة من البيانات في الحاسوب. يمكن أن تكون 0 أو 1 فقط."
+    },
+    "ro": {
+      "term": "Bit",
+      "definition": "Cea mai mică unitate de date dintr-un calculator. Poate fi doar 0 sau 1."
     }
   }
 }

@@ -19,6 +19,10 @@
     "ar": {
       "term": "الحوسبة السحابية",
       "definition": "استخدام خوادم بعيدة على الإنترنت لتخزين البيانات وإدارتها ومعالجتها بدلاً من الحاسوب المحلي."
+    },
+    "ro": {
+      "term": "Calcul în cloud",
+      "definition": "Utilizarea serverelor la distanță pe internet pentru a stoca, gestiona și procesa date în loc de un calculator local."
     }
   }
 }

@@ -19,6 +19,10 @@
     "ar": {
       "term": "كائن",
       "definition": "نسخة من فئة، تمتلك خصائص (بيانات) وأساليب (أفعال) تحددها الفئة التي أُنشئت منها."
+    },
+    "ro": {
+      "term": "Obiect",
+      "definition": "O instanță a unei clase care are atribute (date) și metode (acțiuni) definite de clasa sa."
     }
   }
 }

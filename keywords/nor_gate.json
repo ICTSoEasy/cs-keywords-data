@@ -19,6 +19,10 @@
     "ar": {
       "term": "بوابة NOR",
       "definition": "بوابة منطقية تُخرج 1 فقط عندما تكون جميع مداخلها 0، وهي عكس بوابة OR."
+    },
+    "ro": {
+      "term": "Poartă NOR",
+      "definition": "O poartă logică care produce 1 doar când toate intrările sale sunt 0; opusul porții OR."
     }
   }
 }

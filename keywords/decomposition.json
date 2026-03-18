@@ -16,6 +16,10 @@
     "ar": {
       "term": "التحليل",
       "definition": "تقسيم مشكلة معقدة إلى أجزاء أصغر وأسهل في الإدارة والحل."
+    },
+    "ro": {
+      "term": "Descompunere",
+      "definition": "Împărțirea unei probleme complexe în părți mai mici și mai ușor de gestionat și rezolvat."
     }
   },
   "topics": [

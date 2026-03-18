@@ -16,6 +16,10 @@
     "ar": {
       "term": "الاختيار",
       "definition": "جزء من البرنامج يُتخذ فيه قرار بناءً على شرط ما، باستخدام تعليمات مثل if/else."
+    },
+    "ro": {
+      "term": "Selecție",
+      "definition": "O parte a unui program în care se ia o decizie pe baza unei condiții, folosind instrucțiuni de tipul if/else."
     }
   },
   "topics": [

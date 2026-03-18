@@ -16,6 +16,10 @@
     "ar": {
       "term": "استعلام",
       "definition": "طلب للحصول على بيانات أو إجراء عملية على بيانات في قاعدة البيانات."
+    },
+    "ro": {
+      "term": "Interogare",
+      "definition": "O solicitare de a obține date sau de a efectua o operație pe date dintr-o bază de date."
     }
   },
   "topics": [

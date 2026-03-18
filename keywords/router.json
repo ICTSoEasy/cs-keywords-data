@@ -16,6 +16,10 @@
     "ar": {
       "term": "جهاز التوجيه",
       "definition": "جهاز شبكي يوجه حزم البيانات بين شبكات مختلفة ويربط الشبكة المنزلية بالإنترنت."
+    },
+    "ro": {
+      "term": "Router",
+      "definition": "Un dispozitiv de rețea care direcționează pachete de date între rețele diferite și conectează rețeaua locală la internet."
     }
   },
   "topics": [

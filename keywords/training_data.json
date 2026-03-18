@@ -19,6 +19,10 @@
     "ar": {
       "term": "بيانات التدريب",
       "definition": "البيانات المستخدمة لتدريب نموذج التعلم الآلي. جودة هذه البيانات تؤثر مباشرة على أداء النموذج."
+    },
+    "ro": {
+      "term": "Date de antrenament",
+      "definition": "Datele folosite pentru a antrena un model de învățare automată. Calitatea lor influențează direct performanța modelului."
     }
   }
 }

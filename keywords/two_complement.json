@@ -19,6 +19,10 @@
     "ar": {
       "term": "مكمل الاثنين",
       "definition": "طريقة لتمثيل الأعداد الصحيحة السالبة في النظام الثنائي. لنفي عدد: اقلب جميع البتات ثم أضف 1."
+    },
+    "ro": {
+      "term": "Complement față de doi",
+      "definition": "O metodă de reprezentare a numerelor întregi negative în binar. Pentru a nega un număr: inversează toți biții, apoi adaugă 1."
     }
   }
 }

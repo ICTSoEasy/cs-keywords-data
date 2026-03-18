@@ -20,6 +20,10 @@
     "ar": {
       "term": "رخصة المصدر المفتوح",
       "definition": "اتفاقية قانونية تحدد كيفية استخدام البرامج مفتوحة المصدر ومشاركتها وتعديلها."
+    },
+    "ro": {
+      "term": "Licență open source",
+      "definition": "Un acord legal care specifică cum poate fi folosit, partajat și modificat software-ul open source."
     }
   }
 }

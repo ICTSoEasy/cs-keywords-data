@@ -16,6 +16,10 @@
     "ar": {
       "term": "جدول",
       "definition": "هيكل في قاعدة البيانات يُنظِّم البيانات في صفوف وأعمدة."
+    },
+    "ro": {
+      "term": "Tabel",
+      "definition": "O structură dintr-o bază de date care organizează datele în rânduri și coloane."
     }
   },
   "topics": [

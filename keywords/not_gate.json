@@ -19,6 +19,10 @@
     "ar": {
       "term": "بوابة NOT",
       "definition": "بوابة منطقية تعكس مدخلها: تحول 1 إلى 0 و0 إلى 1."
+    },
+    "ro": {
+      "term": "Poartă NOT",
+      "definition": "O poartă logică care inversează intrarea sa: transformă 1 în 0 și 0 în 1."
     }
   }
 }

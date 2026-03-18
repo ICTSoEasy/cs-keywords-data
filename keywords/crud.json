@@ -19,6 +19,10 @@
     "ar": {
       "term": "إنشاء وقراءة وتحديث وحذف (CRUD)",
       "definition": "العمليات الأساسية الأربع لإدارة البيانات في قواعد البيانات: الإنشاء والقراءة والتحديث والحذف."
+    },
+    "ro": {
+      "term": "CRUD",
+      "definition": "Cele patru operații de bază pentru gestionarea datelor în baze de date: Creare, Citire, Actualizare și Ștergere."
     }
   }
 }

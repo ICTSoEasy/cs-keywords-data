@@ -20,6 +20,10 @@
     "ar": {
       "term": "لغة التجميع",
       "definition": "لغة برمجة منخفضة المستوى تستخدم رموزاً يمكن للبشر قراءتها وتُترجم مباشرة إلى لغة الآلة."
+    },
+    "ro": {
+      "term": "Limbaj de asamblare",
+      "definition": "Un limbaj de programare de nivel scăzut care folosește simboluri lizibile și se traduce direct în cod mașină."
     }
   }
 }

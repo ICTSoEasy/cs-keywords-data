@@ -19,6 +19,10 @@
     "ar": {
       "term": "الدقة",
       "definition": "عدد البكسلات في صورة. الدقة الأعلى تعني صورة أوضح وحجم ملف أكبر."
+    },
+    "ro": {
+      "term": "Rezoluție",
+      "definition": "Numărul de pixeli dintr-o imagine. O rezoluție mai mare înseamnă o imagine mai clară și un fișier mai mare."
     }
   }
 }

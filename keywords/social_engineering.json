@@ -19,6 +19,10 @@
     "ar": {
       "term": "الهندسة الاجتماعية",
       "definition": "التلاعب النفسي بالأشخاص لإقناعهم بالكشف عن معلومات سرية أو اتخاذ إجراءات غير آمنة."
+    },
+    "ro": {
+      "term": "Inginerie socială",
+      "definition": "Manipularea psihologică a oamenilor pentru a-i convinge să dezvăluie informații confidențiale sau să ia măsuri nesigure."
     }
   }
 }

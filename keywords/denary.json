@@ -19,6 +19,10 @@
     "ar": {
       "term": "عشري",
       "definition": "نظام الترقيم العادي القائم على أساس 10، باستخدام الأرقام من 0 إلى 9."
+    },
+    "ro": {
+      "term": "Zecimal",
+      "definition": "Sistemul de numerație obișnuit în baza 10, folosind cifrele de la 0 la 9."
     }
   }
 }

@@ -19,6 +19,10 @@
     "ar": {
       "term": "ذاكرة التخزين المؤقت",
       "definition": "ذاكرة صغيرة وسريعة جداً في المعالج أو بالقرب منه تخزن البيانات المستخدمة مؤخراً لتسريع معالجتها."
+    },
+    "ro": {
+      "term": "Memorie cache",
+      "definition": "O memorie mică și foarte rapidă în interiorul sau aproape de procesor care stochează datele utilizate recent pentru procesare mai rapidă."
     }
   }
 }

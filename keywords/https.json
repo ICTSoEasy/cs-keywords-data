@@ -20,6 +20,10 @@
     "ar": {
       "term": "HTTPS",
       "definition": "نسخة آمنة من HTTP تُشفِّر البيانات أثناء النقل لحماية المعلومات."
+    },
+    "ro": {
+      "term": "HTTPS",
+      "definition": "O versiune securizată a HTTP care criptează datele în tranzit pentru a proteja informațiile."
     }
   }
 }

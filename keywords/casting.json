@@ -19,6 +19,10 @@
     "ar": {
       "term": "تحويل النوع",
       "definition": "تغيير نوع بيانات قيمة ما، مثل تحويل رقم إلى نص أو العكس."
+    },
+    "ro": {
+      "term": "Conversie de tip",
+      "definition": "Schimbarea tipului de date al unei valori, de exemplu conversia unui număr în text."
     }
   }
 }

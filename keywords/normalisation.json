@@ -19,6 +19,10 @@
     "ar": {
       "term": "التسوية",
       "definition": "عملية تنظيم قاعدة البيانات لتقليل تكرار البيانات وتحسين سلامتها."
+    },
+    "ro": {
+      "term": "Normalizare",
+      "definition": "Procesul de organizare a unei baze de date pentru a reduce redundanța datelor și a îmbunătăți integritatea acestora."
     }
   }
 }

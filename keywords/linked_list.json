@@ -19,6 +19,10 @@
     "ar": {
       "term": "قائمة مترابطة",
       "definition": "هيكل بيانات حيث يُشير كل عنصر إلى العنصر التالي في التسلسل عبر مؤشر."
+    },
+    "ro": {
+      "term": "Listă înlănțuită",
+      "definition": "O structură de date în care fiecare element indică spre elementul următor din secvență printr-un pointer."
     }
   }
 }

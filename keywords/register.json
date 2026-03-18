@@ -19,6 +19,10 @@
     "ar": {
       "term": "سجل",
       "definition": "موقع تخزين صغير جداً وسريع داخل المعالج يُستخدم لحفظ البيانات والتعليمات التي يتم معالجتها حالياً."
+    },
+    "ro": {
+      "term": "Registru",
+      "definition": "Un loc de stocare mic și foarte rapid în interiorul procesorului folosit pentru a reține datele și instrucțiunile procesate curent."
     }
   }
 }

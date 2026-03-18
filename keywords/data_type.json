@@ -19,6 +19,10 @@
     "ar": {
       "term": "نوع البيانات",
       "definition": "تصنيف يحدد نوع البيانات التي يمكن تخزينها، مثل رقم صحيح أو نص أو منطقي."
+    },
+    "ro": {
+      "term": "Tip de date",
+      "definition": "O clasificare care determină ce fel de date pot fi stocate, cum ar fi număr întreg, text sau boolean."
     }
   }
 }

@@ -16,6 +16,10 @@
     "ar": {
       "term": "المفتاح الأساسي",
       "definition": "حقل أو مجموعة حقول تُعرِّف كل سجل بشكل فريد في جدول قاعدة البيانات."
+    },
+    "ro": {
+      "term": "Cheie primară",
+      "definition": "Un câmp sau un set de câmpuri care identifică unic fiecare înregistrare dintr-un tabel al bazei de date."
     }
   },
   "topics": [

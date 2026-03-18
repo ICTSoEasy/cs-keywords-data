@@ -20,6 +20,10 @@
     "ar": {
       "term": "لغة عالية المستوى",
       "definition": "لغة برمجة تستخدم كلمات تشبه اللغة البشرية وسهلة القراءة والكتابة."
+    },
+    "ro": {
+      "term": "Limbaj de nivel înalt",
+      "definition": "Un limbaj de programare care folosește cuvinte asemănătoare limbajului uman și este ușor de citit și scris."
     }
   }
 }

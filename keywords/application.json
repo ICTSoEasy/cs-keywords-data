@@ -19,6 +19,10 @@
     "ar": {
       "term": "تطبيق",
       "definition": "برنامج مصمم لأداء مهمة محددة للمستخدم، مثل معالج النصوص أو متصفح الإنترنت."
+    },
+    "ro": {
+      "term": "Aplicație",
+      "definition": "Un program conceput pentru a efectua o sarcină specifică pentru utilizator, cum ar fi un procesor de text sau un browser."
     }
   }
 }

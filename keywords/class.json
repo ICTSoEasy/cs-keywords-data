@@ -19,6 +19,10 @@
     "ar": {
       "term": "فئة",
       "definition": "قالب لإنشاء الكائنات يحدد الخصائص والأساليب التي ستمتلكها جميع كائنات ذلك النوع."
+    },
+    "ro": {
+      "term": "Clasă",
+      "definition": "Un șablon pentru crearea obiectelor care definește atributele și metodele pe care le vor avea toate obiectele de acel tip."
     }
   }
 }

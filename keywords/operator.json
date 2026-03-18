@@ -19,6 +19,10 @@
     "ar": {
       "term": "عامل",
       "definition": "رمز يؤدي عملية على قيمة أو قيمتين، مثل + للجمع أو == للمقارنة."
+    },
+    "ro": {
+      "term": "Operator",
+      "definition": "Un simbol care efectuează o operație asupra uneia sau mai multor valori, cum ar fi + pentru adunare sau == pentru comparație."
     }
   }
 }

@@ -20,6 +20,10 @@
     "ar": {
       "term": "حماية البيانات",
       "definition": "مجموعة من الممارسات والقوانين التي تضمن الاستخدام الآمن والعادل للبيانات الشخصية."
+    },
+    "ro": {
+      "term": "Protecția datelor",
+      "definition": "Un set de practici și legi care garantează utilizarea sigură și corectă a datelor personale."
     }
   }
 }

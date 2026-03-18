@@ -19,6 +19,10 @@
     "ar": {
       "term": "التعرف على الأنماط",
       "definition": "تحديد أوجه التشابه أو الميزات المتكررة في المشاكل للمساعدة في حلها بكفاءة أكبر."
+    },
+    "ro": {
+      "term": "Recunoașterea tiparelor",
+      "definition": "Identificarea asemănărilor sau caracteristicilor repetate în probleme pentru a le rezolva mai eficient."
     }
   }
 }

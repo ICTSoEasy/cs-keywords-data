@@ -20,6 +20,10 @@
     "ar": {
       "term": "مؤشر",
       "definition": "متغير يخزن عنوان ذاكرة متغير آخر بدلاً من تخزين القيمة مباشرة."
+    },
+    "ro": {
+      "term": "Pointer",
+      "definition": "O variabilă care stochează adresa de memorie a altei variabile."
     }
   }
 }

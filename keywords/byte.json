@@ -19,6 +19,10 @@
     "ar": {
       "term": "بايت",
       "definition": "وحدة من البيانات تتكون من 8 بتات. يمكن لبايت واحد تمثيل 256 قيمة مختلفة."
+    },
+    "ro": {
+      "term": "Byte",
+      "definition": "O unitate de date formată din 8 biți. Un byte poate reprezenta 256 de valori diferite."
     }
   }
 }

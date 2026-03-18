@@ -19,6 +19,10 @@
     "ar": {
       "term": "البحث الثنائي",
       "definition": "خوارزمية بحث تقسم القائمة المرتبة إلى نصفين بشكل متكرر للعثور على العنصر المطلوب."
+    },
+    "ro": {
+      "term": "Căutare binară",
+      "definition": "Un algoritm de căutare care împarte în mod repetat o listă sortată în jumătăți pentru a găsi elementul dorit."
     }
   }
 }

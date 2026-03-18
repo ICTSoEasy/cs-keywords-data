@@ -20,6 +20,10 @@
     "ar": {
       "term": "العودية",
       "definition": "عندما تستدعي دالة نفسها لحل نسخة أصغر من المشكلة نفسها."
+    },
+    "ro": {
+      "term": "Recursivitate",
+      "definition": "Când o funcție se apelează pe sine pentru a rezolva o versiune mai mică a aceleiași probleme."
     }
   }
 }

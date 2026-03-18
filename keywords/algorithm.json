@@ -16,6 +16,10 @@
     "ar": {
       "term": "خوارزمية",
       "definition": "تسلسل من الخطوات أو التعليمات المصممة لحل مشكلة ما أو إنجاز مهمة."
+    },
+    "ro": {
+      "term": "Algoritm",
+      "definition": "O secvență de pași sau instrucțiuni concepute pentru a rezolva o problemă sau a îndeplini o sarcină."
     }
   },
   "topics": [

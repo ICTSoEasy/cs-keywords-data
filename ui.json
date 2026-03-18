@@ -15,6 +15,10 @@
     {
       "code": "ar",
       "label": "العربية"
+    },
+    {
+      "code": "ro",
+      "label": "Română"
     }
   ],
   "strings": {
@@ -61,6 +65,17 @@
       "second_language": "اللغة الثانية",
       "footer_text": "البيانات مُقدَّمة من المجتمع.",
       "footer_contribute": "اقترح تغييرات على GitHub"
+    },
+    "ro": {
+      "site_title": "Termeni de Informatică",
+      "site_subtitle": "Vocabular de informatică pentru toți",
+      "search_placeholder": "Caută termeni…",
+      "all_topics": "Toate subiectele",
+      "no_results": "Nu s-au găsit termeni. Încearcă o altă căutare sau subiect.",
+      "no_translation": "Traducere indisponibilă momentan",
+      "second_language": "A doua limbă",
+      "footer_text": "Datele sunt contribuite de comunitate.",
+      "footer_contribute": "Sugerează modificări pe GitHub"
     }
   }
 }

@@ -16,6 +16,10 @@
     "ar": {
       "term": "قاعدة البيانات",
       "definition": "مجموعة منظمة من البيانات المخزنة والمُدارة إلكترونياً."
+    },
+    "ro": {
+      "term": "Bază de date",
+      "definition": "O colecție organizată de date stocate și gestionate electronic."
     }
   },
   "topics": [

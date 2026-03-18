@@ -19,6 +19,10 @@
     "ar": {
       "term": "سرعة الساعة",
       "definition": "عدد الدورات التي يؤديها المعالج في الثانية. تُقاس عادةً بالجيجاهرتز (GHz)."
+    },
+    "ro": {
+      "term": "Frecvența de ceas",
+      "definition": "Numărul de cicluri pe care procesorul le efectuează pe secundă. Măsurată de obicei în GHz."
     }
   }
 }

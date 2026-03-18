@@ -16,6 +16,10 @@
     "ar": {
       "term": "التصيد الاحتيالي",
       "definition": "محاولة احتيال لخداع الأشخاص للكشف عن معلومات شخصية عبر رسائل أو مواقع مزيفة."
+    },
+    "ro": {
+      "term": "Phishing",
+      "definition": "O tentativă de fraudă pentru a înșela oamenii să dezvăluie informații personale prin mesaje sau site-uri false."
     }
   },
   "topics": [

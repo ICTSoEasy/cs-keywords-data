@@ -19,6 +19,10 @@
     "ar": {
       "term": "عنوان MAC",
       "definition": "معرِّف فريد مُخصَّص بشكل دائم لبطاقة واجهة الشبكة، يُستخدم لتعريف الأجهزة على الشبكة المحلية."
+    },
+    "ro": {
+      "term": "Adresă MAC",
+      "definition": "Un identificator unic atribuit permanent plăcii de interfață de rețea, folosit pentru a identifica dispozitivele dintr-o rețea locală."
     }
   }
 }

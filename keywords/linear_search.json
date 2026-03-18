@@ -19,6 +19,10 @@
     "ar": {
       "term": "البحث الخطي",
       "definition": "خوارزمية بحث تفحص كل عنصر في القائمة واحداً تلو الآخر حتى تجد العنصر المطلوب."
+    },
+    "ro": {
+      "term": "Căutare liniară",
+      "definition": "Un algoritm de căutare care examinează fiecare element din listă, unul câte unul, până găsește elementul dorit."
     }
   }
 }

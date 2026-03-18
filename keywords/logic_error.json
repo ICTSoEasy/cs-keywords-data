@@ -20,6 +20,10 @@
     "ar": {
       "term": "خطأ منطقي",
       "definition": "خطأ في منطق البرنامج يجعله يُنتج نتائج خاطئة دون أن يتوقف عن العمل."
+    },
+    "ro": {
+      "term": "Eroare logică",
+      "definition": "O eroare în logica programului care face ca acesta să producă rezultate incorecte fără să se oprească."
     }
   }
 }

@@ -20,6 +20,10 @@
     "ar": {
       "term": "مستشعر",
       "definition": "جهاز يقيس خاصية فيزيائية من العالم الحقيقي، مثل درجة الحرارة أو الضوء أو الصوت."
+    },
+    "ro": {
+      "term": "Senzor",
+      "definition": "Un dispozitiv care măsoară o proprietate fizică din lumea reală, cum ar fi temperatura, lumina sau sunetul."
     }
   }
 }

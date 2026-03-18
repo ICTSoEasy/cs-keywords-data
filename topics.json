@@ -6,7 +6,8 @@
       "en": "Algorithms",
       "pl": "Algorytmy",
       "cy": "Algorithmau",
-      "ar": "الخوارزميات"
+      "ar": "الخوارزميات",
+      "ro": "Algoritmi"
     }
   },
   {
@@ -16,7 +17,8 @@
       "en": "Programming",
       "pl": "Programowanie",
       "cy": "Rhaglennu",
-      "ar": "البرمجة"
+      "ar": "البرمجة",
+      "ro": "Programare"
     }
   },
   {
@@ -26,7 +28,8 @@
       "en": "Computational Thinking",
       "pl": "Myślenie komputacyjne",
       "cy": "Meddwl Cyfrifiadurol",
-      "ar": "التفكير الحاسوبي"
+      "ar": "التفكير الحاسوبي",
+      "ro": "Gândire computațională"
     }
   },
   {
@@ -36,7 +39,8 @@
       "en": "Data Representation",
       "pl": "Reprezentacja danych",
       "cy": "Cynrychiolaeth Data",
-      "ar": "تمثيل البيانات"
+      "ar": "تمثيل البيانات",
+      "ro": "Reprezentarea datelor"
     }
   },
   {
@@ -46,7 +50,8 @@
       "en": "Hardware & Computer Systems",
       "pl": "Sprzęt i systemy komputerowe",
       "cy": "Caledwedd a Systemau Cyfrifiadurol",
-      "ar": "الأجهزة وأنظمة الحاسوب"
+      "ar": "الأجهزة وأنظمة الحاسوب",
+      "ro": "Hardware și sisteme de calcul"
     }
   },
   {
@@ -56,7 +61,8 @@
       "en": "Software",
       "pl": "Oprogramowanie",
       "cy": "Meddalwedd",
-      "ar": "البرمجيات"
+      "ar": "البرمجيات",
+      "ro": "Software"
     }
   },
   {
@@ -66,7 +72,8 @@
       "en": "Networking",
       "pl": "Sieci",
       "cy": "Rhwydweithio",
-      "ar": "الشبكات"
+      "ar": "الشبكات",
+      "ro": "Rețele"
     }
   },
   {
@@ -76,7 +83,8 @@
       "en": "Data & Databases",
       "pl": "Dane i bazy danych",
       "cy": "Data a Chronfeydd Data",
-      "ar": "البيانات وقواعد البيانات"
+      "ar": "البيانات وقواعد البيانات",
+      "ro": "Date și baze de date"
     }
   },
   {
@@ -86,7 +94,8 @@
       "en": "Security & Cybersecurity",
       "pl": "Bezpieczeństwo i cyberbezpieczeństwo",
       "cy": "Diogelwch a Seiberddiogelwch",
-      "ar": "الأمن والأمن الإلكتروني"
+      "ar": "الأمن والأمن الإلكتروني",
+      "ro": "Securitate și securitate cibernetică"
     }
   },
   {
@@ -96,7 +105,8 @@
       "en": "Boolean Logic",
       "pl": "Logika Boole'a",
       "cy": "Rhesymeg Boole",
-      "ar": "المنطق البولياني"
+      "ar": "المنطق البولياني",
+      "ro": "Logică booleană"
     }
   },
   {
@@ -106,7 +116,8 @@
       "en": "Software Development",
       "pl": "Tworzenie oprogramowania",
       "cy": "Datblygu Meddalwedd",
-      "ar": "تطوير البرمجيات"
+      "ar": "تطوير البرمجيات",
+      "ro": "Dezvoltare software"
     }
   },
   {
@@ -116,7 +127,8 @@
       "en": "Data Structures",
       "pl": "Struktury danych",
       "cy": "Strwythurau Data",
-      "ar": "هياكل البيانات"
+      "ar": "هياكل البيانات",
+      "ro": "Structuri de date"
     }
   },
   {
@@ -126,7 +138,8 @@
       "en": "Theory of Computation",
       "pl": "Teoria obliczeń",
       "cy": "Theori Cyfrifiadaeth",
-      "ar": "نظرية الحوسبة"
+      "ar": "نظرية الحوسبة",
+      "ro": "Teoria calculului"
     }
   },
   {
@@ -136,7 +149,8 @@
       "en": "Ethical & Legal Issues",
       "pl": "Kwestie etyczne i prawne",
       "cy": "Materion Moesegol a Chyfreithiol",
-      "ar": "القضايا الأخلاقية والقانونية"
+      "ar": "القضايا الأخلاقية والقانونية",
+      "ro": "Probleme etice și juridice"
     }
   },
   {
@@ -146,7 +160,8 @@
       "en": "Artificial Intelligence",
       "pl": "Sztuczna inteligencja",
       "cy": "Deallusrwydd Artiffisial",
-      "ar": "الذكاء الاصطناعي"
+      "ar": "الذكاء الاصطناعي",
+      "ro": "Inteligență artificială"
     }
   },
   {
@@ -156,7 +171,8 @@
       "en": "Robotics & Physical Computing",
       "pl": "Robotyka i obliczenia fizyczne",
       "cy": "Roboteg a Chyfrifiadeg Ffisegol",
-      "ar": "الروبوتات والحوسبة الفيزيائية"
+      "ar": "الروبوتات والحوسبة الفيزيائية",
+      "ro": "Robotică și calcul fizic"
     }
   }
 ]

@@ -19,6 +19,10 @@
     "ar": {
       "term": "الحوسبة الفيزيائية",
       "definition": "بناء أنظمة حوسبة تتفاعل مع العالم الفيزيائي من خلال أجهزة الاستشعار والمحركات."
+    },
+    "ro": {
+      "term": "Calcul fizic",
+      "definition": "Construirea de sisteme de calcul care interacționează cu lumea fizică prin senzori și actuatoare."
     }
   }
 }

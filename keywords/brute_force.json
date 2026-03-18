@@ -19,6 +19,10 @@
     "ar": {
       "term": "هجوم القوة الغاشمة",
       "definition": "طريقة اختراق تجرب جميع التركيبات الممكنة حتى يتم العثور على كلمة المرور الصحيحة."
+    },
+    "ro": {
+      "term": "Forță brută",
+      "definition": "O metodă de spargere a sistemelor prin încercarea tuturor combinațiilor posibile până când este găsită cea corectă."
     }
   }
 }

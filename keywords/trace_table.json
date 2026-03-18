@@ -19,6 +19,10 @@
     "ar": {
       "term": "جدول التتبع",
       "definition": "جدول يُستخدم لتتبع قيم المتغيرات خطوة بخطوة عند تشغيل الكود يدوياً."
+    },
+    "ro": {
+      "term": "Tabel de urmărire",
+      "definition": "Un tabel folosit pentru a urmări valorile variabilelor pas cu pas la rularea manuală a codului."
     }
   }
 }

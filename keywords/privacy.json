@@ -20,6 +20,10 @@
     "ar": {
       "term": "الخصوصية",
       "definition": "حق الأفراد في التحكم في معلوماتهم الشخصية ومن يمكنه الوصول إليها."
+    },
+    "ro": {
+      "term": "Confidențialitate",
+      "definition": "Dreptul persoanelor de a controla informațiile lor personale și cine le poate accesa."
     }
   }
 }

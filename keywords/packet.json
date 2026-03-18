@@ -16,6 +16,10 @@
     "ar": {
       "term": "حزمة بيانات",
       "definition": "قطعة صغيرة من البيانات تُرسَل عبر شبكة. تُقسَّم البيانات الكبيرة إلى حزم عديدة."
+    },
+    "ro": {
+      "term": "Pachet de date",
+      "definition": "O bucată mică de date trimisă printr-o rețea. Datele mari sunt împărțite în mai multe pachete."
     }
   },
   "topics": [

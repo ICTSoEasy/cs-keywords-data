@@ -19,6 +19,10 @@
     "ar": {
       "term": "نظام التحكم",
       "definition": "نظام يراقب عملية أو جهازاً ويتحكم فيه تلقائياً باستخدام بيانات من المستشعرات."
+    },
+    "ro": {
+      "term": "Sistem de control",
+      "definition": "Un sistem care monitorizează și controlează automat un proces sau dispozitiv folosind date de la senzori."
     }
   }
 }

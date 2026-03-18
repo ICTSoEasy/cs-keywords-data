@@ -21,6 +21,10 @@
     "ar": {
       "term": "مخطط التدفق",
       "definition": "رسم بياني يستخدم أشكالاً وأسهماً لتمثيل خطوات خوارزمية أو عملية."
+    },
+    "ro": {
+      "term": "Diagramă de flux",
+      "definition": "Un grafic care folosește forme și săgeți pentru a reprezenta pașii unui algoritm sau proces."
     }
   }
 }

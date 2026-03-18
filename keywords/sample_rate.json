@@ -19,6 +19,10 @@
     "ar": {
       "term": "معدل أخذ العينات",
       "definition": "عدد المرات في الثانية التي تُقاس فيها موجة الصوت عند التسجيل. معدل أعلى ينتج صوتاً أفضل جودةً لكن حجم ملف أكبر."
+    },
+    "ro": {
+      "term": "Rată de eșantionare",
+      "definition": "Numărul de ori pe secundă în care o undă sonoră este măsurată la înregistrare. O rată mai mare produce sunet de calitate mai bună dar fișier mai mare."
     }
   }
 }

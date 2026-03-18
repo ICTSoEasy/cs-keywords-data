@@ -20,6 +20,10 @@
     "ar": {
       "term": "مفتوح المصدر",
       "definition": "برنامج يمكن للجميع عرض كوده المصدري وتعديله وتوزيعه بحرية."
+    },
+    "ro": {
+      "term": "Open source",
+      "definition": "Software al cărui cod sursă poate fi vizualizat, modificat și distribuit liber de oricine."
     }
   }
 }

@@ -19,6 +19,10 @@
     "ar": {
       "term": "نظام أسماء النطاقات (DNS)",
       "definition": "خدمة تحول أسماء النطاقات مثل www.example.com إلى عناوين IP يمكن للحواسيب فهمها."
+    },
+    "ro": {
+      "term": "DNS",
+      "definition": "Un serviciu care convertește numele de domenii precum www.exemplu.com în adrese IP pe care calculatoarele le înțeleg."
     }
   }
 }

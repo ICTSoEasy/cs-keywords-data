@@ -19,6 +19,10 @@
     "ar": {
       "term": "ضغط مع فقدان",
       "definition": "ضغط الملف بإزالة بعض البيانات بشكل دائم لتحقيق حجم ملف أصغر."
+    },
+    "ro": {
+      "term": "Compresie cu pierderi",
+      "definition": "Compresia unui fișier prin eliminarea permanentă a unor date pentru a obține o dimensiune mai mică."
     }
   }
 }

@@ -19,6 +19,10 @@
     "ar": {
       "term": "معالجة اللغة الطبيعية",
       "definition": "مجال الذكاء الاصطناعي الذي يُمكِّن الحواسيب من فهم اللغة البشرية والتفاعل معها."
+    },
+    "ro": {
+      "term": "Procesarea limbajului natural",
+      "definition": "Domeniul inteligenței artificiale care permite calculatoarelor să înțeleagă și să interacționeze cu limbajul uman."
     }
   }
 }

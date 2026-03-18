@@ -16,6 +16,10 @@
     "ar": {
       "term": "سجل",
       "definition": "صف في جدول قاعدة البيانات يمثل مجموعة بيانات ذات صلة بعنصر واحد."
+    },
+    "ro": {
+      "term": "Înregistrare",
+      "definition": "Un rând dintr-un tabel de baze de date care reprezintă un set de date legate de un singur element."
     }
   },
   "topics": [

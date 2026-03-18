@@ -19,6 +19,10 @@
     "ar": {
       "term": "طابور",
       "definition": "هيكل بيانات يعمل وفق مبدأ الأول يدخل الأول يخرج (FIFO)."
+    },
+    "ro": {
+      "term": "Coadă",
+      "definition": "O structură de date care funcționează după principiul primul intrat, primul ieșit (FIFO)."
     }
   }
 }

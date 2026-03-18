@@ -19,6 +19,10 @@
     "ar": {
       "term": "جهاز الإخراج",
       "definition": "جهاز يُخرج البيانات من الحاسوب، مثل الشاشة والطابعة والسماعات."
+    },
+    "ro": {
+      "term": "Dispozitiv de ieșire",
+      "definition": "Un dispozitiv care produce date din calculator, cum ar fi monitorul, imprimanta sau difuzoarele."
     }
   }
 }

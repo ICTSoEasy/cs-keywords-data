@@ -19,6 +19,10 @@
     "ar": {
       "term": "قاعدة البيانات العلائقية",
       "definition": "قاعدة بيانات تُنظِّم البيانات في جداول مترابطة يمكن ربطها عبر المفاتيح."
+    },
+    "ro": {
+      "term": "Bază de date relațională",
+      "definition": "O bază de date care organizează datele în tabele interconectate care pot fi legate prin chei."
     }
   }
 }

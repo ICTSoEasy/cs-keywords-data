@@ -19,6 +19,10 @@
     "ar": {
       "term": "التجريد",
       "definition": "إزالة التفاصيل غير الضرورية للتركيز على ما هو مهم عند حل مشكلة ما."
+    },
+    "ro": {
+      "term": "Abstractizare",
+      "definition": "Eliminarea detaliilor inutile pentru a te concentra pe ceea ce este important în rezolvarea unei probleme."
     }
   }
 }

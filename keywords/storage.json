@@ -19,6 +19,10 @@
     "ar": {
       "term": "التخزين",
       "definition": "وسيط يحتفظ بالبيانات بشكل دائم، مثل القرص الصلب أو محرك أقراص USB."
+    },
+    "ro": {
+      "term": "Stocare",
+      "definition": "Un suport care păstrează datele permanent, cum ar fi hard disk-ul sau un stick USB."
     }
   }
 }

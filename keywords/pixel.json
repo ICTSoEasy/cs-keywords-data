@@ -19,6 +19,10 @@
     "ar": {
       "term": "بكسل",
       "definition": "أصغر عنصر في صورة رقمية. الصور مكونة من شبكة من البكسلات."
+    },
+    "ro": {
+      "term": "Pixel",
+      "definition": "Cel mai mic element al unei imagini digitale. Imaginile sunt formate dintr-o grilă de pixeli."
     }
   }
 }

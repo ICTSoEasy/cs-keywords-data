@@ -20,6 +20,10 @@
     "ar": {
       "term": "الأتمتة",
       "definition": "استخدام التكنولوجيا لأداء المهام بشكل تلقائي دون الحاجة إلى تدخل بشري مستمر."
+    },
+    "ro": {
+      "term": "Automatizare",
+      "definition": "Utilizarea tehnologiei pentru a efectua sarcini automat, fără intervenție umană continuă."
     }
   }
 }

@@ -19,6 +19,10 @@
     "ar": {
       "term": "التفكير المنطقي",
       "definition": "استخدام التفكير الواضح خطوة بخطوة لفهم مشكلة والوصول إلى استنتاج."
+    },
+    "ro": {
+      "term": "Raționament logic",
+      "definition": "Folosirea gândirii clare, pas cu pas, pentru a rezolva o problemă și a ajunge la o concluzie."
     }
   }
 }

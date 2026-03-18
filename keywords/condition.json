@@ -20,6 +20,10 @@
     "ar": {
       "term": "شرط",
       "definition": "تعبير يُقيَّم إما بصحيح أو خطأ، يُستخدم للتحكم في تدفق البرنامج."
+    },
+    "ro": {
+      "term": "Condiție",
+      "definition": "O expresie evaluată ca adevărată sau falsă, folosită pentru a controla fluxul unui program."
     }
   }
 }

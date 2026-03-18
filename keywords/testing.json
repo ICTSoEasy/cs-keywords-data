@@ -19,6 +19,10 @@
     "ar": {
       "term": "الاختبار",
       "definition": "عملية التحقق من أن البرنامج يعمل بشكل صحيح ويُنتج النتائج المتوقعة."
+    },
+    "ro": {
+      "term": "Testare",
+      "definition": "Procesul de verificare că programul funcționează corect și produce rezultatele așteptate."
     }
   }
 }

@@ -20,6 +20,10 @@
     "ar": {
       "term": "رقعة (تحديث)",
       "definition": "تحديث برمجي يُصلح أخطاء أو ثغرات أمنية في برنامج."
+    },
+    "ro": {
+      "term": "Patch",
+      "definition": "O actualizare software care corectează erori sau vulnerabilități de securitate dintr-un program."
     }
   }
 }

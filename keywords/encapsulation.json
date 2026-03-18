@@ -19,6 +19,10 @@
     "ar": {
       "term": "التغليف",
       "definition": "تجميع بيانات الكائن والأساليب التي تعمل عليها معاً داخل فئة وإخفاء التفاصيل الداخلية عن الكود الخارجي."
+    },
+    "ro": {
+      "term": "Încapsulare",
+      "definition": "Gruparea datelor unui obiect și a metodelor care le folosesc împreună într-o clasă, ascunzând detaliile interne față de codul extern."
     }
   }
 }

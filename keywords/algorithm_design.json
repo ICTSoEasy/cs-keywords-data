@@ -19,6 +19,10 @@
     "ar": {
       "term": "تصميم الخوارزمية",
       "definition": "التخطيط للحل خطوة بخطوة لمشكلة ما قبل كتابة أي كود."
+    },
+    "ro": {
+      "term": "Proiectarea algoritmilor",
+      "definition": "Planificarea soluției pas cu pas a unei probleme înainte de a scrie orice cod."
     }
   }
 }

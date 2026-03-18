@@ -19,6 +19,10 @@
     "ar": {
       "term": "الشبكة العنكبوتية العالمية",
       "definition": "نظام من الصفحات والموارد المترابطة على الإنترنت، يمكن الوصول إليها عبر المتصفح."
+    },
+    "ro": {
+      "term": "World Wide Web",
+      "definition": "Un sistem de pagini și resurse interconectate pe internet, accesibil prin browser."
     }
   }
 }

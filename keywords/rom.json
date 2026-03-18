@@ -19,6 +19,10 @@
     "ar": {
       "term": "ذاكرة القراءة فقط (ROM)",
       "definition": "ذاكرة دائمة تحتوي على تعليمات لا يمكن تغييرها، مثل تعليمات بدء تشغيل الحاسوب."
+    },
+    "ro": {
+      "term": "Memorie ROM",
+      "definition": "Memorie permanentă care conține instrucțiuni care nu pot fi modificate, cum ar fi instrucțiunile de pornire a calculatorului."
     }
   }
 }

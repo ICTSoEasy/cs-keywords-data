@@ -19,6 +19,10 @@
     "ar": {
       "term": "معمارية فون نيومان",
       "definition": "تصميم الحاسوب الذي يخزن البيانات والتعليمات في نفس الذاكرة ويعالجهما بواسطة نفس المعالج."
+    },
+    "ro": {
+      "term": "Arhitectura von Neumann",
+      "definition": "Proiectul calculatorului care stochează datele și instrucțiunile în aceeași memorie și le procesează cu același procesor."
     }
   }
 }

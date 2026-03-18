@@ -16,6 +16,10 @@
     "ar": {
       "term": "التسلسل",
       "definition": "تنفيذ التعليمات بالترتيب واحدة تلو الأخرى."
+    },
+    "ro": {
+      "term": "Secvență",
+      "definition": "Executarea instrucțiunilor în ordine, una după alta."
     }
   },
   "topics": [

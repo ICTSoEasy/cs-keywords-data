@@ -19,6 +19,10 @@
     "ar": {
       "term": "النطاق",
       "definition": "المنطقة في البرنامج حيث يمكن الوصول إلى متغير. المتغير المحلي موجود فقط داخل البرنامج الفرعي الذي أُنشئ فيه؛ المتغير العام يمكن الوصول إليه من أي مكان."
+    },
+    "ro": {
+      "term": "Domeniu de vizibilitate",
+      "definition": "Zona din program în care o variabilă poate fi accesată. O variabilă locală există doar în subrutina în care a fost creată; una globală poate fi accesată oriunde."
     }
   }
 }

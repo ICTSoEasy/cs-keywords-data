@@ -19,6 +19,10 @@
     "ar": {
       "term": "ترتيب الإدراج",
       "definition": "خوارزمية ترتيب تبني القائمة المرتبة عنصراً واحداً في كل مرة عن طريق إدراجه في موضعه الصحيح."
+    },
+    "ro": {
+      "term": "Sortare prin inserție",
+      "definition": "Un algoritm de sortare care construiește lista sortată câte un element pe rând, inserându-l în poziția corectă."
     }
   }
 }

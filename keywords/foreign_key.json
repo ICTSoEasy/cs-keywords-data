@@ -19,6 +19,10 @@
     "ar": {
       "term": "المفتاح الأجنبي",
       "definition": "حقل في جدول يشير إلى المفتاح الأساسي في جدول آخر، يُستخدم لربط الجداول ببعضها."
+    },
+    "ro": {
+      "term": "Cheie externă",
+      "definition": "Un câmp dintr-un tabel care face referire la cheia primară dintr-un alt tabel, folosit pentru a lega tabelele."
     }
   }
 }

@@ -19,6 +19,10 @@
     "ar": {
       "term": "بوابة منطقية",
       "definition": "مكون إلكتروني يؤدي عملية منطقية أساسية على إشارة واحدة أو أكثر."
+    },
+    "ro": {
+      "term": "Poartă logică",
+      "definition": "O componentă electronică care efectuează o operație logică de bază pe unul sau mai multe semnale."
     }
   }
 }

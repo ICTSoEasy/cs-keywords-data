@@ -19,6 +19,10 @@
     "ar": {
       "term": "نظام التشغيل",
       "definition": "برنامج يدير موارد الحاسوب ويوفر واجهة بين المستخدم والأجهزة."
+    },
+    "ro": {
+      "term": "Sistem de operare",
+      "definition": "Un program care gestionează resursele calculatorului și oferă o interfață între utilizator și hardware."
     }
   }
 }

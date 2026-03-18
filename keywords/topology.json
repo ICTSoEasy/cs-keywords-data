@@ -19,6 +19,10 @@
     "ar": {
       "term": "طبولوجيا الشبكة",
       "definition": "الترتيب الفيزيائي أو المنطقي للأجهزة في شبكة."
+    },
+    "ro": {
+      "term": "Topologia rețelei",
+      "definition": "Aranjamentul fizic sau logic al dispozitivelor dintr-o rețea."
     }
   }
 }

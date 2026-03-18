@@ -19,6 +19,10 @@
     "ar": {
       "term": "ترتيب الفقاعة",
       "definition": "خوارزمية ترتيب تقارن العناصر المتجاورة وتبادلها مراراً حتى تُرتَّب القائمة بالكامل."
+    },
+    "ro": {
+      "term": "Sortare prin bule",
+      "definition": "Un algoritm de sortare care compară și schimbă în mod repetat elementele adiacente până când lista este complet sortată."
     }
   }
 }

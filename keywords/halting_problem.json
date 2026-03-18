@@ -19,6 +19,10 @@
     "ar": {
       "term": "مشكلة التوقف",
       "definition": "مسألة نظرية تثبت أنه من المستحيل تحديد ما إذا كان برنامج ما سيتوقف أم سيستمر في التشغيل إلى الأبد."
+    },
+    "ro": {
+      "term": "Problema opririi",
+      "definition": "O problemă teoretică care dovedește că este imposibil de determinat dacă un program se va opri sau va continua să ruleze la infinit."
     }
   }
 }

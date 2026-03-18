@@ -19,6 +19,10 @@
     "ar": {
       "term": "مكدس",
       "definition": "هيكل بيانات يعمل وفق مبدأ الأخير يدخل الأول يخرج (LIFO)."
+    },
+    "ro": {
+      "term": "Stivă",
+      "definition": "O structură de date care funcționează după principiul ultimul intrat, primul ieșit (LIFO)."
     }
   }
 }

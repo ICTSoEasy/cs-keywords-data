@@ -20,6 +20,10 @@
     "ar": {
       "term": "الكود الزائف",
       "definition": "وصف بسيط لخوارزمية يشبه الكود البرمجي لكنه مكتوب باللغة العادية وليس بلغة برمجة محددة."
+    },
+    "ro": {
+      "term": "Pseudocod",
+      "definition": "O descriere simplă a unui algoritm care seamănă cu codul de programare dar este scrisă în limbaj obișnuit."
     }
   }
 }

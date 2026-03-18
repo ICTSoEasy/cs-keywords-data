@@ -19,6 +19,10 @@
     "ar": {
       "term": "قيمة الإرجاع",
       "definition": "القيمة التي ترسلها الدالة إلى الكود الذي استدعاها عند انتهاء تنفيذها."
+    },
+    "ro": {
+      "term": "Valoare returnată",
+      "definition": "Valoarea trimisă înapoi de o funcție către codul care a apelat-o."
     }
   }
 }

@@ -16,6 +16,10 @@
     "ar": {
       "term": "المصادقة",
       "definition": "عملية التحقق من هوية المستخدم أو الجهاز قبل منح الوصول إلى النظام."
+    },
+    "ro": {
+      "term": "Autentificare",
+      "definition": "Procesul de verificare a identității unui utilizator sau dispozitiv înainte de a acorda accesul."
     }
   },
   "topics": [

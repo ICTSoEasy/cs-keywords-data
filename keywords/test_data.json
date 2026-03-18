@@ -19,6 +19,10 @@
     "ar": {
       "term": "بيانات الاختبار",
       "definition": "بيانات تُستخدم لاختبار برنامج والتحقق من أنه يعمل بشكل صحيح في جميع الحالات."
+    },
+    "ro": {
+      "term": "Date de testare",
+      "definition": "Date folosite pentru a testa un program și a verifica că funcționează corect în toate cazurile."
     }
   }
 }

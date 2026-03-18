@@ -19,6 +19,10 @@
     "ar": {
       "term": "التعميم",
       "definition": "استخدام الأنماط الموجودة في مشكلة واحدة لإنشاء حلول تعمل لمشاكل مماثلة."
+    },
+    "ro": {
+      "term": "Generalizare",
+      "definition": "Folosirea tiparelor găsite într-o problemă pentru a crea soluții care funcționează pentru probleme similare."
     }
   }
 }

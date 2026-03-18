@@ -19,6 +19,10 @@
     "ar": {
       "term": "محرك",
       "definition": "مكون يحول الطاقة الكهربائية إلى حركة فيزيائية في الروبوتات والأنظمة المدمجة."
+    },
+    "ro": {
+      "term": "Actuator",
+      "definition": "O componentă care transformă energia electrică în mișcare fizică în roboți și sisteme încorporate."
     }
   }
 }

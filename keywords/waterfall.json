@@ -19,6 +19,10 @@
     "ar": {
       "term": "نموذج الشلال",
       "definition": "نهج لتطوير البرمجيات يتبع مراحل متتالية ثابتة: التحليل والتصميم والتطوير والاختبار والصيانة."
+    },
+    "ro": {
+      "term": "Model cascadă",
+      "definition": "O abordare a dezvoltării software care urmează etape secvențiale fixe: analiză, proiectare, dezvoltare, testare și întreținere."
     }
   }
 }

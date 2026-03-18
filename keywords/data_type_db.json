@@ -19,6 +19,10 @@
     "ar": {
       "term": "نوع بيانات قاعدة البيانات",
       "definition": "تصنيف البيانات المخزنة في حقل قاعدة البيانات، مثل نص أو رقم أو تاريخ."
+    },
+    "ro": {
+      "term": "Tip de date (bază de date)",
+      "definition": "Clasificarea datelor stocate într-un câmp al bazei de date, cum ar fi text, număr sau dată."
     }
   }
 }

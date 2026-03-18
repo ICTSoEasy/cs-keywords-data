@@ -19,6 +19,10 @@
     "ar": {
       "term": "حقن SQL",
       "definition": "هجوم إلكتروني يُدخل فيه المهاجم كوداً ضاراً في نماذج الإدخال للتحكم في قاعدة البيانات."
+    },
+    "ro": {
+      "term": "Injecție SQL",
+      "definition": "Un atac cibernetic în care atacatorul introduce cod malițios în formularele de intrare pentru a controla baza de date."
     }
   }
 }

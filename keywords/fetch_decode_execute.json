@@ -19,6 +19,10 @@
     "ar": {
       "term": "دورة الجلب والفك والتنفيذ",
       "definition": "الدورة التي ينفذ بها المعالج التعليمات: يجلب التعليمة من الذاكرة، ويفك ترميزها، ثم ينفذها."
+    },
+    "ro": {
+      "term": "Ciclul fetch-decode-execute",
+      "definition": "Ciclul prin care procesorul execută instrucțiunile: preia instrucțiunea din memorie, o decodifică, apoi o execută."
     }
   }
 }

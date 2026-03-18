@@ -16,6 +16,10 @@
     "ar": {
       "term": "عرض النطاق الترددي",
       "definition": "الحد الأقصى لكمية البيانات التي يمكن نقلها عبر شبكة في وقت معين."
+    },
+    "ro": {
+      "term": "Lățime de bandă",
+      "definition": "Cantitatea maximă de date care poate fi transferată printr-o rețea într-un interval de timp dat."
     }
   },
   "topics": [

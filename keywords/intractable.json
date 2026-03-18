@@ -19,6 +19,10 @@
     "ar": {
       "term": "مشكلة صعبة الحل",
       "definition": "مشكلة لا توجد لها خوارزمية فعالة حتى الآن وتستغرق حلها وقتاً طويلاً جداً للمدخلات الكبيرة."
+    },
+    "ro": {
+      "term": "Problemă intractabilă",
+      "definition": "O problemă pentru care nu există un algoritm eficient și care necesită timp foarte lung pentru intrări mari."
     }
   }
 }

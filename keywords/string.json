@@ -16,6 +16,10 @@
     "ar": {
       "term": "سلسلة نصية",
       "definition": "تسلسل من الأحرف يُستخدم لتمثيل النص في البرمجة."
+    },
+    "ro": {
+      "term": "Șir de caractere",
+      "definition": "O secvență de caractere folosită pentru a reprezenta text în programare."
     }
   },
   "topics": [

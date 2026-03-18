@@ -19,6 +19,10 @@
     "ar": {
       "term": "رسم بياني",
       "definition": "هيكل بيانات يتكون من عقد (رؤوس) متصلة بحواف، يُستخدم لتمثيل العلاقات والشبكات."
+    },
+    "ro": {
+      "term": "Graf",
+      "definition": "O structură de date formată din noduri (vârfuri) conectate prin muchii, folosită pentru a reprezenta relații și rețele."
     }
   }
 }

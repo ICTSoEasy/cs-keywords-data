@@ -19,6 +19,10 @@
     "ar": {
       "term": "شجرة ثنائية",
       "definition": "هيكل بيانات شجري حيث يمتلك كل عقدة طفلاً أيسر وطفلاً أيمن على الأكثر."
+    },
+    "ro": {
+      "term": "Arbore binar",
+      "definition": "O structură de date arborescentă în care fiecare nod are cel mult un copil stâng și unul drept."
     }
   }
 }

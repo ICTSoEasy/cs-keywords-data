@@ -19,6 +19,10 @@
     "ar": {
       "term": "آلة الحالة المحدودة",
       "definition": "نموذج حوسبي يمكن أن يكون في حالة واحدة من عدد محدود من الحالات في أي وقت."
+    },
+    "ro": {
+      "term": "Automat cu stări finite",
+      "definition": "Un model de calcul care poate fi într-o singură stare dintr-un număr finit de stări la orice moment."
     }
   }
 }

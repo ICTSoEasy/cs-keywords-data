@@ -19,6 +19,10 @@
     "ar": {
       "term": "معامل",
       "definition": "متغير يُمرَّر إلى دالة أو إجراء عند استدعائها لتزويدها بالبيانات اللازمة."
+    },
+    "ro": {
+      "term": "Parametru",
+      "definition": "O variabilă transmisă unei funcții sau proceduri când aceasta este apelată."
     }
   }
 }

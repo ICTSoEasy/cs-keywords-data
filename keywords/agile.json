@@ -19,6 +19,10 @@
     "ar": {
       "term": "المنهجية الرشيقة",
       "definition": "نهج لتطوير البرمجيات يعمل في دورات قصيرة مع إمكانية التكيف مع التغييرات باستمرار."
+    },
+    "ro": {
+      "term": "Agile",
+      "definition": "O abordare a dezvoltării software care lucrează în cicluri scurte, cu posibilitatea de a se adapta la schimbări în mod continuu."
     }
   }
 }

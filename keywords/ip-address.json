@@ -16,6 +16,10 @@
     "ar": {
       "term": "عنوان IP",
       "definition": "عنوان رقمي فريد يُعرِّف جهازاً على الشبكة."
+    },
+    "ro": {
+      "term": "Adresă IP",
+      "definition": "O adresă numerică unică care identifică un dispozitiv într-o rețea."
     }
   },
   "topics": [

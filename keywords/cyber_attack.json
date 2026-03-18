@@ -19,6 +19,10 @@
     "ar": {
       "term": "هجوم إلكتروني",
       "definition": "محاولة متعمدة للوصول غير المصرح به إلى نظام حاسوبي أو الإضرار به."
+    },
+    "ro": {
+      "term": "Atac cibernetic",
+      "definition": "O tentativă deliberată de acces neautorizat la un sistem informatic sau de a-i cauza daune."
     }
   }
 }

@@ -19,6 +19,10 @@
     "ar": {
       "term": "ملف مسطح",
       "definition": "قاعدة بيانات تخزن جميع البيانات في جدول واحد دون أي علاقات بين الجداول."
+    },
+    "ro": {
+      "term": "Fișier plat",
+      "definition": "O bază de date care stochează toate datele într-un singur tabel fără relații între tabele."
     }
   }
 }

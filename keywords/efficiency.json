@@ -19,6 +19,10 @@
     "ar": {
       "term": "الكفاءة",
       "definition": "مدى جودة استخدام خوارزمية للوقت والذاكرة لحل مشكلة ما."
+    },
+    "ro": {
+      "term": "Eficiență",
+      "definition": "Cât de bine folosește un algoritm timpul și memoria pentru a rezolva o problemă."
     }
   }
 }

@@ -19,6 +19,10 @@
     "ar": {
       "term": "الذكاء الاصطناعي",
       "definition": "محاكاة الذكاء البشري بواسطة أنظمة الحاسوب، بما في ذلك التعلم وحل المشكلات واتخاذ القرارات."
+    },
+    "ro": {
+      "term": "Inteligență artificială",
+      "definition": "Simularea inteligenței umane de către sisteme informatice, inclusiv învățarea și rezolvarea problemelor."
     }
   }
 }

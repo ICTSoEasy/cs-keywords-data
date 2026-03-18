@@ -20,6 +20,10 @@
     "ar": {
       "term": "متحكم دقيق",
       "definition": "حاسوب صغير على رقاقة واحدة، يُستخدم في الأجهزة المدمجة والروبوتات."
+    },
+    "ro": {
+      "term": "Microcontroler",
+      "definition": "Un calculator mic pe un singur cip, folosit în dispozitive încorporate și roboți."
     }
   }
 }

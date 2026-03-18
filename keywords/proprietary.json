@@ -20,6 +20,10 @@
     "ar": {
       "term": "برنامج مملوك",
       "definition": "برنامج يمتلكه شخص أو شركة ويتحكم في استخدامه. لا يمكن عرض كوده أو نسخه بحرية."
+    },
+    "ro": {
+      "term": "Software proprietar",
+      "definition": "Software deținut de o persoană sau companie care controlează utilizarea sa. Codul nu poate fi vizualizat sau copiat liber."
     }
   }
 }

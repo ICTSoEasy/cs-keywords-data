@@ -19,6 +19,10 @@
     "ar": {
       "term": "أسلوب",
       "definition": "دالة تنتمي إلى فئة أو كائن وتُستخدم لتحديد ما يمكن للكائن القيام به."
+    },
+    "ro": {
+      "term": "Metodă",
+      "definition": "O funcție care aparține unei clase sau obiect, folosită pentru a defini ce poate face obiectul."
     }
   }
 }

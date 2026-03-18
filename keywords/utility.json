@@ -19,6 +19,10 @@
     "ar": {
       "term": "برنامج مساعد",
       "definition": "برنامج يساعد في إدارة الحاسوب وصيانته، مثل برامج مكافحة الفيروسات وضغط الملفات."
+    },
+    "ro": {
+      "term": "Program utilitar",
+      "definition": "Un program care ajută la gestionarea și întreținerea calculatorului, cum ar fi programele antivirus sau de compresie."
     }
   }
 }

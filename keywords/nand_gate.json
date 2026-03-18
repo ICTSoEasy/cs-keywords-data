@@ -19,6 +19,10 @@
     "ar": {
       "term": "بوابة NAND",
       "definition": "بوابة منطقية تُخرج 0 فقط عندما تكون جميع مداخلها 1، وهي عكس بوابة AND."
+    },
+    "ro": {
+      "term": "Poartă NAND",
+      "definition": "O poartă logică care produce 0 doar când toate intrările sale sunt 1; opusul porții AND."
     }
   }
 }

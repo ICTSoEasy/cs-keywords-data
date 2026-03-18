@@ -20,6 +20,10 @@
     "ar": {
       "term": "خطأ نحوي",
       "definition": "خطأ في قواعد كتابة الكود يمنع البرنامج من التشغيل."
+    },
+    "ro": {
+      "term": "Eroare de sintaxă",
+      "definition": "O eroare în regulile de scriere a codului care împiedică rularea programului."
     }
   }
 }

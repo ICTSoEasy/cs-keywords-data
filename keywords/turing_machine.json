@@ -19,6 +19,10 @@
     "ar": {
       "term": "آلة تورينج",
       "definition": "نموذج رياضي لجهاز حوسبة يصف مفهوم الخوارزمية والحوسبة بشكل مجرد."
+    },
+    "ro": {
+      "term": "Mașina Turing",
+      "definition": "Un model matematic al unui dispozitiv de calcul care descrie conceptul de algoritm și calcul."
     }
   }
 }

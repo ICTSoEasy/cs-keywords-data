@@ -20,6 +20,10 @@
     "ar": {
       "term": "التحقق من صحة البيانات",
       "definition": "عملية التحقق من أن البيانات المُدخَلة صحيحة ومنطقية قبل معالجتها."
+    },
+    "ro": {
+      "term": "Validarea datelor",
+      "definition": "Procesul de verificare că datele introduse sunt corecte și rezonabile înainte de procesare."
     }
   }
 }

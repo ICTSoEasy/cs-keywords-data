@@ -19,6 +19,10 @@
     "ar": {
       "term": "شجرة",
       "definition": "هيكل بيانات هرمي يتكون من عقد، لكل منها عقدة أب واحدة وعقد أبناء متعددة."
+    },
+    "ro": {
+      "term": "Arbore",
+      "definition": "O structură de date ierarhică formată din noduri, fiecare cu un singur nod părinte și mai mulți noduri copii."
     }
   }
 }

@@ -19,6 +19,10 @@
     "ar": {
       "term": "دورة حياة تطوير البرمجيات",
       "definition": "المراحل المتبعة لتخطيط وإنشاء واختبار وصيانة نظام برمجي."
+    },
+    "ro": {
+      "term": "Ciclul de viață al dezvoltării software",
+      "definition": "Etapele urmate pentru planificarea, crearea, testarea și întreținerea unui sistem software."
     }
   }
 }

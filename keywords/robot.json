@@ -19,6 +19,10 @@
     "ar": {
       "term": "روبوت",
       "definition": "آلة يمكن برمجتها لأداء مهام تلقائياً، غالباً ما تحاكي الإجراءات البشرية."
+    },
+    "ro": {
+      "term": "Robot",
+      "definition": "O mașină care poate fi programată pentru a efectua sarcini automat, adesea imitând acțiunile umane."
     }
   }
 }

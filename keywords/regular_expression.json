@@ -20,6 +20,10 @@
     "ar": {
       "term": "تعبير نمطي",
       "definition": "تسلسل من الأحرف يشكل نمط بحث، يُستخدم للبحث عن نص أو التحقق من صحته أو استبداله."
+    },
+    "ro": {
+      "term": "Expresie regulată",
+      "definition": "O secvență de caractere care formează un tipar de căutare, folosită pentru a căuta, valida sau înlocui text."
     }
   }
 }

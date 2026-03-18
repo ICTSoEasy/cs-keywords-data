@@ -19,6 +19,10 @@
     "ar": {
       "term": "اللوحة الأم",
       "definition": "اللوحة الرئيسية في الحاسوب التي تربط جميع المكونات معاً."
+    },
+    "ro": {
+      "term": "Placă de bază",
+      "definition": "Placa principală a calculatorului care conectează toate componentele împreună."
     }
   }
 }
