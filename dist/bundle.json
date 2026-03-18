@@ -219,6 +219,26 @@
       }
     },
     {
+      "id": "actuator",
+      "topics": [
+        "robotics"
+      ],
+      "translations": {
+        "en": {
+          "term": "Actuator",
+          "definition": "A device that converts electrical signals from a computer into physical movement or action, such as a motor or servo."
+        },
+        "pl": {
+          "term": "Aktuator",
+          "definition": "Urządzenie przekształcające sygnały elektryczne z komputera w ruch fizyczny lub działanie, np. silnik lub serwo."
+        },
+        "cy": {
+          "term": "Actwadur",
+          "definition": "Dyfais sy'n trosi signalau trydanol o gyfrifiadur yn symudiad neu weithred ffisegol, fel modur neu serfo."
+        }
+      }
+    },
+    {
       "id": "agile",
       "topics": [
         "software_development"
@@ -278,6 +298,27 @@
       "topics": [
         "algorithms"
       ]
+    },
+    {
+      "id": "algorithm_bias",
+      "topics": [
+        "ai",
+        "ethics"
+      ],
+      "translations": {
+        "en": {
+          "term": "Algorithm Bias",
+          "definition": "When an AI system produces unfair or discriminatory results because the training data or design reflects existing biases."
+        },
+        "pl": {
+          "term": "Stronniczość algorytmu",
+          "definition": "Gdy system AI produkuje niesprawiedliwe lub dyskryminujące wyniki, ponieważ dane treningowe lub projekt odzwierciedlają istniejące uprzedzenia."
+        },
+        "cy": {
+          "term": "Tuedd Algorithm",
+          "definition": "Pan fo system AI yn cynhyrchu canlyniadau annheg neu wahaniaethol oherwydd bod y data hyfforddi neu'r dyluniad yn adlewyrchu rhagfarnau presennol."
+        }
+      }
     },
     {
       "id": "algorithm_design",
@@ -360,6 +401,26 @@
       ]
     },
     {
+      "id": "artificial_intelligence",
+      "topics": [
+        "ai"
+      ],
+      "translations": {
+        "en": {
+          "term": "Artificial Intelligence",
+          "definition": "The ability of a computer system to perform tasks that would normally require human intelligence, such as recognising speech or making decisions."
+        },
+        "pl": {
+          "term": "Sztuczna inteligencja",
+          "definition": "Zdolność systemu komputerowego do wykonywania zadań, które normalnie wymagałyby ludzkiej inteligencji, takich jak rozpoznawanie mowy lub podejmowanie decyzji."
+        },
+        "cy": {
+          "term": "Deallusrwydd Artiffisial",
+          "definition": "Gallu system gyfrifiadurol i gyflawni tasgau a fyddai fel arfer yn gofyn am ddeallusrwydd dynol, fel adnabod lleferydd neu wneud penderfyniadau."
+        }
+      }
+    },
+    {
       "id": "ascii",
       "topics": [
         "data_representation"
@@ -376,6 +437,27 @@
         "cy": {
           "term": "ASCII",
           "definition": "Safon sy'n neilltuo rhif unigryw i bob nod fel y gall cyfrifiaduron storio a rhannu testun."
+        }
+      }
+    },
+    {
+      "id": "assembly_language",
+      "topics": [
+        "theory",
+        "software"
+      ],
+      "translations": {
+        "en": {
+          "term": "Assembly Language",
+          "definition": "A low-level programming language that uses short mnemonics to represent machine code instructions for a specific processor."
+        },
+        "pl": {
+          "term": "Język asemblera",
+          "definition": "Język programowania niskiego poziomu używający krótkich mnemoników do reprezentowania instrukcji kodu maszynowego dla konkretnego procesora."
+        },
+        "cy": {
+          "term": "Iaith Gynulliad",
+          "definition": "Iaith raglennu lefel isel sy'n defnyddio mnemoneg byr i gynrychioli cyfarwyddiadau cod peiriant ar gyfer prosesydd penodol."
         }
       }
     },
@@ -400,6 +482,27 @@
       ]
     },
     {
+      "id": "automation",
+      "topics": [
+        "robotics",
+        "ai"
+      ],
+      "translations": {
+        "en": {
+          "term": "Automation",
+          "definition": "Using technology to perform tasks with minimal human involvement, often replacing repetitive manual processes."
+        },
+        "pl": {
+          "term": "Automatyzacja",
+          "definition": "Wykorzystanie technologii do wykonywania zadań przy minimalnym udziale człowieka, często zastępując powtarzalne procesy ręczne."
+        },
+        "cy": {
+          "term": "Awtomeiddio",
+          "definition": "Defnyddio technoleg i gyflawni tasgau gyda chyfranogiad dynol lleiaf, gan ddisodli prosesau ailadroddus â llaw yn aml."
+        }
+      }
+    },
+    {
       "id": "bandwidth",
       "translations": {
         "en": {
@@ -420,6 +523,27 @@
       ]
     },
     {
+      "id": "big_o",
+      "topics": [
+        "theory",
+        "algorithms"
+      ],
+      "translations": {
+        "en": {
+          "term": "Big O Notation",
+          "definition": "A way of describing how the time or space requirements of an algorithm grow as the input size increases."
+        },
+        "pl": {
+          "term": "Notacja dużego O",
+          "definition": "Sposób opisywania, jak wymagania algorytmu dotyczące czasu lub pamięci rosną wraz ze wzrostem rozmiaru danych wejściowych."
+        },
+        "cy": {
+          "term": "Nodiant O Fawr",
+          "definition": "Ffordd o ddisgrifio sut mae gofynion amser neu ofod algorithm yn tyfu wrth i faint y mewnbwn gynyddu."
+        }
+      }
+    },
+    {
       "id": "binary",
       "topics": [
         "data_representation"
@@ -436,6 +560,26 @@
         "cy": {
           "term": "Deuaidd",
           "definition": "System rhifau sy'n defnyddio 0 ac 1 yn unig i gynrychioli pob gwerth."
+        }
+      }
+    },
+    {
+      "id": "binary_search",
+      "topics": [
+        "algorithms"
+      ],
+      "translations": {
+        "en": {
+          "term": "Binary Search",
+          "definition": "A search algorithm that repeatedly halves a sorted list to find a target, making it much faster than linear search."
+        },
+        "pl": {
+          "term": "Wyszukiwanie binarne",
+          "definition": "Algorytm wyszukiwania, który wielokrotnie dzieli posortowaną listę na pół w celu znalezienia celu, co jest znacznie szybsze niż wyszukiwanie liniowe."
+        },
+        "cy": {
+          "term": "Chwilio Deuaidd",
+          "definition": "Algorithm chwilio sy'n haneru rhestr wedi'i didoli dro ar ôl tro i ddod o hyd i darged, sy'n llawer cyflymach na chwilio llinol."
         }
       }
     },
@@ -501,6 +645,46 @@
       ]
     },
     {
+      "id": "brute_force",
+      "topics": [
+        "security"
+      ],
+      "translations": {
+        "en": {
+          "term": "Brute Force Attack",
+          "definition": "An attack that tries every possible password or key combination until the correct one is found."
+        },
+        "pl": {
+          "term": "Atak siłowy",
+          "definition": "Atak wypróbowujący każdą możliwą kombinację hasła lub klucza, aż do znalezienia prawidłowej."
+        },
+        "cy": {
+          "term": "Ymosodiad Grym Garw",
+          "definition": "Ymosodiad sy'n trio pob cyfuniad cyfrinair neu allwedd posibl nes dod o hyd i'r un cywir."
+        }
+      }
+    },
+    {
+      "id": "bubble_sort",
+      "topics": [
+        "algorithms"
+      ],
+      "translations": {
+        "en": {
+          "term": "Bubble Sort",
+          "definition": "A sorting algorithm that repeatedly compares adjacent items and swaps them if they are in the wrong order."
+        },
+        "pl": {
+          "term": "Sortowanie bąbelkowe",
+          "definition": "Algorytm sortowania, który wielokrotnie porównuje sąsiednie elementy i zamienia je miejscami, jeśli są w złej kolejności."
+        },
+        "cy": {
+          "term": "Didoli Swigen",
+          "definition": "Algorithm didoli sy'n cymharu eitemau cyfagos dro ar ôl tro ac yn eu cyfnewid os ydynt yn y drefn anghywir."
+        }
+      }
+    },
+    {
       "id": "byte",
       "topics": [
         "data_representation"
@@ -557,6 +741,26 @@
         "cy": {
           "term": "Castio",
           "definition": "Trosi gwerth o un math data i un arall, er enghraifft troi llinyn yn gyfanrif."
+        }
+      }
+    },
+    {
+      "id": "chatbot",
+      "topics": [
+        "ai"
+      ],
+      "translations": {
+        "en": {
+          "term": "Chatbot",
+          "definition": "A computer program designed to simulate conversation with humans, often using natural language processing."
+        },
+        "pl": {
+          "term": "Chatbot",
+          "definition": "Program komputerowy zaprojektowany do symulowania rozmowy z ludźmi, często wykorzystujący przetwarzanie języka naturalnego."
+        },
+        "cy": {
+          "term": "Chatbot",
+          "definition": "Rhaglen gyfrifiadurol wedi'i chynllunio i efelychu sgwrs gyda phobl, gan ddefnyddio prosesu iaith naturiol yn aml."
         }
       }
     },
@@ -621,6 +825,26 @@
       }
     },
     {
+      "id": "computer_vision",
+      "topics": [
+        "ai"
+      ],
+      "translations": {
+        "en": {
+          "term": "Computer Vision",
+          "definition": "A field of AI that enables computers to interpret and understand images and video from the real world."
+        },
+        "pl": {
+          "term": "Wizja komputerowa",
+          "definition": "Dziedzina sztucznej inteligencji umożliwiająca komputerom interpretowanie i rozumienie obrazów i filmów ze świata rzeczywistego."
+        },
+        "cy": {
+          "term": "Gweledigaeth Cyfrifiadur",
+          "definition": "Maes AI sy'n galluogi cyfrifiaduron i ddehongli a deall delweddau a fideo o'r byd real."
+        }
+      }
+    },
+    {
       "id": "condition",
       "topics": [
         "programming",
@@ -662,6 +886,26 @@
       }
     },
     {
+      "id": "control_system",
+      "topics": [
+        "robotics"
+      ],
+      "translations": {
+        "en": {
+          "term": "Control System",
+          "definition": "A system that monitors inputs and adjusts outputs to achieve a desired result, such as a thermostat regulating temperature."
+        },
+        "pl": {
+          "term": "System sterowania",
+          "definition": "System monitorujący wejścia i dostosowujący wyjścia w celu osiągnięcia pożądanego rezultatu, np. termostat regulujący temperaturę."
+        },
+        "cy": {
+          "term": "System Reoli",
+          "definition": "System sy'n monitro mewnbynnau ac yn addasu allbynnau i gyflawni canlyniad dymunol, fel thermostat yn rheoli tymheredd."
+        }
+      }
+    },
+    {
       "id": "copyright",
       "topics": [
         "ethics"
@@ -698,6 +942,46 @@
         "cy": {
           "term": "CPU",
           "definition": "Yr Uned Brosesu Ganolog; y prif sglodyn sy'n cyflawni cyfarwyddiadau mewn cyfrifiadur."
+        }
+      }
+    },
+    {
+      "id": "crud",
+      "topics": [
+        "data"
+      ],
+      "translations": {
+        "en": {
+          "term": "CRUD",
+          "definition": "The four basic operations that can be performed on data in a database: Create, Read, Update and Delete."
+        },
+        "pl": {
+          "term": "CRUD",
+          "definition": "Cztery podstawowe operacje, które można wykonać na danych w bazie danych: Tworzenie, Odczytywanie, Aktualizowanie i Usuwanie."
+        },
+        "cy": {
+          "term": "CRUD",
+          "definition": "Y pedair prif weithrediad y gellir eu perfformio ar ddata mewn cronfa ddata: Creu, Darllen, Diweddaru a Dileu."
+        }
+      }
+    },
+    {
+      "id": "cyber_attack",
+      "topics": [
+        "security"
+      ],
+      "translations": {
+        "en": {
+          "term": "Cyber Attack",
+          "definition": "A deliberate attempt by individuals or groups to breach the information systems of another person or organisation."
+        },
+        "pl": {
+          "term": "Cyberatak",
+          "definition": "Celowa próba osób lub grup naruszenia systemów informatycznych innej osoby lub organizacji."
+        },
+        "cy": {
+          "term": "Seiberymosodiad",
+          "definition": "Ymgais fwriadol gan unigolion neu grwpiau i dorri i mewn i systemau gwybodaeth person neu sefydliad arall."
         }
       }
     },
@@ -743,6 +1027,47 @@
       }
     },
     {
+      "id": "data_type_db",
+      "topics": [
+        "data"
+      ],
+      "translations": {
+        "en": {
+          "term": "Field Data Type",
+          "definition": "The type of data a database field is set to hold, such as text, integer, date or boolean."
+        },
+        "pl": {
+          "term": "Typ danych pola",
+          "definition": "Typ danych, który pole bazy danych jest ustawione do przechowywania, np. tekst, liczba całkowita, data lub wartość logiczna."
+        },
+        "cy": {
+          "term": "Math Data Maes",
+          "definition": "Y math o ddata y mae maes cronfa ddata wedi'i osod i'w ddal, fel testun, cyfanrif, dyddiad neu boolean."
+        }
+      }
+    },
+    {
+      "id": "data_validation",
+      "topics": [
+        "data",
+        "software_development"
+      ],
+      "translations": {
+        "en": {
+          "term": "Data Validation",
+          "definition": "Checks performed to ensure data entered into a system meets the required format, type and range."
+        },
+        "pl": {
+          "term": "Walidacja danych",
+          "definition": "Sprawdzenia wykonywane w celu zapewnienia, że dane wprowadzane do systemu spełniają wymagany format, typ i zakres."
+        },
+        "cy": {
+          "term": "Dilysu Data",
+          "definition": "Gwiriadau a wneir i sicrhau bod data a gofnodir i mewn i system yn cwrdd â'r fformat, math ac ystod ofynnol."
+        }
+      }
+    },
+    {
       "id": "database",
       "translations": {
         "en": {
@@ -761,6 +1086,26 @@
       "topics": [
         "data"
       ]
+    },
+    {
+      "id": "ddos",
+      "topics": [
+        "security"
+      ],
+      "translations": {
+        "en": {
+          "term": "DDoS Attack",
+          "definition": "A Distributed Denial of Service attack that overwhelms a server with traffic from many sources to make it unavailable."
+        },
+        "pl": {
+          "term": "Atak DDoS",
+          "definition": "Rozproszony atak odmowy usługi, który przeciąża serwer ruchem z wielu źródeł, czyniąc go niedostępnym."
+        },
+        "cy": {
+          "term": "Ymosodiad DDoS",
+          "definition": "Ymosodiad Gwadu Gwasanaeth Dosbarthedig sy'n llethu gweinydd â thraffig o lawer o ffynonellau i'w wneud yn anghael."
+        }
+      }
     },
     {
       "id": "debugging",
@@ -865,6 +1210,26 @@
       }
     },
     {
+      "id": "efficiency",
+      "topics": [
+        "algorithms"
+      ],
+      "translations": {
+        "en": {
+          "term": "Algorithm Efficiency",
+          "definition": "A measure of how well an algorithm uses time and memory resources, particularly as the size of the input grows."
+        },
+        "pl": {
+          "term": "Wydajność algorytmu",
+          "definition": "Miara tego, jak dobrze algorytm wykorzystuje zasoby czasowe i pamięciowe, szczególnie gdy rozmiar danych wejściowych rośnie."
+        },
+        "cy": {
+          "term": "Effeithlonrwydd Algorithm",
+          "definition": "Mesur o ba mor dda y mae algorithm yn defnyddio adnoddau amser a chof, yn enwedig wrth i faint y mewnbwn dyfu."
+        }
+      }
+    },
+    {
       "id": "encryption",
       "translations": {
         "en": {
@@ -925,6 +1290,26 @@
       }
     },
     {
+      "id": "finite_state_machine",
+      "topics": [
+        "theory"
+      ],
+      "translations": {
+        "en": {
+          "term": "Finite State Machine",
+          "definition": "A model of computation that moves between a fixed set of states based on inputs, used to design systems and recognise patterns."
+        },
+        "pl": {
+          "term": "Skończony automat stanowy",
+          "definition": "Model obliczeniowy przechodzący między ustaloną liczbą stanów na podstawie danych wejściowych, używany do projektowania systemów i rozpoznawania wzorców."
+        },
+        "cy": {
+          "term": "Peiriant Cyflwr Cyfyngedig",
+          "definition": "Model cyfrifiadol sy'n symud rhwng set benodol o gyflyrau yn seiliedig ar fewnbynnau, a ddefnyddir i ddylunio systemau ac adnabod patrymau."
+        }
+      }
+    },
+    {
       "id": "firewall",
       "translations": {
         "en": {
@@ -943,6 +1328,68 @@
       "topics": [
         "security"
       ]
+    },
+    {
+      "id": "flat_file",
+      "topics": [
+        "data"
+      ],
+      "translations": {
+        "en": {
+          "term": "Flat File Database",
+          "definition": "A database stored in a single table with no links to other tables; simple but can lead to repeated data."
+        },
+        "pl": {
+          "term": "Płaska baza danych",
+          "definition": "Baza danych przechowywana w jednej tabeli bez powiązań z innymi tabelami; prosta, ale może prowadzić do powtarzania danych."
+        },
+        "cy": {
+          "term": "Cronfa Ddata Ffeil Wastad",
+          "definition": "Cronfa ddata wedi'i storio mewn un tabl heb gysylltiadau â thablau eraill; syml ond gall arwain at ddata ailadroddus."
+        }
+      }
+    },
+    {
+      "id": "flowchart",
+      "topics": [
+        "robotics",
+        "algorithms",
+        "computational_thinking"
+      ],
+      "translations": {
+        "en": {
+          "term": "Flowchart",
+          "definition": "A diagram that uses shapes and arrows to represent the steps and decisions in an algorithm or process."
+        },
+        "pl": {
+          "term": "Schemat blokowy",
+          "definition": "Diagram używający kształtów i strzałek do reprezentowania kroków i decyzji w algorytmie lub procesie."
+        },
+        "cy": {
+          "term": "Siart Llif",
+          "definition": "Diagram sy'n defnyddio siapiau a saethau i gynrychioli'r camau a'r penderfyniadau mewn algorithm neu broses."
+        }
+      }
+    },
+    {
+      "id": "foreign_key",
+      "topics": [
+        "data"
+      ],
+      "translations": {
+        "en": {
+          "term": "Foreign Key",
+          "definition": "A field in one table that links to the primary key in another table, creating a relationship between the two."
+        },
+        "pl": {
+          "term": "Klucz obcy",
+          "definition": "Pole w jednej tabeli łączące się z kluczem głównym w innej tabeli, tworząc relację między nimi."
+        },
+        "cy": {
+          "term": "Allwedd Dramor",
+          "definition": "Maes mewn un tabl sy'n cysylltu â'r allwedd gynradd mewn tabl arall, gan greu perthynas rhwng y ddau."
+        }
+      }
     },
     {
       "id": "function",
@@ -1041,6 +1488,26 @@
         "cy": {
           "term": "Graff",
           "definition": "Strwythur data wedi'i wneud o nodau (fertigau) wedi'u cysylltu gan ymylon; gellir ei ddefnyddio i fodelu rhwydweithiau a pherthnasoedd."
+        }
+      }
+    },
+    {
+      "id": "halting_problem",
+      "topics": [
+        "theory"
+      ],
+      "translations": {
+        "en": {
+          "term": "Halting Problem",
+          "definition": "A famous problem proving that no algorithm can always determine whether any given program will finish or run forever."
+        },
+        "pl": {
+          "term": "Problem stopu",
+          "definition": "Słynny problem udowadniający, że żaden algorytm nie może zawsze stwierdzić, czy dany program zakończy działanie, czy będzie działał wiecznie."
+        },
+        "cy": {
+          "term": "Problem Atal",
+          "definition": "Problem enwog sy'n profi na all unrhyw algorithm bennu bob amser a fydd rhaglen benodol yn gorffen neu'n rhedeg am byth."
         }
       }
     },
@@ -1187,6 +1654,26 @@
       }
     },
     {
+      "id": "insertion_sort",
+      "topics": [
+        "algorithms"
+      ],
+      "translations": {
+        "en": {
+          "term": "Insertion Sort",
+          "definition": "A sorting algorithm that builds a sorted list one item at a time by inserting each new item into its correct position."
+        },
+        "pl": {
+          "term": "Sortowanie przez wstawianie",
+          "definition": "Algorytm sortowania budujący posortowaną listę po jednym elemencie naraz, wstawiając każdy nowy element na właściwą pozycję."
+        },
+        "cy": {
+          "term": "Didoli Mewnosod",
+          "definition": "Algorithm didoli sy'n adeiladu rhestr wedi'i didoli un eitem ar y tro drwy fewnosod pob eitem newydd yn ei safle cywir."
+        }
+      }
+    },
+    {
       "id": "internet",
       "topics": [
         "networking"
@@ -1223,6 +1710,26 @@
         "cy": {
           "term": "Dehonglydd",
           "definition": "Rhaglen sy'n cyfieithu ac yn rhedeg rhaglen iaith lefel uchel un llinell ar y tro."
+        }
+      }
+    },
+    {
+      "id": "intractable",
+      "topics": [
+        "theory"
+      ],
+      "translations": {
+        "en": {
+          "term": "Intractable Problem",
+          "definition": "A problem that cannot be solved in a reasonable time as the input grows; no efficient algorithm is known."
+        },
+        "pl": {
+          "term": "Problem nierozwiązywalny",
+          "definition": "Problem, który nie może być rozwiązany w rozsądnym czasie wraz ze wzrostem danych wejściowych; nie jest znany żaden wydajny algorytm."
+        },
+        "cy": {
+          "term": "Problem Anhydrin",
+          "definition": "Problem na ellir ei ddatrys mewn amser rhesymol wrth i'r mewnbwn dyfu; nid oes algorithm effeithlon hysbys."
         }
       }
     },
@@ -1283,6 +1790,26 @@
         "cy": {
           "term": "LAN",
           "definition": "Rhwydwaith Ardal Leol; yn cysylltu dyfeisiau o fewn ardal fach fel adeilad ysgol neu swyddfa."
+        }
+      }
+    },
+    {
+      "id": "linear_search",
+      "topics": [
+        "algorithms"
+      ],
+      "translations": {
+        "en": {
+          "term": "Linear Search",
+          "definition": "A search algorithm that checks each item in a list one by one until the target is found or the list is exhausted."
+        },
+        "pl": {
+          "term": "Wyszukiwanie liniowe",
+          "definition": "Algorytm wyszukiwania sprawdzający każdy element listy po kolei, aż znajdzie cel lub wyczerpie listę."
+        },
+        "cy": {
+          "term": "Chwilio Llinol",
+          "definition": "Algorithm chwilio sy'n gwirio pob eitem mewn rhestr un ar y tro nes dod o hyd i'r targed neu orffen y rhestr."
         }
       }
     },
@@ -1470,6 +1997,26 @@
       }
     },
     {
+      "id": "machine_learning",
+      "topics": [
+        "ai"
+      ],
+      "translations": {
+        "en": {
+          "term": "Machine Learning",
+          "definition": "A type of AI where a computer learns to make decisions by finding patterns in data rather than being given explicit instructions."
+        },
+        "pl": {
+          "term": "Uczenie maszynowe",
+          "definition": "Rodzaj sztucznej inteligencji, w którym komputer uczy się podejmować decyzje, znajdując wzorce w danych, zamiast otrzymywać wyraźne instrukcje."
+        },
+        "cy": {
+          "term": "Dysgu Peiriant",
+          "definition": "Math o AI lle mae cyfrifiadur yn dysgu gwneud penderfyniadau drwy ddarganfod patrymau mewn data yn hytrach na derbyn cyfarwyddiadau penodol."
+        }
+      }
+    },
+    {
       "id": "maintainability",
       "topics": [
         "software_development"
@@ -1508,6 +2055,68 @@
       "topics": [
         "security"
       ]
+    },
+    {
+      "id": "merge_sort",
+      "topics": [
+        "algorithms"
+      ],
+      "translations": {
+        "en": {
+          "term": "Merge Sort",
+          "definition": "A sorting algorithm that splits a list in half repeatedly, sorts each half, then merges them back together in order."
+        },
+        "pl": {
+          "term": "Sortowanie przez scalanie",
+          "definition": "Algorytm sortowania, który wielokrotnie dzieli listę na pół, sortuje każdą połowę, a następnie scala je z powrotem w kolejności."
+        },
+        "cy": {
+          "term": "Didoli Uno",
+          "definition": "Algorithm didoli sy'n hollti rhestr yn ei hanner dro ar ôl tro, yn didoli pob hanner, yna'n eu huno yn ôl at ei gilydd mewn trefn."
+        }
+      }
+    },
+    {
+      "id": "microbit",
+      "topics": [
+        "robotics",
+        "programming"
+      ],
+      "translations": {
+        "en": {
+          "term": "micro:bit",
+          "definition": "A small programmable device designed to help young people learn computing, with built-in sensors, LEDs and wireless connectivity."
+        },
+        "pl": {
+          "term": "micro:bit",
+          "definition": "Małe programowalne urządzenie zaprojektowane, aby pomóc młodym ludziom uczyć się informatyki, z wbudowanymi czujnikami, diodami LED i łącznością bezprzewodową."
+        },
+        "cy": {
+          "term": "micro:bit",
+          "definition": "Dyfais raglennadwy fach wedi'i chynllunio i helpu pobl ifanc i ddysgu cyfrifiadeg, gyda synwyryddion, LEDau a chysylltedd di-wifr wedi'u hadeiladu i mewn."
+        }
+      }
+    },
+    {
+      "id": "microcontroller",
+      "topics": [
+        "robotics",
+        "hardware"
+      ],
+      "translations": {
+        "en": {
+          "term": "Microcontroller",
+          "definition": "A small computer on a single chip that can read inputs from sensors and control outputs, commonly used in physical computing projects."
+        },
+        "pl": {
+          "term": "Mikrokontroler",
+          "definition": "Mały komputer na jednym chipie, który może odczytywać dane z czujników i sterować wyjściami, powszechnie używany w projektach z zakresu fizycznego przetwarzania."
+        },
+        "cy": {
+          "term": "Micreolydd",
+          "definition": "Cyfrifiadur bach ar un sglodyn sy'n gallu darllen mewnbynnau o synwyryddion a rheoli allbynnau, a ddefnyddir yn gyffredin mewn prosiectau cyfrifiadeg ffisegol."
+        }
+      }
     },
     {
       "id": "motherboard",
@@ -1550,6 +2159,26 @@
       }
     },
     {
+      "id": "natural_language_processing",
+      "topics": [
+        "ai"
+      ],
+      "translations": {
+        "en": {
+          "term": "Natural Language Processing",
+          "definition": "A branch of AI that enables computers to understand, interpret and generate human language."
+        },
+        "pl": {
+          "term": "Przetwarzanie języka naturalnego",
+          "definition": "Gałąź sztucznej inteligencji umożliwiająca komputerom rozumienie, interpretowanie i generowanie ludzkiego języka."
+        },
+        "cy": {
+          "term": "Prosesu Iaith Naturiol",
+          "definition": "Cangen o AI sy'n galluogi cyfrifiaduron i ddeall, dehongli a chynhyrchu iaith ddynol."
+        }
+      }
+    },
+    {
       "id": "network",
       "topics": [
         "networking"
@@ -1570,6 +2199,26 @@
       }
     },
     {
+      "id": "neural_network",
+      "topics": [
+        "ai"
+      ],
+      "translations": {
+        "en": {
+          "term": "Neural Network",
+          "definition": "An AI system loosely inspired by the human brain, made up of layers of connected nodes that process and learn from data."
+        },
+        "pl": {
+          "term": "Sieć neuronowa",
+          "definition": "System sztucznej inteligencji luźno inspirowany ludzkim mózgiem, złożony z warstw połączonych węzłów przetwarzających i uczących się na danych."
+        },
+        "cy": {
+          "term": "Rhwydwaith Niwral",
+          "definition": "System AI wedi'i ysbrydoli'n fras gan yr ymennydd dynol, wedi'i wneud o haenau o nodau cysylltiedig sy'n prosesu ac yn dysgu o ddata."
+        }
+      }
+    },
+    {
       "id": "nor_gate",
       "topics": [
         "logic"
@@ -1586,6 +2235,26 @@
         "cy": {
           "term": "Porth NOR",
           "definition": "Porth rhesymeg sy'n allbynnu 1 dim ond pan fo pob mewnbwn yn 0; gwrthwyneb porth OR."
+        }
+      }
+    },
+    {
+      "id": "normalisation",
+      "topics": [
+        "data"
+      ],
+      "translations": {
+        "en": {
+          "term": "Normalisation",
+          "definition": "The process of organising a database to reduce data repetition and improve data integrity."
+        },
+        "pl": {
+          "term": "Normalizacja",
+          "definition": "Proces organizowania bazy danych w celu zmniejszenia powtórzeń danych i poprawy ich integralności."
+        },
+        "cy": {
+          "term": "Normaleiddio",
+          "definition": "Y broses o drefnu cronfa ddata i leihau ailadrodd data a gwella cywirdeb data."
         }
       }
     },
@@ -1812,6 +2481,27 @@
       }
     },
     {
+      "id": "patch",
+      "topics": [
+        "security",
+        "software"
+      ],
+      "translations": {
+        "en": {
+          "term": "Software Patch",
+          "definition": "An update released by developers to fix security vulnerabilities or bugs in a program."
+        },
+        "pl": {
+          "term": "Łatka oprogramowania",
+          "definition": "Aktualizacja wydana przez programistów w celu naprawienia luk bezpieczeństwa lub błędów w programie."
+        },
+        "cy": {
+          "term": "Clwt Meddalwedd",
+          "definition": "Diweddariad a ryddheir gan ddatblygwyr i drwsio gwendidau diogelwch neu fygiau mewn rhaglen."
+        }
+      }
+    },
+    {
       "id": "pattern_recognition",
       "topics": [
         "computational_thinking"
@@ -1850,6 +2540,26 @@
       "topics": [
         "security"
       ]
+    },
+    {
+      "id": "physical_computing",
+      "topics": [
+        "robotics"
+      ],
+      "translations": {
+        "en": {
+          "term": "Physical Computing",
+          "definition": "Building interactive systems that can sense and respond to the real world, using hardware such as microcontrollers and sensors."
+        },
+        "pl": {
+          "term": "Fizyczne przetwarzanie",
+          "definition": "Budowanie interaktywnych systemów, które mogą wykrywać i reagować na rzeczywisty świat, używając sprzętu takiego jak mikrokontrolery i czujniki."
+        },
+        "cy": {
+          "term": "Cyfrifiadeg Ffisegol",
+          "definition": "Adeiladu systemau rhyngweithiol sy'n gallu synhwyro ac ymateb i'r byd real, gan ddefnyddio caledwedd fel micreolyddion a synwyryddion."
+        }
+      }
     },
     {
       "id": "pixel",
@@ -1975,6 +2685,27 @@
       ]
     },
     {
+      "id": "pseudocode",
+      "topics": [
+        "algorithms",
+        "programming"
+      ],
+      "translations": {
+        "en": {
+          "term": "Pseudocode",
+          "definition": "An informal way of describing an algorithm using plain language and simple code-like structures, without following the rules of any specific language."
+        },
+        "pl": {
+          "term": "Pseudokod",
+          "definition": "Nieformalny sposób opisywania algorytmu przy użyciu prostego języka i prostych struktur podobnych do kodu, bez przestrzegania zasad żadnego konkretnego języka."
+        },
+        "cy": {
+          "term": "Ffug-god",
+          "definition": "Ffordd anffurfiol o ddisgrifio algorithm gan ddefnyddio iaith syml a strwythurau tebyg i god syml, heb ddilyn rheolau unrhyw iaith benodol."
+        }
+      }
+    },
+    {
       "id": "query",
       "translations": {
         "en": {
@@ -2055,6 +2786,68 @@
       ]
     },
     {
+      "id": "recursion",
+      "topics": [
+        "algorithms",
+        "programming"
+      ],
+      "translations": {
+        "en": {
+          "term": "Recursion",
+          "definition": "A technique where a function calls itself to solve smaller versions of the same problem until a base case is reached."
+        },
+        "pl": {
+          "term": "Rekurencja",
+          "definition": "Technika, w której funkcja wywołuje samą siebie, aby rozwiązać mniejsze wersje tego samego problemu, aż zostanie osiągnięty przypadek bazowy."
+        },
+        "cy": {
+          "term": "Ailadroddiad",
+          "definition": "Techneg lle mae ffwythiant yn galw arno'i hun i ddatrys fersiynau llai o'r un broblem nes cyrraedd achos sylfaenol."
+        }
+      }
+    },
+    {
+      "id": "regular_expression",
+      "topics": [
+        "theory",
+        "programming"
+      ],
+      "translations": {
+        "en": {
+          "term": "Regular Expression",
+          "definition": "A sequence of characters that defines a search pattern, used to match or validate strings of text."
+        },
+        "pl": {
+          "term": "Wyrażenie regularne",
+          "definition": "Ciąg znaków definiujący wzorzec wyszukiwania, używany do dopasowywania lub walidacji ciągów tekstowych."
+        },
+        "cy": {
+          "term": "Mynegiad Rheolaidd",
+          "definition": "Dilyniant o nodau sy'n diffinio patrwm chwilio, a ddefnyddir i gyfateb neu ddilysu llinynau o destun."
+        }
+      }
+    },
+    {
+      "id": "relational_database",
+      "topics": [
+        "data"
+      ],
+      "translations": {
+        "en": {
+          "term": "Relational Database",
+          "definition": "A database that organises data into related tables linked by keys, reducing repetition and making data easier to manage."
+        },
+        "pl": {
+          "term": "Relacyjna baza danych",
+          "definition": "Baza danych organizująca dane w powiązane tabele połączone kluczami, zmniejszając powtórzenia i ułatwiając zarządzanie danymi."
+        },
+        "cy": {
+          "term": "Cronfa Ddata Berthynol",
+          "definition": "Cronfa ddata sy'n trefnu data mewn tablau cysylltiedig wedi'u cysylltu gan allweddi, gan leihau ailadrodd a gwneud data yn haws i'w reoli."
+        }
+      }
+    },
+    {
       "id": "resolution",
       "topics": [
         "data_representation"
@@ -2091,6 +2884,26 @@
         "cy": {
           "term": "Gwerth Dychwelyd",
           "definition": "Y data mae ffwythiant yn ei anfon yn ôl ar ôl iddo orffen rhedeg."
+        }
+      }
+    },
+    {
+      "id": "robot",
+      "topics": [
+        "robotics"
+      ],
+      "translations": {
+        "en": {
+          "term": "Robot",
+          "definition": "A machine that can carry out tasks automatically or under computer control, often interacting with the physical world."
+        },
+        "pl": {
+          "term": "Robot",
+          "definition": "Maszyna, która może wykonywać zadania automatycznie lub pod kontrolą komputera, często wchodząc w interakcję ze środowiskiem fizycznym."
+        },
+        "cy": {
+          "term": "Robot",
+          "definition": "Peiriant sy'n gallu cyflawni tasgau yn awtomatig neu o dan reolaeth cyfrifiadur, gan ryngweithio â'r byd ffisegol yn aml."
         }
       }
     },
@@ -2176,6 +2989,27 @@
       ]
     },
     {
+      "id": "sensor",
+      "topics": [
+        "robotics",
+        "hardware"
+      ],
+      "translations": {
+        "en": {
+          "term": "Sensor",
+          "definition": "A device that detects changes in the physical environment, such as light, temperature or movement, and sends data to a computer."
+        },
+        "pl": {
+          "term": "Czujnik",
+          "definition": "Urządzenie wykrywające zmiany w środowisku fizycznym, takie jak światło, temperatura lub ruch, i wysyłające dane do komputera."
+        },
+        "cy": {
+          "term": "Synhwyrydd",
+          "definition": "Dyfais sy'n canfod newidiadau yn yr amgylchedd ffisegol, fel golau, tymheredd neu symudiad, ac yn anfon data i gyfrifiadur."
+        }
+      }
+    },
+    {
       "id": "sequence",
       "translations": {
         "en": {
@@ -2196,6 +3030,26 @@
       ]
     },
     {
+      "id": "social_engineering",
+      "topics": [
+        "security"
+      ],
+      "translations": {
+        "en": {
+          "term": "Social Engineering",
+          "definition": "Manipulating people into revealing confidential information or performing actions that compromise security."
+        },
+        "pl": {
+          "term": "Inżynieria społeczna",
+          "definition": "Manipulowanie ludźmi w celu ujawnienia poufnych informacji lub wykonania działań naruszających bezpieczeństwo."
+        },
+        "cy": {
+          "term": "Peirianneg Gymdeithasol",
+          "definition": "Trin pobl i ddatgelu gwybodaeth gyfrinachol neu gyflawni gweithredoedd sy'n peryglu diogelwch."
+        }
+      }
+    },
+    {
       "id": "software_development_lifecycle",
       "topics": [
         "software_development"
@@ -2212,6 +3066,46 @@
         "cy": {
           "term": "Cylch Bywyd Datblygu Meddalwedd",
           "definition": "Y camau y mae prosiect meddalwedd yn mynd drwyddynt o'r syniad cychwynnol i'w ddefnyddio a'i gynnal."
+        }
+      }
+    },
+    {
+      "id": "sql",
+      "topics": [
+        "data"
+      ],
+      "translations": {
+        "en": {
+          "term": "SQL",
+          "definition": "Structured Query Language; a language used to create, read, update and delete data in a relational database."
+        },
+        "pl": {
+          "term": "SQL",
+          "definition": "Strukturalny język zapytań; język używany do tworzenia, odczytywania, aktualizowania i usuwania danych w relacyjnej bazie danych."
+        },
+        "cy": {
+          "term": "SQL",
+          "definition": "Iaith Ymholiad Strwythuredig; iaith a ddefnyddir i greu, darllen, diweddaru a dileu data mewn cronfa ddata berthynol."
+        }
+      }
+    },
+    {
+      "id": "sql_injection",
+      "topics": [
+        "security"
+      ],
+      "translations": {
+        "en": {
+          "term": "SQL Injection",
+          "definition": "An attack where malicious SQL code is inserted into an input field to manipulate or access a database without authorisation."
+        },
+        "pl": {
+          "term": "Wstrzyknięcie SQL",
+          "definition": "Atak polegający na wstawieniu złośliwego kodu SQL do pola wejściowego w celu manipulowania bazą danych lub uzyskania do niej nieautoryzowanego dostępu."
+        },
+        "cy": {
+          "term": "Mewnchwistrellu SQL",
+          "definition": "Ymosodiad lle mae cod SQL maleisus yn cael ei fewnosod mewn maes mewnbwn i drin neu gyrchu cronfa ddata heb awdurdod."
         }
       }
     },
@@ -2274,6 +3168,26 @@
       "topics": [
         "programming"
       ]
+    },
+    {
+      "id": "supervised_learning",
+      "topics": [
+        "ai"
+      ],
+      "translations": {
+        "en": {
+          "term": "Supervised Learning",
+          "definition": "A type of machine learning where a model is trained on labelled data, with correct answers provided to guide learning."
+        },
+        "pl": {
+          "term": "Uczenie nadzorowane",
+          "definition": "Rodzaj uczenia maszynowego, w którym model jest trenowany na oznaczonych danych, z dostarczonymi poprawnymi odpowiedziami w celu kierowania uczeniem."
+        },
+        "cy": {
+          "term": "Dysgu Goruchwyliedig",
+          "definition": "Math o ddysgu peiriant lle hyfforddir model ar ddata wedi'i labelu, gydag atebion cywir yn cael eu darparu i arwain y dysgu."
+        }
+      }
     },
     {
       "id": "syntax_error",
@@ -2397,6 +3311,46 @@
       }
     },
     {
+      "id": "tractable",
+      "topics": [
+        "theory"
+      ],
+      "translations": {
+        "en": {
+          "term": "Tractable Problem",
+          "definition": "A problem that can be solved by an algorithm in a reasonable amount of time, typically with polynomial time complexity."
+        },
+        "pl": {
+          "term": "Problem rozwiązywalny",
+          "definition": "Problem, który może być rozwiązany przez algorytm w rozsądnym czasie, zazwyczaj o złożoności wielomianowej."
+        },
+        "cy": {
+          "term": "Problem Hydrin",
+          "definition": "Problem y gellir ei ddatrys gan algorithm mewn amser rhesymol, fel arfer gyda chymhlethdod amser polynomaidd."
+        }
+      }
+    },
+    {
+      "id": "training_data",
+      "topics": [
+        "ai"
+      ],
+      "translations": {
+        "en": {
+          "term": "Training Data",
+          "definition": "The dataset used to teach a machine learning model to recognise patterns and make predictions."
+        },
+        "pl": {
+          "term": "Dane treningowe",
+          "definition": "Zbiór danych używany do uczenia modelu uczenia maszynowego rozpoznawania wzorców i dokonywania przewidywań."
+        },
+        "cy": {
+          "term": "Data Hyfforddi",
+          "definition": "Y set ddata a ddefnyddir i ddysgu model dysgu peiriant i adnabod patrymau a gwneud rhagfynegiadau."
+        }
+      }
+    },
+    {
       "id": "tree",
       "topics": [
         "data_structures"
@@ -2437,6 +3391,46 @@
       }
     },
     {
+      "id": "turing_machine",
+      "topics": [
+        "theory"
+      ],
+      "translations": {
+        "en": {
+          "term": "Turing Machine",
+          "definition": "A theoretical model of computation that reads and writes symbols on an infinite tape, used to define what can and cannot be computed."
+        },
+        "pl": {
+          "term": "Maszyna Turinga",
+          "definition": "Teoretyczny model obliczeniowy odczytujący i zapisujący symbole na nieskończonej taśmie, używany do określenia, co może, a co nie może być obliczone."
+        },
+        "cy": {
+          "term": "Peiriant Turing",
+          "definition": "Model damcaniaethol o gyfrifiadaeth sy'n darllen ac yn ysgrifennu symbolau ar dâp anfeidrol, a ddefnyddir i ddiffinio beth ellir a beth na ellir ei gyfrifo."
+        }
+      }
+    },
+    {
+      "id": "two_factor_auth",
+      "topics": [
+        "security"
+      ],
+      "translations": {
+        "en": {
+          "term": "Two-Factor Authentication",
+          "definition": "A security method that requires two separate forms of verification before granting access to an account."
+        },
+        "pl": {
+          "term": "Uwierzytelnianie dwuskładnikowe",
+          "definition": "Metoda bezpieczeństwa wymagająca dwóch oddzielnych form weryfikacji przed udzieleniem dostępu do konta."
+        },
+        "cy": {
+          "term": "Dilysu Dau Ffactor",
+          "definition": "Dull diogelwch sy'n gofyn am ddwy ffurf ar wahân o ddilysu cyn rhoi mynediad i gyfrif."
+        }
+      }
+    },
+    {
       "id": "unicode",
       "topics": [
         "data_representation"
@@ -2453,6 +3447,26 @@
         "cy": {
           "term": "Unicode",
           "definition": "Safon amgodio nodau sy'n cefnogi nodau o holl ieithoedd y byd, gan ymestyn y tu hwnt i ASCII."
+        }
+      }
+    },
+    {
+      "id": "unsupervised_learning",
+      "topics": [
+        "ai"
+      ],
+      "translations": {
+        "en": {
+          "term": "Unsupervised Learning",
+          "definition": "A type of machine learning where a model finds patterns in data without being given labelled examples or correct answers."
+        },
+        "pl": {
+          "term": "Uczenie nienadzorowane",
+          "definition": "Rodzaj uczenia maszynowego, w którym model znajduje wzorce w danych bez podawania oznaczonych przykładów ani poprawnych odpowiedzi."
+        },
+        "cy": {
+          "term": "Dysgu Heb Oruchwyliaeth",
+          "definition": "Math o ddysgu peiriant lle mae model yn darganfod patrymau mewn data heb gael enghreifftiau wedi'u labelu nac atebion cywir."
         }
       }
     },
@@ -2513,6 +3527,26 @@
         "cy": {
           "term": "Pensaernïaeth Von Neumann",
           "definition": "Model dylunio cyfrifiadur lle mae'r CPU, y cof a mewnbwn/allbwn yn rhannu un llwybr data o'r enw'r bws."
+        }
+      }
+    },
+    {
+      "id": "vulnerability",
+      "topics": [
+        "security"
+      ],
+      "translations": {
+        "en": {
+          "term": "Vulnerability",
+          "definition": "A weakness in a system, software or network that could be exploited by an attacker to gain unauthorised access."
+        },
+        "pl": {
+          "term": "Podatność",
+          "definition": "Słabość systemu, oprogramowania lub sieci, którą atakujący może wykorzystać do uzyskania nieautoryzowanego dostępu."
+        },
+        "cy": {
+          "term": "Gwendid",
+          "definition": "Gwendid mewn system, meddalwedd neu rwydwaith y gallai ymosodwr ei fanteisio arno i gael mynediad heb awdurdod."
         }
       }
     },
