@@ -4,31 +4,38 @@
     "languages": [
       {
         "code": "en",
-        "label": "English"
+        "label": "English",
+        "english_label": "English"
       },
       {
         "code": "pl",
-        "label": "Polski"
+        "label": "Polski",
+        "english_label": "Polish"
       },
       {
         "code": "cy",
-        "label": "Cymraeg"
+        "label": "Cymraeg",
+        "english_label": "Welsh"
       },
       {
         "code": "ar",
-        "label": "العربية"
+        "label": "العربية",
+        "english_label": "Arabic"
       },
       {
         "code": "ro",
-        "label": "Română"
+        "label": "Română",
+        "english_label": "Romanian"
       },
       {
         "code": "prs",
-        "label": "دری"
+        "label": "دری",
+        "english_label": "Dari"
       },
       {
         "code": "ps",
-        "label": "پښتو"
+        "label": "پښتو",
+        "english_label": "Pashto"
       }
     ]
   },
