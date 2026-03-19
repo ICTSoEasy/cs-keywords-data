@@ -23,6 +23,14 @@
     "ro": {
       "term": "Învățare supervizată",
       "definition": "Un tip de învățare automată în care modelul este antrenat pe date etichetate cu răspunsuri corecte cunoscute."
+    },
+    "prs": {
+      "term": "یادگیری نظارت‌شده",
+      "definition": "نوعی یادگیری ماشین که در آن مدل از داده‌های برچسب‌دار آموزش می‌بیند."
+    },
+    "ps": {
+      "term": "نظارت شوې زده‌کړه",
+      "definition": "د ماشین زده‌کړې یو ډول چې ماډل د نومول شوو معلوماتو له لارې روزل کیږي."
     }
   }
 }

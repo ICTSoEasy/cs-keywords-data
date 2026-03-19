@@ -20,6 +20,14 @@
     "ro": {
       "term": "Adresă IP",
       "definition": "O adresă numerică unică care identifică un dispozitiv într-o rețea."
+    },
+    "prs": {
+      "term": "آدرس IP",
+      "definition": "شناسه عددی منحصربه‌فرد که به هر دستگاه متصل به شبکه اختصاص داده می‌شود."
+    },
+    "ps": {
+      "term": "IP پته",
+      "definition": "ځانګړی عددي پیژندنه چې د شبکې سره وصل هرې وسیلې ته ورکول کیږي."
     }
   },
   "topics": [

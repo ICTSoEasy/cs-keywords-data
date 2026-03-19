@@ -24,6 +24,14 @@
     "ro": {
       "term": "Depanare",
       "definition": "Procesul de identificare și corectare a erorilor dintr-un algoritm sau program."
+    },
+    "prs": {
+      "term": "اشکال‌زدایی",
+      "definition": "یافتن و رفع خطاها در کد."
+    },
+    "ps": {
+      "term": "ډیباګینګ",
+      "definition": "د کوډ کې د غلطیو موندل او سمول."
     }
   }
 }

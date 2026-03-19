@@ -23,6 +23,14 @@
     "ro": {
       "term": "Poartă NAND",
       "definition": "O poartă logică care produce 0 doar când toate intrările sale sunt 1; opusul porții AND."
+    },
+    "prs": {
+      "term": "گیت NAND",
+      "definition": "گیت منطقی که خروجی AND را معکوس می‌کند؛ اگر هر دو ورودی ۱ باشند، خروجی ۰ است."
+    },
+    "ps": {
+      "term": "NAND ګیټ",
+      "definition": "منطقي ګیټ چې د AND پایله معکوسوي؛ که دواړه ننوتونه ۱ وي، پایله ۰ ده."
     }
   }
 }

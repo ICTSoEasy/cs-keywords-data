@@ -24,6 +24,14 @@
     "ro": {
       "term": "Limbaj de nivel scăzut",
       "definition": "Un limbaj de programare mai apropiat de limbajul mașinii, cum ar fi limbajul de asamblare, care controlează direct hardware-ul."
+    },
+    "prs": {
+      "term": "زبان سطح پایین",
+      "definition": "زبان برنامه‌نویسی که به سخت‌افزار نزدیک است، مانند زبان اسمبلی یا کد ماشین."
+    },
+    "ps": {
+      "term": "ټیټ سطحې ژبه",
+      "definition": "د پروګرامینګ ژبه چې سخت‌افزار ته نږدې ده، لکه اسمبلۍ ژبه یا ماشین کوډ."
     }
   }
 }

@@ -23,6 +23,14 @@
     "ro": {
       "term": "Memorie ROM",
       "definition": "Memorie permanentă care conține instrucțiuni care nu pot fi modificate, cum ar fi instrucțiunile de pornire a calculatorului."
+    },
+    "prs": {
+      "term": "حافظه فقط‌خواندنی",
+      "definition": "حافظه دائمی که محتویات آن با خاموش شدن کامپیوتر پاک نمی‌شود."
+    },
+    "ps": {
+      "term": "ROM",
+      "definition": "دایمي حافظه چې محتویات یې د کمپیوټر د بندیدلو سره نه پاکیږي."
     }
   }
 }

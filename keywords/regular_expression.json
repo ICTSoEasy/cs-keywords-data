@@ -24,6 +24,14 @@
     "ro": {
       "term": "Expresie regulată",
       "definition": "O secvență de caractere care formează un tipar de căutare, folosită pentru a căuta, valida sau înlocui text."
+    },
+    "prs": {
+      "term": "عبارت منظم",
+      "definition": "الگویی از کاراکترها که برای جستجو یا اعتبارسنجی رشته‌های متنی استفاده می‌شود."
+    },
+    "ps": {
+      "term": "منظم عبارت",
+      "definition": "د کرکترونو نمونه چې د متني لیکونو لټون یا اعتبار لپاره کارول کیږي."
     }
   }
 }

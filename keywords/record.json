@@ -20,6 +20,14 @@
     "ro": {
       "term": "Înregistrare",
       "definition": "Un rând dintr-un tabel de baze de date care reprezintă un set de date legate de un singur element."
+    },
+    "prs": {
+      "term": "رکورد",
+      "definition": "مجموعه‌ای از فیلدهای مرتبط در پایگاه داده که یک موجودیت را توصیف می‌کند، مانند یک ردیف در جدول."
+    },
+    "ps": {
+      "term": "ریکارډ",
+      "definition": "د ډیټابیس کې د اړونده ساحو ټولګه چې یوه موجودیت توضیح کوي، لکه د جدول یوه کرښه."
     }
   },
   "topics": [

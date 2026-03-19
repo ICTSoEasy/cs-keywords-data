@@ -23,6 +23,14 @@
     "ro": {
       "term": "Ciclul de viață al dezvoltării software",
       "definition": "Etapele urmate pentru planificarea, crearea, testarea și întreținerea unui sistem software."
+    },
+    "prs": {
+      "term": "چرخه عمر توسعه نرم‌افزار",
+      "definition": "مراحل ایجاد نرم‌افزار از برنامه‌ریزی و طراحی تا آزمایش و پشتیبانی."
+    },
+    "ps": {
+      "term": "د سافټویر پراختیا د ژوند دوره",
+      "definition": "د سافټویر د جوړولو ګامونه د پلان او ډیزاین نه تر ازموینې او ساتنې پورې."
     }
   }
 }

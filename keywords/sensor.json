@@ -24,6 +24,14 @@
     "ro": {
       "term": "Senzor",
       "definition": "Un dispozitiv care măsoară o proprietate fizică din lumea reală, cum ar fi temperatura, lumina sau sunetul."
+    },
+    "prs": {
+      "term": "حسگر",
+      "definition": "دستگاهی که تغییرات در محیط فیزیکی مانند دما، نور یا حرکت را تشخیص می‌دهد."
+    },
+    "ps": {
+      "term": "سینسر",
+      "definition": "وسیله چې د فزیکي چاپیریال کې بدلونونه لکه تودوخه، رڼا یا حرکت کشف کوي."
     }
   }
 }

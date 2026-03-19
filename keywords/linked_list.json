@@ -23,6 +23,14 @@
     "ro": {
       "term": "Listă înlănțuită",
       "definition": "O structură de date în care fiecare element indică spre elementul următor din secvență printr-un pointer."
+    },
+    "prs": {
+      "term": "لیست پیوندی",
+      "definition": "ساختار داده‌ای که در آن هر عنصر به عنصر بعدی اشاره می‌کند و یک زنجیره می‌سازد."
+    },
+    "ps": {
+      "term": "لینک لیست",
+      "definition": "د معلوماتو جوړښت چې هر عنصر بل ته اشاره کوي او یوه زنځیره جوړوي."
     }
   }
 }

@@ -23,6 +23,14 @@
     "ro": {
       "term": "Eficiență",
       "definition": "Cât de bine folosește un algoritm timpul și memoria pentru a rezolva o problemă."
+    },
+    "prs": {
+      "term": "کارایی",
+      "definition": "توانایی یک الگوریتم برای حل مسئله با استفاده کمتر از زمان یا حافظه."
+    },
+    "ps": {
+      "term": "اغیزمنتیا",
+      "definition": "د الګوریتم وړتیا چې د لږ وخت یا حافظې کارولو سره ستونزه حل کړي."
     }
   }
 }

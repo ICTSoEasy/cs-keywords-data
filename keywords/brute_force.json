@@ -23,6 +23,14 @@
     "ro": {
       "term": "Forță brută",
       "definition": "O metodă de spargere a sistemelor prin încercarea tuturor combinațiilor posibile până când este găsită cea corectă."
+    },
+    "prs": {
+      "term": "زور خام",
+      "definition": "رویکرد حل مسئله که همه راه‌حل‌های ممکن را امتحان می‌کند تا جواب درست پیدا شود."
+    },
+    "ps": {
+      "term": "بروټ فورس",
+      "definition": "د ستونزې حل کولو لار چې ټولې ممکنه حلونه ازموي ترڅو سم ځواب وموندل شي."
     }
   }
 }

@@ -24,6 +24,14 @@
     "ro": {
       "term": "Limbaj de nivel înalt",
       "definition": "Un limbaj de programare care folosește cuvinte asemănătoare limbajului uman și este ușor de citit și scris."
+    },
+    "prs": {
+      "term": "زبان سطح بالا",
+      "definition": "زبان برنامه‌نویسی که به زبان انسانی نزدیک‌تر است و خواندن و نوشتن آن آسان‌تر است، مانند Python یا Java."
+    },
+    "ps": {
+      "term": "لوړ سطحې ژبه",
+      "definition": "د پروګرامینګ ژبه چې د انساني ژبې ته نږدې ده او لوستل او لیکل یې اسانه دي، لکه Python یا Java."
     }
   }
 }

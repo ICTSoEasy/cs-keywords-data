@@ -24,6 +24,14 @@
     "ro": {
       "term": "Open source",
       "definition": "Software al cărui cod sursă poate fi vizualizat, modificat și distribuit liber de oricine."
+    },
+    "prs": {
+      "term": "متن‌باز",
+      "definition": "نرم‌افزاری که کد منبع آن برای عموم در دسترس است تا هرکسی بتواند آن را ببیند، تغییر دهد و توزیع کند."
+    },
+    "ps": {
+      "term": "خلاص سرچینه",
+      "definition": "سافټویر چې د هر چا لپاره موجود وي ترڅو یې وګوري، بدل کړي او خپور کړي."
     }
   }
 }

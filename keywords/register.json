@@ -23,6 +23,14 @@
     "ro": {
       "term": "Registru",
       "definition": "Un loc de stocare mic și foarte rapid în interiorul procesorului folosit pentru a reține datele și instrucțiunile procesate curent."
+    },
+    "prs": {
+      "term": "رجیستر",
+      "definition": "محل ذخیره‌سازی کوچک و سریعی داخل CPU که داده‌های در حال پردازش را نگه می‌دارد."
+    },
+    "ps": {
+      "term": "رجسټر",
+      "definition": "د CPU دننه کوچنی ګړندی ذخیره ځای چې د پروسس کیدونکو معلوماتو ساتنه کوي."
     }
   }
 }

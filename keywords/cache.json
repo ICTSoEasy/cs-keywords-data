@@ -23,6 +23,14 @@
     "ro": {
       "term": "Memorie cache",
       "definition": "O memorie mică și foarte rapidă în interiorul sau aproape de procesor care stochează datele utilizate recent pentru procesare mai rapidă."
+    },
+    "prs": {
+      "term": "کش",
+      "definition": "حافظه کوچک و سریعی که داده‌های پرمصرف را نزدیک به پردازنده نگه می‌دارد."
+    },
+    "ps": {
+      "term": "کیش",
+      "definition": "کوچنۍ ګړندۍ حافظه چې ډیر کارول شوي معلومات د پروسیسر سره نږدې ساتي."
     }
   }
 }

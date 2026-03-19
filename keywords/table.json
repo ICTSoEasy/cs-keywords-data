@@ -20,6 +20,14 @@
     "ro": {
       "term": "Tabel",
       "definition": "O structură dintr-o bază de date care organizează datele în rânduri și coloane."
+    },
+    "prs": {
+      "term": "جدول",
+      "definition": "مجموعه‌ای از داده‌ها سازمان‌یافته در ردیف‌ها و ستون‌ها در پایگاه داده."
+    },
+    "ps": {
+      "term": "جدول",
+      "definition": "د ډیټابیس کې د کرښو او کالمونو کې تنظیم شوو معلوماتو ټولګه."
     }
   },
   "topics": [

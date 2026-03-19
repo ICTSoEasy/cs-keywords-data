@@ -23,6 +23,14 @@
     "ro": {
       "term": "Obiect",
       "definition": "O instanță a unei clase care are atribute (date) și metode (acțiuni) definite de clasa sa."
+    },
+    "prs": {
+      "term": "شیء",
+      "definition": "در برنامه‌نویسی شیءگرا، نمونه‌ای از یک کلاس که داده و رفتار خود را دارد."
+    },
+    "ps": {
+      "term": "شی",
+      "definition": "د شیانو پروګرامینګ کې، د یوې کلاس نمونه چې خپل معلومات او چلند لري."
     }
   }
 }

@@ -23,6 +23,14 @@
     "ro": {
       "term": "Interpretor",
       "definition": "Un program care convertește și execută codul dintr-un limbaj de nivel înalt linie cu linie."
+    },
+    "prs": {
+      "term": "مفسر",
+      "definition": "برنامه‌ای که کد سطح بالا را خط به خط اجرا می‌کند بدون اینکه ابتدا ترجمه کند."
+    },
+    "ps": {
+      "term": "انټرپریټر",
+      "definition": "هغه پروګرام چې لوړ سطحې کوډ کرښه‌کرښه اجرا کوي پرته لدې چې لومړی یې ژباړي."
     }
   }
 }

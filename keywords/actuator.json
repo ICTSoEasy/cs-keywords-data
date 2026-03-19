@@ -23,6 +23,14 @@
     "ro": {
       "term": "Actuator",
       "definition": "O componentă care transformă energia electrică în mișcare fizică în roboți și sisteme încorporate."
+    },
+    "prs": {
+      "term": "عملگر",
+      "definition": "قطعه‌ای که سیگنال‌های الکتریکی را به حرکت فیزیکی تبدیل می‌کند، مانند موتور یا سروو."
+    },
+    "ps": {
+      "term": "ایکچویټر",
+      "definition": "هغه برخه چې د بریښنایي سیګنالونو څخه فزیکي حرکت جوړوي، لکه موتور یا سرو."
     }
   }
 }

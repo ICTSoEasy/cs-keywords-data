@@ -24,6 +24,14 @@
     "ro": {
       "term": "Patch",
       "definition": "O actualizare software care corectează erori sau vulnerabilități de securitate dintr-un program."
+    },
+    "prs": {
+      "term": "پچ",
+      "definition": "به‌روزرسانی نرم‌افزاری که اشکالات را رفع یا آسیب‌پذیری‌های امنیتی را می‌بندد."
+    },
+    "ps": {
+      "term": "پیچ",
+      "definition": "د سافټویر تازه‌کول چې غلطۍ سموي یا د امنیت زیانمنتیاوې بندوي."
     }
   }
 }

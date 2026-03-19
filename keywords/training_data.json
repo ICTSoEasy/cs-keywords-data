@@ -23,6 +23,14 @@
     "ro": {
       "term": "Date de antrenament",
       "definition": "Datele folosite pentru a antrena un model de învățare automată. Calitatea lor influențează direct performanța modelului."
+    },
+    "prs": {
+      "term": "داده آموزشی",
+      "definition": "داده‌هایی که برای آموزش مدل یادگیری ماشین استفاده می‌شوند."
+    },
+    "ps": {
+      "term": "روزنیز معلومات",
+      "definition": "هغه معلومات چې د ماشین زده‌کړې ماډل روزلو لپاره کارول کیږي."
     }
   }
 }

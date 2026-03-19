@@ -24,6 +24,14 @@
     "ro": {
       "term": "Protecția datelor",
       "definition": "Un set de practici și legi care garantează utilizarea sigură și corectă a datelor personale."
+    },
+    "prs": {
+      "term": "حفاظت از داده",
+      "definition": "قوانین و روش‌هایی که اطمینان می‌دهند اطلاعات شخصی امن نگه‌داری شود."
+    },
+    "ps": {
+      "term": "د معلوماتو ساتنه",
+      "definition": "هغه قوانین او میتودونه چې ډاډ ورکوي چې شخصي معلومات خوندي ساتل کیږي."
     }
   }
 }

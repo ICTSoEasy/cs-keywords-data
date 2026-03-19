@@ -25,6 +25,14 @@
     "ro": {
       "term": "Diagramă de flux",
       "definition": "Un grafic care folosește forme și săgeți pentru a reprezenta pașii unui algoritm sau proces."
+    },
+    "prs": {
+      "term": "نمودار جریان",
+      "definition": "نمودار که مراحل یک الگوریتم یا فرآیند را با اشکال و پیکان نمایش می‌دهد."
+    },
+    "ps": {
+      "term": "فلوچارټ",
+      "definition": "هغه چارت چې د الګوریتم یا پروسې ګامونه د شکلونو او غشونو سره ښیي."
     }
   }
 }

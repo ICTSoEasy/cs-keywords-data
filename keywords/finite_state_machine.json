@@ -23,6 +23,14 @@
     "ro": {
       "term": "Automat cu stări finite",
       "definition": "Un model de calcul care poate fi într-o singură stare dintr-un număr finit de stări la orice moment."
+    },
+    "prs": {
+      "term": "ماشین حالت محدود",
+      "definition": "مدلی که رفتار سیستم را به عنوان تعداد محدودی از حالت‌های ممکن نمایش می‌دهد."
+    },
+    "ps": {
+      "term": "محدود حالت ماشین",
+      "definition": "یو ماډل چې د سیستم چلند د محدودو ممکنه حالتونو په توګه ښیي."
     }
   }
 }

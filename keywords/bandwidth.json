@@ -20,6 +20,14 @@
     "ro": {
       "term": "Lățime de bandă",
       "definition": "Cantitatea maximă de date care poate fi transferată printr-o rețea într-un interval de timp dat."
+    },
+    "prs": {
+      "term": "پهنای باند",
+      "definition": "حداکثر مقدار داده‌ای که می‌تواند در یک زمان از طریق یک شبکه منتقل شود."
+    },
+    "ps": {
+      "term": "بینډوډث",
+      "definition": "د معلوماتو اعظمي مقدار چې یو وخت کې د یوې شبکې له لارې لیږدول کیدی شي."
     }
   },
   "topics": [

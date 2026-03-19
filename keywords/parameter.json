@@ -23,6 +23,14 @@
     "ro": {
       "term": "Parametru",
       "definition": "O variabilă transmisă unei funcții sau proceduri când aceasta este apelată."
+    },
+    "prs": {
+      "term": "پارامتر",
+      "definition": "متغیری که در تعریف تابع استفاده می‌شود و وقتی تابع فراخوانده می‌شود مقدار می‌گیرد."
+    },
+    "ps": {
+      "term": "پارامیټر",
+      "definition": "متغیر چې د فنکشن تعریف کې کارول کیږي او کله چې فنکشن یادیږي ارزښت اخلي."
     }
   }
 }

@@ -23,6 +23,14 @@
     "ro": {
       "term": "World Wide Web",
       "definition": "Un sistem de pagini și resurse interconectate pe internet, accesibil prin browser."
+    },
+    "prs": {
+      "term": "شبکه گسترده جهانی",
+      "definition": "سیستم صفحات وب به هم پیوند خورده که از طریق اینترنت با استفاده از HTTP قابل دسترسی هستند."
+    },
+    "ps": {
+      "term": "د نړۍ پراخه جال",
+      "definition": "د سره تړلو ویب پاڼو سیستم چې د HTTP له لارې انټرنیټ له لارې د لاسرسي وړ دي."
     }
   }
 }

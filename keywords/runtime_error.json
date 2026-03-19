@@ -24,6 +24,14 @@
     "ro": {
       "term": "Eroare de execuție",
       "definition": "O eroare care apare în timpul rulării programului și îl face să se oprească brusc."
+    },
+    "prs": {
+      "term": "خطای زمان اجرا",
+      "definition": "خطایی که در حین اجرای برنامه رخ می‌دهد و معمولاً باعث توقف ناگهانی آن می‌شود."
+    },
+    "ps": {
+      "term": "د اجرا د وخت تیروتنه",
+      "definition": "غلطي چې د پروګرام د چلیدلو پرمهال پیښیږي او معمولاً یې ناڅاپه بندوي."
     }
   }
 }

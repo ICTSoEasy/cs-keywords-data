@@ -20,6 +20,14 @@
     "ro": {
       "term": "Iterație",
       "definition": "Repetarea unui set de instrucțiuni de un număr stabilit de ori sau până când este îndeplinită o condiție."
+    },
+    "prs": {
+      "term": "تکرار",
+      "definition": "اجرای مکرر یک بلوک از کد با استفاده از حلقه."
+    },
+    "ps": {
+      "term": "تکرار",
+      "definition": "د یوه کوډ بلاک مکرر اجرا د لوپ له لارې."
     }
   },
   "topics": [

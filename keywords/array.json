@@ -20,6 +20,14 @@
     "ro": {
       "term": "Tablou",
       "definition": "O structură de date care stochează mai multe elemente de același tip în locații consecutive de memorie."
+    },
+    "prs": {
+      "term": "آرایه",
+      "definition": "مجموعه‌ای از عناصر همنوع که در خانه‌های شماره‌گذاری شده ذخیره می‌شوند."
+    },
+    "ps": {
+      "term": "اری",
+      "definition": "د یو ډول عناصرو ټولګه چې د شمیرل شوو ځایونو کې ذخیره کیږي."
     }
   },
   "topics": [

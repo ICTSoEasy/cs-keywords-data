@@ -20,6 +20,14 @@
     "ro": {
       "term": "Boolean",
       "definition": "Un tip de date care poate stoca doar două valori: adevărat sau fals."
+    },
+    "prs": {
+      "term": "بولی",
+      "definition": "نوع داده‌ای که فقط دو مقدار ممکن دارد: درست (True) یا نادرست (False)."
+    },
+    "ps": {
+      "term": "بولیني",
+      "definition": "د معلوماتو ډول چې یوازې دوه ممکنه ارزښتونه لري: ریښتیا (True) یا غلط (False)."
     }
   },
   "topics": [

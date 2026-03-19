@@ -23,6 +23,14 @@
     "ro": {
       "term": "Ciclul fetch-decode-execute",
       "definition": "Ciclul prin care procesorul execută instrucțiunile: preia instrucțiunea din memorie, o decodifică, apoi o execută."
+    },
+    "prs": {
+      "term": "چرخه واکشی-رمزگشایی-اجرا",
+      "definition": "مراحل تکراری که CPU برای پردازش دستورالعمل‌های برنامه طی می‌کند."
+    },
+    "ps": {
+      "term": "د راوړلو-ډیکوډ-اجرا دوره",
+      "definition": "هغه تکراري ګامونه چې CPU د پروګرام لارښوونو د پروسس لپاره ترسره کوي."
     }
   }
 }

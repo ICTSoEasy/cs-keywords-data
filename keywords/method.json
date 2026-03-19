@@ -23,6 +23,14 @@
     "ro": {
       "term": "Metodă",
       "definition": "O funcție care aparține unei clase sau obiect, folosită pentru a defini ce poate face obiectul."
+    },
+    "prs": {
+      "term": "متد",
+      "definition": "تابعی که به یک کلاس تعلق دارد و رفتار اشیاء از آن کلاس را تعریف می‌کند."
+    },
+    "ps": {
+      "term": "میتود",
+      "definition": "هغه فنکشن چې یوې کلاس پورې اړه لري او د هغې کلاس شیانو چلند تعریفوي."
     }
   }
 }

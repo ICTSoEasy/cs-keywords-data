@@ -23,6 +23,14 @@
     "ro": {
       "term": "Mașina Turing",
       "definition": "Un model matematic al unui dispozitiv de calcul care descrie conceptul de algoritm și calcul."
+    },
+    "prs": {
+      "term": "ماشین تورینگ",
+      "definition": "مدل نظری یک کامپیوتر که توسط آلن تورینگ توصیف شده و محدودیت‌های محاسبات را نشان می‌دهد."
+    },
+    "ps": {
+      "term": "د تورینګ ماشین",
+      "definition": "د کمپیوټر نظري ماډل چې آلن تورینګ توضیح کړی او د محاسبو حدود ښیي."
     }
   }
 }

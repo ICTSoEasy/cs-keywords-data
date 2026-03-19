@@ -23,6 +23,14 @@
     "ro": {
       "term": "Rețea locală (LAN)",
       "definition": "O rețea care conectează dispozitivele dintr-o zonă mică, cum ar fi o casă, birou sau școală."
+    },
+    "prs": {
+      "term": "شبکه محلی",
+      "definition": "شبکه‌ای که دستگاه‌ها را در یک منطقه کوچک مانند خانه یا مدرسه به هم متصل می‌کند."
+    },
+    "ps": {
+      "term": "LAN",
+      "definition": "شبکه چې وسیلې د یوه کوچني سیمه کې لکه کور یا ښوونځی سره وصلوي."
     }
   }
 }

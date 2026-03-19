@@ -23,6 +23,14 @@
     "ro": {
       "term": "SQL",
       "definition": "Un limbaj folosit pentru a crea și gestiona baze de date relaționale și a efectua interogări."
+    },
+    "prs": {
+      "term": "زبان پرس‌وجوی ساختاریافته",
+      "definition": "زبان استانداردی برای مدیریت و پرس‌وجوی پایگاه‌های داده رابطه‌ای."
+    },
+    "ps": {
+      "term": "SQL",
+      "definition": "د اړیکوي ډیټابیسونو د اداره او پوښتنو لپاره معیاري ژبه."
     }
   }
 }

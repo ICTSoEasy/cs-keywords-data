@@ -23,6 +23,14 @@
     "ro": {
       "term": "Comutator de rețea",
       "definition": "Un dispozitiv de rețea care conectează dispozitivele dintr-o rețea LAN și trimite date doar dispozitivului specific destinat, spre deosebire de un hub."
+    },
+    "prs": {
+      "term": "سوئیچ شبکه",
+      "definition": "دستگاهی که دستگاه‌های شبکه را به هم متصل می‌کند و ترافیک را فقط به مقصد مشخص هدایت می‌کند."
+    },
+    "ps": {
+      "term": "د شبکې سویچ",
+      "definition": "وسیله چې د شبکې وسیلې سره وصلوي او ټرافیک یوازې مشخص منزل ته لارښوونه کوي."
     }
   }
 }

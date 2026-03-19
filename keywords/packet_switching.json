@@ -23,6 +23,14 @@
     "ro": {
       "term": "Comutare de pachete",
       "definition": "O metodă de trimitere a datelor printr-o rețea prin împărțirea lor în pachete care pot călători pe căi diferite."
+    },
+    "prs": {
+      "term": "سوئیچینگ بسته",
+      "definition": "روشی برای ارسال داده که آن را به بسته‌های کوچک تقسیم می‌کند و هر کدام مستقلاً مسیریابی می‌شوند."
+    },
+    "ps": {
+      "term": "پاکیټ سویچینګ",
+      "definition": "د معلوماتو د لیږلو لار چې دا کوچنیو پاکیټونو ته ویشي او هر یو مستقل لاره نیسي."
     }
   }
 }

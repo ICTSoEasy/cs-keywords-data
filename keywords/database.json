@@ -20,6 +20,14 @@
     "ro": {
       "term": "Bază de date",
       "definition": "O colecție organizată de date stocate și gestionate electronic."
+    },
+    "prs": {
+      "term": "پایگاه داده",
+      "definition": "مجموعه‌ای سازمان‌یافته از اطلاعات که به‌گونه‌ای ذخیره شده که جستجو، به‌روزرسانی و مدیریت آسان باشد."
+    },
+    "ps": {
+      "term": "ډیټابیس",
+      "definition": "د معلوماتو منظمه ټولګه چې داسې ذخیره شوې چې لټون، تازه کول او مدیریت اسانه وي."
     }
   },
   "topics": [

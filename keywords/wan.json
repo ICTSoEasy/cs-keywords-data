@@ -23,6 +23,14 @@
     "ro": {
       "term": "Rețea de arie largă (WAN)",
       "definition": "O rețea care acoperă o zonă geografică mare. Internetul este cel mai mare exemplu de rețea WAN."
+    },
+    "prs": {
+      "term": "شبکه گسترده",
+      "definition": "شبکه‌ای که مناطق جغرافیایی وسیع را پوشش می‌دهد، مانند اینترنت."
+    },
+    "ps": {
+      "term": "WAN",
+      "definition": "شبکه چې پراخه جغرافیایي سیمې پوښي، لکه انټرنیټ."
     }
   }
 }

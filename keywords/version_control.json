@@ -23,6 +23,14 @@
     "ro": {
       "term": "Control al versiunilor",
       "definition": "Un sistem care înregistrează modificările fișierelor în timp pentru a facilita colaborarea și revenirea la versiuni anterioare."
+    },
+    "prs": {
+      "term": "کنترل نسخه",
+      "definition": "سیستمی که تغییرات کد را پیگیری می‌کند تا بتوان به نسخه‌های قبلی بازگشت."
+    },
+    "ps": {
+      "term": "د نسخې کنترول",
+      "definition": "سیستم چې د کوډ بدلونونه تعقیبوي ترڅو مخکینیو نسخو ته راستون شیدلی شي."
     }
   }
 }

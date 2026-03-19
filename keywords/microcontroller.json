@@ -24,6 +24,14 @@
     "ro": {
       "term": "Microcontroler",
       "definition": "Un calculator mic pe un singur cip, folosit în dispozitive încorporate și roboți."
+    },
+    "prs": {
+      "term": "میکروکنترلر",
+      "definition": "رایانه کوچکی که برای کنترل یک کار خاص در دستگاه‌های الکترونیکی استفاده می‌شود."
+    },
+    "ps": {
+      "term": "مایکروکنټرولر",
+      "definition": "کوچنی کمپیوټر چې د بریښنایي وسیلو کې د یوه ځانګړي کار کنترول لپاره کارول کیږي."
     }
   }
 }

@@ -23,6 +23,14 @@
     "ro": {
       "term": "Învățare nesupervizată",
       "definition": "Un tip de învățare automată în care modelul găsește singur tipare în date neetichetate."
+    },
+    "prs": {
+      "term": "یادگیری بدون نظارت",
+      "definition": "نوعی یادگیری ماشین که در آن مدل الگوها را در داده‌های بدون برچسب پیدا می‌کند."
+    },
+    "ps": {
+      "term": "بې نظارته زده‌کړه",
+      "definition": "د ماشین زده‌کړې یو ډول چې ماډل د نه‌نومول شوو معلوماتو کې نمونې موندي."
     }
   }
 }

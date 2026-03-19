@@ -24,6 +24,14 @@
     "ro": {
       "term": "Eroare logică",
       "definition": "O eroare în logica programului care face ca acesta să producă rezultate incorecte fără să se oprească."
+    },
+    "prs": {
+      "term": "خطای منطقی",
+      "definition": "اشتباهی در کد که باعث می‌شود برنامه بدون کرش اجرا شود اما نتایج غلط تولید کند."
+    },
+    "ps": {
+      "term": "منطقي تیروتنه",
+      "definition": "د کوډ کې یوه غلطي چې پروګرام بې له کریش پرمخ ځي خو ناسمې پایلې ورکوي."
     }
   }
 }

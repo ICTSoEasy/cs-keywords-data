@@ -23,6 +23,14 @@
     "ro": {
       "term": "Arbore",
       "definition": "O structură de date ierarhică formată din noduri, fiecare cu un singur nod părinte și mai mulți noduri copii."
+    },
+    "prs": {
+      "term": "درخت",
+      "definition": "ساختار داده سلسله‌مراتبی که از گره‌های متصل با پیوند والد-فرزند ساخته شده."
+    },
+    "ps": {
+      "term": "ونه",
+      "definition": "د معلوماتو سلسله‌مراتبي جوړښت چې د پلار-ماشوم اړیکو سره وصل شوو نوډونو لخوا جوړ شوی."
     }
   }
 }

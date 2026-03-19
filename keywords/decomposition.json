@@ -20,6 +20,14 @@
     "ro": {
       "term": "Descompunere",
       "definition": "Împărțirea unei probleme complexe în părți mai mici și mai ușor de gestionat și rezolvat."
+    },
+    "prs": {
+      "term": "تجزیه",
+      "definition": "تقسیم یک مسئله بزرگ و پیچیده به قسمت‌های کوچک‌تر و قابل مدیریت‌تر."
+    },
+    "ps": {
+      "term": "تجزیه",
+      "definition": "د یوې لویې پیچلې ستونزې کوچنیو او د اداره کولو وړ برخو ته ویشل."
     }
   },
   "topics": [

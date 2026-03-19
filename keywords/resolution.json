@@ -23,6 +23,14 @@
     "ro": {
       "term": "Rezoluție",
       "definition": "Numărul de pixeli dintr-o imagine. O rezoluție mai mare înseamnă o imagine mai clară și un fișier mai mare."
+    },
+    "prs": {
+      "term": "وضوح",
+      "definition": "تعداد پیکسل‌های موجود در یک تصویر؛ وضوح بالاتر به معنای جزئیات بیشتر است."
+    },
+    "ps": {
+      "term": "ریزالوشن",
+      "definition": "د انځور د پیکسلونو شمیر؛ لوړ ریزالوشن یعنې ډیر توضیحات."
     }
   }
 }

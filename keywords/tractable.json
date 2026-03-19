@@ -23,6 +23,14 @@
     "ro": {
       "term": "Problemă tractabilă",
       "definition": "O problemă care poate fi rezolvată eficient folosind un algoritm cu timp de execuție polinomial."
+    },
+    "prs": {
+      "term": "قابل‌حل",
+      "definition": "مسئله‌ای که می‌توان آن را با الگوریتمی در زمان معقول حل کرد."
+    },
+    "ps": {
+      "term": "د حل وړ",
+      "definition": "ستونزه چې د معقول وخت کې د الګوریتم له لارې حل کیدلی شي."
     }
   }
 }

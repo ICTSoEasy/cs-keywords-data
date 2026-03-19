@@ -20,6 +20,14 @@
     "ro": {
       "term": "Criptare",
       "definition": "Conversia datelor într-un format care nu poate fi citit fără o cheie de decriptare."
+    },
+    "prs": {
+      "term": "رمزنگاری",
+      "definition": "تبدیل داده‌ها به فرمت مخفی تا افراد غیرمجاز نتوانند آن را بخوانند."
+    },
+    "ps": {
+      "term": "انکریپشن",
+      "definition": "معلومات یو پټ بڼې ته بدلول ترڅو غیرمجاز خلک یې ونه لوستلی شي."
     }
   },
   "topics": [

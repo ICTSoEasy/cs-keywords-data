@@ -23,6 +23,14 @@
     "ro": {
       "term": "Tabel hash",
       "definition": "O structură de date care stochează date în perechi cheie-valoare pentru acces rapid."
+    },
+    "prs": {
+      "term": "جدول هش",
+      "definition": "ساختار داده که داده‌ها را با استفاده از کلید به مکان‌های ذخیره‌سازی نگاشت می‌کند تا بازیابی سریع باشد."
+    },
+    "ps": {
+      "term": "هیش جدول",
+      "definition": "د معلوماتو جوړښت چې معلومات د کیلي له لارې ذخیره ځایونو ته نقشه کوي ترڅو ګړندی بیرته راوستل وشي."
     }
   }
 }

@@ -23,6 +23,14 @@
     "ro": {
       "term": "Compilator",
       "definition": "Un program care convertește codul dintr-un limbaj de nivel înalt în cod mașină dintr-o dată, înainte de execuție."
+    },
+    "prs": {
+      "term": "کامپایلر",
+      "definition": "برنامه‌ای که کد سطح بالا را به کد ماشین که کامپیوتر می‌تواند اجرا کند ترجمه می‌کند."
+    },
+    "ps": {
+      "term": "کمپایلر",
+      "definition": "هغه پروګرام چې لوړ سطحې کوډ د ماشین کوډ ته ژباړي چې کمپیوټر یې چلولی شي."
     }
   }
 }

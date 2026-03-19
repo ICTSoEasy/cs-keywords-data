@@ -23,6 +23,14 @@
     "ro": {
       "term": "Compresie",
       "definition": "Reducerea dimensiunii unui fișier prin reprezentarea datelor mai eficient."
+    },
+    "prs": {
+      "term": "فشرده‌سازی",
+      "definition": "کاهش اندازه فایل برای صرفه‌جویی در فضا یا سرعت بخشیدن به انتقال."
+    },
+    "ps": {
+      "term": "کمپریشن",
+      "definition": "د ځای د سپمولو یا لیږد د چټکولو لپاره د فایل د اندازې کمول."
     }
   }
 }

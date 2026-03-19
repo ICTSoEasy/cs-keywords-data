@@ -23,6 +23,14 @@
     "ro": {
       "term": "Stocare",
       "definition": "Un suport care păstrează datele permanent, cum ar fi hard disk-ul sau un stick USB."
+    },
+    "prs": {
+      "term": "ذخیره‌سازی",
+      "definition": "اجزایی که داده‌ها را به طور دائمی نگه می‌دارند، مانند هارد دیسک یا حافظه USB."
+    },
+    "ps": {
+      "term": "ذخیره",
+      "definition": "هغه برخې چې معلومات دایمي ساتي، لکه هارډ ډرایو یا USB درایو."
     }
   }
 }

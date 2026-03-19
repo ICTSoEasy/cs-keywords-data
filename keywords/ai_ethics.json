@@ -24,6 +24,14 @@
     "ro": {
       "term": "Etica inteligenței artificiale",
       "definition": "Principiile și standardele care guvernează dezvoltarea și utilizarea responsabilă a sistemelor de inteligență artificială."
+    },
+    "prs": {
+      "term": "اخلاق هوش مصنوعی",
+      "definition": "قوانین و ارزش‌هایی که تضمین می‌کنند هوش مصنوعی به شکلی منصفانه و مسئولانه استفاده شود."
+    },
+    "ps": {
+      "term": "د مصنوعي هوښیارتیا اخلاق",
+      "definition": "هغه قوانین او ارزښتونه چې ډاډ ورکوي چې مصنوعي هوښیارتیا عادلانه او مسؤولانه کارول کیږي."
     }
   }
 }

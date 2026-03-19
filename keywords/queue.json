@@ -23,6 +23,14 @@
     "ro": {
       "term": "Coadă",
       "definition": "O structură de date care funcționează după principiul primul intrat, primul ieșit (FIFO)."
+    },
+    "prs": {
+      "term": "صف",
+      "definition": "ساختار داده‌ای که آیتم‌ها را به ترتیب اول-وارد-اول-خارج (FIFO) ذخیره می‌کند."
+    },
+    "ps": {
+      "term": "قطار",
+      "definition": "د معلوماتو جوړښت چې توکي د لومړی-ننوتی-لومړی-وتلی (FIFO) ترتیب سره ذخیره کوي."
     }
   }
 }

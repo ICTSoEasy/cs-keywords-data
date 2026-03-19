@@ -23,6 +23,14 @@
     "ro": {
       "term": "Sortare prin bule",
       "definition": "Un algoritm de sortare care compară și schimbă în mod repetat elementele adiacente până când lista este complet sortată."
+    },
+    "prs": {
+      "term": "مرتب‌سازی حبابی",
+      "definition": "الگوریتم مرتب‌سازی که آیتم‌های مجاور را مقایسه و جابجا می‌کند تا فهرست مرتب شود."
+    },
+    "ps": {
+      "term": "بابل سورټ",
+      "definition": "د ترتیب الګوریتم چې د لیست د ترتیب لپاره ګاونډي توکي پرتله کوي او بدلوي."
     }
   }
 }

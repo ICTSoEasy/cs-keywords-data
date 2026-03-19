@@ -23,6 +23,14 @@
     "ro": {
       "term": "Graf",
       "definition": "O structură de date formată din noduri (vârfuri) conectate prin muchii, folosită pentru a reprezenta relații și rețele."
+    },
+    "prs": {
+      "term": "گراف",
+      "definition": "ساختار داده متشکل از گره‌ها (رأس‌ها) و پیوندهای بین آن‌ها (یال‌ها)."
+    },
+    "ps": {
+      "term": "ګراف",
+      "definition": "د معلوماتو جوړښت چې د نوډونو (وریکسونو) او د دوی تر منځ اړیکو (اضلاعو) لخوا جوړ شوی."
     }
   }
 }

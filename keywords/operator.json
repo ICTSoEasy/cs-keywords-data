@@ -23,6 +23,14 @@
     "ro": {
       "term": "Operator",
       "definition": "Un simbol care efectuează o operație asupra uneia sau mai multor valori, cum ar fi + pentru adunare sau == pentru comparație."
+    },
+    "prs": {
+      "term": "عملگر",
+      "definition": "نمادی که عملیاتی را روی مقادیر انجام می‌دهد، مانند + برای جمع یا == برای مقایسه."
+    },
+    "ps": {
+      "term": "آپریټر",
+      "definition": "نښه چې د ارزښتونو پر مخ عملیات ترسره کوي، لکه + د جمع لپاره یا == د پرتله کولو لپاره."
     }
   }
 }

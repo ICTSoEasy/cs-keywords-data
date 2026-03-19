@@ -23,6 +23,14 @@
     "ro": {
       "term": "Valoare returnată",
       "definition": "Valoarea trimisă înapoi de o funcție către codul care a apelat-o."
+    },
+    "prs": {
+      "term": "مقدار بازگشتی",
+      "definition": "داده‌ای که یک تابع بعد از اتمام به برنامه فراخواننده برمی‌گرداند."
+    },
+    "ps": {
+      "term": "بیرته راستنیدونکی ارزښت",
+      "definition": "هغه معلومات چې یو فنکشن د پای کیدلو وروسته یادونکي پروګرام ته بیرته راستوي."
     }
   }
 }

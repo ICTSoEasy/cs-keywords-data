@@ -23,6 +23,14 @@
     "ro": {
       "term": "Fișier plat",
       "definition": "O bază de date care stochează toate datele într-un singur tabel fără relații între tabele."
+    },
+    "prs": {
+      "term": "فایل مسطح",
+      "definition": "پایگاه داده ساده که همه داده‌ها در یک جدول بدون ارتباط با جداول دیگر ذخیره می‌کند."
+    },
+    "ps": {
+      "term": "فلیټ فایل",
+      "definition": "ساده ډیټابیس چې ټول معلومات د نورو جدولونو سره د اړیکې پرته یو جدول کې ذخیره کوي."
     }
   }
 }

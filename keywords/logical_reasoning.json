@@ -23,6 +23,14 @@
     "ro": {
       "term": "Raționament logic",
       "definition": "Folosirea gândirii clare, pas cu pas, pentru a rezolva o problemă și a ajunge la o concluzie."
+    },
+    "prs": {
+      "term": "استدلال منطقی",
+      "definition": "استفاده از قوانین منطق برای رسیدن به نتیجه‌گیری از اطلاعات موجود."
+    },
+    "ps": {
+      "term": "منطقي استدلال",
+      "definition": "د منطق د قوانینو کارول ترڅو د موجودو معلوماتو نه پایلو ته ورسیږو."
     }
   }
 }

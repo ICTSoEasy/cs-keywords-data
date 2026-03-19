@@ -20,6 +20,14 @@
     "ro": {
       "term": "Phishing",
       "definition": "O tentativă de fraudă pentru a înșela oamenii să dezvăluie informații personale prin mesaje sau site-uri false."
+    },
+    "prs": {
+      "term": "فیشینگ",
+      "definition": "تلاش فریبکارانه برای سرقت اطلاعات شخصی از طریق ایمیل یا وب‌سایت‌های جعلی."
+    },
+    "ps": {
+      "term": "فشینګ",
+      "definition": "د شخصي معلوماتو د غلا لپاره د جعلي بریښنالیک یا ویب‌سایټونو له لارې د درغلۍ هڅه."
     }
   },
   "topics": [

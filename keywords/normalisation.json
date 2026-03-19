@@ -23,6 +23,14 @@
     "ro": {
       "term": "Normalizare",
       "definition": "Procesul de organizare a unei baze de date pentru a reduce redundanța datelor și a îmbunătăți integritatea acestora."
+    },
+    "prs": {
+      "term": "نرمال‌سازی",
+      "definition": "سازماندهی پایگاه داده برای کاهش تکرار و بهبود یکپارچگی داده."
+    },
+    "ps": {
+      "term": "نورمالایزیشن",
+      "definition": "د ډیټابیس تنظیم ترڅو تکرار کم کړي او د معلوماتو یکپارچتیا ښه کړي."
     }
   }
 }

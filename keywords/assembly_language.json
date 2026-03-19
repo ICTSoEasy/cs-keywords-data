@@ -24,6 +24,14 @@
     "ro": {
       "term": "Limbaj de asamblare",
       "definition": "Un limbaj de programare de nivel scăzut care folosește simboluri lizibile și se traduce direct în cod mașină."
+    },
+    "prs": {
+      "term": "زبان اسمبلی",
+      "definition": "زبان برنامه‌نویسی سطح پایینی که از کدهای کوتاه به جای کد ماشین استفاده می‌کند و هنوز به سخت‌افزار نزدیک است."
+    },
+    "ps": {
+      "term": "اسمبلۍ ژبه",
+      "definition": "ټیټ سطحې پروګرامینګ ژبه چې د ماشین کوډ پر ځای لنډ کوډونه کاروي خو بیا هم سخت‌افزار ته نږدې ده."
     }
   }
 }

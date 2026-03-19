@@ -24,6 +24,14 @@
     "ro": {
       "term": "Subrutină",
       "definition": "Un bloc de cod cu nume care poate fi apelat din orice loc al programului. Include proceduri (fără valoare returnată) și funcții (returnează o valoare)."
+    },
+    "prs": {
+      "term": "زیربرنامه",
+      "definition": "بلوکی از کد با نام که کار خاصی انجام می‌دهد و می‌توان آن را از جاهای مختلف صدا زد."
+    },
+    "ps": {
+      "term": "فرعي پروګرام",
+      "definition": "د کوډ نومول شوې برخه چې ځانګړې دنده ترسره کوي او د بیلابیلو ځایونو نه یادیدلی شي."
     }
   }
 }

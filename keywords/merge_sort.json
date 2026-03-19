@@ -23,6 +23,14 @@
     "ro": {
       "term": "Sortare prin interclasare",
       "definition": "Un algoritm de sortare care împarte lista în jumătăți, sortează fiecare jumătate, apoi le interclasează într-o listă sortată."
+    },
+    "prs": {
+      "term": "مرتب‌سازی ادغامی",
+      "definition": "الگوریتم مرتب‌سازی که فهرست را به نصف تقسیم می‌کند، هر نیمه را مرتب می‌کند، سپس ادغام می‌کند."
+    },
+    "ps": {
+      "term": "مرج سورټ",
+      "definition": "د ترتیب الګوریتم چې لیست نیمایي کوي، هره نیمه ترتیبوي، بیا یوځای کوي."
     }
   }
 }

@@ -23,6 +23,14 @@
     "ro": {
       "term": "Zecimal",
       "definition": "Sistemul de numerație obișnuit în baza 10, folosind cifrele de la 0 la 9."
+    },
+    "prs": {
+      "term": "اعشاری",
+      "definition": "سیستم اعداد معمولی مبتنی بر ۱۰ که از ارقام ۰ تا ۹ استفاده می‌کند."
+    },
+    "ps": {
+      "term": "لسیزه",
+      "definition": "د ۱۰ پر بنسټ عادي د شمیرو سیستم چې ۰ تر ۹ پورې ارقام کاروي."
     }
   }
 }

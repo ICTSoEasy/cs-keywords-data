@@ -23,6 +23,14 @@
     "ro": {
       "term": "Generalizare",
       "definition": "Folosirea tiparelor găsite într-o problemă pentru a crea soluții care funcționează pentru probleme similare."
+    },
+    "prs": {
+      "term": "تعمیم",
+      "definition": "شناسایی الگوهای مشترک بین مسائل مختلف تا بتوان راه‌حل‌ها را مجدداً استفاده کرد."
+    },
+    "ps": {
+      "term": "عمومیت",
+      "definition": "د بیلابیلو ستونزو تر منځ د مشترکو نمونو پیژندل ترڅو حلونه بیا وکارول شي."
     }
   }
 }

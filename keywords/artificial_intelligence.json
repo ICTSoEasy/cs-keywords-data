@@ -23,6 +23,14 @@
     "ro": {
       "term": "Inteligență artificială",
       "definition": "Simularea inteligenței umane de către sisteme informatice, inclusiv învățarea și rezolvarea problemelor."
+    },
+    "prs": {
+      "term": "هوش مصنوعی",
+      "definition": "توانایی کامپیوترها برای انجام کارهایی که معمولاً نیاز به هوش انسانی دارند، مانند تشخیص تصویر."
+    },
+    "ps": {
+      "term": "مصنوعي هوښیارتیا",
+      "definition": "د کمپیوټرونو وړتیا چې هغه دندې ترسره کړي چې معمولاً د انساني ذهن ته اړتیا لري."
     }
   }
 }

@@ -23,6 +23,14 @@
     "ro": {
       "term": "Adresă MAC",
       "definition": "Un identificator unic atribuit permanent plăcii de interfață de rețea, folosit pentru a identifica dispozitivele dintr-o rețea locală."
+    },
+    "prs": {
+      "term": "آدرس MAC",
+      "definition": "شناسه سخت‌افزاری منحصربه‌فرد که به هر دستگاه شبکه اختصاص داده می‌شود."
+    },
+    "ps": {
+      "term": "MAC پته",
+      "definition": "ځانګړی سخت‌افزاري پیژندنه چې هرې د شبکې وسیلې ته ورکول کیږي."
     }
   }
 }

@@ -23,6 +23,14 @@
     "ro": {
       "term": "Moștenire",
       "definition": "Când o clasă preia atributele și metodele altei clase. Noua clasă se numește subclasă."
+    },
+    "prs": {
+      "term": "وراثت",
+      "definition": "در برنامه‌نویسی شیءگرا، وقتی یک کلاس ویژگی‌ها و رفتارهای کلاس دیگری را به ارث می‌برد."
+    },
+    "ps": {
+      "term": "میراث",
+      "definition": "د شیانو پروګرامینګ کې، کله چې یوه کلاس د بلې کلاس ځانتیاوې او چلند میراث ولري."
     }
   }
 }

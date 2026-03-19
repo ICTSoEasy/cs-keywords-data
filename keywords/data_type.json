@@ -23,6 +23,14 @@
     "ro": {
       "term": "Tip de date",
       "definition": "O clasificare care determină ce fel de date pot fi stocate, cum ar fi număr întreg, text sau boolean."
+    },
+    "prs": {
+      "term": "نوع داده",
+      "definition": "دسته‌بندی داده که به کامپیوتر می‌گوید چگونه آن را ذخیره و پردازش کند، مانند عدد صحیح یا رشته."
+    },
+    "ps": {
+      "term": "د معلوماتو ډول",
+      "definition": "د معلوماتو کټګوري چې کمپیوټر ته وايي چې دا څنګه وساتي او پروسس کړي، لکه عدد یا متن."
     }
   }
 }

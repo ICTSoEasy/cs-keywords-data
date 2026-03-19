@@ -23,6 +23,14 @@
     "ro": {
       "term": "Rețea neuronală artificială",
       "definition": "Un sistem de calcul inspirat din creierul uman, folosit în învățarea automată pentru recunoașterea tiparelor."
+    },
+    "prs": {
+      "term": "شبکه عصبی",
+      "definition": "سیستم هوش مصنوعی مبتنی بر ساختار مغز که از داده‌های آموزشی یاد می‌گیرد."
+    },
+    "ps": {
+      "term": "عصبي شبکه",
+      "definition": "د مصنوعي هوښیارتیا سیستم چې د دماغ د جوړښت پر بنسټ دی او له روزنیزو معلوماتو زده کوي."
     }
   }
 }

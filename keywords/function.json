@@ -20,6 +20,14 @@
     "ro": {
       "term": "Funcție",
       "definition": "Un bloc de cod cu nume care efectuează o sarcină specifică și returnează o valoare."
+    },
+    "prs": {
+      "term": "تابع",
+      "definition": "بلوکی از کد با نام که کار خاصی انجام می‌دهد و می‌توان آن را چندبار صدا زد."
+    },
+    "ps": {
+      "term": "فنکشن",
+      "definition": "د کوډ یوه نومول شوې برخه چې ځانګړې دنده ترسره کوي او ډیری ځله یادیدلی شي."
     }
   },
   "topics": [

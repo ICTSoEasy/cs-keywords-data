@@ -23,6 +23,14 @@
     "ro": {
       "term": "Complement față de doi",
       "definition": "O metodă de reprezentare a numerelor întregi negative în binar. Pentru a nega un număr: inversează toți biții, apoi adaugă 1."
+    },
+    "prs": {
+      "term": "مکمل دو",
+      "definition": "روش ذخیره‌سازی اعداد منفی در دودویی که معمولاً توسط کامپیوترها استفاده می‌شود."
+    },
+    "ps": {
+      "term": "دوه‌ضمیمه",
+      "definition": "د دوه‌اره کې د منفي شمیرو ذخیره کولو لار چې معمولاً کمپیوټرونه کاروي."
     }
   }
 }

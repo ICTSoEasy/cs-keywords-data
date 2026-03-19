@@ -24,6 +24,14 @@
     "ro": {
       "term": "Condiție",
       "definition": "O expresie evaluată ca adevărată sau falsă, folosită pentru a controla fluxul unui program."
+    },
+    "prs": {
+      "term": "شرط",
+      "definition": "جمله‌ای که به درست یا نادرست ارزیابی می‌شود و برای کنترل جریان برنامه استفاده می‌شود."
+    },
+    "ps": {
+      "term": "شرط",
+      "definition": "هغه جمله چې ریښتیا یا غلط ارزیابي کیږي او د پروګرام د جریان کنترل لپاره کارول کیږي."
     }
   }
 }

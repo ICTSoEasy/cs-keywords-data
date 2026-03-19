@@ -24,6 +24,14 @@
     "ro": {
       "term": "Validarea datelor",
       "definition": "Procesul de verificare că datele introduse sunt corecte și rezonabile înainte de procesare."
+    },
+    "prs": {
+      "term": "اعتبارسنجی داده",
+      "definition": "بررسی اینکه داده وارد شده صحیح، کامل و منطقی باشد."
+    },
+    "ps": {
+      "term": "د معلوماتو اعتبار",
+      "definition": "د دې چک کول چې ننوتي معلومات سم، بشپړ او منطقي وي."
     }
   }
 }

@@ -23,6 +23,14 @@
     "ro": {
       "term": "Poartă logică",
       "definition": "O componentă electronică care efectuează o operație logică de bază pe unul sau mai multe semnale."
+    },
+    "prs": {
+      "term": "گیت منطقی",
+      "definition": "مدار پایه‌ای که عملیات منطقی بولی را انجام می‌دهد، مانند AND، OR یا NOT."
+    },
+    "ps": {
+      "term": "منطقي ګیټ",
+      "definition": "بنسټیز سرکټ چې بولیني منطقي عملیات ترسره کوي، لکه AND، OR یا NOT."
     }
   }
 }

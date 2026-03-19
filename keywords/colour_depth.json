@@ -23,6 +23,14 @@
     "ro": {
       "term": "Adâncime de culoare",
       "definition": "Numărul de biți folosiți pentru a stoca culoarea unui singur pixel. O adâncime mai mare înseamnă mai multe culori posibile și un fișier mai mare."
+    },
+    "prs": {
+      "term": "عمق رنگ",
+      "definition": "تعداد بیت‌های استفاده شده برای نمایش رنگ هر پیکسل؛ بیت‌های بیشتر به معنای رنگ‌های بیشتر است."
+    },
+    "ps": {
+      "term": "د رنګ ژوروالی",
+      "definition": "د هر پیکسل د رنګ د نمایش لپاره کارول شوي بټونو شمیر؛ ډیر بټونه یعنې ډیر رنګونه."
     }
   }
 }

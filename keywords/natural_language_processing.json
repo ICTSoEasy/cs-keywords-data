@@ -23,6 +23,14 @@
     "ro": {
       "term": "Procesarea limbajului natural",
       "definition": "Domeniul inteligenței artificiale care permite calculatoarelor să înțeleagă și să interacționeze cu limbajul uman."
+    },
+    "prs": {
+      "term": "پردازش زبان طبیعی",
+      "definition": "شاخه‌ای از هوش مصنوعی که به کامپیوترها امکان می‌دهد زبان انسانی را بفهمند و پردازش کنند."
+    },
+    "ps": {
+      "term": "د طبیعي ژبې پروسس کول",
+      "definition": "د مصنوعي هوښیارتیا هغه شاخه چې کمپیوټرونو ته اجازه ورکوي انساني ژبه وپوهي او پروسس یې کړي."
     }
   }
 }

@@ -23,6 +23,14 @@
     "ro": {
       "term": "Unitate de procesare grafică (GPU)",
       "definition": "Un procesor specializat în procesarea graficii, folosit în jocuri și inteligență artificială."
+    },
+    "prs": {
+      "term": "واحد پردازش گرافیکی",
+      "definition": "تراشه تخصصی که برای رندر سریع گرافیک و محاسبات موازی طراحی شده."
+    },
+    "ps": {
+      "term": "GPU",
+      "definition": "ځانګړی چیپ چې د ګرافیک ګړندي رندر او موازي محاسبو لپاره ډیزاین شوی."
     }
   }
 }

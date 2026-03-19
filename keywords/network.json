@@ -23,6 +23,14 @@
     "ro": {
       "term": "Rețea",
       "definition": "Un grup de dispozitive conectate care pot schimba date între ele."
+    },
+    "prs": {
+      "term": "شبکه",
+      "definition": "گروهی از دستگاه‌های متصل به هم که می‌توانند داده را به اشتراک بگذارند."
+    },
+    "ps": {
+      "term": "شبکه",
+      "definition": "د وصل شوو وسیلو ډله چې معلومات شریکولی شي."
     }
   }
 }

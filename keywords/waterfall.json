@@ -23,6 +23,14 @@
     "ro": {
       "term": "Model cascadă",
       "definition": "O abordare a dezvoltării software care urmează etape secvențiale fixe: analiză, proiectare, dezvoltare, testare și întreținere."
+    },
+    "prs": {
+      "term": "آبشار",
+      "definition": "روش توسعه نرم‌افزار خطی که هر مرحله باید قبل از شروع مرحله بعدی کامل شود."
+    },
+    "ps": {
+      "term": "واټرفال",
+      "definition": "د سافټویر پراختیا خطي لار چې هره مرحله باید د بلې پیل دمخه بشپړه شي."
     }
   }
 }

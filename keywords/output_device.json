@@ -23,6 +23,14 @@
     "ro": {
       "term": "Dispozitiv de ieșire",
       "definition": "Un dispozitiv care produce date din calculator, cum ar fi monitorul, imprimanta sau difuzoarele."
+    },
+    "prs": {
+      "term": "دستگاه خروجی",
+      "definition": "قطعه سخت‌افزاری که اطلاعات را از کامپیوتر به کاربر منتقل می‌کند، مانند نمایشگر یا چاپگر."
+    },
+    "ps": {
+      "term": "د وتنې وسیله",
+      "definition": "د سخت‌افزار هغه برخه چې کمپیوټر نه کارونکي ته معلومات لیږي، لکه مانیټر یا پرنټر."
     }
   }
 }

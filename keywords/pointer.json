@@ -24,6 +24,14 @@
     "ro": {
       "term": "Pointer",
       "definition": "O variabilă care stochează adresa de memorie a altei variabile."
+    },
+    "prs": {
+      "term": "اشاره‌گر",
+      "definition": "متغیری که آدرس حافظه یک مقدار دیگر را ذخیره می‌کند."
+    },
+    "ps": {
+      "term": "پوینټر",
+      "definition": "متغیر چې د بل ارزښت د حافظې پته ذخیره کوي."
     }
   }
 }

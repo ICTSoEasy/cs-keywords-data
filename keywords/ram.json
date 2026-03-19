@@ -23,6 +23,14 @@
     "ro": {
       "term": "Memorie RAM",
       "definition": "Memorie temporară care stochează datele și programele folosite curent de calculator. Este ștearsă când calculatorul este oprit."
+    },
+    "prs": {
+      "term": "حافظه دسترسی تصادفی",
+      "definition": "حافظه اصلی کامپیوتر که داده‌های مورد استفاده فعال را نگه می‌دارد؛ با خاموش شدن دستگاه پاک می‌شود."
+    },
+    "ps": {
+      "term": "RAM",
+      "definition": "د کمپیوټر اصلي حافظه چې فعال کارول شوي معلومات ساتي؛ کله چې وسیله بنده شي پاکیږي."
     }
   }
 }

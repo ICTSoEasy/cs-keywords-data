@@ -24,6 +24,14 @@
     "ro": {
       "term": "Pseudocod",
       "definition": "O descriere simplă a unui algoritm care seamănă cu codul de programare dar este scrisă în limbaj obișnuit."
+    },
+    "prs": {
+      "term": "شبه‌کد",
+      "definition": "توضیح ساده یک الگوریتم به زبان عادی که شبیه کد برنامه‌نویسی است اما از نحو واقعی پیروی نمی‌کند."
+    },
+    "ps": {
+      "term": "شبه کوډ",
+      "definition": "د الګوریتم ساده توضیح د عادي ژبې کې چې د پروګرامینګ کوډ ته ورته وي خو د ریښتیني نحو تعقیب نه کوي."
     }
   }
 }

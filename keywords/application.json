@@ -23,6 +23,14 @@
     "ro": {
       "term": "Aplicație",
       "definition": "Un program conceput pentru a efectua o sarcină specifică pentru utilizator, cum ar fi un procesor de text sau un browser."
+    },
+    "prs": {
+      "term": "برنامه کاربردی",
+      "definition": "نرم‌افزاری که برای انجام یک کار خاص برای کاربر طراحی شده، مانند پردازشگر متن یا بازی."
+    },
+    "ps": {
+      "term": "اپلیکیشن",
+      "definition": "هغه سافټویر چې د کاروونکي لپاره یوه ځانګړې دنده سرته رساوي، لکه ورډ پروسیسر یا لوبه."
     }
   }
 }

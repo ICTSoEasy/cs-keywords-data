@@ -20,6 +20,14 @@
     "ro": {
       "term": "Variabilă",
       "definition": "Un loc cu nume în memoria calculatorului unde este stocată o valoare. Valoarea se poate schimba în timpul execuției programului."
+    },
+    "prs": {
+      "term": "متغیر",
+      "definition": "مکانی در حافظه با نام که یک مقدار را ذخیره می‌کند و می‌تواند تغییر کند."
+    },
+    "ps": {
+      "term": "متغیر",
+      "definition": "د حافظې نومول شوی ځای چې یو ارزښت ذخیره کوي او بدلیدلی شي."
     }
   },
   "topics": [

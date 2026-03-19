@@ -23,6 +23,14 @@
     "ro": {
       "term": "Tabel de adevăr",
       "definition": "Un tabel care arată toate combinațiile posibile de intrări și ieșirile corespunzătoare pentru un circuit logic."
+    },
+    "prs": {
+      "term": "جدول ارزش",
+      "definition": "جدولی که همه ترکیب‌های ممکن ورودی‌ها و خروجی‌های مربوط برای یک عملیات منطقی را نشان می‌دهد."
+    },
+    "ps": {
+      "term": "د ریښتیا جدول",
+      "definition": "جدول چې د منطقي عملیات لپاره ټولې ممکنه ننوتنې او اړونده وتنې ښیي."
     }
   }
 }

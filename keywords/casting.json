@@ -23,6 +23,14 @@
     "ro": {
       "term": "Conversie de tip",
       "definition": "Schimbarea tipului de date al unei valori, de exemplu conversia unui număr în text."
+    },
+    "prs": {
+      "term": "تبدیل نوع",
+      "definition": "تغییر نوع داده یک مقدار، مانند تبدیل عدد به رشته."
+    },
+    "ps": {
+      "term": "کاسټینګ",
+      "definition": "د یوه ارزښت د معلوماتو د ډول بدلول، لکه عدد ته د متن بدلول."
     }
   }
 }

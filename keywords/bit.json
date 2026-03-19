@@ -23,6 +23,14 @@
     "ro": {
       "term": "Bit",
       "definition": "Cea mai mică unitate de date dintr-un calculator. Poate fi doar 0 sau 1."
+    },
+    "prs": {
+      "term": "بیت",
+      "definition": "کوچک‌ترین واحد داده در کامپیوتر — یک مقدار ۰ یا ۱."
+    },
+    "ps": {
+      "term": "بټ",
+      "definition": "د کمپیوټر کې د معلوماتو کوچنۍ واحد — یو ۰ یا ۱ ارزښت."
     }
   }
 }

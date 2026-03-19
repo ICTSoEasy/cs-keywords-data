@@ -23,6 +23,14 @@
     "ro": {
       "term": "HTTP",
       "definition": "Protocolul folosit pentru transferul paginilor web pe internet."
+    },
+    "prs": {
+      "term": "پروتکل انتقال ابرمتن",
+      "definition": "پروتکلی که برای ارسال صفحات وب از سرور به مرورگر استفاده می‌شود."
+    },
+    "ps": {
+      "term": "HTTP",
+      "definition": "هغه پروتوکول چې د سرور نه مرورگر ته د ویب پاڼو لیږلو لپاره کارول کیږي."
     }
   }
 }

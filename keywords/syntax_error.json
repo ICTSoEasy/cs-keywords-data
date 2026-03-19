@@ -24,6 +24,14 @@
     "ro": {
       "term": "Eroare de sintaxă",
       "definition": "O eroare în regulile de scriere a codului care împiedică rularea programului."
+    },
+    "prs": {
+      "term": "خطای نحوی",
+      "definition": "اشتباهی در کد که قوانین دستوری زبان برنامه‌نویسی را نقض می‌کند."
+    },
+    "ps": {
+      "term": "د نحو تیروتنه",
+      "definition": "د کوډ کې غلطي چې د پروګرامینګ ژبې د ګرامر قوانین ماتوي."
     }
   }
 }

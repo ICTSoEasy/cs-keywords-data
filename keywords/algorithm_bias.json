@@ -24,6 +24,14 @@
     "ro": {
       "term": "Părtinire algoritmică",
       "definition": "Când un algoritm produce rezultate nedrepte sau discriminatorii din cauza datelor de antrenament sau a presupozițiilor părtinite."
+    },
+    "prs": {
+      "term": "تعصب الگوریتمی",
+      "definition": "وقتی یک الگوریتم نتایج ناعادلانه‌ای تولید می‌کند، معمولاً به خاطر داده‌های آموزشی ناقص."
+    },
+    "ps": {
+      "term": "د الګوریتم تعصب",
+      "definition": "کله چې یو الګوریتم ناعادلانه پایلې ورکوي، معمولاً د ناقصو روزنیزو معلوماتو له امله."
     }
   }
 }

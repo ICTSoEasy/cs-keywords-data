@@ -23,6 +23,14 @@
     "ro": {
       "term": "Sortare prin inserție",
       "definition": "Un algoritm de sortare care construiește lista sortată câte un element pe rând, inserându-l în poziția corectă."
+    },
+    "prs": {
+      "term": "مرتب‌سازی درجی",
+      "definition": "الگوریتم مرتب‌سازی که آیتم‌ها را یکی یکی در جایگاه صحیح درج می‌کند."
+    },
+    "ps": {
+      "term": "انسرشن سورټ",
+      "definition": "د ترتیب الګوریتم چې توکي یو یو سم ځای ته داخلوي."
     }
   }
 }

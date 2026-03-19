@@ -23,6 +23,14 @@
     "ro": {
       "term": "Mentenabilitate",
       "definition": "Cât de ușor poate fi înțeles, modificat și reparat codul de către programatori în viitor."
+    },
+    "prs": {
+      "term": "قابلیت نگهداری",
+      "definition": "سهولت فهمیدن، به‌روزرسانی و رفع اشکال در کد."
+    },
+    "ps": {
+      "term": "د ساتنې وړتیا",
+      "definition": "د کوډ د پوهیدلو، تازه کولو او د غلطیو د سملو اسانتیا."
     }
   }
 }

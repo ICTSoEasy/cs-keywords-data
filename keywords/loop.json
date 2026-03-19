@@ -23,6 +23,14 @@
     "ro": {
       "term": "Buclă",
       "definition": "O structură de programare care repetă un bloc de cod până când este îndeplinită o condiție."
+    },
+    "prs": {
+      "term": "حلقه",
+      "definition": "ساختاری که بلوکی از کد را بارها اجرا می‌کند تا زمانی که شرطی برآورده شود."
+    },
+    "ps": {
+      "term": "لوپ",
+      "definition": "جوړښت چې د یوه کوډ بلاک ډیری ځله چلوي ترڅو یو شرط پوره شي."
     }
   }
 }

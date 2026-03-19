@@ -23,6 +23,14 @@
     "ro": {
       "term": "Pixel",
       "definition": "Cel mai mic element al unei imagini digitale. Imaginile sunt formate dintr-o grilă de pixeli."
+    },
+    "prs": {
+      "term": "پیکسل",
+      "definition": "کوچک‌ترین عنصر یک تصویر دیجیتالی؛ تصویرها از هزاران پیکسل ساخته می‌شوند."
+    },
+    "ps": {
+      "term": "پیکسل",
+      "definition": "د ډیجیټل انځور کوچنۍ عنصر؛ انځورونه له زرګونو پیکسلونو جوړ دي."
     }
   }
 }

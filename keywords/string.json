@@ -20,6 +20,14 @@
     "ro": {
       "term": "Șir de caractere",
       "definition": "O secvență de caractere folosită pentru a reprezenta text în programare."
+    },
+    "prs": {
+      "term": "رشته",
+      "definition": "دنباله‌ای از کاراکترها که معمولاً برای نمایش متن استفاده می‌شود."
+    },
+    "ps": {
+      "term": "سټرینګ",
+      "definition": "د کرکترونو لړۍ چې معمولاً د متن ښودلو لپاره کارول کیږي."
     }
   },
   "topics": [

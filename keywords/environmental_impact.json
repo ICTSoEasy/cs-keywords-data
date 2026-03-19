@@ -23,6 +23,14 @@
     "ro": {
       "term": "Impact de mediu",
       "definition": "Efectele pe care tehnologia le are asupra mediului, cum ar fi consumul de energie și deșeurile electronice."
+    },
+    "prs": {
+      "term": "تأثیر زیست‌محیطی",
+      "definition": "اثرات فناوری بر محیط زیست، از جمله مصرف انرژی و زباله الکترونیکی."
+    },
+    "ps": {
+      "term": "د چاپیریال اغیز",
+      "definition": "د ټیکنالوژۍ اغیزې چاپیریال ته، د انرژۍ مصرف او بریښنایي کثافاتو سره."
     }
   }
 }

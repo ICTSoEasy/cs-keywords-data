@@ -23,6 +23,14 @@
     "ro": {
       "term": "Calcul fizic",
       "definition": "Construirea de sisteme de calcul care interacționează cu lumea fizică prin senzori și actuatoare."
+    },
+    "prs": {
+      "term": "محاسبات فیزیکی",
+      "definition": "استفاده از سخت‌افزار قابل برنامه‌ریزی برای تعامل با دنیای فیزیکی از طریق سنسورها و عملگرها."
+    },
+    "ps": {
+      "term": "فزیکي محاسبه",
+      "definition": "د قابل پروګرام سخت‌افزار کارول ترڅو د سینسرونو او ایکچویټرونو له لارې فزیکي نړۍ سره اړیکه ولري."
     }
   }
 }

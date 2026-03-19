@@ -24,6 +24,14 @@
     "ro": {
       "term": "Licență open source",
       "definition": "Un acord legal care specifică cum poate fi folosit, partajat și modificat software-ul open source."
+    },
+    "prs": {
+      "term": "مجوز متن‌باز",
+      "definition": "مجوز قانونی که شرایط استفاده، تغییر و توزیع نرم‌افزار متن‌باز را تعریف می‌کند."
+    },
+    "ps": {
+      "term": "د خلاصې سرچینې جواز",
+      "definition": "قانوني جواز چې د خلاصې سرچینې سافټویر د کارولو، بدلولو او خپرولو شرایط تعریفوي."
     }
   }
 }

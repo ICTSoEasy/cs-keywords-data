@@ -23,6 +23,14 @@
     "ro": {
       "term": "Constantă",
       "definition": "O valoare cu nume care nu se schimbă pe parcursul execuției programului."
+    },
+    "prs": {
+      "term": "ثابت",
+      "definition": "مقداری در برنامه که هرگز تغییر نمی‌کند."
+    },
+    "ps": {
+      "term": "ثابت",
+      "definition": "پروګرام کې یو ارزښت چې هیڅکله نه بدلیږي."
     }
   }
 }

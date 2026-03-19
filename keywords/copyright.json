@@ -23,6 +23,14 @@
     "ro": {
       "term": "Drepturi de autor",
       "definition": "Protecția legală care acordă creatorilor dreptul de a controla modul în care lucrările lor sunt utilizate."
+    },
+    "prs": {
+      "term": "حق مؤلف",
+      "definition": "حق قانونی که از آثار خلاقانه مانند موسیقی، کتاب یا نرم‌افزار محافظت می‌کند."
+    },
+    "ps": {
+      "term": "کاپي رایټ",
+      "definition": "قانوني حق چې د خلاقیت کارونه لکه موسیقي، کتابونه یا سافټویر ساتي."
     }
   }
 }

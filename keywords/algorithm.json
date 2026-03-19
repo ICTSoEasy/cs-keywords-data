@@ -20,6 +20,14 @@
     "ro": {
       "term": "Algoritm",
       "definition": "O secvență de pași sau instrucțiuni concepute pentru a rezolva o problemă sau a îndeplini o sarcină."
+    },
+    "prs": {
+      "term": "الگوریتم",
+      "definition": "مجموعه‌ای از دستورالعمل‌های گام‌به‌گام برای حل یک مسئله یا انجام یک کار."
+    },
+    "ps": {
+      "term": "الګوریتم",
+      "definition": "د یوې ستونزې د حل یا یوې دندې د سرته رسولو لپاره د ګام‌ونو لړۍ."
     }
   },
   "topics": [

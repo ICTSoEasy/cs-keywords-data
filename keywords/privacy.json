@@ -24,6 +24,14 @@
     "ro": {
       "term": "Confidențialitate",
       "definition": "Dreptul persoanelor de a controla informațiile lor personale și cine le poate accesa."
+    },
+    "prs": {
+      "term": "حریم خصوصی",
+      "definition": "حق کنترل اینکه چه اطلاعاتی درباره شما جمع‌آوری و استفاده می‌شود."
+    },
+    "ps": {
+      "term": "محرمیت",
+      "definition": "د دې کنترول حق چې ستاسو کوم معلومات راټول او کارول کیږي."
     }
   }
 }

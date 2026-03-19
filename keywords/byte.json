@@ -23,6 +23,14 @@
     "ro": {
       "term": "Byte",
       "definition": "O unitate de date formată din 8 biți. Un byte poate reprezenta 256 de valori diferite."
+    },
+    "prs": {
+      "term": "بایت",
+      "definition": "واحدی از داده متشکل از ۸ بیت؛ برای نگه‌داشتن یک حرف استفاده می‌شود."
+    },
+    "ps": {
+      "term": "بایټ",
+      "definition": "د ۸ بټونو لخوا جوړه د معلوماتو واحد؛ د یوه توري لپاره کارول کیږي."
     }
   }
 }

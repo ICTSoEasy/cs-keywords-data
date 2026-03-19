@@ -24,6 +24,14 @@
     "ro": {
       "term": "Mediu de dezvoltare integrat (IDE)",
       "definition": "Un program care combină un editor de cod, verificator de erori și depanator într-un singur loc pentru a ajuta programatorii."
+    },
+    "prs": {
+      "term": "محیط توسعه یکپارچه",
+      "definition": "نرم‌افزاری که ابزارهای برنامه‌نویسی — ویرایشگر، اشکال‌زدا و کامپایلر — را در یک مکان ترکیب می‌کند."
+    },
+    "ps": {
+      "term": "IDE",
+      "definition": "هغه سافټویر چې د پروګرامینګ وسایل — ایډیټر، ډیباګر او کمپایلر — یو ځای کې یوځای کوي."
     }
   }
 }

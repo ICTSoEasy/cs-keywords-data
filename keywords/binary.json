@@ -23,6 +23,14 @@
     "ro": {
       "term": "Binar",
       "definition": "Un sistem de numerație care folosește doar două cifre: 0 și 1. Calculatoarele folosesc binar pentru a reprezenta toate datele."
+    },
+    "prs": {
+      "term": "دودویی",
+      "definition": "سیستم اعداد مبتنی بر ۲ که از ۰ و ۱ استفاده می‌کند؛ زبان پایه کامپیوترها."
+    },
+    "ps": {
+      "term": "بائنري",
+      "definition": "د ۲ پر بنسټ د شمیرو سیستم چې ۰ او ۱ کاروي؛ د کمپیوټرونو بنسټیزه ژبه."
     }
   }
 }

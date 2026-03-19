@@ -23,6 +23,14 @@
     "ro": {
       "term": "Topologia rețelei",
       "definition": "Aranjamentul fizic sau logic al dispozitivelor dintr-o rețea."
+    },
+    "prs": {
+      "term": "توپولوژی",
+      "definition": "نحوه ترتیب دستگاه‌ها و اتصالات در یک شبکه، مانند ستاره یا حلقه."
+    },
+    "ps": {
+      "term": "ټوپولوجي",
+      "definition": "د شبکې کې د وسیلو او اتصالاتو د ترتیب لار، لکه ستوری یا حلقه."
     }
   }
 }

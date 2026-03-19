@@ -24,6 +24,14 @@
     "ro": {
       "term": "Software proprietar",
       "definition": "Software deținut de o persoană sau companie care controlează utilizarea sa. Codul nu poate fi vizualizat sau copiat liber."
+    },
+    "prs": {
+      "term": "اختصاصی",
+      "definition": "نرم‌افزاری که کد منبع آن مخفی است و استفاده از آن نیاز به مجوز دارد."
+    },
+    "ps": {
+      "term": "خپلواک",
+      "definition": "سافټویر چې د هغه سرچینه کوډ پټ وي او کارول یې جواز ته اړتیا لري."
     }
   }
 }

@@ -23,6 +23,14 @@
     "ro": {
       "term": "Arbore binar",
       "definition": "O structură de date arborescentă în care fiecare nod are cel mult un copil stâng și unul drept."
+    },
+    "prs": {
+      "term": "درخت دودویی",
+      "definition": "ساختار داده‌ای شبیه درخت که هر گره حداکثر دو فرزند دارد."
+    },
+    "ps": {
+      "term": "بائنري ونه",
+      "definition": "د ونې جوړښت چې هر نوډ لږ تر لږه دوه ماشومان لري."
     }
   }
 }

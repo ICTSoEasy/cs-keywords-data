@@ -23,6 +23,14 @@
     "ro": {
       "term": "Recunoașterea tiparelor",
       "definition": "Identificarea asemănărilor sau caracteristicilor repetate în probleme pentru a le rezolva mai eficient."
+    },
+    "prs": {
+      "term": "تشخیص الگو",
+      "definition": "شناسایی شباهت‌ها، روندها یا الگوهای تکراری در مسائل برای کمک به حل آن‌ها."
+    },
+    "ps": {
+      "term": "د نمونو پیژندنه",
+      "definition": "د ستونزو کې د ورته‌والیو، رجحاناتو یا تکراري نمونو پیژندل ترڅو د حل لپاره مرسته وشي."
     }
   }
 }

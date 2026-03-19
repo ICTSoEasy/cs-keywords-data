@@ -23,6 +23,14 @@
     "ro": {
       "term": "Poartă NOT",
       "definition": "O poartă logică care inversează intrarea sa: transformă 1 în 0 și 0 în 1."
+    },
+    "prs": {
+      "term": "گیت NOT",
+      "definition": "گیت منطقی که ورودی را معکوس می‌کند: ورودی ۱ خروجی ۰ می‌دهد و برعکس."
+    },
+    "ps": {
+      "term": "NOT ګیټ",
+      "definition": "منطقي ګیټ چې ننوتنه معکوسوي: ۱ ننوتنه ۰ پایله ورکوي او برعکس."
     }
   }
 }

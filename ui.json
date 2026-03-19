@@ -19,6 +19,14 @@
     {
       "code": "ro",
       "label": "Română"
+    },
+    {
+      "code": "prs",
+      "label": "دری"
+    },
+    {
+      "code": "ps",
+      "label": "پښتو"
     }
   ],
   "strings": {
@@ -76,6 +84,28 @@
       "second_language": "A doua limbă",
       "footer_text": "Datele sunt contribuite de comunitate.",
       "footer_contribute": "Sugerează modificări pe GitHub"
+    },
+    "prs": {
+      "site_title": "واژه‌های علوم کامپیوتر",
+      "site_subtitle": "واژگان علوم کامپیوتر برای همه",
+      "search_placeholder": "جستجوی واژه‌ها…",
+      "all_topics": "همه موضوعات",
+      "no_results": "هیچ واژه‌ای یافت نشد. جستجو یا موضوع دیگری را امتحان کنید.",
+      "no_translation": "ترجمه هنوز موجود نیست",
+      "second_language": "زبان دوم",
+      "footer_text": "داده‌ها توسط جامعه ارائه شده‌اند.",
+      "footer_contribute": "پیشنهاد تغییرات در GitHub"
+    },
+    "ps": {
+      "site_title": "د کمپیوټر ساینس اصطلاحات",
+      "site_subtitle": "د کمپیوټر ساینس لغتونه د ټولو لپاره",
+      "search_placeholder": "د اصطلاحاتو لټون…",
+      "all_topics": "ټول موضوعات",
+      "no_results": "هیڅ اصطلاح ونه موندل شو. بله لټون یا موضوع هڅه وکړئ.",
+      "no_translation": "ژباړه لاهم شتون نلري",
+      "second_language": "دویمه ژبه",
+      "footer_text": "معلومات د ټولنې لخوا وړاندې شوي.",
+      "footer_contribute": "په GitHub کې بدلونونه وړاندیز کړئ"
     }
   }
 }

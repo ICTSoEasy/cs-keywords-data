@@ -23,6 +23,14 @@
     "ro": {
       "term": "Intrare",
       "definition": "Date introduse într-un program, de obicei de la tastatură, fișiere sau senzori."
+    },
+    "prs": {
+      "term": "ورودی",
+      "definition": "داده‌ای که وارد کامپیوتر یا برنامه می‌شود، مانند تایپ صفحه‌کلید یا کلیک ماوس."
+    },
+    "ps": {
+      "term": "ننوتنه",
+      "definition": "هغه معلومات چې کمپیوټر یا پروګرام ته ننوځي، لکه د کیبورډ لیکل یا د ماوس کلیک."
     }
   }
 }

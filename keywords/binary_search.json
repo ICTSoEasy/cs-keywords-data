@@ -23,6 +23,14 @@
     "ro": {
       "term": "Căutare binară",
       "definition": "Un algoritm de căutare care împarte în mod repetat o listă sortată în jumătăți pentru a găsi elementul dorit."
+    },
+    "prs": {
+      "term": "جستجوی دودویی",
+      "definition": "الگوریتم جستجو که فهرست مرتب شده را از وسط به نصف تقسیم می‌کند تا آیتم را بیابد."
+    },
+    "ps": {
+      "term": "بائنري لټون",
+      "definition": "د لټون الګوریتم چې ترتیب شوې لیست د منځ نه نیمایي کوي ترڅو توکی وموندل شي."
     }
   }
 }

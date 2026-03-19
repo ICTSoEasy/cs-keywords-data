@@ -23,6 +23,14 @@
     "ro": {
       "term": "Robot",
       "definition": "O mașină care poate fi programată pentru a efectua sarcini automat, adesea imitând acțiunile umane."
+    },
+    "prs": {
+      "term": "ربات",
+      "definition": "ماشینی که می‌تواند کارهایی را به طور خودکار انجام دهد، اغلب با استفاده از سنسورها و عملگرها."
+    },
+    "ps": {
+      "term": "روبوټ",
+      "definition": "ماشین چې کولی شي دندې اتوماتیک ترسره کړي، اکثراً د سینسرونو او ایکچویټرونو له کارولو سره."
     }
   }
 }

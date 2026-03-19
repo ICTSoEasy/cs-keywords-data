@@ -23,6 +23,14 @@
     "ro": {
       "term": "CRUD",
       "definition": "Cele patru operații de bază pentru gestionarea datelor în baze de date: Creare, Citire, Actualizare și Ștergere."
+    },
+    "prs": {
+      "term": "CRUD",
+      "definition": "چهار عملیات اصلی پایگاه داده: ایجاد، خواندن، به‌روزرسانی و حذف."
+    },
+    "ps": {
+      "term": "CRUD",
+      "definition": "د ډیټابیس څلور اصلي عملیات: جوړول، لوستل، تازه کول او ړنګول."
     }
   }
 }

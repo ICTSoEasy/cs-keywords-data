@@ -23,6 +23,14 @@
     "ro": {
       "term": "Căutare liniară",
       "definition": "Un algoritm de căutare care examinează fiecare element din listă, unul câte unul, până găsește elementul dorit."
+    },
+    "prs": {
+      "term": "جستجوی خطی",
+      "definition": "جستجوی یک فهرست با بررسی هر آیتم به ترتیب تا یافتن آنچه به دنبالش هستیم."
+    },
+    "ps": {
+      "term": "خطي لټون",
+      "definition": "د لیست لټون د هر توکي یو یو چک کولو سره ترڅو هغه ومومو چې لټوو یې."
     }
   }
 }

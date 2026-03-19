@@ -20,6 +20,14 @@
     "ro": {
       "term": "Router",
       "definition": "Un dispozitiv de rețea care direcționează pachete de date între rețele diferite și conectează rețeaua locală la internet."
+    },
+    "prs": {
+      "term": "مسیریاب",
+      "definition": "دستگاهی که بسته‌های داده را بین شبکه‌ها هدایت می‌کند و آن‌ها را به مقصد درست می‌رساند."
+    },
+    "ps": {
+      "term": "راوټر",
+      "definition": "وسیله چې د معلوماتو پاکیټونه شبکو تر منځ لارښوونه کوي او سم منزل ته یې رسوي."
     }
   },
   "topics": [

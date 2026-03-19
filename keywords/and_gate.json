@@ -23,6 +23,14 @@
     "ro": {
       "term": "Poartă AND",
       "definition": "O poartă logică care produce 1 doar când toate intrările sale sunt 1."
+    },
+    "prs": {
+      "term": "گیت AND",
+      "definition": "گیت منطقی که تنها وقتی هر دو ورودی ۱ باشند، خروجی ۱ می‌دهد."
+    },
+    "ps": {
+      "term": "AND ګیټ",
+      "definition": "یو منطقي ګیټ چې یوازې هغه وخت ۱ ورکوي چې دواړه ننوتونه ۱ وي."
     }
   }
 }

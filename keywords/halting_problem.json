@@ -23,6 +23,14 @@
     "ro": {
       "term": "Problema opririi",
       "definition": "O problemă teoretică care dovedește că este imposibil de determinat dacă un program se va opri sau va continua să ruleze la infinit."
+    },
+    "prs": {
+      "term": "مسئله توقف",
+      "definition": "مسئله‌ای اثبات‌شده که غیرممکن است برنامه‌ای نوشته شود که بگوید هر برنامه دیگری توقف می‌کند یا برای همیشه اجرا می‌شود."
+    },
+    "ps": {
+      "term": "د ودریدو ستونزه",
+      "definition": "ثابته ستونزه چې دا ناممکنه ده چې داسې پروګرام ولیکل شي چې ووايي آیا بل هر پروګرام به ودریږي که تل به چلیږي."
     }
   }
 }

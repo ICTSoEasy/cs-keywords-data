@@ -23,6 +23,14 @@
     "ro": {
       "term": "Hexazecimal",
       "definition": "Un sistem de numerație în baza 16 care folosește cifrele 0–9 și literele A–F. Folosit ca prescurtare convenabilă pentru binar."
+    },
+    "prs": {
+      "term": "هگزادسیمال",
+      "definition": "سیستم اعداد مبتنی بر ۱۶ که از ارقام ۰-۹ و حروف A-F استفاده می‌کند؛ اغلب برای نمایش رنگ‌ها و آدرس‌های حافظه استفاده می‌شود."
+    },
+    "ps": {
+      "term": "هگزاډیسیمل",
+      "definition": "د ۱۶ پر بنسټ د شمیرو سیستم چې ۰-۹ او A-F کاروي؛ اکثراً د رنګونو او د حافظې پتو ښودلو لپاره."
     }
   }
 }

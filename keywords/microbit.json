@@ -24,6 +24,14 @@
     "ro": {
       "term": "Micro:bit",
       "definition": "O placă de calcul mică concepută pentru predarea programării și a calculului fizic."
+    },
+    "prs": {
+      "term": "میکروبیت",
+      "definition": "رایانه کوچک تک‌برد طراحی‌شده برای یادگیری برنامه‌نویسی و فیزیکی."
+    },
+    "ps": {
+      "term": "مایکروبیت",
+      "definition": "د پروګرامینګ او فزیکي زده‌کړې لپاره ډیزاین شوی کوچنی تک‌بورډ کمپیوټر."
     }
   }
 }

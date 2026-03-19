@@ -23,6 +23,14 @@
     "ro": {
       "term": "Internet",
       "definition": "O rețea globală uriașă de calculatoare și dispozitive conectate între ele."
+    },
+    "prs": {
+      "term": "اینترنت",
+      "definition": "شبکه جهانی کامپیوترها و دستگاه‌های دیگر که با استفاده از پروتکل‌های استاندارد به هم متصل هستند."
+    },
+    "ps": {
+      "term": "انټرنیټ",
+      "definition": "د کمپیوټرونو او نورو وسیلو نړیواله شبکه چې د معیاري پروتوکولونو له لارې سره وصل دي."
     }
   }
 }

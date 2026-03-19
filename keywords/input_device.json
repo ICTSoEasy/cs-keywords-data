@@ -23,6 +23,14 @@
     "ro": {
       "term": "Dispozitiv de intrare",
       "definition": "Un dispozitiv folosit pentru a introduce date în calculator, cum ar fi tastatura și mouse-ul."
+    },
+    "prs": {
+      "term": "دستگاه ورودی",
+      "definition": "قطعه سخت‌افزاری که داده‌ها را به کامپیوتر می‌فرستد، مانند صفحه‌کلید یا ماوس."
+    },
+    "ps": {
+      "term": "د ننوتنې وسیله",
+      "definition": "د سخت‌افزار هغه برخه چې معلومات کمپیوټر ته لیږي، لکه کیبورډ یا ماوس."
     }
   }
 }

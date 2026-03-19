@@ -7,7 +7,9 @@
       "pl": "Algorytmy",
       "cy": "Algorithmau",
       "ar": "الخوارزميات",
-      "ro": "Algoritmi"
+      "ro": "Algoritmi",
+      "prs": "الگوریتم‌ها",
+      "ps": "الګوریتمونه"
     }
   },
   {
@@ -18,7 +20,9 @@
       "pl": "Programowanie",
       "cy": "Rhaglennu",
       "ar": "البرمجة",
-      "ro": "Programare"
+      "ro": "Programare",
+      "prs": "برنامه‌نویسی",
+      "ps": "پروګرامینګ"
     }
   },
   {
@@ -29,7 +33,9 @@
       "pl": "Myślenie komputacyjne",
       "cy": "Meddwl Cyfrifiadurol",
       "ar": "التفكير الحاسوبي",
-      "ro": "Gândire computațională"
+      "ro": "Gândire computațională",
+      "prs": "تفکر محاسباتی",
+      "ps": "محاسباتي فکر"
     }
   },
   {
@@ -40,7 +46,9 @@
       "pl": "Reprezentacja danych",
       "cy": "Cynrychiolaeth Data",
       "ar": "تمثيل البيانات",
-      "ro": "Reprezentarea datelor"
+      "ro": "Reprezentarea datelor",
+      "prs": "نمایش داده",
+      "ps": "د معلوماتو نمایش"
     }
   },
   {
@@ -51,7 +59,9 @@
       "pl": "Sprzęt i systemy komputerowe",
       "cy": "Caledwedd a Systemau Cyfrifiadurol",
       "ar": "الأجهزة وأنظمة الحاسوب",
-      "ro": "Hardware și sisteme de calcul"
+      "ro": "Hardware și sisteme de calcul",
+      "prs": "سخت‌افزار و سیستم‌های کامپیوتری",
+      "ps": "هارډویر او کمپیوټر سیستمونه"
     }
   },
   {
@@ -62,7 +72,9 @@
       "pl": "Oprogramowanie",
       "cy": "Meddalwedd",
       "ar": "البرمجيات",
-      "ro": "Software"
+      "ro": "Software",
+      "prs": "نرم‌افزار",
+      "ps": "سافټویر"
     }
   },
   {
@@ -73,7 +85,9 @@
       "pl": "Sieci",
       "cy": "Rhwydweithio",
       "ar": "الشبكات",
-      "ro": "Rețele"
+      "ro": "Rețele",
+      "prs": "شبکه‌بندی",
+      "ps": "شبکه‌بندي"
     }
   },
   {
@@ -84,7 +98,9 @@
       "pl": "Dane i bazy danych",
       "cy": "Data a Chronfeydd Data",
       "ar": "البيانات وقواعد البيانات",
-      "ro": "Date și baze de date"
+      "ro": "Date și baze de date",
+      "prs": "داده و پایگاه‌های داده",
+      "ps": "معلومات او ډیټابیسونه"
     }
   },
   {
@@ -95,7 +111,9 @@
       "pl": "Bezpieczeństwo i cyberbezpieczeństwo",
       "cy": "Diogelwch a Seiberddiogelwch",
       "ar": "الأمن والأمن الإلكتروني",
-      "ro": "Securitate și securitate cibernetică"
+      "ro": "Securitate și securitate cibernetică",
+      "prs": "امنیت و امنیت سایبری",
+      "ps": "امنیت او سایبر امنیت"
     }
   },
   {
@@ -106,7 +124,9 @@
       "pl": "Logika Boole'a",
       "cy": "Rhesymeg Boole",
       "ar": "المنطق البولياني",
-      "ro": "Logică booleană"
+      "ro": "Logică booleană",
+      "prs": "منطق بولی",
+      "ps": "بولیني منطق"
     }
   },
   {
@@ -117,7 +137,9 @@
       "pl": "Tworzenie oprogramowania",
       "cy": "Datblygu Meddalwedd",
       "ar": "تطوير البرمجيات",
-      "ro": "Dezvoltare software"
+      "ro": "Dezvoltare software",
+      "prs": "توسعه نرم‌افزار",
+      "ps": "د سافټویر پراختیا"
     }
   },
   {
@@ -128,7 +150,9 @@
       "pl": "Struktury danych",
       "cy": "Strwythurau Data",
       "ar": "هياكل البيانات",
-      "ro": "Structuri de date"
+      "ro": "Structuri de date",
+      "prs": "ساختارهای داده",
+      "ps": "د معلوماتو جوړښتونه"
     }
   },
   {
@@ -139,7 +163,9 @@
       "pl": "Teoria obliczeń",
       "cy": "Theori Cyfrifiadaeth",
       "ar": "نظرية الحوسبة",
-      "ro": "Teoria calculului"
+      "ro": "Teoria calculului",
+      "prs": "نظریه محاسبات",
+      "ps": "د محاسبې نظریه"
     }
   },
   {
@@ -150,7 +176,9 @@
       "pl": "Kwestie etyczne i prawne",
       "cy": "Materion Moesegol a Chyfreithiol",
       "ar": "القضايا الأخلاقية والقانونية",
-      "ro": "Probleme etice și juridice"
+      "ro": "Probleme etice și juridice",
+      "prs": "مسائل اخلاقی و حقوقی",
+      "ps": "اخلاقي او قانوني مسائل"
     }
   },
   {
@@ -161,7 +189,9 @@
       "pl": "Sztuczna inteligencja",
       "cy": "Deallusrwydd Artiffisial",
       "ar": "الذكاء الاصطناعي",
-      "ro": "Inteligență artificială"
+      "ro": "Inteligență artificială",
+      "prs": "هوش مصنوعی",
+      "ps": "مصنوعي هوښیارتیا"
     }
   },
   {
@@ -172,7 +202,9 @@
       "pl": "Robotyka i obliczenia fizyczne",
       "cy": "Roboteg a Chyfrifiadeg Ffisegol",
       "ar": "الروبوتات والحوسبة الفيزيائية",
-      "ro": "Robotică și calcul fizic"
+      "ro": "Robotică și calcul fizic",
+      "prs": "رباتیک و محاسبات فیزیکی",
+      "ps": "روبوټیک او فزیکي محاسبه"
     }
   }
 ]

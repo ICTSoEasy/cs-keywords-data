@@ -20,6 +20,14 @@
     "ro": {
       "term": "Secvență",
       "definition": "Executarea instrucțiunilor în ordine, una după alta."
+    },
+    "prs": {
+      "term": "دنباله",
+      "definition": "اجرای دستورالعمل‌ها به ترتیب، یکی پس از دیگری."
+    },
+    "ps": {
+      "term": "لړۍ",
+      "definition": "د لارښوونو یو یو پر بل ترتیبي اجرا."
     }
   },
   "topics": [

@@ -23,6 +23,14 @@
     "ro": {
       "term": "Compresie fără pierderi",
       "definition": "Compresia unui fișier păstrând toate datele originale, astfel încât fișierul poate fi restaurat complet."
+    },
+    "prs": {
+      "term": "فشرده‌سازی بدون اتلاف",
+      "definition": "فشرده‌سازی که فایل اصلی را می‌توان کاملاً بازیابی کرد."
+    },
+    "ps": {
+      "term": "بې له ضیاع فشردول",
+      "definition": "فشردول چې اصلي فایل کاملاً بیرته راوستل کیدی شي."
     }
   }
 }

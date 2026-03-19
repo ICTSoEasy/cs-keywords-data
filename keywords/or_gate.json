@@ -23,6 +23,14 @@
     "ro": {
       "term": "Poartă OR",
       "definition": "O poartă logică care produce 1 când cel puțin una dintre intrările sale este 1."
+    },
+    "prs": {
+      "term": "گیت OR",
+      "definition": "گیت منطقی که اگر حداقل یکی از ورودی‌ها ۱ باشد، خروجی ۱ می‌دهد."
+    },
+    "ps": {
+      "term": "OR ګیټ",
+      "definition": "منطقي ګیټ چې که لږترلږه یو ننوتنه ۱ وي، پایله ۱ ده."
     }
   }
 }

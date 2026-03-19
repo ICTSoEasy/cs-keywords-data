@@ -23,6 +23,14 @@
     "ro": {
       "term": "Abstractizare",
       "definition": "Eliminarea detaliilor inutile pentru a te concentra pe ceea ce este important în rezolvarea unei probleme."
+    },
+    "prs": {
+      "term": "انتزاع",
+      "definition": "پنهان کردن جزئیات پیچیده و نشان دادن تنها اطلاعاتی که لازم است."
+    },
+    "ps": {
+      "term": "انتزاع",
+      "definition": "پیچیده توضیحات پټول او یوازې هغه معلومات ښودل چې اړین دي."
     }
   }
 }

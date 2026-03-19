@@ -24,6 +24,14 @@
     "ro": {
       "term": "Notația O mare",
       "definition": "O metodă de a descrie eficiența unui algoritm în termeni de timp sau spațiu pe măsură ce dimensiunea intrării crește."
+    },
+    "prs": {
+      "term": "نشانه‌گذاری Big O",
+      "definition": "راهی برای توصیف سرعت یا حجم حافظه مورد نیاز الگوریتم با بزرگ شدن ورودی."
+    },
+    "ps": {
+      "term": "Big O نوټیشن",
+      "definition": "د الګوریتم د چټکتیا یا حافظې اړتیا د بیانولو لار کله چې ننوتونه لوی شي."
     }
   }
 }

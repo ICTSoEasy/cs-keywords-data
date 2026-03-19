@@ -23,6 +23,14 @@
     "ro": {
       "term": "Decalaj digital",
       "definition": "Diferența dintre cei care pot accesa tehnologia digitală și cei care nu pot."
+    },
+    "prs": {
+      "term": "شکاف دیجیتالی",
+      "definition": "تفاوت میان کسانی که به فناوری دسترسی دارند و کسانی که ندارند."
+    },
+    "ps": {
+      "term": "ډیجیټل توپیر",
+      "definition": "د هغو خلکو تر منځ توپیر چې ټیکنالوژۍ ته لاسرسي لري او هغو چې نه لري."
     }
   }
 }

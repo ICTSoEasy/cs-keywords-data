@@ -23,6 +23,14 @@
     "ro": {
       "term": "Stivă",
       "definition": "O structură de date care funcționează după principiul ultimul intrat, primul ieșit (LIFO)."
+    },
+    "prs": {
+      "term": "پشته",
+      "definition": "ساختار داده‌ای که آیتم‌ها را به ترتیب آخرین-وارد-اول-خارج (LIFO) ذخیره می‌کند."
+    },
+    "ps": {
+      "term": "سټیک",
+      "definition": "د معلوماتو جوړښت چې توکي د وروستی-ننوتی-لومړی-وتلی (LIFO) ترتیب سره ذخیره کوي."
     }
   }
 }

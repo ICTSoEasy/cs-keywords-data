@@ -23,6 +23,14 @@
     "ro": {
       "term": "ASCII",
       "definition": "Un standard de codificare care atribuie numere binare literelor engleze, cifrelor și semnelor de punctuație."
+    },
+    "prs": {
+      "term": "ASCII",
+      "definition": "یک سیستم کدگذاری که هر حرف، عدد و نماد را به یک عدد نسبت می‌دهد."
+    },
+    "ps": {
+      "term": "ASCII",
+      "definition": "یو کوډینګ سیستم چې هر توری، عدد او نښه ته یو شمیر ورکوي."
     }
   }
 }

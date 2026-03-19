@@ -23,6 +23,14 @@
     "ro": {
       "term": "GDPR",
       "definition": "Un regulament european care guvernează modul în care datele personale sunt colectate, stocate și utilizate."
+    },
+    "prs": {
+      "term": "مقررات عمومی حفاظت از داده",
+      "definition": "قانون اتحادیه اروپا که کنترل می‌کند سازمان‌ها چگونه داده‌های شخصی را جمع‌آوری و استفاده می‌کنند."
+    },
+    "ps": {
+      "term": "GDPR",
+      "definition": "د اروپا اتحادیې قانون چې کنترولوي سازمانونه شخصي معلومات څنګه راټولوي او کاروي."
     }
   }
 }

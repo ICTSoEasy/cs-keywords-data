@@ -20,6 +20,14 @@
     "ro": {
       "term": "Firewall",
       "definition": "Un sistem de securitate care monitorizează și controlează traficul de rețea pe baza unor reguli prestabilite."
+    },
+    "prs": {
+      "term": "فایروال",
+      "definition": "سیستم امنیتی که ترافیک شبکه را نظارت و کنترل می‌کند تا از دسترسی غیرمجاز جلوگیری کند."
+    },
+    "ps": {
+      "term": "فایروال",
+      "definition": "د امنیت سیستم چې د شبکې ټرافیک نظارت او کنترول کوي ترڅو غیرمجاز لاسرسي مخنیوی وکړي."
     }
   },
   "topics": [

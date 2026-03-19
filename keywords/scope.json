@@ -23,6 +23,14 @@
     "ro": {
       "term": "Domeniu de vizibilitate",
       "definition": "Zona din program în care o variabilă poate fi accesată. O variabilă locală există doar în subrutina în care a fost creată; una globală poate fi accesată oriunde."
+    },
+    "prs": {
+      "term": "حوزه",
+      "definition": "قسمت از برنامه که یک متغیر در آن قابل دسترسی است."
+    },
+    "ps": {
+      "term": "دایره",
+      "definition": "د پروګرام هغه برخه چې یو متغیر پکې د لاسرسي وړ وي."
     }
   }
 }

@@ -20,6 +20,14 @@
     "ro": {
       "term": "Protocol",
       "definition": "Un set de reguli care definesc cum comunică dispozitivele și cum schimbă date printr-o rețea."
+    },
+    "prs": {
+      "term": "پروتکل",
+      "definition": "مجموعه قوانینی که تعریف می‌کند دستگاه‌ها چگونه از طریق یک شبکه ارتباط برقرار می‌کنند."
+    },
+    "ps": {
+      "term": "پروتوکول",
+      "definition": "د قوانینو مجموعه چې تعریفوي وسیلې د شبکې له لارې څنګه اړیکه ساتي."
     }
   },
   "topics": [

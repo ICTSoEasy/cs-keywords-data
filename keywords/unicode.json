@@ -23,6 +23,14 @@
     "ro": {
       "term": "Unicode",
       "definition": "Un standard de codificare care suportă majoritatea caracterelor și sistemelor de scriere din lume."
+    },
+    "prs": {
+      "term": "یونیکد",
+      "definition": "استاندارد کدگذاری که به تقریباً هر کاراکتر از هر زبان دنیا یک کد عددی نسبت می‌دهد."
+    },
+    "ps": {
+      "term": "یونیکوډ",
+      "definition": "د کوډینګ معیار چې نږدې د نړۍ هر ژبې هر کرکتر ته عددي کوډ ورکوي."
     }
   }
 }

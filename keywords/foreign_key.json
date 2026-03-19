@@ -23,6 +23,14 @@
     "ro": {
       "term": "Cheie externă",
       "definition": "Un câmp dintr-un tabel care face referire la cheia primară dintr-un alt tabel, folosit pentru a lega tabelele."
+    },
+    "prs": {
+      "term": "کلید خارجی",
+      "definition": "فیلدی در یک جدول که به کلید اصلی جدول دیگری اشاره می‌کند و جداول را به هم مرتبط می‌کند."
+    },
+    "ps": {
+      "term": "بهرنی کیلي",
+      "definition": "د یوه جدول هغه ساحه چې د بل جدول اصلي کیلي ته اشاره کوي او جدولونه سره نښلوي."
     }
   }
 }

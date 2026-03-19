@@ -23,6 +23,14 @@
     "ro": {
       "term": "Compresie cu pierderi",
       "definition": "Compresia unui fișier prin eliminarea permanentă a unor date pentru a obține o dimensiune mai mică."
+    },
+    "prs": {
+      "term": "فشرده‌سازی با اتلاف",
+      "definition": "فشرده‌سازی که برخی داده‌ها را برای رسیدن به فایل‌های کوچک‌تر حذف می‌کند."
+    },
+    "ps": {
+      "term": "د ضیاع سره فشردول",
+      "definition": "فشردول چې د کوچنیو فایلونو لپاره ځینې معلومات لرې کوي."
     }
   }
 }

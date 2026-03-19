@@ -24,6 +24,14 @@
     "ro": {
       "term": "Recursivitate",
       "definition": "Când o funcție se apelează pe sine pentru a rezolva o versiune mai mică a aceleiași probleme."
+    },
+    "prs": {
+      "term": "بازگشت",
+      "definition": "وقتی یک تابع خودش را صدا می‌کند تا مسئله را با تقسیم به نمونه‌های کوچک‌تر حل کند."
+    },
+    "ps": {
+      "term": "بیرته راستنیدنه",
+      "definition": "کله چې یو فنکشن ځان ته زنګ ووهي ترڅو ستونزه د کوچنیو نمونو ته ویشلو سره حل کړي."
     }
   }
 }

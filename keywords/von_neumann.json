@@ -23,6 +23,14 @@
     "ro": {
       "term": "Arhitectura von Neumann",
       "definition": "Proiectul calculatorului care stochează datele și instrucțiunile în aceeași memorie și le procesează cu același procesor."
+    },
+    "prs": {
+      "term": "معماری فون نویمان",
+      "definition": "طراحی کامپیوتری که در آن CPU، حافظه و ورودی/خروجی از یک گذرگاه مشترک استفاده می‌کنند."
+    },
+    "ps": {
+      "term": "د فون نویمان جوړښت",
+      "definition": "د کمپیوټر ډیزاین چې CPU، حافظه او ورود/وتنه د مشترک بس له لارې کار کوي."
     }
   }
 }

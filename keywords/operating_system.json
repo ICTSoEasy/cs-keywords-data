@@ -23,6 +23,14 @@
     "ro": {
       "term": "Sistem de operare",
       "definition": "Un program care gestionează resursele calculatorului și oferă o interfață între utilizator și hardware."
+    },
+    "prs": {
+      "term": "سیستم عامل",
+      "definition": "نرم‌افزاری که سخت‌افزار و نرم‌افزار کامپیوتر را مدیریت می‌کند، مانند Windows یا Linux."
+    },
+    "ps": {
+      "term": "عملیاتي سیستم",
+      "definition": "سافټویر چې د کمپیوټر سخت‌افزار او نرم‌افزار اداره کوي، لکه Windows یا Linux."
     }
   }
 }

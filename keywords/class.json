@@ -23,6 +23,14 @@
     "ro": {
       "term": "Clasă",
       "definition": "Un șablon pentru crearea obiectelor care definește atributele și metodele pe care le vor avea toate obiectele de acel tip."
+    },
+    "prs": {
+      "term": "کلاس",
+      "definition": "قالبی در برنامه‌نویسی شیءگرا که ویژگی‌ها و رفتارهای اشیاء را تعریف می‌کند."
+    },
+    "ps": {
+      "term": "کلاس",
+      "definition": "د شیانو د برنامه‌نویسۍ کې یو نمونه چې د شیانو ځانتیاوې او چلند تعریفوي."
     }
   }
 }

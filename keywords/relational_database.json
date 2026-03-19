@@ -23,6 +23,14 @@
     "ro": {
       "term": "Bază de date relațională",
       "definition": "O bază de date care organizează datele în tabele interconectate care pot fi legate prin chei."
+    },
+    "prs": {
+      "term": "پایگاه داده رابطه‌ای",
+      "definition": "پایگاه داده‌ای که اطلاعات را در جداول مرتبط ذخیره می‌کند و با کلیدها به هم پیوند دارند."
+    },
+    "ps": {
+      "term": "اړیکوي ډیټابیس",
+      "definition": "ډیټابیس چې معلومات اړونده جدولونو کې ذخیره کوي چې د کیلیو له لارې سره وصل دي."
     }
   }
 }

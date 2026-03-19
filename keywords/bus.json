@@ -23,6 +23,14 @@
     "ro": {
       "term": "Magistrală",
       "definition": "Un set de fire din calculator care transportă date între componente. Include magistrala de date, cea de adrese și cea de control."
+    },
+    "prs": {
+      "term": "گذرگاه",
+      "definition": "مجموعه‌ای از سیم‌ها در کامپیوتر که داده‌ها را بین اجزاء مختلف منتقل می‌کند."
+    },
+    "ps": {
+      "term": "بس",
+      "definition": "د کمپیوټر د تارونو ډله چې د بیلابیلو برخو تر منځ معلومات لیږدوي."
     }
   }
 }

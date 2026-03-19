@@ -23,6 +23,14 @@
     "ro": {
       "term": "Testare",
       "definition": "Procesul de verificare că programul funcționează corect și produce rezultatele așteptate."
+    },
+    "prs": {
+      "term": "آزمون",
+      "definition": "بررسی اینکه آیا برنامه به درستی کار می‌کند با اجرا در برابر موارد مختلف."
+    },
+    "ps": {
+      "term": "ازموینه",
+      "definition": "د دې چک کول چې آیا پروګرام سم کار کوي د بیلابیلو قضیو پر وړاندې د چلولو سره."
     }
   }
 }

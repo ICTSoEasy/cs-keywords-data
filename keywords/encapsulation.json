@@ -23,6 +23,14 @@
     "ro": {
       "term": "Încapsulare",
       "definition": "Gruparea datelor unui obiect și a metodelor care le folosesc împreună într-o clasă, ascunzând detaliile interne față de codul extern."
+    },
+    "prs": {
+      "term": "کپسوله‌سازی",
+      "definition": "پنهان کردن جزئیات داخلی یک شیء و فقط نشان دادن آنچه لازم است."
+    },
+    "ps": {
+      "term": "انکپسولیشن",
+      "definition": "د شي د داخلي توضیحاتو پټول او یوازې هغه ښودل چې اړین وي."
     }
   }
 }

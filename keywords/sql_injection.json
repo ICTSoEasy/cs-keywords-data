@@ -23,6 +23,14 @@
     "ro": {
       "term": "Injecție SQL",
       "definition": "Un atac cibernetic în care atacatorul introduce cod malițios în formularele de intrare pentru a controla baza de date."
+    },
+    "prs": {
+      "term": "تزریق SQL",
+      "definition": "حمله‌ای که کد SQL مخرب را در فیلد ورودی وارد می‌کند تا پایگاه داده را دستکاری کند."
+    },
+    "ps": {
+      "term": "SQL انجکشن",
+      "definition": "برید چې د ننوتنې ساحه کې ناوړه SQL کوډ داخلوي ترڅو ډیټابیس دستکاري کړي."
     }
   }
 }

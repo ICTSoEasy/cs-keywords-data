@@ -23,6 +23,14 @@
     "ro": {
       "term": "Rată de eșantionare",
       "definition": "Numărul de ori pe secundă în care o undă sonoră este măsurată la înregistrare. O rată mai mare produce sunet de calitate mai bună dar fișier mai mare."
+    },
+    "prs": {
+      "term": "نرخ نمونه‌برداری",
+      "definition": "تعداد دفعاتی که یک سیگنال صوتی در ثانیه اندازه‌گیری می‌شود؛ نرخ بالاتر به معنای کیفیت بهتر صدا است."
+    },
+    "ps": {
+      "term": "د نمونې کچه",
+      "definition": "هغه ځله شمیر چې یو غږیز سیګنال هره ثانیه اندازه کیږي؛ لوړه کچه یعنې غوره غږ."
     }
   }
 }

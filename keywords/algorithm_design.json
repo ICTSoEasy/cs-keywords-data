@@ -23,6 +23,14 @@
     "ro": {
       "term": "Proiectarea algoritmilor",
       "definition": "Planificarea soluției pas cu pas a unei probleme înainte de a scrie orice cod."
+    },
+    "prs": {
+      "term": "طراحی الگوریتم",
+      "definition": "فرآیند برنامه‌ریزی مراحل لازم برای حل یک مسئله قبل از نوشتن کد."
+    },
+    "ps": {
+      "term": "د الګوریتم ډیزاین",
+      "definition": "د کوډ لیکلو دمخه د یوې ستونزې د حل لپاره اړین ګامونو پلان جوړول."
     }
   }
 }

@@ -20,6 +20,14 @@
     "ro": {
       "term": "Pachet de date",
       "definition": "O bucată mică de date trimisă printr-o rețea. Datele mari sunt împărțite în mai multe pachete."
+    },
+    "prs": {
+      "term": "بسته داده",
+      "definition": "قطعه کوچکی از داده که از طریق اینترنت ارسال می‌شود؛ فایل‌های بزرگ به بسته‌های کوچک تقسیم می‌شوند."
+    },
+    "ps": {
+      "term": "پاکیټ",
+      "definition": "د معلوماتو کوچنۍ برخه چې انټرنیټ له لارې لیږل کیږي؛ لوی فایلونه کوچنیو پاکیټونو ته ویشل کیږي."
     }
   },
   "topics": [

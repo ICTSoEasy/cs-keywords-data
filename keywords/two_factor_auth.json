@@ -23,6 +23,14 @@
     "ro": {
       "term": "Autentificare cu doi factori",
       "definition": "O metodă de securitate care necesită două forme de verificare a identității, cum ar fi o parolă și un cod trimis pe telefon."
+    },
+    "prs": {
+      "term": "احراز هویت دو مرحله‌ای",
+      "definition": "روش ورود که دو نوع مختلف تأیید هویت نیاز دارد، مانند رمز عبور به علاوه کد SMS."
+    },
+    "ps": {
+      "term": "دوه مرحله‌ای تصدیق",
+      "definition": "د ننوتلو لار چې دوه بیل ډوله تایید ته اړتیا لري، لکه پاسورډ او SMS کوډ."
     }
   }
 }

@@ -24,6 +24,14 @@
     "ro": {
       "term": "Cod mașină",
       "definition": "Limbajul înțeles direct de procesor, format din instrucțiuni binare (0 și 1)."
+    },
+    "prs": {
+      "term": "کد ماشین",
+      "definition": "دستورالعمل‌های دودویی که CPU مستقیماً می‌تواند آن‌ها را اجرا کند."
+    },
+    "ps": {
+      "term": "ماشین کوډ",
+      "definition": "دوه‌اره لارښوونې چې CPU مستقیم اجرا کولی شي."
     }
   }
 }

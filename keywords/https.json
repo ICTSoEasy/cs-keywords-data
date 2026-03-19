@@ -24,6 +24,14 @@
     "ro": {
       "term": "HTTPS",
       "definition": "O versiune securizată a HTTP care criptează datele în tranzit pentru a proteja informațiile."
+    },
+    "prs": {
+      "term": "پروتکل انتقال ابرمتن امن",
+      "definition": "نسخه امن HTTP که داده‌ها را رمزنگاری می‌کند تا انتقال ایمن باشد."
+    },
+    "ps": {
+      "term": "HTTPS",
+      "definition": "د HTTP خوندي نسخه چې معلومات انکریپټ کوي ترڅو لیږد خوندي وي."
     }
   }
 }

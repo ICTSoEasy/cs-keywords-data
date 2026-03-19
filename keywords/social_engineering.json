@@ -23,6 +23,14 @@
     "ro": {
       "term": "Inginerie socială",
       "definition": "Manipularea psihologică a oamenilor pentru a-i convinge să dezvăluie informații confidențiale sau să ia măsuri nesigure."
+    },
+    "prs": {
+      "term": "مهندسی اجتماعی",
+      "definition": "دستکاری افراد برای فاش کردن اطلاعات محرمانه یا انجام کارهای ناخواسته."
+    },
+    "ps": {
+      "term": " друштвени انجینرنګ",
+      "definition": "خلک دې ته اړول چې محرم معلومات ښکاره کړي یا ناغوښتل شوې دندې ترسره کړي."
     }
   }
 }

@@ -20,6 +20,14 @@
     "ro": {
       "term": "Interogare",
       "definition": "O solicitare de a obține date sau de a efectua o operație pe date dintr-o bază de date."
+    },
+    "prs": {
+      "term": "کوئری",
+      "definition": "سوالی که برای بازیابی اطلاعات خاص از پایگاه داده استفاده می‌شود."
+    },
+    "ps": {
+      "term": "پوښتنه",
+      "definition": "هغه پوښتنه چې د ډیټابیس نه د ځانګړو معلوماتو د راوستلو لپاره کارول کیږي."
     }
   },
   "topics": [

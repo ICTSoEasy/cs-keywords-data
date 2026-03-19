@@ -20,6 +20,14 @@
     "ro": {
       "term": "Selecție",
       "definition": "O parte a unui program în care se ia o decizie pe baza unei condiții, folosind instrucțiuni de tipul if/else."
+    },
+    "prs": {
+      "term": "انتخاب",
+      "definition": "ساختار برنامه‌نویسی که بسته به شرط مسیر مختلفی را طی می‌کند، مانند if/else."
+    },
+    "ps": {
+      "term": "انتخاب",
+      "definition": "د پروګرامینګ جوړښت چې د شرط پر بنسټ بیلابیل لار نیسي، لکه if/else."
     }
   },
   "topics": [

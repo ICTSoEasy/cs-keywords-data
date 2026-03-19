@@ -23,6 +23,14 @@
     "ro": {
       "term": "Agile",
       "definition": "O abordare a dezvoltării software care lucrează în cicluri scurte, cu posibilitatea de a se adapta la schimbări în mod continuu."
+    },
+    "prs": {
+      "term": "چابک",
+      "definition": "روشی برای توسعه نرم‌افزار که در آن کار به مراحل کوچک تقسیم می‌شود و بازخورد منظم دریافت می‌شود."
+    },
+    "ps": {
+      "term": "اجایل",
+      "definition": "د سافټویر پراختیا یوه لار چې کار کوچني برخو ته ویشل کیږي او منظم فیډبک اخیستل کیږي."
     }
   }
 }

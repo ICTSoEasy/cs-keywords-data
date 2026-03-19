@@ -23,6 +23,14 @@
     "ro": {
       "term": "Atac cibernetic",
       "definition": "O tentativă deliberată de acces neautorizat la un sistem informatic sau de a-i cauza daune."
+    },
+    "prs": {
+      "term": "حمله سایبری",
+      "definition": "تلاش عمدی برای آسیب رساندن، سرقت یا دسترسی غیرمجاز به یک سیستم کامپیوتری."
+    },
+    "ps": {
+      "term": "سایبر برید",
+      "definition": "د یوه کمپیوټر سیستم ته د زیان رسولو، غلا یا غیرقانوني لاسرسي لپاره قصدي هڅه."
     }
   }
 }

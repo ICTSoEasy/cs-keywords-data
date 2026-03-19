@@ -23,6 +23,14 @@
     "ro": {
       "term": "Calcul în cloud",
       "definition": "Utilizarea serverelor la distanță pe internet pentru a stoca, gestiona și procesa date în loc de un calculator local."
+    },
+    "prs": {
+      "term": "رایانش ابری",
+      "definition": "ذخیره‌سازی و پردازش داده‌ها روی سرورهای اینترنتی به جای کامپیوتر شخصی."
+    },
+    "ps": {
+      "term": "کلاوډ کمپیوټینګ",
+      "definition": "د انټرنیټ سرورونو کې د معلوماتو ذخیره او پروسس کول پر ځای د شخصي کمپیوټر."
     }
   }
 }

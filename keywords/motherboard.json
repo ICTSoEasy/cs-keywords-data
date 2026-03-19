@@ -23,6 +23,14 @@
     "ro": {
       "term": "Placă de bază",
       "definition": "Placa principală a calculatorului care conectează toate componentele împreună."
+    },
+    "prs": {
+      "term": "مادربرد",
+      "definition": "برد اصلی کامپیوتر که CPU، حافظه و اجزاء دیگر را به هم متصل می‌کند."
+    },
+    "ps": {
+      "term": "مدربورډ",
+      "definition": "د کمپیوټر اصلي بورډ چې CPU، حافظه او نورې برخې سره وصلوي."
     }
   }
 }

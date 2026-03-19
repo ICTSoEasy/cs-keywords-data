@@ -23,6 +23,14 @@
     "ro": {
       "term": "Învățare automată",
       "definition": "Un tip de inteligență artificială în care calculatorul învață din date în loc să urmeze instrucțiuni programate explicit."
+    },
+    "prs": {
+      "term": "یادگیری ماشین",
+      "definition": "نوعی هوش مصنوعی که کامپیوترها از داده‌ها یاد می‌گیرند بدون اینکه به طور صریح برنامه‌ریزی شوند."
+    },
+    "ps": {
+      "term": "د ماشین زده‌کړه",
+      "definition": "د مصنوعي هوښیارتیا یو ډول چې کمپیوټرونه له معلوماتو زده کوي پرته له دقیق پروګرام کولو."
     }
   }
 }

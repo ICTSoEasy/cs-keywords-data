@@ -23,6 +23,14 @@
     "ro": {
       "term": "Viziune artificială",
       "definition": "Un domeniu al inteligenței artificiale care permite calculatoarelor să interpreteze și să înțeleagă imagini și videoclipuri."
+    },
+    "prs": {
+      "term": "بینایی کامپیوتر",
+      "definition": "شاخه‌ای از هوش مصنوعی که به کامپیوترها امکان می‌دهد تصاویر و فیلم را ببینند و تفسیر کنند."
+    },
+    "ps": {
+      "term": "د کمپیوټر لید",
+      "definition": "د مصنوعي هوښیارتیا هغه شاخه چې کمپیوټرونو ته اجازه ورکوي انځورونه او ویډیوګانې وګوري او تفسیر کړي."
     }
   }
 }

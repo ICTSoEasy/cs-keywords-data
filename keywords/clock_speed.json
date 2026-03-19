@@ -23,6 +23,14 @@
     "ro": {
       "term": "Frecvența de ceas",
       "definition": "Numărul de cicluri pe care procesorul le efectuează pe secundă. Măsurată de obicei în GHz."
+    },
+    "prs": {
+      "term": "سرعت ساعت",
+      "definition": "سرعت اجرای دستورالعمل‌ها توسط پردازنده، که بر حسب گیگاهرتز اندازه‌گیری می‌شود."
+    },
+    "ps": {
+      "term": "د ساعت سرعت",
+      "definition": "د پروسیسر د لارښوونو د اجرا سرعت، چې ګیګاهرتز کې اندازه کیږي."
     }
   }
 }

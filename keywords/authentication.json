@@ -20,6 +20,14 @@
     "ro": {
       "term": "Autentificare",
       "definition": "Procesul de verificare a identității unui utilizator sau dispozitiv înainte de a acorda accesul."
+    },
+    "prs": {
+      "term": "احراز هویت",
+      "definition": "فرآیند تأیید هویت یک کاربر، معمولاً از طریق رمز عبور یا اثر انگشت."
+    },
+    "ps": {
+      "term": "تصدیق",
+      "definition": "د کارونکي هویت تایید کولو پروسه، معمولاً د پاسورډ یا د ګوتو د نښو له لارې."
     }
   },
   "topics": [

@@ -23,6 +23,14 @@
     "ro": {
       "term": "Sistem de control",
       "definition": "Un sistem care monitorizează și controlează automat un proces sau dispozitiv folosind date de la senzori."
+    },
+    "prs": {
+      "term": "سیستم کنترل",
+      "definition": "سیستمی که ورودی‌های سنسور را برای خودکار کنترل یک فرآیند استفاده می‌کند."
+    },
+    "ps": {
+      "term": "د کنترول سیستم",
+      "definition": "هغه سیستم چې د یوه پروسې د اتوماتیک کنترول لپاره د سینسر ننوتونه کاروي."
     }
   }
 }

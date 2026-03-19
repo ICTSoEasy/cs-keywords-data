@@ -23,6 +23,14 @@
     "ro": {
       "term": "Poartă XOR",
       "definition": "O poartă logică care produce 1 când exact una dintre intrările sale este 1, nu ambele."
+    },
+    "prs": {
+      "term": "گیت XOR",
+      "definition": "گیت منطقی که وقتی ورودی‌ها متفاوت باشند خروجی ۱ می‌دهد؛ اگر ورودی‌ها یکسان باشند خروجی ۰ است."
+    },
+    "ps": {
+      "term": "XOR ګیټ",
+      "definition": "منطقي ګیټ چې کله ننوتنې توپیر ولري پایله ۱ ده؛ که ننوتنې یوشان وي پایله ۰ ده."
     }
   }
 }

@@ -23,6 +23,14 @@
     "ro": {
       "term": "Chatbot",
       "definition": "Un program de calculator conceput pentru a vorbi cu oamenii prin text sau voce."
+    },
+    "prs": {
+      "term": "چت‌بات",
+      "definition": "برنامه‌ای که مکالمه انسانی را شبیه‌سازی می‌کند، معمولاً از طریق پیام‌رسانی."
+    },
+    "ps": {
+      "term": "چیټ بوټ",
+      "definition": "هغه پروګرام چې د انساني خبرو اترو تقلید کوي، معمولاً د پیغامونو له لارې."
     }
   }
 }

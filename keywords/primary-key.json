@@ -20,6 +20,14 @@
     "ro": {
       "term": "Cheie primară",
       "definition": "Un câmp sau un set de câmpuri care identifică unic fiecare înregistrare dintr-un tabel al bazei de date."
+    },
+    "prs": {
+      "term": "کلید اصلی",
+      "definition": "فیلد منحصربه‌فردی در جدول پایگاه داده که هر رکورد را به طور یکتا شناسایی می‌کند."
+    },
+    "ps": {
+      "term": "لومړنی کیلي",
+      "definition": "د ډیټابیس جدول کې ځانګړی ساحه چې هر ریکارډ ځانګړي توګه پیژني."
     }
   },
   "topics": [

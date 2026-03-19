@@ -23,6 +23,14 @@
     "ro": {
       "term": "Program utilitar",
       "definition": "Un program care ajută la gestionarea și întreținerea calculatorului, cum ar fi programele antivirus sau de compresie."
+    },
+    "prs": {
+      "term": "ابزار",
+      "definition": "نرم‌افزار سیستمی که کار نگهداری یا مدیریت خاصی انجام می‌دهد، مانند آنتی‌ویروس یا ابزار فشرده‌سازی."
+    },
+    "ps": {
+      "term": "یوټیلیټي",
+      "definition": "سیستمي سافټویر چې ځانګړې ساتنه یا مدیریت دنده ترسره کوي، لکه انټي‌ویروس یا د فشردولو وسیله."
     }
   }
 }

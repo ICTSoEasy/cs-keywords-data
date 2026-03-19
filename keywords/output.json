@@ -23,6 +23,14 @@
     "ro": {
       "term": "Ieșire",
       "definition": "Date produse de un program, cum ar fi text pe ecran sau date salvate într-un fișier."
+    },
+    "prs": {
+      "term": "خروجی",
+      "definition": "نتیجه‌ای که یک کامپیوتر یا برنامه تولید می‌کند، مانند متن روی صفحه نمایش یا صدا از بلندگوها."
+    },
+    "ps": {
+      "term": "وتنه",
+      "definition": "هغه پایله چې کمپیوټر یا پروګرام جوړوي، لکه د سکرین پر متن یا د سپیکرونو غږ."
     }
   }
 }

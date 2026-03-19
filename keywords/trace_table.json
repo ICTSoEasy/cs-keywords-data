@@ -23,6 +23,14 @@
     "ro": {
       "term": "Tabel de urmărire",
       "definition": "Un tabel folosit pentru a urmări valorile variabilelor pas cu pas la rularea manuală a codului."
+    },
+    "prs": {
+      "term": "جدول ردیابی",
+      "definition": "جدولی که برای پیگیری مقادیر متغیرها مرحله به مرحله هنگام اجرای کد استفاده می‌شود."
+    },
+    "ps": {
+      "term": "د ردیابۍ جدول",
+      "definition": "جدول چې د کوډ د چلیدلو پرمهال د متغیرونو ارزښتونو ګام‌ونه تعقیبولو لپاره کارول کیږي."
     }
   }
 }

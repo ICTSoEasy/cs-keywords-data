@@ -23,6 +23,14 @@
     "ro": {
       "term": "Unitate centrală de procesare (CPU)",
       "definition": "Componenta principală a calculatorului care execută instrucțiunile. Uneori numită 'creierul calculatorului'."
+    },
+    "prs": {
+      "term": "پردازنده مرکزی",
+      "definition": "قطعه اصلی کامپیوتر که دستورالعمل‌های برنامه را پردازش می‌کند؛ 'مغز' کامپیوتر."
+    },
+    "ps": {
+      "term": "CPU",
+      "definition": "د کمپیوټر اصلي برخه چې د پروګرام لارښوونې پروسس کوي؛ د کمپیوټر 'دماغ'."
     }
   }
 }

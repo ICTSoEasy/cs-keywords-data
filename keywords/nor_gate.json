@@ -23,6 +23,14 @@
     "ro": {
       "term": "Poartă NOR",
       "definition": "O poartă logică care produce 1 doar când toate intrările sale sunt 0; opusul porții OR."
+    },
+    "prs": {
+      "term": "گیت NOR",
+      "definition": "گیت منطقی که خروجی OR را معکوس می‌کند؛ تنها وقتی هر دو ورودی ۰ باشند، خروجی ۱ است."
+    },
+    "ps": {
+      "term": "NOR ګیټ",
+      "definition": "منطقي ګیټ چې د OR پایله معکوسوي؛ یوازې کله چې دواړه ننوتونه ۰ وي، پایله ۱ ده."
     }
   }
 }
