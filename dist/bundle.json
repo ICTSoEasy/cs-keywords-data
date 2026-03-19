@@ -21,6 +21,14 @@
       {
         "code": "ro",
         "label": "Română"
+      },
+      {
+        "code": "prs",
+        "label": "دری"
+      },
+      {
+        "code": "ps",
+        "label": "پښتو"
       }
     ]
   },
@@ -79,6 +87,28 @@
       "second_language": "A doua limbă",
       "footer_text": "Datele sunt contribuite de comunitate.",
       "footer_contribute": "Sugerează modificări pe GitHub"
+    },
+    "prs": {
+      "site_title": "واژه‌های علوم کامپیوتر",
+      "site_subtitle": "واژگان علوم کامپیوتر برای همه",
+      "search_placeholder": "جستجوی واژه‌ها…",
+      "all_topics": "همه موضوعات",
+      "no_results": "هیچ واژه‌ای یافت نشد. جستجو یا موضوع دیگری را امتحان کنید.",
+      "no_translation": "ترجمه هنوز موجود نیست",
+      "second_language": "زبان دوم",
+      "footer_text": "داده‌ها توسط جامعه ارائه شده‌اند.",
+      "footer_contribute": "پیشنهاد تغییرات در GitHub"
+    },
+    "ps": {
+      "site_title": "د کمپیوټر ساینس اصطلاحات",
+      "site_subtitle": "د کمپیوټر ساینس لغتونه د ټولو لپاره",
+      "search_placeholder": "د اصطلاحاتو لټون…",
+      "all_topics": "ټول موضوعات",
+      "no_results": "هیڅ اصطلاح ونه موندل شو. بله لټون یا موضوع هڅه وکړئ.",
+      "no_translation": "ژباړه لاهم شتون نلري",
+      "second_language": "دویمه ژبه",
+      "footer_text": "معلومات د ټولنې لخوا وړاندې شوي.",
+      "footer_contribute": "په GitHub کې بدلونونه وړاندیز کړئ"
     }
   },
   "topics": [
@@ -90,7 +120,9 @@
         "pl": "Algorytmy",
         "cy": "Algorithmau",
         "ar": "الخوارزميات",
-        "ro": "Algoritmi"
+        "ro": "Algoritmi",
+        "prs": "الگوریتم‌ها",
+        "ps": "الګوریتمونه"
       }
     },
     {
@@ -101,7 +133,9 @@
         "pl": "Programowanie",
         "cy": "Rhaglennu",
         "ar": "البرمجة",
-        "ro": "Programare"
+        "ro": "Programare",
+        "prs": "برنامه‌نویسی",
+        "ps": "پروګرامینګ"
       }
     },
     {
@@ -112,7 +146,9 @@
         "pl": "Myślenie komputacyjne",
         "cy": "Meddwl Cyfrifiadurol",
         "ar": "التفكير الحاسوبي",
-        "ro": "Gândire computațională"
+        "ro": "Gândire computațională",
+        "prs": "تفکر محاسباتی",
+        "ps": "محاسباتي فکر"
       }
     },
     {
@@ -123,7 +159,9 @@
         "pl": "Reprezentacja danych",
         "cy": "Cynrychiolaeth Data",
         "ar": "تمثيل البيانات",
-        "ro": "Reprezentarea datelor"
+        "ro": "Reprezentarea datelor",
+        "prs": "نمایش داده",
+        "ps": "د معلوماتو نمایش"
       }
     },
     {
@@ -134,7 +172,9 @@
         "pl": "Sprzęt i systemy komputerowe",
         "cy": "Caledwedd a Systemau Cyfrifiadurol",
         "ar": "الأجهزة وأنظمة الحاسوب",
-        "ro": "Hardware și sisteme de calcul"
+        "ro": "Hardware și sisteme de calcul",
+        "prs": "سخت‌افزار و سیستم‌های کامپیوتری",
+        "ps": "هارډویر او کمپیوټر سیستمونه"
       }
     },
     {
@@ -145,7 +185,9 @@
         "pl": "Oprogramowanie",
         "cy": "Meddalwedd",
         "ar": "البرمجيات",
-        "ro": "Software"
+        "ro": "Software",
+        "prs": "نرم‌افزار",
+        "ps": "سافټویر"
       }
     },
     {
@@ -156,7 +198,9 @@
         "pl": "Sieci",
         "cy": "Rhwydweithio",
         "ar": "الشبكات",
-        "ro": "Rețele"
+        "ro": "Rețele",
+        "prs": "شبکه‌بندی",
+        "ps": "شبکه‌بندي"
       }
     },
     {
@@ -167,7 +211,9 @@
         "pl": "Dane i bazy danych",
         "cy": "Data a Chronfeydd Data",
         "ar": "البيانات وقواعد البيانات",
-        "ro": "Date și baze de date"
+        "ro": "Date și baze de date",
+        "prs": "داده و پایگاه‌های داده",
+        "ps": "معلومات او ډیټابیسونه"
       }
     },
     {
@@ -178,7 +224,9 @@
         "pl": "Bezpieczeństwo i cyberbezpieczeństwo",
         "cy": "Diogelwch a Seiberddiogelwch",
         "ar": "الأمن والأمن الإلكتروني",
-        "ro": "Securitate și securitate cibernetică"
+        "ro": "Securitate și securitate cibernetică",
+        "prs": "امنیت و امنیت سایبری",
+        "ps": "امنیت او سایبر امنیت"
       }
     },
     {
@@ -189,7 +237,9 @@
         "pl": "Logika Boole'a",
         "cy": "Rhesymeg Boole",
         "ar": "المنطق البولياني",
-        "ro": "Logică booleană"
+        "ro": "Logică booleană",
+        "prs": "منطق بولی",
+        "ps": "بولیني منطق"
       }
     },
     {
@@ -200,7 +250,9 @@
         "pl": "Tworzenie oprogramowania",
         "cy": "Datblygu Meddalwedd",
         "ar": "تطوير البرمجيات",
-        "ro": "Dezvoltare software"
+        "ro": "Dezvoltare software",
+        "prs": "توسعه نرم‌افزار",
+        "ps": "د سافټویر پراختیا"
       }
     },
     {
@@ -211,7 +263,9 @@
         "pl": "Struktury danych",
         "cy": "Strwythurau Data",
         "ar": "هياكل البيانات",
-        "ro": "Structuri de date"
+        "ro": "Structuri de date",
+        "prs": "ساختارهای داده",
+        "ps": "د معلوماتو جوړښتونه"
       }
     },
     {
@@ -222,7 +276,9 @@
         "pl": "Teoria obliczeń",
         "cy": "Theori Cyfrifiadaeth",
         "ar": "نظرية الحوسبة",
-        "ro": "Teoria calculului"
+        "ro": "Teoria calculului",
+        "prs": "نظریه محاسبات",
+        "ps": "د محاسبې نظریه"
       }
     },
     {
@@ -233,7 +289,9 @@
         "pl": "Kwestie etyczne i prawne",
         "cy": "Materion Moesegol a Chyfreithiol",
         "ar": "القضايا الأخلاقية والقانونية",
-        "ro": "Probleme etice și juridice"
+        "ro": "Probleme etice și juridice",
+        "prs": "مسائل اخلاقی و حقوقی",
+        "ps": "اخلاقي او قانوني مسائل"
       }
     },
     {
@@ -244,7 +302,9 @@
         "pl": "Sztuczna inteligencja",
         "cy": "Deallusrwydd Artiffisial",
         "ar": "الذكاء الاصطناعي",
-        "ro": "Inteligență artificială"
+        "ro": "Inteligență artificială",
+        "prs": "هوش مصنوعی",
+        "ps": "مصنوعي هوښیارتیا"
       }
     },
     {
@@ -255,7 +315,9 @@
         "pl": "Robotyka i obliczenia fizyczne",
         "cy": "Roboteg a Chyfrifiadeg Ffisegol",
         "ar": "الروبوتات والحوسبة الفيزيائية",
-        "ro": "Robotică și calcul fizic"
+        "ro": "Robotică și calcul fizic",
+        "prs": "رباتیک و محاسبات فیزیکی",
+        "ps": "روبوټیک او فزیکي محاسبه"
       }
     }
   ],
@@ -285,6 +347,14 @@
         "ro": {
           "term": "Abstractizare",
           "definition": "Eliminarea detaliilor inutile pentru a te concentra pe ceea ce este important în rezolvarea unei probleme."
+        },
+        "prs": {
+          "term": "انتزاع",
+          "definition": "پنهان کردن جزئیات پیچیده و نشان دادن تنها اطلاعاتی که لازم است."
+        },
+        "ps": {
+          "term": "انتزاع",
+          "definition": "پیچیده توضیحات پټول او یوازې هغه معلومات ښودل چې اړین دي."
         }
       }
     },
@@ -313,6 +383,14 @@
         "ro": {
           "term": "Actuator",
           "definition": "O componentă care transformă energia electrică în mișcare fizică în roboți și sisteme încorporate."
+        },
+        "prs": {
+          "term": "عملگر",
+          "definition": "قطعه‌ای که سیگنال‌های الکتریکی را به حرکت فیزیکی تبدیل می‌کند، مانند موتور یا سروو."
+        },
+        "ps": {
+          "term": "ایکچویټر",
+          "definition": "هغه برخه چې د بریښنایي سیګنالونو څخه فزیکي حرکت جوړوي، لکه موتور یا سرو."
         }
       }
     },
@@ -341,6 +419,14 @@
         "ro": {
           "term": "Agile",
           "definition": "O abordare a dezvoltării software care lucrează în cicluri scurte, cu posibilitatea de a se adapta la schimbări în mod continuu."
+        },
+        "prs": {
+          "term": "چابک",
+          "definition": "روشی برای توسعه نرم‌افزار که در آن کار به مراحل کوچک تقسیم می‌شود و بازخورد منظم دریافت می‌شود."
+        },
+        "ps": {
+          "term": "اجایل",
+          "definition": "د سافټویر پراختیا یوه لار چې کار کوچني برخو ته ویشل کیږي او منظم فیډبک اخیستل کیږي."
         }
       }
     },
@@ -370,6 +456,14 @@
         "ro": {
           "term": "Etica inteligenței artificiale",
           "definition": "Principiile și standardele care guvernează dezvoltarea și utilizarea responsabilă a sistemelor de inteligență artificială."
+        },
+        "prs": {
+          "term": "اخلاق هوش مصنوعی",
+          "definition": "قوانین و ارزش‌هایی که تضمین می‌کنند هوش مصنوعی به شکلی منصفانه و مسئولانه استفاده شود."
+        },
+        "ps": {
+          "term": "د مصنوعي هوښیارتیا اخلاق",
+          "definition": "هغه قوانین او ارزښتونه چې ډاډ ورکوي چې مصنوعي هوښیارتیا عادلانه او مسؤولانه کارول کیږي."
         }
       }
     },
@@ -395,6 +489,14 @@
         "ro": {
           "term": "Algoritm",
           "definition": "O secvență de pași sau instrucțiuni concepute pentru a rezolva o problemă sau a îndeplini o sarcină."
+        },
+        "prs": {
+          "term": "الگوریتم",
+          "definition": "مجموعه‌ای از دستورالعمل‌های گام‌به‌گام برای حل یک مسئله یا انجام یک کار."
+        },
+        "ps": {
+          "term": "الګوریتم",
+          "definition": "د یوې ستونزې د حل یا یوې دندې د سرته رسولو لپاره د ګام‌ونو لړۍ."
         }
       },
       "topics": [
@@ -427,6 +529,14 @@
         "ro": {
           "term": "Părtinire algoritmică",
           "definition": "Când un algoritm produce rezultate nedrepte sau discriminatorii din cauza datelor de antrenament sau a presupozițiilor părtinite."
+        },
+        "prs": {
+          "term": "تعصب الگوریتمی",
+          "definition": "وقتی یک الگوریتم نتایج ناعادلانه‌ای تولید می‌کند، معمولاً به خاطر داده‌های آموزشی ناقص."
+        },
+        "ps": {
+          "term": "د الګوریتم تعصب",
+          "definition": "کله چې یو الګوریتم ناعادلانه پایلې ورکوي، معمولاً د ناقصو روزنیزو معلوماتو له امله."
         }
       }
     },
@@ -455,6 +565,14 @@
         "ro": {
           "term": "Proiectarea algoritmilor",
           "definition": "Planificarea soluției pas cu pas a unei probleme înainte de a scrie orice cod."
+        },
+        "prs": {
+          "term": "طراحی الگوریتم",
+          "definition": "فرآیند برنامه‌ریزی مراحل لازم برای حل یک مسئله قبل از نوشتن کد."
+        },
+        "ps": {
+          "term": "د الګوریتم ډیزاین",
+          "definition": "د کوډ لیکلو دمخه د یوې ستونزې د حل لپاره اړین ګامونو پلان جوړول."
         }
       }
     },
@@ -483,6 +601,14 @@
         "ro": {
           "term": "Poartă AND",
           "definition": "O poartă logică care produce 1 doar când toate intrările sale sunt 1."
+        },
+        "prs": {
+          "term": "گیت AND",
+          "definition": "گیت منطقی که تنها وقتی هر دو ورودی ۱ باشند، خروجی ۱ می‌دهد."
+        },
+        "ps": {
+          "term": "AND ګیټ",
+          "definition": "یو منطقي ګیټ چې یوازې هغه وخت ۱ ورکوي چې دواړه ننوتونه ۱ وي."
         }
       }
     },
@@ -511,6 +637,14 @@
         "ro": {
           "term": "Aplicație",
           "definition": "Un program conceput pentru a efectua o sarcină specifică pentru utilizator, cum ar fi un procesor de text sau un browser."
+        },
+        "prs": {
+          "term": "برنامه کاربردی",
+          "definition": "نرم‌افزاری که برای انجام یک کار خاص برای کاربر طراحی شده، مانند پردازشگر متن یا بازی."
+        },
+        "ps": {
+          "term": "اپلیکیشن",
+          "definition": "هغه سافټویر چې د کاروونکي لپاره یوه ځانګړې دنده سرته رساوي، لکه ورډ پروسیسر یا لوبه."
         }
       }
     },
@@ -536,6 +670,14 @@
         "ro": {
           "term": "Tablou",
           "definition": "O structură de date care stochează mai multe elemente de același tip în locații consecutive de memorie."
+        },
+        "prs": {
+          "term": "آرایه",
+          "definition": "مجموعه‌ای از عناصر همنوع که در خانه‌های شماره‌گذاری شده ذخیره می‌شوند."
+        },
+        "ps": {
+          "term": "اری",
+          "definition": "د یو ډول عناصرو ټولګه چې د شمیرل شوو ځایونو کې ذخیره کیږي."
         }
       },
       "topics": [
@@ -567,6 +709,14 @@
         "ro": {
           "term": "Inteligență artificială",
           "definition": "Simularea inteligenței umane de către sisteme informatice, inclusiv învățarea și rezolvarea problemelor."
+        },
+        "prs": {
+          "term": "هوش مصنوعی",
+          "definition": "توانایی کامپیوترها برای انجام کارهایی که معمولاً نیاز به هوش انسانی دارند، مانند تشخیص تصویر."
+        },
+        "ps": {
+          "term": "مصنوعي هوښیارتیا",
+          "definition": "د کمپیوټرونو وړتیا چې هغه دندې ترسره کړي چې معمولاً د انساني ذهن ته اړتیا لري."
         }
       }
     },
@@ -595,6 +745,14 @@
         "ro": {
           "term": "ASCII",
           "definition": "Un standard de codificare care atribuie numere binare literelor engleze, cifrelor și semnelor de punctuație."
+        },
+        "prs": {
+          "term": "ASCII",
+          "definition": "یک سیستم کدگذاری که هر حرف، عدد و نماد را به یک عدد نسبت می‌دهد."
+        },
+        "ps": {
+          "term": "ASCII",
+          "definition": "یو کوډینګ سیستم چې هر توری، عدد او نښه ته یو شمیر ورکوي."
         }
       }
     },
@@ -624,6 +782,14 @@
         "ro": {
           "term": "Limbaj de asamblare",
           "definition": "Un limbaj de programare de nivel scăzut care folosește simboluri lizibile și se traduce direct în cod mașină."
+        },
+        "prs": {
+          "term": "زبان اسمبلی",
+          "definition": "زبان برنامه‌نویسی سطح پایینی که از کدهای کوتاه به جای کد ماشین استفاده می‌کند و هنوز به سخت‌افزار نزدیک است."
+        },
+        "ps": {
+          "term": "اسمبلۍ ژبه",
+          "definition": "ټیټ سطحې پروګرامینګ ژبه چې د ماشین کوډ پر ځای لنډ کوډونه کاروي خو بیا هم سخت‌افزار ته نږدې ده."
         }
       }
     },
@@ -649,6 +815,14 @@
         "ro": {
           "term": "Autentificare",
           "definition": "Procesul de verificare a identității unui utilizator sau dispozitiv înainte de a acorda accesul."
+        },
+        "prs": {
+          "term": "احراز هویت",
+          "definition": "فرآیند تأیید هویت یک کاربر، معمولاً از طریق رمز عبور یا اثر انگشت."
+        },
+        "ps": {
+          "term": "تصدیق",
+          "definition": "د کارونکي هویت تایید کولو پروسه، معمولاً د پاسورډ یا د ګوتو د نښو له لارې."
         }
       },
       "topics": [
@@ -681,6 +855,14 @@
         "ro": {
           "term": "Automatizare",
           "definition": "Utilizarea tehnologiei pentru a efectua sarcini automat, fără intervenție umană continuă."
+        },
+        "prs": {
+          "term": "اتوماسیون",
+          "definition": "استفاده از کامپیوترها یا ماشین‌ها برای انجام خودکار کارها بدون دخالت انسان."
+        },
+        "ps": {
+          "term": "اتوماسیون",
+          "definition": "د کمپیوټرونو یا ماشینونو کارول ترڅو دندې پرته له انساني مداخلې اتوماتیک ترسره شي."
         }
       }
     },
@@ -706,6 +888,14 @@
         "ro": {
           "term": "Lățime de bandă",
           "definition": "Cantitatea maximă de date care poate fi transferată printr-o rețea într-un interval de timp dat."
+        },
+        "prs": {
+          "term": "پهنای باند",
+          "definition": "حداکثر مقدار داده‌ای که می‌تواند در یک زمان از طریق یک شبکه منتقل شود."
+        },
+        "ps": {
+          "term": "بینډوډث",
+          "definition": "د معلوماتو اعظمي مقدار چې یو وخت کې د یوې شبکې له لارې لیږدول کیدی شي."
         }
       },
       "topics": [
@@ -738,6 +928,14 @@
         "ro": {
           "term": "Notația O mare",
           "definition": "O metodă de a descrie eficiența unui algoritm în termeni de timp sau spațiu pe măsură ce dimensiunea intrării crește."
+        },
+        "prs": {
+          "term": "نشانه‌گذاری Big O",
+          "definition": "راهی برای توصیف سرعت یا حجم حافظه مورد نیاز الگوریتم با بزرگ شدن ورودی."
+        },
+        "ps": {
+          "term": "Big O نوټیشن",
+          "definition": "د الګوریتم د چټکتیا یا حافظې اړتیا د بیانولو لار کله چې ننوتونه لوی شي."
         }
       }
     },
@@ -766,6 +964,14 @@
         "ro": {
           "term": "Binar",
           "definition": "Un sistem de numerație care folosește doar două cifre: 0 și 1. Calculatoarele folosesc binar pentru a reprezenta toate datele."
+        },
+        "prs": {
+          "term": "دودویی",
+          "definition": "سیستم اعداد مبتنی بر ۲ که از ۰ و ۱ استفاده می‌کند؛ زبان پایه کامپیوترها."
+        },
+        "ps": {
+          "term": "بائنري",
+          "definition": "د ۲ پر بنسټ د شمیرو سیستم چې ۰ او ۱ کاروي؛ د کمپیوټرونو بنسټیزه ژبه."
         }
       }
     },
@@ -794,6 +1000,14 @@
         "ro": {
           "term": "Căutare binară",
           "definition": "Un algoritm de căutare care împarte în mod repetat o listă sortată în jumătăți pentru a găsi elementul dorit."
+        },
+        "prs": {
+          "term": "جستجوی دودویی",
+          "definition": "الگوریتم جستجو که فهرست مرتب شده را از وسط به نصف تقسیم می‌کند تا آیتم را بیابد."
+        },
+        "ps": {
+          "term": "بائنري لټون",
+          "definition": "د لټون الګوریتم چې ترتیب شوې لیست د منځ نه نیمایي کوي ترڅو توکی وموندل شي."
         }
       }
     },
@@ -822,6 +1036,14 @@
         "ro": {
           "term": "Arbore binar",
           "definition": "O structură de date arborescentă în care fiecare nod are cel mult un copil stâng și unul drept."
+        },
+        "prs": {
+          "term": "درخت دودویی",
+          "definition": "ساختار داده‌ای شبیه درخت که هر گره حداکثر دو فرزند دارد."
+        },
+        "ps": {
+          "term": "بائنري ونه",
+          "definition": "د ونې جوړښت چې هر نوډ لږ تر لږه دوه ماشومان لري."
         }
       }
     },
@@ -850,6 +1072,14 @@
         "ro": {
           "term": "Bit",
           "definition": "Cea mai mică unitate de date dintr-un calculator. Poate fi doar 0 sau 1."
+        },
+        "prs": {
+          "term": "بیت",
+          "definition": "کوچک‌ترین واحد داده در کامپیوتر — یک مقدار ۰ یا ۱."
+        },
+        "ps": {
+          "term": "بټ",
+          "definition": "د کمپیوټر کې د معلوماتو کوچنۍ واحد — یو ۰ یا ۱ ارزښت."
         }
       }
     },
@@ -875,6 +1105,14 @@
         "ro": {
           "term": "Boolean",
           "definition": "Un tip de date care poate stoca doar două valori: adevărat sau fals."
+        },
+        "prs": {
+          "term": "بولی",
+          "definition": "نوع داده‌ای که فقط دو مقدار ممکن دارد: درست (True) یا نادرست (False)."
+        },
+        "ps": {
+          "term": "بولیني",
+          "definition": "د معلوماتو ډول چې یوازې دوه ممکنه ارزښتونه لري: ریښتیا (True) یا غلط (False)."
         }
       },
       "topics": [
@@ -907,6 +1145,14 @@
         "ro": {
           "term": "Forță brută",
           "definition": "O metodă de spargere a sistemelor prin încercarea tuturor combinațiilor posibile până când este găsită cea corectă."
+        },
+        "prs": {
+          "term": "زور خام",
+          "definition": "رویکرد حل مسئله که همه راه‌حل‌های ممکن را امتحان می‌کند تا جواب درست پیدا شود."
+        },
+        "ps": {
+          "term": "بروټ فورس",
+          "definition": "د ستونزې حل کولو لار چې ټولې ممکنه حلونه ازموي ترڅو سم ځواب وموندل شي."
         }
       }
     },
@@ -935,6 +1181,14 @@
         "ro": {
           "term": "Sortare prin bule",
           "definition": "Un algoritm de sortare care compară și schimbă în mod repetat elementele adiacente până când lista este complet sortată."
+        },
+        "prs": {
+          "term": "مرتب‌سازی حبابی",
+          "definition": "الگوریتم مرتب‌سازی که آیتم‌های مجاور را مقایسه و جابجا می‌کند تا فهرست مرتب شود."
+        },
+        "ps": {
+          "term": "بابل سورټ",
+          "definition": "د ترتیب الګوریتم چې د لیست د ترتیب لپاره ګاونډي توکي پرتله کوي او بدلوي."
         }
       }
     },
@@ -963,6 +1217,14 @@
         "ro": {
           "term": "Magistrală",
           "definition": "Un set de fire din calculator care transportă date între componente. Include magistrala de date, cea de adrese și cea de control."
+        },
+        "prs": {
+          "term": "گذرگاه",
+          "definition": "مجموعه‌ای از سیم‌ها در کامپیوتر که داده‌ها را بین اجزاء مختلف منتقل می‌کند."
+        },
+        "ps": {
+          "term": "بس",
+          "definition": "د کمپیوټر د تارونو ډله چې د بیلابیلو برخو تر منځ معلومات لیږدوي."
         }
       }
     },
@@ -991,6 +1253,14 @@
         "ro": {
           "term": "Byte",
           "definition": "O unitate de date formată din 8 biți. Un byte poate reprezenta 256 de valori diferite."
+        },
+        "prs": {
+          "term": "بایت",
+          "definition": "واحدی از داده متشکل از ۸ بیت؛ برای نگه‌داشتن یک حرف استفاده می‌شود."
+        },
+        "ps": {
+          "term": "بایټ",
+          "definition": "د ۸ بټونو لخوا جوړه د معلوماتو واحد؛ د یوه توري لپاره کارول کیږي."
         }
       }
     },
@@ -1019,6 +1289,14 @@
         "ro": {
           "term": "Memorie cache",
           "definition": "O memorie mică și foarte rapidă în interiorul sau aproape de procesor care stochează datele utilizate recent pentru procesare mai rapidă."
+        },
+        "prs": {
+          "term": "کش",
+          "definition": "حافظه کوچک و سریعی که داده‌های پرمصرف را نزدیک به پردازنده نگه می‌دارد."
+        },
+        "ps": {
+          "term": "کیش",
+          "definition": "کوچنۍ ګړندۍ حافظه چې ډیر کارول شوي معلومات د پروسیسر سره نږدې ساتي."
         }
       }
     },
@@ -1047,6 +1325,14 @@
         "ro": {
           "term": "Conversie de tip",
           "definition": "Schimbarea tipului de date al unei valori, de exemplu conversia unui număr în text."
+        },
+        "prs": {
+          "term": "تبدیل نوع",
+          "definition": "تغییر نوع داده یک مقدار، مانند تبدیل عدد به رشته."
+        },
+        "ps": {
+          "term": "کاسټینګ",
+          "definition": "د یوه ارزښت د معلوماتو د ډول بدلول، لکه عدد ته د متن بدلول."
         }
       }
     },
@@ -1075,6 +1361,14 @@
         "ro": {
           "term": "Chatbot",
           "definition": "Un program de calculator conceput pentru a vorbi cu oamenii prin text sau voce."
+        },
+        "prs": {
+          "term": "چت‌بات",
+          "definition": "برنامه‌ای که مکالمه انسانی را شبیه‌سازی می‌کند، معمولاً از طریق پیام‌رسانی."
+        },
+        "ps": {
+          "term": "چیټ بوټ",
+          "definition": "هغه پروګرام چې د انساني خبرو اترو تقلید کوي، معمولاً د پیغامونو له لارې."
         }
       }
     },
@@ -1103,6 +1397,14 @@
         "ro": {
           "term": "Clasă",
           "definition": "Un șablon pentru crearea obiectelor care definește atributele și metodele pe care le vor avea toate obiectele de acel tip."
+        },
+        "prs": {
+          "term": "کلاس",
+          "definition": "قالبی در برنامه‌نویسی شیءگرا که ویژگی‌ها و رفتارهای اشیاء را تعریف می‌کند."
+        },
+        "ps": {
+          "term": "کلاس",
+          "definition": "د شیانو د برنامه‌نویسۍ کې یو نمونه چې د شیانو ځانتیاوې او چلند تعریفوي."
         }
       }
     },
@@ -1131,6 +1433,14 @@
         "ro": {
           "term": "Frecvența de ceas",
           "definition": "Numărul de cicluri pe care procesorul le efectuează pe secundă. Măsurată de obicei în GHz."
+        },
+        "prs": {
+          "term": "سرعت ساعت",
+          "definition": "سرعت اجرای دستورالعمل‌ها توسط پردازنده، که بر حسب گیگاهرتز اندازه‌گیری می‌شود."
+        },
+        "ps": {
+          "term": "د ساعت سرعت",
+          "definition": "د پروسیسر د لارښوونو د اجرا سرعت، چې ګیګاهرتز کې اندازه کیږي."
         }
       }
     },
@@ -1159,6 +1469,14 @@
         "ro": {
           "term": "Calcul în cloud",
           "definition": "Utilizarea serverelor la distanță pe internet pentru a stoca, gestiona și procesa date în loc de un calculator local."
+        },
+        "prs": {
+          "term": "رایانش ابری",
+          "definition": "ذخیره‌سازی و پردازش داده‌ها روی سرورهای اینترنتی به جای کامپیوتر شخصی."
+        },
+        "ps": {
+          "term": "کلاوډ کمپیوټینګ",
+          "definition": "د انټرنیټ سرورونو کې د معلوماتو ذخیره او پروسس کول پر ځای د شخصي کمپیوټر."
         }
       }
     },
@@ -1187,6 +1505,14 @@
         "ro": {
           "term": "Adâncime de culoare",
           "definition": "Numărul de biți folosiți pentru a stoca culoarea unui singur pixel. O adâncime mai mare înseamnă mai multe culori posibile și un fișier mai mare."
+        },
+        "prs": {
+          "term": "عمق رنگ",
+          "definition": "تعداد بیت‌های استفاده شده برای نمایش رنگ هر پیکسل؛ بیت‌های بیشتر به معنای رنگ‌های بیشتر است."
+        },
+        "ps": {
+          "term": "د رنګ ژوروالی",
+          "definition": "د هر پیکسل د رنګ د نمایش لپاره کارول شوي بټونو شمیر؛ ډیر بټونه یعنې ډیر رنګونه."
         }
       }
     },
@@ -1215,6 +1541,14 @@
         "ro": {
           "term": "Compilator",
           "definition": "Un program care convertește codul dintr-un limbaj de nivel înalt în cod mașină dintr-o dată, înainte de execuție."
+        },
+        "prs": {
+          "term": "کامپایلر",
+          "definition": "برنامه‌ای که کد سطح بالا را به کد ماشین که کامپیوتر می‌تواند اجرا کند ترجمه می‌کند."
+        },
+        "ps": {
+          "term": "کمپایلر",
+          "definition": "هغه پروګرام چې لوړ سطحې کوډ د ماشین کوډ ته ژباړي چې کمپیوټر یې چلولی شي."
         }
       }
     },
@@ -1243,6 +1577,14 @@
         "ro": {
           "term": "Compresie",
           "definition": "Reducerea dimensiunii unui fișier prin reprezentarea datelor mai eficient."
+        },
+        "prs": {
+          "term": "فشرده‌سازی",
+          "definition": "کاهش اندازه فایل برای صرفه‌جویی در فضا یا سرعت بخشیدن به انتقال."
+        },
+        "ps": {
+          "term": "کمپریشن",
+          "definition": "د ځای د سپمولو یا لیږد د چټکولو لپاره د فایل د اندازې کمول."
         }
       }
     },
@@ -1271,6 +1613,14 @@
         "ro": {
           "term": "Viziune artificială",
           "definition": "Un domeniu al inteligenței artificiale care permite calculatoarelor să interpreteze și să înțeleagă imagini și videoclipuri."
+        },
+        "prs": {
+          "term": "بینایی کامپیوتر",
+          "definition": "شاخه‌ای از هوش مصنوعی که به کامپیوترها امکان می‌دهد تصاویر و فیلم را ببینند و تفسیر کنند."
+        },
+        "ps": {
+          "term": "د کمپیوټر لید",
+          "definition": "د مصنوعي هوښیارتیا هغه شاخه چې کمپیوټرونو ته اجازه ورکوي انځورونه او ویډیوګانې وګوري او تفسیر کړي."
         }
       }
     },
@@ -1300,6 +1650,14 @@
         "ro": {
           "term": "Condiție",
           "definition": "O expresie evaluată ca adevărată sau falsă, folosită pentru a controla fluxul unui program."
+        },
+        "prs": {
+          "term": "شرط",
+          "definition": "جمله‌ای که به درست یا نادرست ارزیابی می‌شود و برای کنترل جریان برنامه استفاده می‌شود."
+        },
+        "ps": {
+          "term": "شرط",
+          "definition": "هغه جمله چې ریښتیا یا غلط ارزیابي کیږي او د پروګرام د جریان کنترل لپاره کارول کیږي."
         }
       }
     },
@@ -1328,6 +1686,14 @@
         "ro": {
           "term": "Constantă",
           "definition": "O valoare cu nume care nu se schimbă pe parcursul execuției programului."
+        },
+        "prs": {
+          "term": "ثابت",
+          "definition": "مقداری در برنامه که هرگز تغییر نمی‌کند."
+        },
+        "ps": {
+          "term": "ثابت",
+          "definition": "پروګرام کې یو ارزښت چې هیڅکله نه بدلیږي."
         }
       }
     },
@@ -1356,6 +1722,14 @@
         "ro": {
           "term": "Sistem de control",
           "definition": "Un sistem care monitorizează și controlează automat un proces sau dispozitiv folosind date de la senzori."
+        },
+        "prs": {
+          "term": "سیستم کنترل",
+          "definition": "سیستمی که ورودی‌های سنسور را برای خودکار کنترل یک فرآیند استفاده می‌کند."
+        },
+        "ps": {
+          "term": "د کنترول سیستم",
+          "definition": "هغه سیستم چې د یوه پروسې د اتوماتیک کنترول لپاره د سینسر ننوتونه کاروي."
         }
       }
     },
@@ -1384,6 +1758,14 @@
         "ro": {
           "term": "Drepturi de autor",
           "definition": "Protecția legală care acordă creatorilor dreptul de a controla modul în care lucrările lor sunt utilizate."
+        },
+        "prs": {
+          "term": "حق مؤلف",
+          "definition": "حق قانونی که از آثار خلاقانه مانند موسیقی، کتاب یا نرم‌افزار محافظت می‌کند."
+        },
+        "ps": {
+          "term": "کاپي رایټ",
+          "definition": "قانوني حق چې د خلاقیت کارونه لکه موسیقي، کتابونه یا سافټویر ساتي."
         }
       }
     },
@@ -1412,6 +1794,14 @@
         "ro": {
           "term": "Unitate centrală de procesare (CPU)",
           "definition": "Componenta principală a calculatorului care execută instrucțiunile. Uneori numită 'creierul calculatorului'."
+        },
+        "prs": {
+          "term": "پردازنده مرکزی",
+          "definition": "قطعه اصلی کامپیوتر که دستورالعمل‌های برنامه را پردازش می‌کند؛ 'مغز' کامپیوتر."
+        },
+        "ps": {
+          "term": "CPU",
+          "definition": "د کمپیوټر اصلي برخه چې د پروګرام لارښوونې پروسس کوي؛ د کمپیوټر 'دماغ'."
         }
       }
     },
@@ -1440,6 +1830,14 @@
         "ro": {
           "term": "CRUD",
           "definition": "Cele patru operații de bază pentru gestionarea datelor în baze de date: Creare, Citire, Actualizare și Ștergere."
+        },
+        "prs": {
+          "term": "CRUD",
+          "definition": "چهار عملیات اصلی پایگاه داده: ایجاد، خواندن، به‌روزرسانی و حذف."
+        },
+        "ps": {
+          "term": "CRUD",
+          "definition": "د ډیټابیس څلور اصلي عملیات: جوړول، لوستل، تازه کول او ړنګول."
         }
       }
     },
@@ -1468,6 +1866,14 @@
         "ro": {
           "term": "Atac cibernetic",
           "definition": "O tentativă deliberată de acces neautorizat la un sistem informatic sau de a-i cauza daune."
+        },
+        "prs": {
+          "term": "حمله سایبری",
+          "definition": "تلاش عمدی برای آسیب رساندن، سرقت یا دسترسی غیرمجاز به یک سیستم کامپیوتری."
+        },
+        "ps": {
+          "term": "سایبر برید",
+          "definition": "د یوه کمپیوټر سیستم ته د زیان رسولو، غلا یا غیرقانوني لاسرسي لپاره قصدي هڅه."
         }
       }
     },
@@ -1497,6 +1903,14 @@
         "ro": {
           "term": "Protecția datelor",
           "definition": "Un set de practici și legi care garantează utilizarea sigură și corectă a datelor personale."
+        },
+        "prs": {
+          "term": "حفاظت از داده",
+          "definition": "قوانین و روش‌هایی که اطمینان می‌دهند اطلاعات شخصی امن نگه‌داری شود."
+        },
+        "ps": {
+          "term": "د معلوماتو ساتنه",
+          "definition": "هغه قوانین او میتودونه چې ډاډ ورکوي چې شخصي معلومات خوندي ساتل کیږي."
         }
       }
     },
@@ -1525,6 +1939,14 @@
         "ro": {
           "term": "Tip de date",
           "definition": "O clasificare care determină ce fel de date pot fi stocate, cum ar fi număr întreg, text sau boolean."
+        },
+        "prs": {
+          "term": "نوع داده",
+          "definition": "دسته‌بندی داده که به کامپیوتر می‌گوید چگونه آن را ذخیره و پردازش کند، مانند عدد صحیح یا رشته."
+        },
+        "ps": {
+          "term": "د معلوماتو ډول",
+          "definition": "د معلوماتو کټګوري چې کمپیوټر ته وايي چې دا څنګه وساتي او پروسس کړي، لکه عدد یا متن."
         }
       }
     },
@@ -1553,6 +1975,14 @@
         "ro": {
           "term": "Tip de date (bază de date)",
           "definition": "Clasificarea datelor stocate într-un câmp al bazei de date, cum ar fi text, număr sau dată."
+        },
+        "prs": {
+          "term": "نوع داده (پایگاه داده)",
+          "definition": "مشخصه‌ای که نوع داده ذخیره شده در یک ستون پایگاه داده را تعریف می‌کند."
+        },
+        "ps": {
+          "term": "د معلوماتو ډول (ډیټابیس)",
+          "definition": "هغه مشخصه چې د ډیټابیس د یوه کالم کې د ذخیره شوو معلوماتو ډول تعریفوي."
         }
       }
     },
@@ -1582,6 +2012,14 @@
         "ro": {
           "term": "Validarea datelor",
           "definition": "Procesul de verificare că datele introduse sunt corecte și rezonabile înainte de procesare."
+        },
+        "prs": {
+          "term": "اعتبارسنجی داده",
+          "definition": "بررسی اینکه داده وارد شده صحیح، کامل و منطقی باشد."
+        },
+        "ps": {
+          "term": "د معلوماتو اعتبار",
+          "definition": "د دې چک کول چې ننوتي معلومات سم، بشپړ او منطقي وي."
         }
       }
     },
@@ -1607,6 +2045,14 @@
         "ro": {
           "term": "Bază de date",
           "definition": "O colecție organizată de date stocate și gestionate electronic."
+        },
+        "prs": {
+          "term": "پایگاه داده",
+          "definition": "مجموعه‌ای سازمان‌یافته از اطلاعات که به‌گونه‌ای ذخیره شده که جستجو، به‌روزرسانی و مدیریت آسان باشد."
+        },
+        "ps": {
+          "term": "ډیټابیس",
+          "definition": "د معلوماتو منظمه ټولګه چې داسې ذخیره شوې چې لټون، تازه کول او مدیریت اسانه وي."
         }
       },
       "topics": [
@@ -1638,6 +2084,14 @@
         "ro": {
           "term": "Atac DDoS",
           "definition": "Un atac care inundă un sistem cu cantități mari de trafic pentru a-l face indisponibil utilizatorilor."
+        },
+        "prs": {
+          "term": "حمله DDoS",
+          "definition": "ارسال حجم زیادی از ترافیک به یک وب‌سایت یا سرور با هدف از کار انداختن آن."
+        },
+        "ps": {
+          "term": "DDoS برید",
+          "definition": "د یوه ویب‌سایټ یا سرور ته د ډیر ټرافیک لیږل ترڅو دا بند کړي."
         }
       }
     },
@@ -1667,6 +2121,14 @@
         "ro": {
           "term": "Depanare",
           "definition": "Procesul de identificare și corectare a erorilor dintr-un algoritm sau program."
+        },
+        "prs": {
+          "term": "اشکال‌زدایی",
+          "definition": "یافتن و رفع خطاها در کد."
+        },
+        "ps": {
+          "term": "ډیباګینګ",
+          "definition": "د کوډ کې د غلطیو موندل او سمول."
         }
       }
     },
@@ -1692,6 +2154,14 @@
         "ro": {
           "term": "Descompunere",
           "definition": "Împărțirea unei probleme complexe în părți mai mici și mai ușor de gestionat și rezolvat."
+        },
+        "prs": {
+          "term": "تجزیه",
+          "definition": "تقسیم یک مسئله بزرگ و پیچیده به قسمت‌های کوچک‌تر و قابل مدیریت‌تر."
+        },
+        "ps": {
+          "term": "تجزیه",
+          "definition": "د یوې لویې پیچلې ستونزې کوچنیو او د اداره کولو وړ برخو ته ویشل."
         }
       },
       "topics": [
@@ -1724,6 +2194,14 @@
         "ro": {
           "term": "Zecimal",
           "definition": "Sistemul de numerație obișnuit în baza 10, folosind cifrele de la 0 la 9."
+        },
+        "prs": {
+          "term": "اعشاری",
+          "definition": "سیستم اعداد معمولی مبتنی بر ۱۰ که از ارقام ۰ تا ۹ استفاده می‌کند."
+        },
+        "ps": {
+          "term": "لسیزه",
+          "definition": "د ۱۰ پر بنسټ عادي د شمیرو سیستم چې ۰ تر ۹ پورې ارقام کاروي."
         }
       }
     },
@@ -1752,6 +2230,14 @@
         "ro": {
           "term": "Decalaj digital",
           "definition": "Diferența dintre cei care pot accesa tehnologia digitală și cei care nu pot."
+        },
+        "prs": {
+          "term": "شکاف دیجیتالی",
+          "definition": "تفاوت میان کسانی که به فناوری دسترسی دارند و کسانی که ندارند."
+        },
+        "ps": {
+          "term": "ډیجیټل توپیر",
+          "definition": "د هغو خلکو تر منځ توپیر چې ټیکنالوژۍ ته لاسرسي لري او هغو چې نه لري."
         }
       }
     },
@@ -1780,6 +2266,14 @@
         "ro": {
           "term": "DNS",
           "definition": "Un serviciu care convertește numele de domenii precum www.exemplu.com în adrese IP pe care calculatoarele le înțeleg."
+        },
+        "prs": {
+          "term": "سیستم نام دامنه",
+          "definition": "سیستمی که نام‌های وب‌سایت را به آدرس‌های IP ترجمه می‌کند تا مرورگرها بتوانند آن‌ها را پیدا کنند."
+        },
+        "ps": {
+          "term": "DNS",
+          "definition": "هغه سیستم چې د ویب‌سایټ نومونه IP پتو ته ژباړي ترڅو براوزرونه یې ومومي."
         }
       }
     },
@@ -1808,6 +2302,14 @@
         "ro": {
           "term": "Eficiență",
           "definition": "Cât de bine folosește un algoritm timpul și memoria pentru a rezolva o problemă."
+        },
+        "prs": {
+          "term": "کارایی",
+          "definition": "توانایی یک الگوریتم برای حل مسئله با استفاده کمتر از زمان یا حافظه."
+        },
+        "ps": {
+          "term": "اغیزمنتیا",
+          "definition": "د الګوریتم وړتیا چې د لږ وخت یا حافظې کارولو سره ستونزه حل کړي."
         }
       }
     },
@@ -1836,6 +2338,14 @@
         "ro": {
           "term": "Încapsulare",
           "definition": "Gruparea datelor unui obiect și a metodelor care le folosesc împreună într-o clasă, ascunzând detaliile interne față de codul extern."
+        },
+        "prs": {
+          "term": "کپسوله‌سازی",
+          "definition": "پنهان کردن جزئیات داخلی یک شیء و فقط نشان دادن آنچه لازم است."
+        },
+        "ps": {
+          "term": "انکپسولیشن",
+          "definition": "د شي د داخلي توضیحاتو پټول او یوازې هغه ښودل چې اړین وي."
         }
       }
     },
@@ -1861,6 +2371,14 @@
         "ro": {
           "term": "Criptare",
           "definition": "Conversia datelor într-un format care nu poate fi citit fără o cheie de decriptare."
+        },
+        "prs": {
+          "term": "رمزنگاری",
+          "definition": "تبدیل داده‌ها به فرمت مخفی تا افراد غیرمجاز نتوانند آن را بخوانند."
+        },
+        "ps": {
+          "term": "انکریپشن",
+          "definition": "معلومات یو پټ بڼې ته بدلول ترڅو غیرمجاز خلک یې ونه لوستلی شي."
         }
       },
       "topics": [
@@ -1892,6 +2410,14 @@
         "ro": {
           "term": "Impact de mediu",
           "definition": "Efectele pe care tehnologia le are asupra mediului, cum ar fi consumul de energie și deșeurile electronice."
+        },
+        "prs": {
+          "term": "تأثیر زیست‌محیطی",
+          "definition": "اثرات فناوری بر محیط زیست، از جمله مصرف انرژی و زباله الکترونیکی."
+        },
+        "ps": {
+          "term": "د چاپیریال اغیز",
+          "definition": "د ټیکنالوژۍ اغیزې چاپیریال ته، د انرژۍ مصرف او بریښنایي کثافاتو سره."
         }
       }
     },
@@ -1920,6 +2446,14 @@
         "ro": {
           "term": "Ciclul fetch-decode-execute",
           "definition": "Ciclul prin care procesorul execută instrucțiunile: preia instrucțiunea din memorie, o decodifică, apoi o execută."
+        },
+        "prs": {
+          "term": "چرخه واکشی-رمزگشایی-اجرا",
+          "definition": "مراحل تکراری که CPU برای پردازش دستورالعمل‌های برنامه طی می‌کند."
+        },
+        "ps": {
+          "term": "د راوړلو-ډیکوډ-اجرا دوره",
+          "definition": "هغه تکراري ګامونه چې CPU د پروګرام لارښوونو د پروسس لپاره ترسره کوي."
         }
       }
     },
@@ -1948,6 +2482,14 @@
         "ro": {
           "term": "Automat cu stări finite",
           "definition": "Un model de calcul care poate fi într-o singură stare dintr-un număr finit de stări la orice moment."
+        },
+        "prs": {
+          "term": "ماشین حالت محدود",
+          "definition": "مدلی که رفتار سیستم را به عنوان تعداد محدودی از حالت‌های ممکن نمایش می‌دهد."
+        },
+        "ps": {
+          "term": "محدود حالت ماشین",
+          "definition": "یو ماډل چې د سیستم چلند د محدودو ممکنه حالتونو په توګه ښیي."
         }
       }
     },
@@ -1973,6 +2515,14 @@
         "ro": {
           "term": "Firewall",
           "definition": "Un sistem de securitate care monitorizează și controlează traficul de rețea pe baza unor reguli prestabilite."
+        },
+        "prs": {
+          "term": "فایروال",
+          "definition": "سیستم امنیتی که ترافیک شبکه را نظارت و کنترل می‌کند تا از دسترسی غیرمجاز جلوگیری کند."
+        },
+        "ps": {
+          "term": "فایروال",
+          "definition": "د امنیت سیستم چې د شبکې ټرافیک نظارت او کنترول کوي ترڅو غیرمجاز لاسرسي مخنیوی وکړي."
         }
       },
       "topics": [
@@ -2004,6 +2554,14 @@
         "ro": {
           "term": "Fișier plat",
           "definition": "O bază de date care stochează toate datele într-un singur tabel fără relații între tabele."
+        },
+        "prs": {
+          "term": "فایل مسطح",
+          "definition": "پایگاه داده ساده که همه داده‌ها در یک جدول بدون ارتباط با جداول دیگر ذخیره می‌کند."
+        },
+        "ps": {
+          "term": "فلیټ فایل",
+          "definition": "ساده ډیټابیس چې ټول معلومات د نورو جدولونو سره د اړیکې پرته یو جدول کې ذخیره کوي."
         }
       }
     },
@@ -2034,6 +2592,14 @@
         "ro": {
           "term": "Diagramă de flux",
           "definition": "Un grafic care folosește forme și săgeți pentru a reprezenta pașii unui algoritm sau proces."
+        },
+        "prs": {
+          "term": "نمودار جریان",
+          "definition": "نمودار که مراحل یک الگوریتم یا فرآیند را با اشکال و پیکان نمایش می‌دهد."
+        },
+        "ps": {
+          "term": "فلوچارټ",
+          "definition": "هغه چارت چې د الګوریتم یا پروسې ګامونه د شکلونو او غشونو سره ښیي."
         }
       }
     },
@@ -2062,6 +2628,14 @@
         "ro": {
           "term": "Cheie externă",
           "definition": "Un câmp dintr-un tabel care face referire la cheia primară dintr-un alt tabel, folosit pentru a lega tabelele."
+        },
+        "prs": {
+          "term": "کلید خارجی",
+          "definition": "فیلدی در یک جدول که به کلید اصلی جدول دیگری اشاره می‌کند و جداول را به هم مرتبط می‌کند."
+        },
+        "ps": {
+          "term": "بهرنی کیلي",
+          "definition": "د یوه جدول هغه ساحه چې د بل جدول اصلي کیلي ته اشاره کوي او جدولونه سره نښلوي."
         }
       }
     },
@@ -2087,6 +2661,14 @@
         "ro": {
           "term": "Funcție",
           "definition": "Un bloc de cod cu nume care efectuează o sarcină specifică și returnează o valoare."
+        },
+        "prs": {
+          "term": "تابع",
+          "definition": "بلوکی از کد با نام که کار خاصی انجام می‌دهد و می‌توان آن را چندبار صدا زد."
+        },
+        "ps": {
+          "term": "فنکشن",
+          "definition": "د کوډ یوه نومول شوې برخه چې ځانګړې دنده ترسره کوي او ډیری ځله یادیدلی شي."
         }
       },
       "topics": [
@@ -2118,6 +2700,14 @@
         "ro": {
           "term": "GDPR",
           "definition": "Un regulament european care guvernează modul în care datele personale sunt colectate, stocate și utilizate."
+        },
+        "prs": {
+          "term": "مقررات عمومی حفاظت از داده",
+          "definition": "قانون اتحادیه اروپا که کنترل می‌کند سازمان‌ها چگونه داده‌های شخصی را جمع‌آوری و استفاده می‌کنند."
+        },
+        "ps": {
+          "term": "GDPR",
+          "definition": "د اروپا اتحادیې قانون چې کنترولوي سازمانونه شخصي معلومات څنګه راټولوي او کاروي."
         }
       }
     },
@@ -2146,6 +2736,14 @@
         "ro": {
           "term": "Generalizare",
           "definition": "Folosirea tiparelor găsite într-o problemă pentru a crea soluții care funcționează pentru probleme similare."
+        },
+        "prs": {
+          "term": "تعمیم",
+          "definition": "شناسایی الگوهای مشترک بین مسائل مختلف تا بتوان راه‌حل‌ها را مجدداً استفاده کرد."
+        },
+        "ps": {
+          "term": "عمومیت",
+          "definition": "د بیلابیلو ستونزو تر منځ د مشترکو نمونو پیژندل ترڅو حلونه بیا وکارول شي."
         }
       }
     },
@@ -2174,6 +2772,14 @@
         "ro": {
           "term": "Unitate de procesare grafică (GPU)",
           "definition": "Un procesor specializat în procesarea graficii, folosit în jocuri și inteligență artificială."
+        },
+        "prs": {
+          "term": "واحد پردازش گرافیکی",
+          "definition": "تراشه تخصصی که برای رندر سریع گرافیک و محاسبات موازی طراحی شده."
+        },
+        "ps": {
+          "term": "GPU",
+          "definition": "ځانګړی چیپ چې د ګرافیک ګړندي رندر او موازي محاسبو لپاره ډیزاین شوی."
         }
       }
     },
@@ -2202,6 +2808,14 @@
         "ro": {
           "term": "Graf",
           "definition": "O structură de date formată din noduri (vârfuri) conectate prin muchii, folosită pentru a reprezenta relații și rețele."
+        },
+        "prs": {
+          "term": "گراف",
+          "definition": "ساختار داده متشکل از گره‌ها (رأس‌ها) و پیوندهای بین آن‌ها (یال‌ها)."
+        },
+        "ps": {
+          "term": "ګراف",
+          "definition": "د معلوماتو جوړښت چې د نوډونو (وریکسونو) او د دوی تر منځ اړیکو (اضلاعو) لخوا جوړ شوی."
         }
       }
     },
@@ -2230,6 +2844,14 @@
         "ro": {
           "term": "Problema opririi",
           "definition": "O problemă teoretică care dovedește că este imposibil de determinat dacă un program se va opri sau va continua să ruleze la infinit."
+        },
+        "prs": {
+          "term": "مسئله توقف",
+          "definition": "مسئله‌ای اثبات‌شده که غیرممکن است برنامه‌ای نوشته شود که بگوید هر برنامه دیگری توقف می‌کند یا برای همیشه اجرا می‌شود."
+        },
+        "ps": {
+          "term": "د ودریدو ستونزه",
+          "definition": "ثابته ستونزه چې دا ناممکنه ده چې داسې پروګرام ولیکل شي چې ووايي آیا بل هر پروګرام به ودریږي که تل به چلیږي."
         }
       }
     },
@@ -2258,6 +2880,14 @@
         "ro": {
           "term": "Tabel hash",
           "definition": "O structură de date care stochează date în perechi cheie-valoare pentru acces rapid."
+        },
+        "prs": {
+          "term": "جدول هش",
+          "definition": "ساختار داده که داده‌ها را با استفاده از کلید به مکان‌های ذخیره‌سازی نگاشت می‌کند تا بازیابی سریع باشد."
+        },
+        "ps": {
+          "term": "هیش جدول",
+          "definition": "د معلوماتو جوړښت چې معلومات د کیلي له لارې ذخیره ځایونو ته نقشه کوي ترڅو ګړندی بیرته راوستل وشي."
         }
       }
     },
@@ -2286,6 +2916,14 @@
         "ro": {
           "term": "Hexazecimal",
           "definition": "Un sistem de numerație în baza 16 care folosește cifrele 0–9 și literele A–F. Folosit ca prescurtare convenabilă pentru binar."
+        },
+        "prs": {
+          "term": "هگزادسیمال",
+          "definition": "سیستم اعداد مبتنی بر ۱۶ که از ارقام ۰-۹ و حروف A-F استفاده می‌کند؛ اغلب برای نمایش رنگ‌ها و آدرس‌های حافظه استفاده می‌شود."
+        },
+        "ps": {
+          "term": "هگزاډیسیمل",
+          "definition": "د ۱۶ پر بنسټ د شمیرو سیستم چې ۰-۹ او A-F کاروي؛ اکثراً د رنګونو او د حافظې پتو ښودلو لپاره."
         }
       }
     },
@@ -2315,6 +2953,14 @@
         "ro": {
           "term": "Limbaj de nivel înalt",
           "definition": "Un limbaj de programare care folosește cuvinte asemănătoare limbajului uman și este ușor de citit și scris."
+        },
+        "prs": {
+          "term": "زبان سطح بالا",
+          "definition": "زبان برنامه‌نویسی که به زبان انسانی نزدیک‌تر است و خواندن و نوشتن آن آسان‌تر است، مانند Python یا Java."
+        },
+        "ps": {
+          "term": "لوړ سطحې ژبه",
+          "definition": "د پروګرامینګ ژبه چې د انساني ژبې ته نږدې ده او لوستل او لیکل یې اسانه دي، لکه Python یا Java."
         }
       }
     },
@@ -2343,6 +2989,14 @@
         "ro": {
           "term": "HTTP",
           "definition": "Protocolul folosit pentru transferul paginilor web pe internet."
+        },
+        "prs": {
+          "term": "پروتکل انتقال ابرمتن",
+          "definition": "پروتکلی که برای ارسال صفحات وب از سرور به مرورگر استفاده می‌شود."
+        },
+        "ps": {
+          "term": "HTTP",
+          "definition": "هغه پروتوکول چې د سرور نه مرورگر ته د ویب پاڼو لیږلو لپاره کارول کیږي."
         }
       }
     },
@@ -2372,6 +3026,14 @@
         "ro": {
           "term": "HTTPS",
           "definition": "O versiune securizată a HTTP care criptează datele în tranzit pentru a proteja informațiile."
+        },
+        "prs": {
+          "term": "پروتکل انتقال ابرمتن امن",
+          "definition": "نسخه امن HTTP که داده‌ها را رمزنگاری می‌کند تا انتقال ایمن باشد."
+        },
+        "ps": {
+          "term": "HTTPS",
+          "definition": "د HTTP خوندي نسخه چې معلومات انکریپټ کوي ترڅو لیږد خوندي وي."
         }
       }
     },
@@ -2401,6 +3063,14 @@
         "ro": {
           "term": "Mediu de dezvoltare integrat (IDE)",
           "definition": "Un program care combină un editor de cod, verificator de erori și depanator într-un singur loc pentru a ajuta programatorii."
+        },
+        "prs": {
+          "term": "محیط توسعه یکپارچه",
+          "definition": "نرم‌افزاری که ابزارهای برنامه‌نویسی — ویرایشگر، اشکال‌زدا و کامپایلر — را در یک مکان ترکیب می‌کند."
+        },
+        "ps": {
+          "term": "IDE",
+          "definition": "هغه سافټویر چې د پروګرامینګ وسایل — ایډیټر، ډیباګر او کمپایلر — یو ځای کې یوځای کوي."
         }
       }
     },
@@ -2429,6 +3099,14 @@
         "ro": {
           "term": "Moștenire",
           "definition": "Când o clasă preia atributele și metodele altei clase. Noua clasă se numește subclasă."
+        },
+        "prs": {
+          "term": "وراثت",
+          "definition": "در برنامه‌نویسی شیءگرا، وقتی یک کلاس ویژگی‌ها و رفتارهای کلاس دیگری را به ارث می‌برد."
+        },
+        "ps": {
+          "term": "میراث",
+          "definition": "د شیانو پروګرامینګ کې، کله چې یوه کلاس د بلې کلاس ځانتیاوې او چلند میراث ولري."
         }
       }
     },
@@ -2457,6 +3135,14 @@
         "ro": {
           "term": "Intrare",
           "definition": "Date introduse într-un program, de obicei de la tastatură, fișiere sau senzori."
+        },
+        "prs": {
+          "term": "ورودی",
+          "definition": "داده‌ای که وارد کامپیوتر یا برنامه می‌شود، مانند تایپ صفحه‌کلید یا کلیک ماوس."
+        },
+        "ps": {
+          "term": "ننوتنه",
+          "definition": "هغه معلومات چې کمپیوټر یا پروګرام ته ننوځي، لکه د کیبورډ لیکل یا د ماوس کلیک."
         }
       }
     },
@@ -2485,6 +3171,14 @@
         "ro": {
           "term": "Dispozitiv de intrare",
           "definition": "Un dispozitiv folosit pentru a introduce date în calculator, cum ar fi tastatura și mouse-ul."
+        },
+        "prs": {
+          "term": "دستگاه ورودی",
+          "definition": "قطعه سخت‌افزاری که داده‌ها را به کامپیوتر می‌فرستد، مانند صفحه‌کلید یا ماوس."
+        },
+        "ps": {
+          "term": "د ننوتنې وسیله",
+          "definition": "د سخت‌افزار هغه برخه چې معلومات کمپیوټر ته لیږي، لکه کیبورډ یا ماوس."
         }
       }
     },
@@ -2513,6 +3207,14 @@
         "ro": {
           "term": "Sortare prin inserție",
           "definition": "Un algoritm de sortare care construiește lista sortată câte un element pe rând, inserându-l în poziția corectă."
+        },
+        "prs": {
+          "term": "مرتب‌سازی درجی",
+          "definition": "الگوریتم مرتب‌سازی که آیتم‌ها را یکی یکی در جایگاه صحیح درج می‌کند."
+        },
+        "ps": {
+          "term": "انسرشن سورټ",
+          "definition": "د ترتیب الګوریتم چې توکي یو یو سم ځای ته داخلوي."
         }
       }
     },
@@ -2541,6 +3243,14 @@
         "ro": {
           "term": "Internet",
           "definition": "O rețea globală uriașă de calculatoare și dispozitive conectate între ele."
+        },
+        "prs": {
+          "term": "اینترنت",
+          "definition": "شبکه جهانی کامپیوترها و دستگاه‌های دیگر که با استفاده از پروتکل‌های استاندارد به هم متصل هستند."
+        },
+        "ps": {
+          "term": "انټرنیټ",
+          "definition": "د کمپیوټرونو او نورو وسیلو نړیواله شبکه چې د معیاري پروتوکولونو له لارې سره وصل دي."
         }
       }
     },
@@ -2569,6 +3279,14 @@
         "ro": {
           "term": "Interpretor",
           "definition": "Un program care convertește și execută codul dintr-un limbaj de nivel înalt linie cu linie."
+        },
+        "prs": {
+          "term": "مفسر",
+          "definition": "برنامه‌ای که کد سطح بالا را خط به خط اجرا می‌کند بدون اینکه ابتدا ترجمه کند."
+        },
+        "ps": {
+          "term": "انټرپریټر",
+          "definition": "هغه پروګرام چې لوړ سطحې کوډ کرښه‌کرښه اجرا کوي پرته لدې چې لومړی یې ژباړي."
         }
       }
     },
@@ -2597,6 +3315,14 @@
         "ro": {
           "term": "Problemă intractabilă",
           "definition": "O problemă pentru care nu există un algoritm eficient și care necesită timp foarte lung pentru intrări mari."
+        },
+        "prs": {
+          "term": "غیرقابل‌حل",
+          "definition": "مسئله‌ای که الگوریتمی با زمان معقول برای آن وجود ندارد با رشد ورودی."
+        },
+        "ps": {
+          "term": "ناحل‌کیدونکی",
+          "definition": "ستونزه چې د ننوتنې د لوییدلو سره د معقول وخت کې د حل لپاره الګوریتم نشته."
         }
       }
     },
@@ -2622,6 +3348,14 @@
         "ro": {
           "term": "Adresă IP",
           "definition": "O adresă numerică unică care identifică un dispozitiv într-o rețea."
+        },
+        "prs": {
+          "term": "آدرس IP",
+          "definition": "شناسه عددی منحصربه‌فرد که به هر دستگاه متصل به شبکه اختصاص داده می‌شود."
+        },
+        "ps": {
+          "term": "IP پته",
+          "definition": "ځانګړی عددي پیژندنه چې د شبکې سره وصل هرې وسیلې ته ورکول کیږي."
         }
       },
       "topics": [
@@ -2650,6 +3384,14 @@
         "ro": {
           "term": "Iterație",
           "definition": "Repetarea unui set de instrucțiuni de un număr stabilit de ori sau până când este îndeplinită o condiție."
+        },
+        "prs": {
+          "term": "تکرار",
+          "definition": "اجرای مکرر یک بلوک از کد با استفاده از حلقه."
+        },
+        "ps": {
+          "term": "تکرار",
+          "definition": "د یوه کوډ بلاک مکرر اجرا د لوپ له لارې."
         }
       },
       "topics": [
@@ -2681,6 +3423,14 @@
         "ro": {
           "term": "Rețea locală (LAN)",
           "definition": "O rețea care conectează dispozitivele dintr-o zonă mică, cum ar fi o casă, birou sau școală."
+        },
+        "prs": {
+          "term": "شبکه محلی",
+          "definition": "شبکه‌ای که دستگاه‌ها را در یک منطقه کوچک مانند خانه یا مدرسه به هم متصل می‌کند."
+        },
+        "ps": {
+          "term": "LAN",
+          "definition": "شبکه چې وسیلې د یوه کوچني سیمه کې لکه کور یا ښوونځی سره وصلوي."
         }
       }
     },
@@ -2709,6 +3459,14 @@
         "ro": {
           "term": "Căutare liniară",
           "definition": "Un algoritm de căutare care examinează fiecare element din listă, unul câte unul, până găsește elementul dorit."
+        },
+        "prs": {
+          "term": "جستجوی خطی",
+          "definition": "جستجوی یک فهرست با بررسی هر آیتم به ترتیب تا یافتن آنچه به دنبالش هستیم."
+        },
+        "ps": {
+          "term": "خطي لټون",
+          "definition": "د لیست لټون د هر توکي یو یو چک کولو سره ترڅو هغه ومومو چې لټوو یې."
         }
       }
     },
@@ -2737,6 +3495,14 @@
         "ro": {
           "term": "Listă înlănțuită",
           "definition": "O structură de date în care fiecare element indică spre elementul următor din secvență printr-un pointer."
+        },
+        "prs": {
+          "term": "لیست پیوندی",
+          "definition": "ساختار داده‌ای که در آن هر عنصر به عنصر بعدی اشاره می‌کند و یک زنجیره می‌سازد."
+        },
+        "ps": {
+          "term": "لینک لیست",
+          "definition": "د معلوماتو جوړښت چې هر عنصر بل ته اشاره کوي او یوه زنځیره جوړوي."
         }
       }
     },
@@ -2766,6 +3532,14 @@
         "ro": {
           "term": "Eroare logică",
           "definition": "O eroare în logica programului care face ca acesta să producă rezultate incorecte fără să se oprească."
+        },
+        "prs": {
+          "term": "خطای منطقی",
+          "definition": "اشتباهی در کد که باعث می‌شود برنامه بدون کرش اجرا شود اما نتایج غلط تولید کند."
+        },
+        "ps": {
+          "term": "منطقي تیروتنه",
+          "definition": "د کوډ کې یوه غلطي چې پروګرام بې له کریش پرمخ ځي خو ناسمې پایلې ورکوي."
         }
       }
     },
@@ -2794,6 +3568,14 @@
         "ro": {
           "term": "Poartă logică",
           "definition": "O componentă electronică care efectuează o operație logică de bază pe unul sau mai multe semnale."
+        },
+        "prs": {
+          "term": "گیت منطقی",
+          "definition": "مدار پایه‌ای که عملیات منطقی بولی را انجام می‌دهد، مانند AND، OR یا NOT."
+        },
+        "ps": {
+          "term": "منطقي ګیټ",
+          "definition": "بنسټیز سرکټ چې بولیني منطقي عملیات ترسره کوي، لکه AND، OR یا NOT."
         }
       }
     },
@@ -2822,6 +3604,14 @@
         "ro": {
           "term": "Raționament logic",
           "definition": "Folosirea gândirii clare, pas cu pas, pentru a rezolva o problemă și a ajunge la o concluzie."
+        },
+        "prs": {
+          "term": "استدلال منطقی",
+          "definition": "استفاده از قوانین منطق برای رسیدن به نتیجه‌گیری از اطلاعات موجود."
+        },
+        "ps": {
+          "term": "منطقي استدلال",
+          "definition": "د منطق د قوانینو کارول ترڅو د موجودو معلوماتو نه پایلو ته ورسیږو."
         }
       }
     },
@@ -2850,6 +3640,14 @@
         "ro": {
           "term": "Buclă",
           "definition": "O structură de programare care repetă un bloc de cod până când este îndeplinită o condiție."
+        },
+        "prs": {
+          "term": "حلقه",
+          "definition": "ساختاری که بلوکی از کد را بارها اجرا می‌کند تا زمانی که شرطی برآورده شود."
+        },
+        "ps": {
+          "term": "لوپ",
+          "definition": "جوړښت چې د یوه کوډ بلاک ډیری ځله چلوي ترڅو یو شرط پوره شي."
         }
       }
     },
@@ -2878,6 +3676,14 @@
         "ro": {
           "term": "Compresie fără pierderi",
           "definition": "Compresia unui fișier păstrând toate datele originale, astfel încât fișierul poate fi restaurat complet."
+        },
+        "prs": {
+          "term": "فشرده‌سازی بدون اتلاف",
+          "definition": "فشرده‌سازی که فایل اصلی را می‌توان کاملاً بازیابی کرد."
+        },
+        "ps": {
+          "term": "بې له ضیاع فشردول",
+          "definition": "فشردول چې اصلي فایل کاملاً بیرته راوستل کیدی شي."
         }
       }
     },
@@ -2906,6 +3712,14 @@
         "ro": {
           "term": "Compresie cu pierderi",
           "definition": "Compresia unui fișier prin eliminarea permanentă a unor date pentru a obține o dimensiune mai mică."
+        },
+        "prs": {
+          "term": "فشرده‌سازی با اتلاف",
+          "definition": "فشرده‌سازی که برخی داده‌ها را برای رسیدن به فایل‌های کوچک‌تر حذف می‌کند."
+        },
+        "ps": {
+          "term": "د ضیاع سره فشردول",
+          "definition": "فشردول چې د کوچنیو فایلونو لپاره ځینې معلومات لرې کوي."
         }
       }
     },
@@ -2935,6 +3749,14 @@
         "ro": {
           "term": "Limbaj de nivel scăzut",
           "definition": "Un limbaj de programare mai apropiat de limbajul mașinii, cum ar fi limbajul de asamblare, care controlează direct hardware-ul."
+        },
+        "prs": {
+          "term": "زبان سطح پایین",
+          "definition": "زبان برنامه‌نویسی که به سخت‌افزار نزدیک است، مانند زبان اسمبلی یا کد ماشین."
+        },
+        "ps": {
+          "term": "ټیټ سطحې ژبه",
+          "definition": "د پروګرامینګ ژبه چې سخت‌افزار ته نږدې ده، لکه اسمبلۍ ژبه یا ماشین کوډ."
         }
       }
     },
@@ -2963,6 +3785,14 @@
         "ro": {
           "term": "Adresă MAC",
           "definition": "Un identificator unic atribuit permanent plăcii de interfață de rețea, folosit pentru a identifica dispozitivele dintr-o rețea locală."
+        },
+        "prs": {
+          "term": "آدرس MAC",
+          "definition": "شناسه سخت‌افزاری منحصربه‌فرد که به هر دستگاه شبکه اختصاص داده می‌شود."
+        },
+        "ps": {
+          "term": "MAC پته",
+          "definition": "ځانګړی سخت‌افزاري پیژندنه چې هرې د شبکې وسیلې ته ورکول کیږي."
         }
       }
     },
@@ -2992,6 +3822,14 @@
         "ro": {
           "term": "Cod mașină",
           "definition": "Limbajul înțeles direct de procesor, format din instrucțiuni binare (0 și 1)."
+        },
+        "prs": {
+          "term": "کد ماشین",
+          "definition": "دستورالعمل‌های دودویی که CPU مستقیماً می‌تواند آن‌ها را اجرا کند."
+        },
+        "ps": {
+          "term": "ماشین کوډ",
+          "definition": "دوه‌اره لارښوونې چې CPU مستقیم اجرا کولی شي."
         }
       }
     },
@@ -3020,6 +3858,14 @@
         "ro": {
           "term": "Învățare automată",
           "definition": "Un tip de inteligență artificială în care calculatorul învață din date în loc să urmeze instrucțiuni programate explicit."
+        },
+        "prs": {
+          "term": "یادگیری ماشین",
+          "definition": "نوعی هوش مصنوعی که کامپیوترها از داده‌ها یاد می‌گیرند بدون اینکه به طور صریح برنامه‌ریزی شوند."
+        },
+        "ps": {
+          "term": "د ماشین زده‌کړه",
+          "definition": "د مصنوعي هوښیارتیا یو ډول چې کمپیوټرونه له معلوماتو زده کوي پرته له دقیق پروګرام کولو."
         }
       }
     },
@@ -3048,6 +3894,14 @@
         "ro": {
           "term": "Mentenabilitate",
           "definition": "Cât de ușor poate fi înțeles, modificat și reparat codul de către programatori în viitor."
+        },
+        "prs": {
+          "term": "قابلیت نگهداری",
+          "definition": "سهولت فهمیدن، به‌روزرسانی و رفع اشکال در کد."
+        },
+        "ps": {
+          "term": "د ساتنې وړتیا",
+          "definition": "د کوډ د پوهیدلو، تازه کولو او د غلطیو د سملو اسانتیا."
         }
       }
     },
@@ -3073,6 +3927,14 @@
         "ro": {
           "term": "Malware",
           "definition": "Orice program conceput pentru a afecta calculatoarele sau dispozitivele sau pentru a fura date."
+        },
+        "prs": {
+          "term": "بدافزار",
+          "definition": "نرم‌افزار مخربی که برای آسیب رساندن به کامپیوترها یا سرقت داده‌ها طراحی شده، مانند ویروس‌ها."
+        },
+        "ps": {
+          "term": "مالویر",
+          "definition": "ناوړه سافټویر چې د کمپیوټرونو ته د زیان رسولو یا د معلوماتو د غلا لپاره ډیزاین شوی، لکه ویروسونه."
         }
       },
       "topics": [
@@ -3104,6 +3966,14 @@
         "ro": {
           "term": "Sortare prin interclasare",
           "definition": "Un algoritm de sortare care împarte lista în jumătăți, sortează fiecare jumătate, apoi le interclasează într-o listă sortată."
+        },
+        "prs": {
+          "term": "مرتب‌سازی ادغامی",
+          "definition": "الگوریتم مرتب‌سازی که فهرست را به نصف تقسیم می‌کند، هر نیمه را مرتب می‌کند، سپس ادغام می‌کند."
+        },
+        "ps": {
+          "term": "مرج سورټ",
+          "definition": "د ترتیب الګوریتم چې لیست نیمایي کوي، هره نیمه ترتیبوي، بیا یوځای کوي."
         }
       }
     },
@@ -3132,6 +4002,14 @@
         "ro": {
           "term": "Metodă",
           "definition": "O funcție care aparține unei clase sau obiect, folosită pentru a defini ce poate face obiectul."
+        },
+        "prs": {
+          "term": "متد",
+          "definition": "تابعی که به یک کلاس تعلق دارد و رفتار اشیاء از آن کلاس را تعریف می‌کند."
+        },
+        "ps": {
+          "term": "میتود",
+          "definition": "هغه فنکشن چې یوې کلاس پورې اړه لري او د هغې کلاس شیانو چلند تعریفوي."
         }
       }
     },
@@ -3161,6 +4039,14 @@
         "ro": {
           "term": "Micro:bit",
           "definition": "O placă de calcul mică concepută pentru predarea programării și a calculului fizic."
+        },
+        "prs": {
+          "term": "میکروبیت",
+          "definition": "رایانه کوچک تک‌برد طراحی‌شده برای یادگیری برنامه‌نویسی و فیزیکی."
+        },
+        "ps": {
+          "term": "مایکروبیت",
+          "definition": "د پروګرامینګ او فزیکي زده‌کړې لپاره ډیزاین شوی کوچنی تک‌بورډ کمپیوټر."
         }
       }
     },
@@ -3190,6 +4076,14 @@
         "ro": {
           "term": "Microcontroler",
           "definition": "Un calculator mic pe un singur cip, folosit în dispozitive încorporate și roboți."
+        },
+        "prs": {
+          "term": "میکروکنترلر",
+          "definition": "رایانه کوچکی که برای کنترل یک کار خاص در دستگاه‌های الکترونیکی استفاده می‌شود."
+        },
+        "ps": {
+          "term": "مایکروکنټرولر",
+          "definition": "کوچنی کمپیوټر چې د بریښنایي وسیلو کې د یوه ځانګړي کار کنترول لپاره کارول کیږي."
         }
       }
     },
@@ -3218,6 +4112,14 @@
         "ro": {
           "term": "Placă de bază",
           "definition": "Placa principală a calculatorului care conectează toate componentele împreună."
+        },
+        "prs": {
+          "term": "مادربرد",
+          "definition": "برد اصلی کامپیوتر که CPU، حافظه و اجزاء دیگر را به هم متصل می‌کند."
+        },
+        "ps": {
+          "term": "مدربورډ",
+          "definition": "د کمپیوټر اصلي بورډ چې CPU، حافظه او نورې برخې سره وصلوي."
         }
       }
     },
@@ -3246,6 +4148,14 @@
         "ro": {
           "term": "Poartă NAND",
           "definition": "O poartă logică care produce 0 doar când toate intrările sale sunt 1; opusul porții AND."
+        },
+        "prs": {
+          "term": "گیت NAND",
+          "definition": "گیت منطقی که خروجی AND را معکوس می‌کند؛ اگر هر دو ورودی ۱ باشند، خروجی ۰ است."
+        },
+        "ps": {
+          "term": "NAND ګیټ",
+          "definition": "منطقي ګیټ چې د AND پایله معکوسوي؛ که دواړه ننوتونه ۱ وي، پایله ۰ ده."
         }
       }
     },
@@ -3274,6 +4184,14 @@
         "ro": {
           "term": "Procesarea limbajului natural",
           "definition": "Domeniul inteligenței artificiale care permite calculatoarelor să înțeleagă și să interacționeze cu limbajul uman."
+        },
+        "prs": {
+          "term": "پردازش زبان طبیعی",
+          "definition": "شاخه‌ای از هوش مصنوعی که به کامپیوترها امکان می‌دهد زبان انسانی را بفهمند و پردازش کنند."
+        },
+        "ps": {
+          "term": "د طبیعي ژبې پروسس کول",
+          "definition": "د مصنوعي هوښیارتیا هغه شاخه چې کمپیوټرونو ته اجازه ورکوي انساني ژبه وپوهي او پروسس یې کړي."
         }
       }
     },
@@ -3302,6 +4220,14 @@
         "ro": {
           "term": "Rețea",
           "definition": "Un grup de dispozitive conectate care pot schimba date între ele."
+        },
+        "prs": {
+          "term": "شبکه",
+          "definition": "گروهی از دستگاه‌های متصل به هم که می‌توانند داده را به اشتراک بگذارند."
+        },
+        "ps": {
+          "term": "شبکه",
+          "definition": "د وصل شوو وسیلو ډله چې معلومات شریکولی شي."
         }
       }
     },
@@ -3330,6 +4256,14 @@
         "ro": {
           "term": "Comutator de rețea",
           "definition": "Un dispozitiv de rețea care conectează dispozitivele dintr-o rețea LAN și trimite date doar dispozitivului specific destinat, spre deosebire de un hub."
+        },
+        "prs": {
+          "term": "سوئیچ شبکه",
+          "definition": "دستگاهی که دستگاه‌های شبکه را به هم متصل می‌کند و ترافیک را فقط به مقصد مشخص هدایت می‌کند."
+        },
+        "ps": {
+          "term": "د شبکې سویچ",
+          "definition": "وسیله چې د شبکې وسیلې سره وصلوي او ټرافیک یوازې مشخص منزل ته لارښوونه کوي."
         }
       }
     },
@@ -3358,6 +4292,14 @@
         "ro": {
           "term": "Rețea neuronală artificială",
           "definition": "Un sistem de calcul inspirat din creierul uman, folosit în învățarea automată pentru recunoașterea tiparelor."
+        },
+        "prs": {
+          "term": "شبکه عصبی",
+          "definition": "سیستم هوش مصنوعی مبتنی بر ساختار مغز که از داده‌های آموزشی یاد می‌گیرد."
+        },
+        "ps": {
+          "term": "عصبي شبکه",
+          "definition": "د مصنوعي هوښیارتیا سیستم چې د دماغ د جوړښت پر بنسټ دی او له روزنیزو معلوماتو زده کوي."
         }
       }
     },
@@ -3386,6 +4328,14 @@
         "ro": {
           "term": "Poartă NOR",
           "definition": "O poartă logică care produce 1 doar când toate intrările sale sunt 0; opusul porții OR."
+        },
+        "prs": {
+          "term": "گیت NOR",
+          "definition": "گیت منطقی که خروجی OR را معکوس می‌کند؛ تنها وقتی هر دو ورودی ۰ باشند، خروجی ۱ است."
+        },
+        "ps": {
+          "term": "NOR ګیټ",
+          "definition": "منطقي ګیټ چې د OR پایله معکوسوي؛ یوازې کله چې دواړه ننوتونه ۰ وي، پایله ۱ ده."
         }
       }
     },
@@ -3414,6 +4364,14 @@
         "ro": {
           "term": "Normalizare",
           "definition": "Procesul de organizare a unei baze de date pentru a reduce redundanța datelor și a îmbunătăți integritatea acestora."
+        },
+        "prs": {
+          "term": "نرمال‌سازی",
+          "definition": "سازماندهی پایگاه داده برای کاهش تکرار و بهبود یکپارچگی داده."
+        },
+        "ps": {
+          "term": "نورمالایزیشن",
+          "definition": "د ډیټابیس تنظیم ترڅو تکرار کم کړي او د معلوماتو یکپارچتیا ښه کړي."
         }
       }
     },
@@ -3442,6 +4400,14 @@
         "ro": {
           "term": "Poartă NOT",
           "definition": "O poartă logică care inversează intrarea sa: transformă 1 în 0 și 0 în 1."
+        },
+        "prs": {
+          "term": "گیت NOT",
+          "definition": "گیت منطقی که ورودی را معکوس می‌کند: ورودی ۱ خروجی ۰ می‌دهد و برعکس."
+        },
+        "ps": {
+          "term": "NOT ګیټ",
+          "definition": "منطقي ګیټ چې ننوتنه معکوسوي: ۱ ننوتنه ۰ پایله ورکوي او برعکس."
         }
       }
     },
@@ -3470,6 +4436,14 @@
         "ro": {
           "term": "Obiect",
           "definition": "O instanță a unei clase care are atribute (date) și metode (acțiuni) definite de clasa sa."
+        },
+        "prs": {
+          "term": "شیء",
+          "definition": "در برنامه‌نویسی شیءگرا، نمونه‌ای از یک کلاس که داده و رفتار خود را دارد."
+        },
+        "ps": {
+          "term": "شی",
+          "definition": "د شیانو پروګرامینګ کې، د یوې کلاس نمونه چې خپل معلومات او چلند لري."
         }
       }
     },
@@ -3499,6 +4473,14 @@
         "ro": {
           "term": "Open source",
           "definition": "Software al cărui cod sursă poate fi vizualizat, modificat și distribuit liber de oricine."
+        },
+        "prs": {
+          "term": "متن‌باز",
+          "definition": "نرم‌افزاری که کد منبع آن برای عموم در دسترس است تا هرکسی بتواند آن را ببیند، تغییر دهد و توزیع کند."
+        },
+        "ps": {
+          "term": "خلاص سرچینه",
+          "definition": "سافټویر چې د هر چا لپاره موجود وي ترڅو یې وګوري، بدل کړي او خپور کړي."
         }
       }
     },
@@ -3528,6 +4510,14 @@
         "ro": {
           "term": "Licență open source",
           "definition": "Un acord legal care specifică cum poate fi folosit, partajat și modificat software-ul open source."
+        },
+        "prs": {
+          "term": "مجوز متن‌باز",
+          "definition": "مجوز قانونی که شرایط استفاده، تغییر و توزیع نرم‌افزار متن‌باز را تعریف می‌کند."
+        },
+        "ps": {
+          "term": "د خلاصې سرچینې جواز",
+          "definition": "قانوني جواز چې د خلاصې سرچینې سافټویر د کارولو، بدلولو او خپرولو شرایط تعریفوي."
         }
       }
     },
@@ -3556,6 +4546,14 @@
         "ro": {
           "term": "Sistem de operare",
           "definition": "Un program care gestionează resursele calculatorului și oferă o interfață între utilizator și hardware."
+        },
+        "prs": {
+          "term": "سیستم عامل",
+          "definition": "نرم‌افزاری که سخت‌افزار و نرم‌افزار کامپیوتر را مدیریت می‌کند، مانند Windows یا Linux."
+        },
+        "ps": {
+          "term": "عملیاتي سیستم",
+          "definition": "سافټویر چې د کمپیوټر سخت‌افزار او نرم‌افزار اداره کوي، لکه Windows یا Linux."
         }
       }
     },
@@ -3584,6 +4582,14 @@
         "ro": {
           "term": "Operator",
           "definition": "Un simbol care efectuează o operație asupra uneia sau mai multor valori, cum ar fi + pentru adunare sau == pentru comparație."
+        },
+        "prs": {
+          "term": "عملگر",
+          "definition": "نمادی که عملیاتی را روی مقادیر انجام می‌دهد، مانند + برای جمع یا == برای مقایسه."
+        },
+        "ps": {
+          "term": "آپریټر",
+          "definition": "نښه چې د ارزښتونو پر مخ عملیات ترسره کوي، لکه + د جمع لپاره یا == د پرتله کولو لپاره."
         }
       }
     },
@@ -3612,6 +4618,14 @@
         "ro": {
           "term": "Poartă OR",
           "definition": "O poartă logică care produce 1 când cel puțin una dintre intrările sale este 1."
+        },
+        "prs": {
+          "term": "گیت OR",
+          "definition": "گیت منطقی که اگر حداقل یکی از ورودی‌ها ۱ باشد، خروجی ۱ می‌دهد."
+        },
+        "ps": {
+          "term": "OR ګیټ",
+          "definition": "منطقي ګیټ چې که لږترلږه یو ننوتنه ۱ وي، پایله ۱ ده."
         }
       }
     },
@@ -3640,6 +4654,14 @@
         "ro": {
           "term": "Ieșire",
           "definition": "Date produse de un program, cum ar fi text pe ecran sau date salvate într-un fișier."
+        },
+        "prs": {
+          "term": "خروجی",
+          "definition": "نتیجه‌ای که یک کامپیوتر یا برنامه تولید می‌کند، مانند متن روی صفحه نمایش یا صدا از بلندگوها."
+        },
+        "ps": {
+          "term": "وتنه",
+          "definition": "هغه پایله چې کمپیوټر یا پروګرام جوړوي، لکه د سکرین پر متن یا د سپیکرونو غږ."
         }
       }
     },
@@ -3668,6 +4690,14 @@
         "ro": {
           "term": "Dispozitiv de ieșire",
           "definition": "Un dispozitiv care produce date din calculator, cum ar fi monitorul, imprimanta sau difuzoarele."
+        },
+        "prs": {
+          "term": "دستگاه خروجی",
+          "definition": "قطعه سخت‌افزاری که اطلاعات را از کامپیوتر به کاربر منتقل می‌کند، مانند نمایشگر یا چاپگر."
+        },
+        "ps": {
+          "term": "د وتنې وسیله",
+          "definition": "د سخت‌افزار هغه برخه چې کمپیوټر نه کارونکي ته معلومات لیږي، لکه مانیټر یا پرنټر."
         }
       }
     },
@@ -3693,6 +4723,14 @@
         "ro": {
           "term": "Pachet de date",
           "definition": "O bucată mică de date trimisă printr-o rețea. Datele mari sunt împărțite în mai multe pachete."
+        },
+        "prs": {
+          "term": "بسته داده",
+          "definition": "قطعه کوچکی از داده که از طریق اینترنت ارسال می‌شود؛ فایل‌های بزرگ به بسته‌های کوچک تقسیم می‌شوند."
+        },
+        "ps": {
+          "term": "پاکیټ",
+          "definition": "د معلوماتو کوچنۍ برخه چې انټرنیټ له لارې لیږل کیږي؛ لوی فایلونه کوچنیو پاکیټونو ته ویشل کیږي."
         }
       },
       "topics": [
@@ -3724,6 +4762,14 @@
         "ro": {
           "term": "Comutare de pachete",
           "definition": "O metodă de trimitere a datelor printr-o rețea prin împărțirea lor în pachete care pot călători pe căi diferite."
+        },
+        "prs": {
+          "term": "سوئیچینگ بسته",
+          "definition": "روشی برای ارسال داده که آن را به بسته‌های کوچک تقسیم می‌کند و هر کدام مستقلاً مسیریابی می‌شوند."
+        },
+        "ps": {
+          "term": "پاکیټ سویچینګ",
+          "definition": "د معلوماتو د لیږلو لار چې دا کوچنیو پاکیټونو ته ویشي او هر یو مستقل لاره نیسي."
         }
       }
     },
@@ -3752,6 +4798,14 @@
         "ro": {
           "term": "Parametru",
           "definition": "O variabilă transmisă unei funcții sau proceduri când aceasta este apelată."
+        },
+        "prs": {
+          "term": "پارامتر",
+          "definition": "متغیری که در تعریف تابع استفاده می‌شود و وقتی تابع فراخوانده می‌شود مقدار می‌گیرد."
+        },
+        "ps": {
+          "term": "پارامیټر",
+          "definition": "متغیر چې د فنکشن تعریف کې کارول کیږي او کله چې فنکشن یادیږي ارزښت اخلي."
         }
       }
     },
@@ -3781,6 +4835,14 @@
         "ro": {
           "term": "Patch",
           "definition": "O actualizare software care corectează erori sau vulnerabilități de securitate dintr-un program."
+        },
+        "prs": {
+          "term": "پچ",
+          "definition": "به‌روزرسانی نرم‌افزاری که اشکالات را رفع یا آسیب‌پذیری‌های امنیتی را می‌بندد."
+        },
+        "ps": {
+          "term": "پیچ",
+          "definition": "د سافټویر تازه‌کول چې غلطۍ سموي یا د امنیت زیانمنتیاوې بندوي."
         }
       }
     },
@@ -3809,6 +4871,14 @@
         "ro": {
           "term": "Recunoașterea tiparelor",
           "definition": "Identificarea asemănărilor sau caracteristicilor repetate în probleme pentru a le rezolva mai eficient."
+        },
+        "prs": {
+          "term": "تشخیص الگو",
+          "definition": "شناسایی شباهت‌ها، روندها یا الگوهای تکراری در مسائل برای کمک به حل آن‌ها."
+        },
+        "ps": {
+          "term": "د نمونو پیژندنه",
+          "definition": "د ستونزو کې د ورته‌والیو، رجحاناتو یا تکراري نمونو پیژندل ترڅو د حل لپاره مرسته وشي."
         }
       }
     },
@@ -3834,6 +4904,14 @@
         "ro": {
           "term": "Phishing",
           "definition": "O tentativă de fraudă pentru a înșela oamenii să dezvăluie informații personale prin mesaje sau site-uri false."
+        },
+        "prs": {
+          "term": "فیشینگ",
+          "definition": "تلاش فریبکارانه برای سرقت اطلاعات شخصی از طریق ایمیل یا وب‌سایت‌های جعلی."
+        },
+        "ps": {
+          "term": "فشینګ",
+          "definition": "د شخصي معلوماتو د غلا لپاره د جعلي بریښنالیک یا ویب‌سایټونو له لارې د درغلۍ هڅه."
         }
       },
       "topics": [
@@ -3865,6 +4943,14 @@
         "ro": {
           "term": "Calcul fizic",
           "definition": "Construirea de sisteme de calcul care interacționează cu lumea fizică prin senzori și actuatoare."
+        },
+        "prs": {
+          "term": "محاسبات فیزیکی",
+          "definition": "استفاده از سخت‌افزار قابل برنامه‌ریزی برای تعامل با دنیای فیزیکی از طریق سنسورها و عملگرها."
+        },
+        "ps": {
+          "term": "فزیکي محاسبه",
+          "definition": "د قابل پروګرام سخت‌افزار کارول ترڅو د سینسرونو او ایکچویټرونو له لارې فزیکي نړۍ سره اړیکه ولري."
         }
       }
     },
@@ -3893,6 +4979,14 @@
         "ro": {
           "term": "Pixel",
           "definition": "Cel mai mic element al unei imagini digitale. Imaginile sunt formate dintr-o grilă de pixeli."
+        },
+        "prs": {
+          "term": "پیکسل",
+          "definition": "کوچک‌ترین عنصر یک تصویر دیجیتالی؛ تصویرها از هزاران پیکسل ساخته می‌شوند."
+        },
+        "ps": {
+          "term": "پیکسل",
+          "definition": "د ډیجیټل انځور کوچنۍ عنصر؛ انځورونه له زرګونو پیکسلونو جوړ دي."
         }
       }
     },
@@ -3922,6 +5016,14 @@
         "ro": {
           "term": "Pointer",
           "definition": "O variabilă care stochează adresa de memorie a altei variabile."
+        },
+        "prs": {
+          "term": "اشاره‌گر",
+          "definition": "متغیری که آدرس حافظه یک مقدار دیگر را ذخیره می‌کند."
+        },
+        "ps": {
+          "term": "پوینټر",
+          "definition": "متغیر چې د بل ارزښت د حافظې پته ذخیره کوي."
         }
       }
     },
@@ -3947,6 +5049,14 @@
         "ro": {
           "term": "Cheie primară",
           "definition": "Un câmp sau un set de câmpuri care identifică unic fiecare înregistrare dintr-un tabel al bazei de date."
+        },
+        "prs": {
+          "term": "کلید اصلی",
+          "definition": "فیلد منحصربه‌فردی در جدول پایگاه داده که هر رکورد را به طور یکتا شناسایی می‌کند."
+        },
+        "ps": {
+          "term": "لومړنی کیلي",
+          "definition": "د ډیټابیس جدول کې ځانګړی ساحه چې هر ریکارډ ځانګړي توګه پیژني."
         }
       },
       "topics": [
@@ -3979,6 +5089,14 @@
         "ro": {
           "term": "Confidențialitate",
           "definition": "Dreptul persoanelor de a controla informațiile lor personale și cine le poate accesa."
+        },
+        "prs": {
+          "term": "حریم خصوصی",
+          "definition": "حق کنترل اینکه چه اطلاعاتی درباره شما جمع‌آوری و استفاده می‌شود."
+        },
+        "ps": {
+          "term": "محرمیت",
+          "definition": "د دې کنترول حق چې ستاسو کوم معلومات راټول او کارول کیږي."
         }
       }
     },
@@ -4008,6 +5126,14 @@
         "ro": {
           "term": "Software proprietar",
           "definition": "Software deținut de o persoană sau companie care controlează utilizarea sa. Codul nu poate fi vizualizat sau copiat liber."
+        },
+        "prs": {
+          "term": "اختصاصی",
+          "definition": "نرم‌افزاری که کد منبع آن مخفی است و استفاده از آن نیاز به مجوز دارد."
+        },
+        "ps": {
+          "term": "خپلواک",
+          "definition": "سافټویر چې د هغه سرچینه کوډ پټ وي او کارول یې جواز ته اړتیا لري."
         }
       }
     },
@@ -4033,6 +5159,14 @@
         "ro": {
           "term": "Protocol",
           "definition": "Un set de reguli care definesc cum comunică dispozitivele și cum schimbă date printr-o rețea."
+        },
+        "prs": {
+          "term": "پروتکل",
+          "definition": "مجموعه قوانینی که تعریف می‌کند دستگاه‌ها چگونه از طریق یک شبکه ارتباط برقرار می‌کنند."
+        },
+        "ps": {
+          "term": "پروتوکول",
+          "definition": "د قوانینو مجموعه چې تعریفوي وسیلې د شبکې له لارې څنګه اړیکه ساتي."
         }
       },
       "topics": [
@@ -4065,6 +5199,14 @@
         "ro": {
           "term": "Pseudocod",
           "definition": "O descriere simplă a unui algoritm care seamănă cu codul de programare dar este scrisă în limbaj obișnuit."
+        },
+        "prs": {
+          "term": "شبه‌کد",
+          "definition": "توضیح ساده یک الگوریتم به زبان عادی که شبیه کد برنامه‌نویسی است اما از نحو واقعی پیروی نمی‌کند."
+        },
+        "ps": {
+          "term": "شبه کوډ",
+          "definition": "د الګوریتم ساده توضیح د عادي ژبې کې چې د پروګرامینګ کوډ ته ورته وي خو د ریښتیني نحو تعقیب نه کوي."
         }
       }
     },
@@ -4090,6 +5232,14 @@
         "ro": {
           "term": "Interogare",
           "definition": "O solicitare de a obține date sau de a efectua o operație pe date dintr-o bază de date."
+        },
+        "prs": {
+          "term": "کوئری",
+          "definition": "سوالی که برای بازیابی اطلاعات خاص از پایگاه داده استفاده می‌شود."
+        },
+        "ps": {
+          "term": "پوښتنه",
+          "definition": "هغه پوښتنه چې د ډیټابیس نه د ځانګړو معلوماتو د راوستلو لپاره کارول کیږي."
         }
       },
       "topics": [
@@ -4121,6 +5271,14 @@
         "ro": {
           "term": "Coadă",
           "definition": "O structură de date care funcționează după principiul primul intrat, primul ieșit (FIFO)."
+        },
+        "prs": {
+          "term": "صف",
+          "definition": "ساختار داده‌ای که آیتم‌ها را به ترتیب اول-وارد-اول-خارج (FIFO) ذخیره می‌کند."
+        },
+        "ps": {
+          "term": "قطار",
+          "definition": "د معلوماتو جوړښت چې توکي د لومړی-ننوتی-لومړی-وتلی (FIFO) ترتیب سره ذخیره کوي."
         }
       }
     },
@@ -4149,6 +5307,14 @@
         "ro": {
           "term": "Memorie RAM",
           "definition": "Memorie temporară care stochează datele și programele folosite curent de calculator. Este ștearsă când calculatorul este oprit."
+        },
+        "prs": {
+          "term": "حافظه دسترسی تصادفی",
+          "definition": "حافظه اصلی کامپیوتر که داده‌های مورد استفاده فعال را نگه می‌دارد؛ با خاموش شدن دستگاه پاک می‌شود."
+        },
+        "ps": {
+          "term": "RAM",
+          "definition": "د کمپیوټر اصلي حافظه چې فعال کارول شوي معلومات ساتي؛ کله چې وسیله بنده شي پاکیږي."
         }
       }
     },
@@ -4174,6 +5340,14 @@
         "ro": {
           "term": "Înregistrare",
           "definition": "Un rând dintr-un tabel de baze de date care reprezintă un set de date legate de un singur element."
+        },
+        "prs": {
+          "term": "رکورد",
+          "definition": "مجموعه‌ای از فیلدهای مرتبط در پایگاه داده که یک موجودیت را توصیف می‌کند، مانند یک ردیف در جدول."
+        },
+        "ps": {
+          "term": "ریکارډ",
+          "definition": "د ډیټابیس کې د اړونده ساحو ټولګه چې یوه موجودیت توضیح کوي، لکه د جدول یوه کرښه."
         }
       },
       "topics": [
@@ -4206,6 +5380,14 @@
         "ro": {
           "term": "Recursivitate",
           "definition": "Când o funcție se apelează pe sine pentru a rezolva o versiune mai mică a aceleiași probleme."
+        },
+        "prs": {
+          "term": "بازگشت",
+          "definition": "وقتی یک تابع خودش را صدا می‌کند تا مسئله را با تقسیم به نمونه‌های کوچک‌تر حل کند."
+        },
+        "ps": {
+          "term": "بیرته راستنیدنه",
+          "definition": "کله چې یو فنکشن ځان ته زنګ ووهي ترڅو ستونزه د کوچنیو نمونو ته ویشلو سره حل کړي."
         }
       }
     },
@@ -4234,6 +5416,14 @@
         "ro": {
           "term": "Registru",
           "definition": "Un loc de stocare mic și foarte rapid în interiorul procesorului folosit pentru a reține datele și instrucțiunile procesate curent."
+        },
+        "prs": {
+          "term": "رجیستر",
+          "definition": "محل ذخیره‌سازی کوچک و سریعی داخل CPU که داده‌های در حال پردازش را نگه می‌دارد."
+        },
+        "ps": {
+          "term": "رجسټر",
+          "definition": "د CPU دننه کوچنی ګړندی ذخیره ځای چې د پروسس کیدونکو معلوماتو ساتنه کوي."
         }
       }
     },
@@ -4263,6 +5453,14 @@
         "ro": {
           "term": "Expresie regulată",
           "definition": "O secvență de caractere care formează un tipar de căutare, folosită pentru a căuta, valida sau înlocui text."
+        },
+        "prs": {
+          "term": "عبارت منظم",
+          "definition": "الگویی از کاراکترها که برای جستجو یا اعتبارسنجی رشته‌های متنی استفاده می‌شود."
+        },
+        "ps": {
+          "term": "منظم عبارت",
+          "definition": "د کرکترونو نمونه چې د متني لیکونو لټون یا اعتبار لپاره کارول کیږي."
         }
       }
     },
@@ -4291,6 +5489,14 @@
         "ro": {
           "term": "Bază de date relațională",
           "definition": "O bază de date care organizează datele în tabele interconectate care pot fi legate prin chei."
+        },
+        "prs": {
+          "term": "پایگاه داده رابطه‌ای",
+          "definition": "پایگاه داده‌ای که اطلاعات را در جداول مرتبط ذخیره می‌کند و با کلیدها به هم پیوند دارند."
+        },
+        "ps": {
+          "term": "اړیکوي ډیټابیس",
+          "definition": "ډیټابیس چې معلومات اړونده جدولونو کې ذخیره کوي چې د کیلیو له لارې سره وصل دي."
         }
       }
     },
@@ -4319,6 +5525,14 @@
         "ro": {
           "term": "Rezoluție",
           "definition": "Numărul de pixeli dintr-o imagine. O rezoluție mai mare înseamnă o imagine mai clară și un fișier mai mare."
+        },
+        "prs": {
+          "term": "وضوح",
+          "definition": "تعداد پیکسل‌های موجود در یک تصویر؛ وضوح بالاتر به معنای جزئیات بیشتر است."
+        },
+        "ps": {
+          "term": "ریزالوشن",
+          "definition": "د انځور د پیکسلونو شمیر؛ لوړ ریزالوشن یعنې ډیر توضیحات."
         }
       }
     },
@@ -4347,6 +5561,14 @@
         "ro": {
           "term": "Valoare returnată",
           "definition": "Valoarea trimisă înapoi de o funcție către codul care a apelat-o."
+        },
+        "prs": {
+          "term": "مقدار بازگشتی",
+          "definition": "داده‌ای که یک تابع بعد از اتمام به برنامه فراخواننده برمی‌گرداند."
+        },
+        "ps": {
+          "term": "بیرته راستنیدونکی ارزښت",
+          "definition": "هغه معلومات چې یو فنکشن د پای کیدلو وروسته یادونکي پروګرام ته بیرته راستوي."
         }
       }
     },
@@ -4375,6 +5597,14 @@
         "ro": {
           "term": "Robot",
           "definition": "O mașină care poate fi programată pentru a efectua sarcini automat, adesea imitând acțiunile umane."
+        },
+        "prs": {
+          "term": "ربات",
+          "definition": "ماشینی که می‌تواند کارهایی را به طور خودکار انجام دهد، اغلب با استفاده از سنسورها و عملگرها."
+        },
+        "ps": {
+          "term": "روبوټ",
+          "definition": "ماشین چې کولی شي دندې اتوماتیک ترسره کړي، اکثراً د سینسرونو او ایکچویټرونو له کارولو سره."
         }
       }
     },
@@ -4403,6 +5633,14 @@
         "ro": {
           "term": "Memorie ROM",
           "definition": "Memorie permanentă care conține instrucțiuni care nu pot fi modificate, cum ar fi instrucțiunile de pornire a calculatorului."
+        },
+        "prs": {
+          "term": "حافظه فقط‌خواندنی",
+          "definition": "حافظه دائمی که محتویات آن با خاموش شدن کامپیوتر پاک نمی‌شود."
+        },
+        "ps": {
+          "term": "ROM",
+          "definition": "دایمي حافظه چې محتویات یې د کمپیوټر د بندیدلو سره نه پاکیږي."
         }
       }
     },
@@ -4428,6 +5666,14 @@
         "ro": {
           "term": "Router",
           "definition": "Un dispozitiv de rețea care direcționează pachete de date între rețele diferite și conectează rețeaua locală la internet."
+        },
+        "prs": {
+          "term": "مسیریاب",
+          "definition": "دستگاهی که بسته‌های داده را بین شبکه‌ها هدایت می‌کند و آن‌ها را به مقصد درست می‌رساند."
+        },
+        "ps": {
+          "term": "راوټر",
+          "definition": "وسیله چې د معلوماتو پاکیټونه شبکو تر منځ لارښوونه کوي او سم منزل ته یې رسوي."
         }
       },
       "topics": [
@@ -4460,6 +5706,14 @@
         "ro": {
           "term": "Eroare de execuție",
           "definition": "O eroare care apare în timpul rulării programului și îl face să se oprească brusc."
+        },
+        "prs": {
+          "term": "خطای زمان اجرا",
+          "definition": "خطایی که در حین اجرای برنامه رخ می‌دهد و معمولاً باعث توقف ناگهانی آن می‌شود."
+        },
+        "ps": {
+          "term": "د اجرا د وخت تیروتنه",
+          "definition": "غلطي چې د پروګرام د چلیدلو پرمهال پیښیږي او معمولاً یې ناڅاپه بندوي."
         }
       }
     },
@@ -4488,6 +5742,14 @@
         "ro": {
           "term": "Rată de eșantionare",
           "definition": "Numărul de ori pe secundă în care o undă sonoră este măsurată la înregistrare. O rată mai mare produce sunet de calitate mai bună dar fișier mai mare."
+        },
+        "prs": {
+          "term": "نرخ نمونه‌برداری",
+          "definition": "تعداد دفعاتی که یک سیگنال صوتی در ثانیه اندازه‌گیری می‌شود؛ نرخ بالاتر به معنای کیفیت بهتر صدا است."
+        },
+        "ps": {
+          "term": "د نمونې کچه",
+          "definition": "هغه ځله شمیر چې یو غږیز سیګنال هره ثانیه اندازه کیږي؛ لوړه کچه یعنې غوره غږ."
         }
       }
     },
@@ -4516,6 +5778,14 @@
         "ro": {
           "term": "Domeniu de vizibilitate",
           "definition": "Zona din program în care o variabilă poate fi accesată. O variabilă locală există doar în subrutina în care a fost creată; una globală poate fi accesată oriunde."
+        },
+        "prs": {
+          "term": "حوزه",
+          "definition": "قسمت از برنامه که یک متغیر در آن قابل دسترسی است."
+        },
+        "ps": {
+          "term": "دایره",
+          "definition": "د پروګرام هغه برخه چې یو متغیر پکې د لاسرسي وړ وي."
         }
       }
     },
@@ -4541,6 +5811,14 @@
         "ro": {
           "term": "Selecție",
           "definition": "O parte a unui program în care se ia o decizie pe baza unei condiții, folosind instrucțiuni de tipul if/else."
+        },
+        "prs": {
+          "term": "انتخاب",
+          "definition": "ساختار برنامه‌نویسی که بسته به شرط مسیر مختلفی را طی می‌کند، مانند if/else."
+        },
+        "ps": {
+          "term": "انتخاب",
+          "definition": "د پروګرامینګ جوړښت چې د شرط پر بنسټ بیلابیل لار نیسي، لکه if/else."
         }
       },
       "topics": [
@@ -4573,6 +5851,14 @@
         "ro": {
           "term": "Senzor",
           "definition": "Un dispozitiv care măsoară o proprietate fizică din lumea reală, cum ar fi temperatura, lumina sau sunetul."
+        },
+        "prs": {
+          "term": "حسگر",
+          "definition": "دستگاهی که تغییرات در محیط فیزیکی مانند دما، نور یا حرکت را تشخیص می‌دهد."
+        },
+        "ps": {
+          "term": "سینسر",
+          "definition": "وسیله چې د فزیکي چاپیریال کې بدلونونه لکه تودوخه، رڼا یا حرکت کشف کوي."
         }
       }
     },
@@ -4598,6 +5884,14 @@
         "ro": {
           "term": "Secvență",
           "definition": "Executarea instrucțiunilor în ordine, una după alta."
+        },
+        "prs": {
+          "term": "دنباله",
+          "definition": "اجرای دستورالعمل‌ها به ترتیب، یکی پس از دیگری."
+        },
+        "ps": {
+          "term": "لړۍ",
+          "definition": "د لارښوونو یو یو پر بل ترتیبي اجرا."
         }
       },
       "topics": [
@@ -4629,6 +5923,14 @@
         "ro": {
           "term": "Inginerie socială",
           "definition": "Manipularea psihologică a oamenilor pentru a-i convinge să dezvăluie informații confidențiale sau să ia măsuri nesigure."
+        },
+        "prs": {
+          "term": "مهندسی اجتماعی",
+          "definition": "دستکاری افراد برای فاش کردن اطلاعات محرمانه یا انجام کارهای ناخواسته."
+        },
+        "ps": {
+          "term": " друштвени انجینرنګ",
+          "definition": "خلک دې ته اړول چې محرم معلومات ښکاره کړي یا ناغوښتل شوې دندې ترسره کړي."
         }
       }
     },
@@ -4657,6 +5959,14 @@
         "ro": {
           "term": "Ciclul de viață al dezvoltării software",
           "definition": "Etapele urmate pentru planificarea, crearea, testarea și întreținerea unui sistem software."
+        },
+        "prs": {
+          "term": "چرخه عمر توسعه نرم‌افزار",
+          "definition": "مراحل ایجاد نرم‌افزار از برنامه‌ریزی و طراحی تا آزمایش و پشتیبانی."
+        },
+        "ps": {
+          "term": "د سافټویر پراختیا د ژوند دوره",
+          "definition": "د سافټویر د جوړولو ګامونه د پلان او ډیزاین نه تر ازموینې او ساتنې پورې."
         }
       }
     },
@@ -4685,6 +5995,14 @@
         "ro": {
           "term": "SQL",
           "definition": "Un limbaj folosit pentru a crea și gestiona baze de date relaționale și a efectua interogări."
+        },
+        "prs": {
+          "term": "زبان پرس‌وجوی ساختاریافته",
+          "definition": "زبان استانداردی برای مدیریت و پرس‌وجوی پایگاه‌های داده رابطه‌ای."
+        },
+        "ps": {
+          "term": "SQL",
+          "definition": "د اړیکوي ډیټابیسونو د اداره او پوښتنو لپاره معیاري ژبه."
         }
       }
     },
@@ -4713,6 +6031,14 @@
         "ro": {
           "term": "Injecție SQL",
           "definition": "Un atac cibernetic în care atacatorul introduce cod malițios în formularele de intrare pentru a controla baza de date."
+        },
+        "prs": {
+          "term": "تزریق SQL",
+          "definition": "حمله‌ای که کد SQL مخرب را در فیلد ورودی وارد می‌کند تا پایگاه داده را دستکاری کند."
+        },
+        "ps": {
+          "term": "SQL انجکشن",
+          "definition": "برید چې د ننوتنې ساحه کې ناوړه SQL کوډ داخلوي ترڅو ډیټابیس دستکاري کړي."
         }
       }
     },
@@ -4741,6 +6067,14 @@
         "ro": {
           "term": "Stivă",
           "definition": "O structură de date care funcționează după principiul ultimul intrat, primul ieșit (LIFO)."
+        },
+        "prs": {
+          "term": "پشته",
+          "definition": "ساختار داده‌ای که آیتم‌ها را به ترتیب آخرین-وارد-اول-خارج (LIFO) ذخیره می‌کند."
+        },
+        "ps": {
+          "term": "سټیک",
+          "definition": "د معلوماتو جوړښت چې توکي د وروستی-ننوتی-لومړی-وتلی (LIFO) ترتیب سره ذخیره کوي."
         }
       }
     },
@@ -4769,6 +6103,14 @@
         "ro": {
           "term": "Stocare",
           "definition": "Un suport care păstrează datele permanent, cum ar fi hard disk-ul sau un stick USB."
+        },
+        "prs": {
+          "term": "ذخیره‌سازی",
+          "definition": "اجزایی که داده‌ها را به طور دائمی نگه می‌دارند، مانند هارد دیسک یا حافظه USB."
+        },
+        "ps": {
+          "term": "ذخیره",
+          "definition": "هغه برخې چې معلومات دایمي ساتي، لکه هارډ ډرایو یا USB درایو."
         }
       }
     },
@@ -4794,6 +6136,14 @@
         "ro": {
           "term": "Șir de caractere",
           "definition": "O secvență de caractere folosită pentru a reprezenta text în programare."
+        },
+        "prs": {
+          "term": "رشته",
+          "definition": "دنباله‌ای از کاراکترها که معمولاً برای نمایش متن استفاده می‌شود."
+        },
+        "ps": {
+          "term": "سټرینګ",
+          "definition": "د کرکترونو لړۍ چې معمولاً د متن ښودلو لپاره کارول کیږي."
         }
       },
       "topics": [
@@ -4826,6 +6176,14 @@
         "ro": {
           "term": "Subrutină",
           "definition": "Un bloc de cod cu nume care poate fi apelat din orice loc al programului. Include proceduri (fără valoare returnată) și funcții (returnează o valoare)."
+        },
+        "prs": {
+          "term": "زیربرنامه",
+          "definition": "بلوکی از کد با نام که کار خاصی انجام می‌دهد و می‌توان آن را از جاهای مختلف صدا زد."
+        },
+        "ps": {
+          "term": "فرعي پروګرام",
+          "definition": "د کوډ نومول شوې برخه چې ځانګړې دنده ترسره کوي او د بیلابیلو ځایونو نه یادیدلی شي."
         }
       }
     },
@@ -4854,6 +6212,14 @@
         "ro": {
           "term": "Învățare supervizată",
           "definition": "Un tip de învățare automată în care modelul este antrenat pe date etichetate cu răspunsuri corecte cunoscute."
+        },
+        "prs": {
+          "term": "یادگیری نظارت‌شده",
+          "definition": "نوعی یادگیری ماشین که در آن مدل از داده‌های برچسب‌دار آموزش می‌بیند."
+        },
+        "ps": {
+          "term": "نظارت شوې زده‌کړه",
+          "definition": "د ماشین زده‌کړې یو ډول چې ماډل د نومول شوو معلوماتو له لارې روزل کیږي."
         }
       }
     },
@@ -4883,6 +6249,14 @@
         "ro": {
           "term": "Eroare de sintaxă",
           "definition": "O eroare în regulile de scriere a codului care împiedică rularea programului."
+        },
+        "prs": {
+          "term": "خطای نحوی",
+          "definition": "اشتباهی در کد که قوانین دستوری زبان برنامه‌نویسی را نقض می‌کند."
+        },
+        "ps": {
+          "term": "د نحو تیروتنه",
+          "definition": "د کوډ کې غلطي چې د پروګرامینګ ژبې د ګرامر قوانین ماتوي."
         }
       }
     },
@@ -4908,6 +6282,14 @@
         "ro": {
           "term": "Tabel",
           "definition": "O structură dintr-o bază de date care organizează datele în rânduri și coloane."
+        },
+        "prs": {
+          "term": "جدول",
+          "definition": "مجموعه‌ای از داده‌ها سازمان‌یافته در ردیف‌ها و ستون‌ها در پایگاه داده."
+        },
+        "ps": {
+          "term": "جدول",
+          "definition": "د ډیټابیس کې د کرښو او کالمونو کې تنظیم شوو معلوماتو ټولګه."
         }
       },
       "topics": [
@@ -4939,6 +6321,14 @@
         "ro": {
           "term": "Date de testare",
           "definition": "Date folosite pentru a testa un program și a verifica că funcționează corect în toate cazurile."
+        },
+        "prs": {
+          "term": "داده آزمون",
+          "definition": "داده‌هایی که برای بررسی صحت عملکرد برنامه در شرایط مختلف استفاده می‌شوند."
+        },
+        "ps": {
+          "term": "د ازموینې معلومات",
+          "definition": "هغه معلومات چې د بیلابیلو شرایطو کې د پروګرام د سم کار کولو د ازموینې لپاره کارول کیږي."
         }
       }
     },
@@ -4967,6 +6357,14 @@
         "ro": {
           "term": "Testare",
           "definition": "Procesul de verificare că programul funcționează corect și produce rezultatele așteptate."
+        },
+        "prs": {
+          "term": "آزمون",
+          "definition": "بررسی اینکه آیا برنامه به درستی کار می‌کند با اجرا در برابر موارد مختلف."
+        },
+        "ps": {
+          "term": "ازموینه",
+          "definition": "د دې چک کول چې آیا پروګرام سم کار کوي د بیلابیلو قضیو پر وړاندې د چلولو سره."
         }
       }
     },
@@ -4995,6 +6393,14 @@
         "ro": {
           "term": "Topologia rețelei",
           "definition": "Aranjamentul fizic sau logic al dispozitivelor dintr-o rețea."
+        },
+        "prs": {
+          "term": "توپولوژی",
+          "definition": "نحوه ترتیب دستگاه‌ها و اتصالات در یک شبکه، مانند ستاره یا حلقه."
+        },
+        "ps": {
+          "term": "ټوپولوجي",
+          "definition": "د شبکې کې د وسیلو او اتصالاتو د ترتیب لار، لکه ستوری یا حلقه."
         }
       }
     },
@@ -5023,6 +6429,14 @@
         "ro": {
           "term": "Tabel de urmărire",
           "definition": "Un tabel folosit pentru a urmări valorile variabilelor pas cu pas la rularea manuală a codului."
+        },
+        "prs": {
+          "term": "جدول ردیابی",
+          "definition": "جدولی که برای پیگیری مقادیر متغیرها مرحله به مرحله هنگام اجرای کد استفاده می‌شود."
+        },
+        "ps": {
+          "term": "د ردیابۍ جدول",
+          "definition": "جدول چې د کوډ د چلیدلو پرمهال د متغیرونو ارزښتونو ګام‌ونه تعقیبولو لپاره کارول کیږي."
         }
       }
     },
@@ -5051,6 +6465,14 @@
         "ro": {
           "term": "Problemă tractabilă",
           "definition": "O problemă care poate fi rezolvată eficient folosind un algoritm cu timp de execuție polinomial."
+        },
+        "prs": {
+          "term": "قابل‌حل",
+          "definition": "مسئله‌ای که می‌توان آن را با الگوریتمی در زمان معقول حل کرد."
+        },
+        "ps": {
+          "term": "د حل وړ",
+          "definition": "ستونزه چې د معقول وخت کې د الګوریتم له لارې حل کیدلی شي."
         }
       }
     },
@@ -5079,6 +6501,14 @@
         "ro": {
           "term": "Date de antrenament",
           "definition": "Datele folosite pentru a antrena un model de învățare automată. Calitatea lor influențează direct performanța modelului."
+        },
+        "prs": {
+          "term": "داده آموزشی",
+          "definition": "داده‌هایی که برای آموزش مدل یادگیری ماشین استفاده می‌شوند."
+        },
+        "ps": {
+          "term": "روزنیز معلومات",
+          "definition": "هغه معلومات چې د ماشین زده‌کړې ماډل روزلو لپاره کارول کیږي."
         }
       }
     },
@@ -5107,6 +6537,14 @@
         "ro": {
           "term": "Arbore",
           "definition": "O structură de date ierarhică formată din noduri, fiecare cu un singur nod părinte și mai mulți noduri copii."
+        },
+        "prs": {
+          "term": "درخت",
+          "definition": "ساختار داده سلسله‌مراتبی که از گره‌های متصل با پیوند والد-فرزند ساخته شده."
+        },
+        "ps": {
+          "term": "ونه",
+          "definition": "د معلوماتو سلسله‌مراتبي جوړښت چې د پلار-ماشوم اړیکو سره وصل شوو نوډونو لخوا جوړ شوی."
         }
       }
     },
@@ -5135,6 +6573,14 @@
         "ro": {
           "term": "Tabel de adevăr",
           "definition": "Un tabel care arată toate combinațiile posibile de intrări și ieșirile corespunzătoare pentru un circuit logic."
+        },
+        "prs": {
+          "term": "جدول ارزش",
+          "definition": "جدولی که همه ترکیب‌های ممکن ورودی‌ها و خروجی‌های مربوط برای یک عملیات منطقی را نشان می‌دهد."
+        },
+        "ps": {
+          "term": "د ریښتیا جدول",
+          "definition": "جدول چې د منطقي عملیات لپاره ټولې ممکنه ننوتنې او اړونده وتنې ښیي."
         }
       }
     },
@@ -5163,6 +6609,14 @@
         "ro": {
           "term": "Mașina Turing",
           "definition": "Un model matematic al unui dispozitiv de calcul care descrie conceptul de algoritm și calcul."
+        },
+        "prs": {
+          "term": "ماشین تورینگ",
+          "definition": "مدل نظری یک کامپیوتر که توسط آلن تورینگ توصیف شده و محدودیت‌های محاسبات را نشان می‌دهد."
+        },
+        "ps": {
+          "term": "د تورینګ ماشین",
+          "definition": "د کمپیوټر نظري ماډل چې آلن تورینګ توضیح کړی او د محاسبو حدود ښیي."
         }
       }
     },
@@ -5191,6 +6645,14 @@
         "ro": {
           "term": "Complement față de doi",
           "definition": "O metodă de reprezentare a numerelor întregi negative în binar. Pentru a nega un număr: inversează toți biții, apoi adaugă 1."
+        },
+        "prs": {
+          "term": "مکمل دو",
+          "definition": "روش ذخیره‌سازی اعداد منفی در دودویی که معمولاً توسط کامپیوترها استفاده می‌شود."
+        },
+        "ps": {
+          "term": "دوه‌ضمیمه",
+          "definition": "د دوه‌اره کې د منفي شمیرو ذخیره کولو لار چې معمولاً کمپیوټرونه کاروي."
         }
       }
     },
@@ -5219,6 +6681,14 @@
         "ro": {
           "term": "Autentificare cu doi factori",
           "definition": "O metodă de securitate care necesită două forme de verificare a identității, cum ar fi o parolă și un cod trimis pe telefon."
+        },
+        "prs": {
+          "term": "احراز هویت دو مرحله‌ای",
+          "definition": "روش ورود که دو نوع مختلف تأیید هویت نیاز دارد، مانند رمز عبور به علاوه کد SMS."
+        },
+        "ps": {
+          "term": "دوه مرحله‌ای تصدیق",
+          "definition": "د ننوتلو لار چې دوه بیل ډوله تایید ته اړتیا لري، لکه پاسورډ او SMS کوډ."
         }
       }
     },
@@ -5247,6 +6717,14 @@
         "ro": {
           "term": "Unicode",
           "definition": "Un standard de codificare care suportă majoritatea caracterelor și sistemelor de scriere din lume."
+        },
+        "prs": {
+          "term": "یونیکد",
+          "definition": "استاندارد کدگذاری که به تقریباً هر کاراکتر از هر زبان دنیا یک کد عددی نسبت می‌دهد."
+        },
+        "ps": {
+          "term": "یونیکوډ",
+          "definition": "د کوډینګ معیار چې نږدې د نړۍ هر ژبې هر کرکتر ته عددي کوډ ورکوي."
         }
       }
     },
@@ -5275,6 +6753,14 @@
         "ro": {
           "term": "Învățare nesupervizată",
           "definition": "Un tip de învățare automată în care modelul găsește singur tipare în date neetichetate."
+        },
+        "prs": {
+          "term": "یادگیری بدون نظارت",
+          "definition": "نوعی یادگیری ماشین که در آن مدل الگوها را در داده‌های بدون برچسب پیدا می‌کند."
+        },
+        "ps": {
+          "term": "بې نظارته زده‌کړه",
+          "definition": "د ماشین زده‌کړې یو ډول چې ماډل د نه‌نومول شوو معلوماتو کې نمونې موندي."
         }
       }
     },
@@ -5303,6 +6789,14 @@
         "ro": {
           "term": "Program utilitar",
           "definition": "Un program care ajută la gestionarea și întreținerea calculatorului, cum ar fi programele antivirus sau de compresie."
+        },
+        "prs": {
+          "term": "ابزار",
+          "definition": "نرم‌افزار سیستمی که کار نگهداری یا مدیریت خاصی انجام می‌دهد، مانند آنتی‌ویروس یا ابزار فشرده‌سازی."
+        },
+        "ps": {
+          "term": "یوټیلیټي",
+          "definition": "سیستمي سافټویر چې ځانګړې ساتنه یا مدیریت دنده ترسره کوي، لکه انټي‌ویروس یا د فشردولو وسیله."
         }
       }
     },
@@ -5328,6 +6822,14 @@
         "ro": {
           "term": "Variabilă",
           "definition": "Un loc cu nume în memoria calculatorului unde este stocată o valoare. Valoarea se poate schimba în timpul execuției programului."
+        },
+        "prs": {
+          "term": "متغیر",
+          "definition": "مکانی در حافظه با نام که یک مقدار را ذخیره می‌کند و می‌تواند تغییر کند."
+        },
+        "ps": {
+          "term": "متغیر",
+          "definition": "د حافظې نومول شوی ځای چې یو ارزښت ذخیره کوي او بدلیدلی شي."
         }
       },
       "topics": [
@@ -5359,6 +6861,14 @@
         "ro": {
           "term": "Control al versiunilor",
           "definition": "Un sistem care înregistrează modificările fișierelor în timp pentru a facilita colaborarea și revenirea la versiuni anterioare."
+        },
+        "prs": {
+          "term": "کنترل نسخه",
+          "definition": "سیستمی که تغییرات کد را پیگیری می‌کند تا بتوان به نسخه‌های قبلی بازگشت."
+        },
+        "ps": {
+          "term": "د نسخې کنترول",
+          "definition": "سیستم چې د کوډ بدلونونه تعقیبوي ترڅو مخکینیو نسخو ته راستون شیدلی شي."
         }
       }
     },
@@ -5387,6 +6897,14 @@
         "ro": {
           "term": "Arhitectura von Neumann",
           "definition": "Proiectul calculatorului care stochează datele și instrucțiunile în aceeași memorie și le procesează cu același procesor."
+        },
+        "prs": {
+          "term": "معماری فون نویمان",
+          "definition": "طراحی کامپیوتری که در آن CPU، حافظه و ورودی/خروجی از یک گذرگاه مشترک استفاده می‌کنند."
+        },
+        "ps": {
+          "term": "د فون نویمان جوړښت",
+          "definition": "د کمپیوټر ډیزاین چې CPU، حافظه او ورود/وتنه د مشترک بس له لارې کار کوي."
         }
       }
     },
@@ -5415,6 +6933,14 @@
         "ro": {
           "term": "Vulnerabilitate",
           "definition": "O slăbiciune într-un sistem informatic care poate fi exploatată de atacatori pentru acces neautorizat."
+        },
+        "prs": {
+          "term": "آسیب‌پذیری",
+          "definition": "ضعف در سیستم یا نرم‌افزار که ممکن است توسط مهاجمان مورد بهره‌برداری قرار گیرد."
+        },
+        "ps": {
+          "term": "زیانمنتیا",
+          "definition": "د سیستم یا سافټویر ضعف چې ممکن برید کوونکي ورنه ګټه واخلي."
         }
       }
     },
@@ -5443,6 +6969,14 @@
         "ro": {
           "term": "Rețea de arie largă (WAN)",
           "definition": "O rețea care acoperă o zonă geografică mare. Internetul este cel mai mare exemplu de rețea WAN."
+        },
+        "prs": {
+          "term": "شبکه گسترده",
+          "definition": "شبکه‌ای که مناطق جغرافیایی وسیع را پوشش می‌دهد، مانند اینترنت."
+        },
+        "ps": {
+          "term": "WAN",
+          "definition": "شبکه چې پراخه جغرافیایي سیمې پوښي، لکه انټرنیټ."
         }
       }
     },
@@ -5471,6 +7005,14 @@
         "ro": {
           "term": "Model cascadă",
           "definition": "O abordare a dezvoltării software care urmează etape secvențiale fixe: analiză, proiectare, dezvoltare, testare și întreținere."
+        },
+        "prs": {
+          "term": "آبشار",
+          "definition": "روش توسعه نرم‌افزار خطی که هر مرحله باید قبل از شروع مرحله بعدی کامل شود."
+        },
+        "ps": {
+          "term": "واټرفال",
+          "definition": "د سافټویر پراختیا خطي لار چې هره مرحله باید د بلې پیل دمخه بشپړه شي."
         }
       }
     },
@@ -5499,6 +7041,14 @@
         "ro": {
           "term": "World Wide Web",
           "definition": "Un sistem de pagini și resurse interconectate pe internet, accesibil prin browser."
+        },
+        "prs": {
+          "term": "شبکه گسترده جهانی",
+          "definition": "سیستم صفحات وب به هم پیوند خورده که از طریق اینترنت با استفاده از HTTP قابل دسترسی هستند."
+        },
+        "ps": {
+          "term": "د نړۍ پراخه جال",
+          "definition": "د سره تړلو ویب پاڼو سیستم چې د HTTP له لارې انټرنیټ له لارې د لاسرسي وړ دي."
         }
       }
     },
@@ -5527,6 +7077,14 @@
         "ro": {
           "term": "Poartă XOR",
           "definition": "O poartă logică care produce 1 când exact una dintre intrările sale este 1, nu ambele."
+        },
+        "prs": {
+          "term": "گیت XOR",
+          "definition": "گیت منطقی که وقتی ورودی‌ها متفاوت باشند خروجی ۱ می‌دهد؛ اگر ورودی‌ها یکسان باشند خروجی ۰ است."
+        },
+        "ps": {
+          "term": "XOR ګیټ",
+          "definition": "منطقي ګیټ چې کله ننوتنې توپیر ولري پایله ۱ ده؛ که ننوتنې یوشان وي پایله ۰ ده."
         }
       }
     }
