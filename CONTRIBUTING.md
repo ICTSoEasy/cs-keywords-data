@@ -15,31 +15,48 @@ A few principles that keep the site useful for its audience (students aged 8–1
 
 ---
 
+## How the repo works
+
+Each keyword lives in its own file inside the `keywords/` folder (e.g. `keywords/algorithm.json`). There are also two shared files: `topics.json` (the list of topics) and `ui.json` (translated UI labels and the language list).
+
+When a pull request is merged into `main`, a GitHub Actions bot automatically combines everything into `dist/bundle.json`, which the website then fetches. **You never need to edit `dist/bundle.json` yourself.**
+
+---
+
 ## Ways to contribute
 
 ### 1. Fix a typo or improve a definition
 
-1. Fork this repository
-2. Edit `keywords.json` directly on GitHub (click the pencil icon) or clone it locally
+If you just want to fix a small mistake, you don't need to clone anything.
+
+1. Browse to the relevant file in `keywords/` on GitHub
+2. Click the **pencil icon** (✏️) in the top-right of the file view
 3. Make your change
-4. Open a pull request with a brief description of what you changed and why
+4. Scroll down and click **"Propose changes"**
+5. Click **"Create pull request"**
+
+That's it — GitHub handles the fork automatically.
+
+---
 
 ### 2. Add a new keyword
 
-Find the `keywords` array in `keywords.json` and add a new entry using this structure:
+Each keyword is a separate JSON file in the `keywords/` folder. The filename should match the keyword's `id` (e.g. `keywords/bubble_sort.json`).
+
+**Example file — `keywords/bubble_sort.json`:**
 
 ```json
 {
-  "id": "your-keyword-id",
-  "topic": "algorithms",
+  "id": "bubble_sort",
+  "topics": ["algorithms"],
   "translations": {
     "en": {
-      "term": "Your Keyword",
-      "definition": "A clear, plain-English definition suitable for ages 8–18."
+      "term": "Bubble Sort",
+      "definition": "A simple sorting method that repeatedly steps through a list, compares neighbouring items, and swaps them if they are in the wrong order."
     },
     "pl": {
-      "term": "Twoje słowo kluczowe",
-      "definition": "Jasna definicja odpowiednia dla uczniów w wieku 8–18 lat."
+      "term": "Sortowanie bąbelkowe",
+      "definition": "Prosta metoda sortowania, która wielokrotnie przechodzi przez listę, porównuje sąsiednie elementy i zamienia je miejscami, jeśli są w złej kolejności."
     }
   }
 }
@@ -49,17 +66,21 @@ Find the `keywords` array in `keywords.json` and add a new entry using this stru
 
 | Field | Description |
 |---|---|
-| `id` | Unique identifier. Use lowercase and hyphens, e.g. `binary-search`. No spaces. |
-| `topic` | Must match an existing topic `id` (see the topics list below). |
-| `translations` | An object with one key per language code. You must include at least `en`. |
-| `term` | The keyword as it should be displayed. |
-| `definition` | The definition. Plain language, 1–2 sentences. |
+| `id` | Unique identifier. Lowercase letters, numbers, and underscores only. Must match the filename (without `.json`). |
+| `topics` | Array of topic IDs this keyword belongs to. Must match IDs in `topics.json`. A keyword can belong to more than one topic. |
+| `translations` | One entry per language. You must include at least `en`. |
+| `term` | The keyword as displayed on the site. |
+| `definition` | Plain language, 1–2 sentences, suitable for ages 8–18. |
 
-**If you don't speak all the languages**, that's fine — add the languages you know and note in your PR that others need translating. Someone else can fill them in.
+**Don't speak all the languages?** No problem — add the languages you know and note in your PR that others still need translating. Someone else can fill them in later.
+
+**To submit:** fork the repo, create the new file, and open a pull request.
+
+---
 
 ### 3. Add a translation for an existing keyword
 
-Find the keyword in `keywords.json` and add a new language key inside its `translations` object:
+Find the keyword's file in `keywords/` and add a new language key inside `translations`:
 
 ```json
 "translations": {
@@ -69,62 +90,87 @@ Find the keyword in `keywords.json` and add a new language key inside its `trans
 }
 ```
 
+The language code must already exist in `ui.json`. If you're adding a brand-new language, see below.
+
+---
+
 ### 4. Add a new topic
 
-Adding a topic requires changes in two places.
+Adding a topic means editing one file: `topics.json`.
 
-**Step 1** — add it to the `topics` array:
+Add a new entry to the array:
 
 ```json
 {
-  "id": "hardware",
-  "icon": "🖥️",
+  "id": "new_topic",
+  "icon": "🔧",
   "labels": {
-    "en": "Hardware",
-    "pl": "Sprzęt"
+    "en": "New Topic",
+    "pl": "Nowy temat",
+    "cy": "Pwnc Newydd",
+    "ar": "موضوع جديد",
+    "ro": "Subiect nou"
   }
 }
 ```
 
-**Step 2** — add UI labels for the new topic in every language that exists in `meta.languages`.
+Add a `labels` entry for every language already listed in `ui.json`. Then add keywords with `"topics": ["new_topic"]` as normal.
 
-Then add keywords with `"topic": "hardware"` as normal.
+---
 
 ### 5. Add a new language
 
-Adding a language requires three changes:
+Adding a language requires changes to two files.
 
-**Step 1** — add it to `meta.languages`:
-```json
-{ "code": "fr", "label": "Français" }
-```
+**Step 1 — `ui.json`:** add the language to the `languages` array and add a full set of UI strings to `strings`:
 
-**Step 2** — add UI strings to the `ui` object:
 ```json
-"fr": {
-  "site_title": "Mots-clés Info",
-  "site_subtitle": "Vocabulaire informatique pour tous",
-  "search_placeholder": "Rechercher des mots-clés…",
-  "all_topics": "Tous les sujets",
-  "no_results": "Aucun mot-clé trouvé. Essayez une autre recherche.",
-  "footer_text": "Données contributives.",
-  "footer_contribute": "Suggérer des modifications sur GitHub"
+"languages": [
+  ...,
+  { "code": "fr", "label": "Français" }
+],
+"strings": {
+  ...,
+  "fr": {
+    "site_title": "Mots-clés Info",
+    "site_subtitle": "Vocabulaire informatique pour tous",
+    "search_placeholder": "Rechercher des mots-clés…",
+    "all_topics": "Tous les sujets",
+    "no_results": "Aucun mot-clé trouvé. Essayez une autre recherche ou un autre sujet.",
+    "no_translation": "Traduction pas encore disponible",
+    "second_language": "Deuxième langue",
+    "footer_text": "Données contribuées par la communauté.",
+    "footer_contribute": "Suggérer des modifications sur GitHub"
+  }
 }
 ```
 
-**Step 3** — add the new language's `labels` to every topic, and `translations` to as many keywords as you can.
+**Step 2 — `topics.json`:** add a `labels` entry for the new language in every topic.
+
+**Step 3 (optional but welcome):** add `translations` for the new language to as many keyword files as you can.
 
 ---
 
 ## Topic IDs
 
-| Icon | Label | ID |
+| Icon | Topic | ID |
 |---|---|---|
 | ⚙️ | Algorithms | `algorithms` |
 | 💻 | Programming | `programming` |
+| 🧠 | Computational Thinking | `computational_thinking` |
+| 🔢 | Data Representation | `data_representation` |
+| 🖥️ | Hardware & Computer Systems | `hardware` |
+| 📦 | Software | `software` |
 | 🌐 | Networking | `networking` |
 | 🗄️ | Data & Databases | `data` |
-| 🔒 | Security | `security` |
+| 🔒 | Security & Cybersecurity | `security` |
+| ⊻ | Boolean Logic | `logic` |
+| 🛠️ | Software Development | `software_development` |
+| 🌳 | Data Structures | `data_structures` |
+| 📐 | Theory of Computation | `theory` |
+| ⚖️ | Ethical & Legal Issues | `ethics` |
+| 🤖 | Artificial Intelligence | `ai` |
+| 🦾 | Robotics & Physical Computing | `robotics` |
 
 ---
 
@@ -132,11 +178,12 @@ Adding a language requires three changes:
 
 Before submitting, please check:
 
-- [ ] `keywords.json` is valid JSON (paste it into [jsonlint.com](https://jsonlint.com) if unsure)
+- [ ] Any new or edited `.json` files are valid JSON (paste into [jsonlint.com](https://jsonlint.com) if unsure)
 - [ ] Every new keyword has at least an `en` translation
-- [ ] `id` values are unique and use only lowercase letters, numbers, and hyphens
+- [ ] The `id` matches the filename (without `.json`), uses only lowercase letters, numbers, and underscores, and is unique
+- [ ] `topics` values match IDs in the topic list above
 - [ ] Definitions are plain English, suitable for ages 8–18
-- [ ] No duplicate keywords (search the file for your term first)
+- [ ] You have **not** edited `dist/bundle.json` — the bot does that automatically
 
 ---
 
