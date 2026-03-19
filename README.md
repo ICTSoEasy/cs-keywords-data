@@ -4,7 +4,7 @@ The keyword data behind **[keywords.ictsoeasy.co.uk](https://keywords.ictsoeasy.
 
 ## What this repo is
 
-This repository holds a single file — `keywords.json` — containing all the keyword definitions shown on the website. Anyone can suggest new keywords, fix definitions, or add translations by submitting a pull request. When a PR is merged into `main`, the website updates automatically.
+This repository holds all the keyword definitions shown on the website. Anyone can suggest new keywords, fix definitions, or add translations by submitting a pull request. When a PR is merged into `main`, the website updates automatically.
 
 ## How to contribute
 
@@ -12,19 +12,21 @@ See **[CONTRIBUTING.md](CONTRIBUTING.md)** for full details.
 
 The short version:
 1. Fork this repo
-2. Edit `keywords.json`
+2. Make your change (add or edit a file in `keywords/`, or edit `topics.json` / `ui.json`)
 3. Open a pull request
-4. Once merged, your changes go live on the site
+4. Once merged, a bot rebuilds the site data automatically — your changes go live shortly after
 
-## Current topics
+> **No need to touch `dist/bundle.json`** — that file is generated automatically. Never edit it by hand.
 
-| Topic | ID |
-|---|---|
-| ⚙️ Algorithms | `algorithms` |
-| 💻 Programming | `programming` |
-| 🌐 Networking | `networking` |
-| 🗄️ Data & Databases | `data` |
-| 🔒 Security | `security` |
+## Repository structure
+
+```
+keywords/          ← one JSON file per keyword (e.g. algorithm.json)
+topics.json        ← list of all topics with icons and translated labels
+ui.json            ← UI strings (page titles, button labels) and language list
+dist/bundle.json   ← auto-generated — do not edit directly
+scripts/bundle.py  ← the script that builds dist/bundle.json (runs via GitHub Actions)
+```
 
 ## Current languages
 
@@ -32,23 +34,32 @@ The short version:
 |---|---|
 | English | `en` |
 | Polski | `pl` |
+| Cymraeg | `cy` |
+| العربية | `ar` |
+| Română | `ro` |
 
-Want to add a new language? See [Adding a new language](CONTRIBUTING.md#adding-a-new-language).
+Want to add a new language? See [Adding a new language](CONTRIBUTING.md#5-add-a-new-language).
 
-## Data format
+## Current topics
 
-All data lives in `keywords.json`. The top-level structure is:
-
-```json
-{
-  "meta": { ... },
-  "ui": { ... },
-  "topics": [ ... ],
-  "keywords": [ ... ]
-}
-```
-
-See [CONTRIBUTING.md](CONTRIBUTING.md) for field-by-field documentation.
+| Icon | Topic | ID |
+|---|---|---|
+| ⚙️ | Algorithms | `algorithms` |
+| 💻 | Programming | `programming` |
+| 🧠 | Computational Thinking | `computational_thinking` |
+| 🔢 | Data Representation | `data_representation` |
+| 🖥️ | Hardware & Computer Systems | `hardware` |
+| 📦 | Software | `software` |
+| 🌐 | Networking | `networking` |
+| 🗄️ | Data & Databases | `data` |
+| 🔒 | Security & Cybersecurity | `security` |
+| ⊻ | Boolean Logic | `logic` |
+| 🛠️ | Software Development | `software_development` |
+| 🌳 | Data Structures | `data_structures` |
+| 📐 | Theory of Computation | `theory` |
+| ⚖️ | Ethical & Legal Issues | `ethics` |
+| 🤖 | Artificial Intelligence | `ai` |
+| 🦾 | Robotics & Physical Computing | `robotics` |
 
 ## License
 
